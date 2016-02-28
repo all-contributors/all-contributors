@@ -18,12 +18,6 @@ Use this project as an example implementation of the all-contributors specificat
 2. The listing is a table with the contributor's name, avatar (optional), a link of their choosing, and a listing of the different ways they've contributed (using the defined emoji).
 3. The emoji is linked to relevant information (if reasonable).
 
-## Tips
-
-You can get the user's avatar like so:
-
-![get-avatar gif](get-avatar.gif)
-
 ## Emoji key
 
 Emoji | Represents | Links to
