@@ -34,6 +34,7 @@ Emoji | Represents | Links to
 ✅ | Tutorials | the tutorial
 📹 | Videos | the video
 📢 | Talks | the slides/recording/repo/etc.
+🎨 | Design | the logo/iconography/visual design/etc.
 
 ## Contributors
 
@@ -43,6 +44,7 @@ Contributor | Contributions
 :---: | :---:
 [![Kent C. Dodds](https://avatars1.githubusercontent.com/u/1500684?s=130)<br />Kent C. Dodds](http://kentcdodds.com) | [📖](https://github.com/kentcdodds/all-contributors/commits?author=kentcdodds)
 [![Divjot Singh](https://avatars1.githubusercontent.com/u/6177621?s=130)<br />Divjot Singh](http://bogas04.github.io) | [📖](https://github.com/kentcdodds/all-contributors/commits?author=bogas04)
+[![Ben Briggs](https://avatars1.githubusercontent.com/u/1282980?v=3&s=130)<br />Ben Briggs](http://beneb.info) | [📖](https://github.com/kentcdodds/all-contributors/commits?author=ben-eb)
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification.
 Contributions of any kind welcome!
