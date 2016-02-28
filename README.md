@@ -35,6 +35,7 @@ Emoji | Represents | Links to
 📹 | Videos | the video
 📢 | Talks | the slides/recording/repo/etc.
 🎨 | Design | the logo/iconography/visual design/etc.
+👀 | Reviewed Pull Requests
 
 ## Contributors
 
