@@ -25,7 +25,7 @@ Emoji | Represents | Links to
 💻 | Code | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`
 🔌 | Plugin/utility libraries | the repo home
 🔧 | Tools | the repo home
-📖 | Documentation
+📖 | Documentation | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`, Wiki, or other source of documentation
 ❓ | Answering Questions (in Issues, Stack Overflow, Gitter, Slack, etc.)
 ⚠️ | Tests | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`
 🐛 | Bug reports | `https://github.com/${ownerName}/${repoName}/issues?q=author%3A${username}`
