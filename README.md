@@ -27,11 +27,11 @@ Emoji | Represents | Links to
 🔧 | Tools | the repo home
 📖 | Documentation
 ❓ | Answering Questions (in Issues, Stack Overflow, Gitter, Slack, etc.)
-⚠️ | Tests | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`
+✅ | Tests | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`
 🐛 | Bug reports | `https://github.com/${ownerName}/${repoName}/issues?q=author%3A${username}`
 💡 | Examples | the examples
 📝 | Blogposts | the blogpost
-✅ | Tutorials | the tutorial
+:notebook: | Tutorials | the tutorial
 📹 | Videos | the video
 📢 | Talks | the slides/recording/repo/etc.
 🎨 | Design | the logo/iconography/visual design/etc.
