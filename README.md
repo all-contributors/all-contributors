@@ -12,6 +12,8 @@ time sink sometimes and so they should be praised for all their contributions (c
 
 Use this project as an example implementation of the all-contributors specification (see the [Contributors](#contributors) section below).
 
+If you find maintaining the list of contributors tedious, try using the [CLI tool](https://www.npmjs.com/package/all-contributors-cli) to lighten your load.
+
 ## Specification
 
 1. A section in a prominent place for the project (the `README.md` file for most projects) for a listing of contributors.
@@ -47,6 +49,7 @@ Contributor | Contributions
 [![Divjot Singh](https://avatars1.githubusercontent.com/u/6177621?s=130)<br />Divjot Singh](http://bogas04.github.io) | [📖](https://github.com/kentcdodds/all-contributors/commits?author=bogas04)
 [![Ben Briggs](https://avatars1.githubusercontent.com/u/1282980?v=3&s=130)<br />Ben Briggs](http://beneb.info) | [📖](https://github.com/kentcdodds/all-contributors/commits?author=ben-eb)
 [![James Monger](https://avatars1.githubusercontent.com/u/2037007?v=3&s=130)<br />James Monger](http://github.com/Jameskmonger) | [📖](https://github.com/kentcdodds/all-contributors/commits?author=Jameskmonger)
+[![Jeroen Engels](https://avatars.githubusercontent.com/u/3869412?v=3&s=130)<br />Jeroen Engels](https://github.com/jfmengels) | [📖](https://github.com/kentcdodds/all-contributors/commits?author=jfmengels) 🔧
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification.
 Contributions of any kind welcome!
@@ -54,5 +57,3 @@ Contributions of any kind welcome!
 ## LICENSE
 
 MIT
-
-
