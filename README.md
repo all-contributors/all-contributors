@@ -1,4 +1,4 @@
-# All Contributors
+# All Contributors v1.0.0-beta.0
 
 This is a specification for recognizing contributors to an open source project in a way that rewards any and every contribution
 whether or not it be code.
@@ -26,13 +26,16 @@ Open source projects should include the following mandatory items in order to su
 	- Name
 	- URL link to a site where more information can be learned about the contributor.  This URL may be determined by the contributor at the project's discretion.
 	- Indication of the Contribution Category in text or icon image format using the defined Contribution Categories and/or Contribution Categories emoji images (see below).
-	- A link to the Contribution Categories key in this repository when emoji images are used as indicators of Contribution Categories.
+	- A link to the Contribution Category in text or emoji format using the defined Contribution Categories and/or [Contribution Categories emoji](#emoji-key).
+    - The list of contributors can be spread across multiple lines (each technically being its own table) as needed.
+    - The order of contributors is immaterial to the spec. Order them how you wish.
 3. Projects should define contributors as those who contribute to a project in any of the Contribution Categories at any level of contribution.  This specification is, by definition, inclusive of all contributions.  In cases where projects deviate from the Contribution Categories or require a specific contribution level in order to meet criteria as a project contributor, the project should provide explicit documentation of the definitions that satisfy the project contributor criteria in the CONTRIBUTING document or a similar prominent public document at the top level of the project repository.  This specification recommends against exclusion of an individual from the Contributor list based upon perceived level of contribution.  Instead, projects should use indicators of effort within a list that remains inclusive of all contributors to the project at any level of effort.  If used, these effort indicators are at the discretion of the project and are not currently specified.
 
 ### Optional
 Projects should consider the following optional items as part of their commitment to the All Contributors specification:
 
-1. An optional link from the Contribution Category indicator to the category-specific contribution(s) can be included to provide additional information about the project contribution(s) as detailed in the key below
+1. The user's avatar can be included and is recommended.
+3. An optional link from the Contribution Category indicator to the category-specific contribution(s) can be included to provide additional information about the project contribution(s) as detailed in the section below.
 
 ## Emoji key
 
@@ -57,14 +60,8 @@ Emoji | Represents | Links to
 
 Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
-Contributor | Contributions
-:---: | :---:
-[![Kent C. Dodds](https://avatars1.githubusercontent.com/u/1500684?s=130)<br />Kent C. Dodds](http://kentcdodds.com) | [📖](https://github.com/kentcdodds/all-contributors/commits?author=kentcdodds) 👀 ❓
-[![Divjot Singh](https://avatars1.githubusercontent.com/u/6177621?s=130)<br />Divjot Singh](http://bogas04.github.io) | [📖](https://github.com/kentcdodds/all-contributors/commits?author=bogas04)
-[![Ben Briggs](https://avatars1.githubusercontent.com/u/1282980?v=3&s=130)<br />Ben Briggs](http://beneb.info) | [📖](https://github.com/kentcdodds/all-contributors/commits?author=ben-eb)
-[![James Monger](https://avatars1.githubusercontent.com/u/2037007?v=3&s=130)<br />James Monger](http://github.com/Jameskmonger) | [📖](https://github.com/kentcdodds/all-contributors/commits?author=Jameskmonger)
-[![Jeroen Engels](https://avatars.githubusercontent.com/u/3869412?v=3&s=130)<br />Jeroen Engels](https://github.com/jfmengels) | [📖](https://github.com/kentcdodds/all-contributors/commits?author=jfmengels) 🔧
-[![Chris Simpkins](https://avatars0.githubusercontent.com/u/4249591?v=3&s=130)<br />Chris Simpkins](http://github.com/chrissimpkins) | [📖](https://github.com/kentcdodds/all-contributors/commits?author=chrissimpkins)
+| [![Kent C. Dodds](https://avatars1.githubusercontent.com/u/1500684?s=100)<br /><sub>Kent C. Dodds</sub>](http://kentcdodds.com)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=kentcdodds) 👀 ❓ | [![Divjot Singh](https://avatars1.githubusercontent.com/u/6177621?s=100)<br /><sub>Divjot Singh</sub>](http://bogas04.github.io)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=bogas04) 👀 | [![Ben Briggs](https://avatars1.githubusercontent.com/u/1282980?v=3&s=100)<br /><sub>Ben Briggs</sub>](http://beneb.info)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=ben-eb) 👀 | [![James Monger](https://avatars1.githubusercontent.com/u/2037007?v=3&s=100)<br /><sub>James Monger</sub>](http://github.com/Jameskmonger)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=Jameskmonger) | [![Jeroen Engels](https://avatars.githubusercontent.com/u/3869412?v=3&s=100)<br /><sub>Jeroen Engels</sub>](https://github.com/jfmengels)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=jfmengels) [🔧](https://www.npmjs.com/package/all-contributors-cli) 👀 | [![Chris Simpkins](https://avatars0.githubusercontent.com/u/4249591?v=3&s=100)<br /><sub>Chris Simpkins</sub>](http://github.com/chrissimpkins)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=chrissimpkins) 👀 | 
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification.
 Contributions of any kind welcome!
