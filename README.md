@@ -34,7 +34,7 @@ Projects should consider the following optional items as part of their commitmen
 
 1. An optional link from the Contribution Category indicator to the category-specific contribution(s) can be included to provide additional information about the project contribution(s) as detailed in the key below
 
-## Key to the Contribution Categories
+## Emoji key
 
 Emoji | Represents | Links to
 :---: | --- | ---
