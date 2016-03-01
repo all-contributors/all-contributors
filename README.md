@@ -56,6 +56,11 @@ Emoji | Represents | Links to
 🎨 | Design | the logo/iconography/visual design/etc.
 👀 | Reviewed Pull Requests
 
+
+## Contributor List Templates
+
+Markdown formatted contributor list templates are available in [`examples/markdown.md`](examples/markdown.md).
+
 ## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
