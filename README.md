@@ -1,6 +1,6 @@
 # All Contributors v1.0.0-beta.0
 
-This is a specification for recognizing contributors to an open source project in a way that rewards any and every contribution, not just code.
+This is a specification for recognizing contributors to an open source project in a way that rewards each and every contribution, not just code.
 
 The basic idea is this:
 
