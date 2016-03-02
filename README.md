@@ -1,5 +1,7 @@
 # ✨ All Contributors v1.0.0-beta.0 ✨
 
+[![Join the chat at https://gitter.im/kentcdodds/all-contributors](https://badges.gitter.im/kentcdodds/all-contributors.svg)](https://gitter.im/kentcdodds/all-contributors?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is a specification for recognizing contributors to an open source project in a way that rewards each and every contribution, not just code.
 
 The basic idea is this:
