@@ -1,4 +1,4 @@
-# All Contributors v1.0.0-beta.0
+# ✨ All Contributors v1.0.0-beta.0 ✨
 
 This is a specification for recognizing contributors to an open source project in a way that rewards any and every contribution
 whether or not it be code.
