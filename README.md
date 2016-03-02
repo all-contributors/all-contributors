@@ -1,4 +1,4 @@
-# ✨ All Contributors v1.0.0-beta.0 ✨
+# :sparkles: All Contributors v1.0.0-beta.0 :sparkles:
 
 This is a specification for recognizing contributors to an open source project in a way that rewards any and every contribution
 whether or not it be code.
