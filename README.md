@@ -1,6 +1,9 @@
 # ✨ All Contributors v1.0.0-beta.0 ✨
 
-[![Join the chat at https://gitter.im/kentcdodds/all-contributors](https://img.shields.io/badge/chat-on%20gitter-46BC99.svg?style=flat-square)](https://gitter.im/kentcdodds/all-contributors?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors)
+[![Join the chat at https://gitter.im/kentcdodds/all-contributors](https://img.shields.io/badge/chat-on%20gitter-46BC99.svg?style=flat-square)](https://gitter.im/kentcdodds/all-contributors?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This is a specification for recognizing contributors to an open source project in a way that rewards each and every contribution, not just code.
 
@@ -62,11 +65,11 @@ Emoji | Represents | Links to
 
 Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
-| [![Kent C. Dodds](https://avatars1.githubusercontent.com/u/1500684?s=100)<br /><sub>Kent C. Dodds</sub>](http://kentcdodds.com)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=kentcdodds) 👀 ❓ | [![Divjot Singh](https://avatars1.githubusercontent.com/u/6177621?s=100)<br /><sub>Divjot Singh</sub>](http://bogas04.github.io)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=bogas04) 👀 | [![Ben Briggs](https://avatars1.githubusercontent.com/u/1282980?v=3&s=100)<br /><sub>Ben Briggs</sub>](http://beneb.info)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=ben-eb) 👀 | [![James Monger](https://avatars1.githubusercontent.com/u/2037007?v=3&s=100)<br /><sub>James Monger</sub>](http://github.com/Jameskmonger)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=Jameskmonger) | [![Jeroen Engels](https://avatars.githubusercontent.com/u/3869412?v=3&s=100)<br /><sub>Jeroen Engels</sub>](https://github.com/jfmengels)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=jfmengels) [🔧](https://www.npmjs.com/package/all-contributors-cli) 👀 | [![Chris Simpkins](https://avatars0.githubusercontent.com/u/4249591?v=3&s=100)<br /><sub>Chris Simpkins</sub>](http://github.com/chrissimpkins)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=chrissimpkins) 👀 | [![Frederic Hemberger](https://avatars0.githubusercontent.com/u/153481?v=3&s=100)<br /><sub>F. Hemberger</sub>](http://github.com/fhemberger)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=fhemberger) | 
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-
-| [![Daniel Kraft](https://avatars1.githubusercontent.com/u/3982200?v=3&s=100)<br /><sub>Daniel Kraft</sub>](http://github.com/frigginglorious)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=frigginglorious) | 
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+| [![Kent C. Dodds](https://avatars.githubusercontent.com/u/1500684?v=3&s=100)<br /><sub>Kent C. Dodds</sub>](http://kentcdodds.com)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=kentcdodds) 👀 ❓ | [![Divjot Singh](https://avatars.githubusercontent.com/u/6177621?v=3&s=100)<br /><sub>Divjot Singh</sub>](http://bogas04.github.io)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=bogas04) 👀 | [![Ben Briggs](https://avatars.githubusercontent.com/u/1282980?v=3&s=100)<br /><sub>Ben Briggs</sub>](http://beneb.info)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=ben-eb) 👀 | [![James Monger](https://avatars.githubusercontent.com/u/2037007?v=3&s=100)<br /><sub>James Monger</sub>](http://github.com/Jameskmonger)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=Jameskmonger) 👀 | [![Jeroen Engels](https://avatars.githubusercontent.com/u/3869412?v=3&s=100)<br /><sub>Jeroen Engels</sub>](https://github.com/jfmengels)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=jfmengels) 🔧 👀 | [![Chris Simpkins](https://avatars.githubusercontent.com/u/4249591?v=3&s=100)<br /><sub>Chris Simpkins</sub>](https://github.com/chrissimpkins)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=chrissimpkins) 👀 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| [![Frederic Hemberger](https://avatars.githubusercontent.com/u/153481?v=3&s=100)<br /><sub>Frederic Hemberger</sub>](http://github.com/fhemberger)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=fhemberger) | [![Daniel Kraft](https://avatars.githubusercontent.com/u/3982200?v=3&s=100)<br /><sub>Daniel Kraft</sub>](http://github.com/frigginglorious)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=frigginglorious) |
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification.
 Contributions of any kind welcome!

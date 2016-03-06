@@ -1,5 +1,88 @@
 {
-  "imageSize": 100,
-  "projectOwner": "kentcdodds",
-  "projectName": "all-contributors"
+  "imageSize": 100
+, "projectOwner": "kentcdodds"
+, "projectName": "all-contributors"
+, "contributorsPerLine": 6
+, "contributors": [
+    {
+      "login": "kentcdodds"
+    , "name": "Kent C. Dodds"
+    , "avatar_url": "https://avatars.githubusercontent.com/u/1500684?v=3"
+    , "profile": "http://kentcdodds.com"
+    , "contributions": [
+        "doc"
+      , "review"
+      , "question"
+      ]
+    }
+  , {
+      "login": "bogas04"
+    , "name": "Divjot Singh"
+    , "avatar_url": "https://avatars.githubusercontent.com/u/6177621?v=3"
+    , "profile": "http://bogas04.github.io"
+    , "contributions": [
+        "doc"
+      , "review"
+      ]
+    }
+  , {
+      "login": "ben-eb"
+    , "name": "Ben Briggs"
+    , "avatar_url": "https://avatars.githubusercontent.com/u/1282980?v=3"
+    , "profile": "http://beneb.info"
+    , "contributions": [
+        "doc"
+      , "review"
+      ]
+    }
+  , {
+      "login": "Jameskmonger"
+    , "name": "James Monger"
+    , "avatar_url": "https://avatars.githubusercontent.com/u/2037007?v=3"
+    , "profile": "http://github.com/Jameskmonger"
+    , "contributions": [
+        "doc"
+      , "review"
+      ]
+    }
+  , {
+      "login": "jfmengels"
+    , "name": "Jeroen Engels"
+    , "avatar_url": "https://avatars.githubusercontent.com/u/3869412?v=3"
+    , "profile": "https://github.com/jfmengels"
+    , "contributions": [
+        "doc"
+      , "tool"
+      , "review"
+      ]
+    }
+  , {
+      "login": "chrissimpkins"
+    , "name": "Chris Simpkins"
+    , "avatar_url": "https://avatars.githubusercontent.com/u/4249591?v=3"
+    , "profile": "https://github.com/chrissimpkins"
+    , "contributions": [
+        "doc"
+      , "review"
+      ]
+    }
+  , {
+      "login": "fhemberger"
+    , "name": "Frederic Hemberger"
+    , "avatar_url": "https://avatars.githubusercontent.com/u/153481?v=3"
+    , "profile": "http://github.com/fhemberger"
+    , "contributions": [
+        "doc"
+      ]
+    }
+  , {
+      "login": "frigginglorious"
+    , "name": "Daniel Kraft"
+    , "avatar_url": "https://avatars.githubusercontent.com/u/3982200?v=3"
+    , "profile": "http://github.com/frigginglorious"
+    , "contributions": [
+        "doc"
+      ]
+    }
+  ]
 }
