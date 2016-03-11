@@ -40,6 +40,8 @@ Projects should consider the following optional items as part of their commitmen
 
 ## Emoji key
 
+_The alternative [Animal Version can be found here](./Spec-Animals.md)._
+
 Emoji | Represents | Links to
 :---: | --- | ---
 💻 | Code | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`
