@@ -45,6 +45,7 @@ Emoji | Represents | Links to
 💻 | Code | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`
 🔌 | Plugin/utility libraries | the repo home
 🔧 | Tools | the repo home
+🚇 | Infrastructure (Hosting, Build-Tools, etc) | link to source file (like `travis.yml`) in repo, if applicable
 📖 | Documentation | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`, Wiki, or other source of documentation
 🌍 | Translation | the translated content
 ❓ | Answering Questions (in Issues, Stack Overflow, Gitter, Slack, etc.)
