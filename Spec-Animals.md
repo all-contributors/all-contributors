@@ -1,6 +1,6 @@
 # ✨ All Contributors Ainmals v1.0.0-beta.0 ✨
 
-The general specification as defined in the [README](./README.md) applies, but in this alternative version, we replaced all emoji icons with cue animals.
+The general specification as defined in the [README](./README.md) applies, but in this alternative version, we replaced all emoji icons with cute animals.
 
 ## Emoji key
 
@@ -16,7 +16,7 @@ Animal | Name | Represents | Links to
 🐬 | Helpful Dolphin | Answering Questions and helping people (in Issues, Stack Overflow, Gitter, Slack, etc.) | link to external profile if applicable
 🦄 | Community Unicorn | Community work like organising events, meetups and team communication | link to events or profiles to contact, if applicable
 🐼 | Outspoken Panda | External Communication: blog posts, videos, talks, any form of project reach out | link to material, if applicable
-🐝 | Bussy Bee | Reviewing PRs, organising tickets, project coordination and communication
+🐝 | Busy Bee | Reviewing PRs, organising tickets, project coordination and communication
 
 
 ---
