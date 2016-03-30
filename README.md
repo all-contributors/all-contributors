@@ -15,6 +15,8 @@ Use this project as an example implementation of the all-contributors specificat
 
 If you find maintaining the list of contributors tedious, try using the [CLI tool](https://www.npmjs.com/package/all-contributors-cli) to lighten your load.
 
+If you use Atom, try out [allcontributors](https://atom.io/packages/allcontributors), an atom package for the all-contributors-spec implementation.
+
 ## Specification
 
 ### Mandatory
@@ -62,6 +64,24 @@ Emoji | Represents | Links to | Comment
 ## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
+
+<!-- Contributors START
+Kent_C._Dodds kentcdodds http://kentcdodds.com doc prReview answers
+Divjot_Singh bogas04 http://bogas04.github.io doc prReview
+Ben_Briggs ben-eb http://beneb.info doc prReview
+James_Monger Jameskmonger http://github.com/Jameskmonger doc
+Jeroen_Engels jfmengels https://github.com/jfmengels doc tools prReview
+Chris_Simpkins chrissimpkins http://github.com/chrissimpkins doc prReview
+Frederic_Hemberger fhemberger http://github.com/fhemberger doc
+Daniel_Kraft frigginglorious http://github.com/frigginglorious doc
+Contributors END -->
+<!-- Contributors table START -->
+| [![Kent C. Dodds](https://avatars.githubusercontent.com/kentcdodds?s=100)<br /><sub>Kent C. Dodds</sub>](http://kentcdodds.com)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=kentcdodds) 👀 💁 | [![Divjot Singh](https://avatars.githubusercontent.com/bogas04?s=100)<br /><sub>Divjot Singh</sub>](http://bogas04.github.io)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=bogas04) 👀 | [![Ben Briggs](https://avatars.githubusercontent.com/ben-eb?s=100)<br /><sub>Ben Briggs</sub>](http://beneb.info)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=ben-eb) 👀 | [![James Monger](https://avatars.githubusercontent.com/Jameskmonger?s=100)<br /><sub>James Monger</sub>](http://github.com/Jameskmonger)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=Jameskmonger) | [![Jeroen Engels](https://avatars.githubusercontent.com/jfmengels?s=100)<br /><sub>Jeroen Engels</sub>](https://github.com/jfmengels)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=jfmengels) 🔧 👀 | [![Chris Simpkins](https://avatars.githubusercontent.com/chrissimpkins?s=100)<br /><sub>Chris Simpkins</sub>](http://github.com/chrissimpkins)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=chrissimpkins) 👀 | [![Frederic Hemberger](https://avatars.githubusercontent.com/fhemberger?s=100)<br /><sub>Frederic Hemberger</sub>](http://github.com/fhemberger)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=fhemberger) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+| [![Daniel Kraft](https://avatars.githubusercontent.com/frigginglorious?s=100)<br /><sub>Daniel Kraft</sub>](http://github.com/frigginglorious)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=frigginglorious) |
+| :---: |
+<!-- Contributors table END -->
 
 | [![Kent C. Dodds](https://avatars1.githubusercontent.com/u/1500684?s=100)<br /><sub>Kent C. Dodds</sub>](http://kentcdodds.com)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=kentcdodds) 👀 💁 | [![Divjot Singh](https://avatars1.githubusercontent.com/u/6177621?s=100)<br /><sub>Divjot Singh</sub>](http://bogas04.github.io)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=bogas04) 👀 | [![Ben Briggs](https://avatars1.githubusercontent.com/u/1282980?v=3&s=100)<br /><sub>Ben Briggs</sub>](http://beneb.info)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=ben-eb) 👀 | [![James Monger](https://avatars1.githubusercontent.com/u/2037007?v=3&s=100)<br /><sub>James Monger</sub>](http://github.com/Jameskmonger)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=Jameskmonger) | [![Jeroen Engels](https://avatars.githubusercontent.com/u/3869412?v=3&s=100)<br /><sub>Jeroen Engels</sub>](https://github.com/jfmengels)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=jfmengels) [🔧](https://www.npmjs.com/package/all-contributors-cli) 👀 | [![Chris Simpkins](https://avatars0.githubusercontent.com/u/4249591?v=3&s=100)<br /><sub>Chris Simpkins</sub>](http://github.com/chrissimpkins)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=chrissimpkins) 👀 | [![Frederic Hemberger](https://avatars0.githubusercontent.com/u/153481?v=3&s=100)<br /><sub>F. Hemberger</sub>](http://github.com/fhemberger)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=fhemberger) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
