@@ -60,6 +60,9 @@ Emoji | Represents | Links to | Comment
 📢 | Talks | the slides/recording/repo/etc.
 🎨 | Design | the logo/iconography/visual design/etc.
 👀 | Reviewed Pull Requests
+💵 | Financial Support | relevant page | | people or orgs who provide financial support
+🔍 | Funding/Grant Finders | | people who help find financial support
+📋 | Event Organizers | event page
 
 ## Contributors
 
