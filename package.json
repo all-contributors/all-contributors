@@ -1,0 +1,19 @@
+{
+  "name": "all-contributors",
+  "version": "0.0.0-semantically-released",
+  "main": "index.js",
+  "repository": "git@github.com:kentcdodds/all-contributors.git",
+  "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "all-contributors-cli": "^3.0.7"
+  },
+  "scripts": {
+    "add-contributor": "all-contributors add",
+    "generate-contributors": "all-contributors generate",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+  },
+  "devDependencies": {
+    "semantic-release": "^6.3.2"
+  }
+}
