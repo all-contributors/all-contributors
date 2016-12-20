@@ -96,6 +96,15 @@
         "doc",
         "tool"
       ]
+    },
+    {
+      "login": "marcobiedermann",
+      "name": "Marco Biedermann",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5244986?v=3",
+      "profile": "https://www.marcobiedermann.com",
+      "contributions": [
+        "design"
+      ]
     }
   ]
 }
