@@ -9,6 +9,7 @@
     "all-contributors-cli": "^3.0.7"
   },
   "scripts": {
+    "test": "echo \"no tests exist yet... Any ideas?\"",
     "add-contributor": "all-contributors add",
     "generate-contributors": "all-contributors generate",
     "semantic-release": "semantic-release pre && npm publish && semantic-release post"
