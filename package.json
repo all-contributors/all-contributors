@@ -1,6 +1,8 @@
 {
   "name": "all-contributors",
+  "description": "✨ Recognize all contributors, not just the ones who push code ✨",
   "version": "0.0.0-semantically-released",
+  "bin": "index.js",
   "main": "index.js",
   "repository": "git@github.com:kentcdodds/all-contributors.git",
   "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
@@ -10,6 +12,7 @@
   },
   "scripts": {
     "test": "echo \"no tests exist yet... Any ideas?\"",
+    "postinstall": "node index.js",
     "add-contributor": "all-contributors add",
     "generate-contributors": "all-contributors generate",
     "semantic-release": "semantic-release pre && npm publish && semantic-release post"
