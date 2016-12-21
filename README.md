@@ -7,6 +7,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors)
 [![PRs Welcome][prs-badge]][prs]
+[![Implementations][implementations-badge]][implementations]
 [![Donate][donate-badge]][donate]
 [![Code of Conduct][coc-badge]][coc]
 
@@ -101,13 +102,15 @@ MIT
 [version-badge]: https://img.shields.io/npm/v/all-contributors.svg?style=flat-square
 [package]: https://www.npmjs.com/package/all-contributors
 [license-badge]: https://img.shields.io/npm/l/all-contributors.svg?style=flat-square
-[license]: https://github.com/kentcdodds/all-contributors/blob/master/other/LICENSE
+[license]: https://github.com/kentcdodds/all-contributors/blob/master/LICENSE
 [prs-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
 [prs]: http://makeapullrequest.com
 [donate-badge]: https://img.shields.io/badge/$-support-green.svg?style=flat-square
 [donate]: http://kcd.im/donate
 [coc-badge]: https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square
 [coc]: https://github.com/kentcdodds/all-contributors/blob/master/other/CODE_OF_CONDUCT.md
+[implementations-badge]: https://img.shields.io/badge/%F0%9F%92%A1-implementations-8C8E93.svg?style=flat-square
+[implementations]: https://github.com/kentcdodds/all-contributors/blob/master/other/IMPLEMENTATIONS.md
 [github-watch-badge]: https://img.shields.io/github/watchers/kentcdodds/all-contributors.svg?style=social
 [github-watch]: https://github.com/kentcdodds/all-contributors/watchers
 [github-star-badge]: https://img.shields.io/github/stars/kentcdodds/all-contributors.svg?style=social
