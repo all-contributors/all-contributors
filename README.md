@@ -90,7 +90,7 @@ Thanks goes to these wonderful people ([emoji key][emojis]):
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors][all-contributors] specification.
-Contributions of any kind welcome!
+Contributions of any kind are welcome!
 
 ## LICENSE
 
