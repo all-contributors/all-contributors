@@ -65,7 +65,7 @@ Emoji | Represents | Links to | Comment
 🚇 | Infrastructure (Hosting, Build-Tools, etc) | link to source file (like `travis.yml`) in repo, if applicable
 📖 | Documentation | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`, Wiki, or other source of documentation
 🌍 | Translation | the translated content
-💁 | Answering Questions (in Issues, Stack Overflow, Gitter, Slack, etc.) | | previously: ❓
+💬 | Answering Questions (in Issues, Stack Overflow, Gitter, Slack, etc.)
 ⚠️ | Tests | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`
 🐛 | Bug reports | `https://github.com/${ownerName}/${repoName}/issues?q=author%3A${username}`
 💡 | Examples | the examples
