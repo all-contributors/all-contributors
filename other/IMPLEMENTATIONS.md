@@ -16,6 +16,7 @@ list, please [make a pull request](https://github.com/kentcdodds/all-contributor
 - [kentcdodds/rtl-css-js](https://github.com/kentcdodds/rtl-css-js)
 - [ta2edchimp/opt-cli](https://github.com/ta2edchimp/opt-cli)
 - [diegohaz/arc](https://github.com/diegohaz/arc)
+- [jccguimaraes/atom-project-viewer](https://github.com/jccguimaraes/atom-project-viewer)
 
 **Note**: There are likely many projects not listed here. You'll probably be able to find more with this
 [github search](https://github.com/search?utf8=%E2%9C%93&q=.all-contributorsrc+in%3Apath&type=Code&ref=searchresults)
