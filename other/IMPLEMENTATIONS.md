@@ -18,6 +18,7 @@ list, please [make a pull request](https://github.com/kentcdodds/all-contributor
 - [diegohaz/arc](https://github.com/diegohaz/arc)
 - [jccguimaraes/atom-project-viewer](https://github.com/jccguimaraes/atom-project-viewer)
 - [tutorship/tutorship](https://github.com/tutorship/tutorship)
+- [Angular Medellin Meetup](https://github.com/angular-medellin/meetup)
 
 **Note**: There are likely many projects not listed here. You'll probably be able to find more with this
 [github search](https://github.com/search?utf8=%E2%9C%93&q=.all-contributorsrc+in%3Apath&type=Code&ref=searchresults)
