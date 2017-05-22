@@ -79,6 +79,11 @@ Emoji | Represents | Links to | Comment
 🔍 | Funding/Grant Finders | | people who help find financial support
 📋 | Event Organizers | event page
 
+
+## Contributor List Templates
+
+Markdown formatted contributor list templates are available in [`examples/markdown.md`](examples/markdown.md).
+
 ## Contributors
 
 Thanks goes to these wonderful people ([emoji key][emojis]):
