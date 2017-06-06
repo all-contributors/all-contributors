@@ -59,25 +59,25 @@ Projects should consider the following optional items as part of their commitmen
 
 Emoji | Represents | Links to | Comment
 :---: | --- | --- | ---
-💻 | Code | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`
-🔌 | Plugin/utility libraries | the repo home
-🔧 | Tools | the repo home
-🚇 | Infrastructure (Hosting, Build-Tools, etc) | link to source file (like `travis.yml`) in repo, if applicable
-📖 | Documentation | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`, Wiki, or other source of documentation
-🌍 | Translation | the translated content
 💬 | Answering Questions (in Issues, Stack Overflow, Gitter, Slack, etc.)
-⚠️ | Tests | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`
 🐛 | Bug reports | `https://github.com/${ownerName}/${repoName}/issues?q=author%3A${username}`
-💡 | Examples | the examples
 📝 | Blogposts | the blogpost
-✅ | Tutorials | the tutorial
-📹 | Videos | the video
-📢 | Talks | the slides/recording/repo/etc.
+💻 | Code | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`
+📖 | Documentation | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`, Wiki, or other source of documentation
 🎨 | Design | the logo/iconography/visual design/etc.
-👀 | Reviewed Pull Requests
+💡 | Examples | the examples
+📋 | Event Organizers | event page
 💵 | Financial Support | relevant page | people or orgs who provide financial support
 🔍 | Funding/Grant Finders | | people who help find financial support
-📋 | Event Organizers | event page
+🚇 | Infrastructure (Hosting, Build-Tools, etc) | link to source file (like `travis.yml`) in repo, if applicable
+🔌 | Plugin/utility libraries | the repo home
+👀 | Reviewed Pull Requests
+🔧 | Tools | the repo home
+🌍 | Translation | the translated content
+⚠️ | Tests | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`
+✅ | Tutorials | the tutorial
+📢 | Talks | the slides/recording/repo/etc.
+📹 | Videos | the video
 
 ## Contributors
 
