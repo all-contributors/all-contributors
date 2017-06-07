@@ -114,6 +114,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "patcon",
+      "name": "Patrick Connolly",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/305339?v=3",
+      "profile": "http://nodescription.net",
+      "contributions": [
+        "doc"
+      ]
     }
   ]
 }
