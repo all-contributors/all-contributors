@@ -69,6 +69,7 @@ Emoji | Represents | Links to | Comment
 📋 | Event Organizers | event page
 💵 | Financial Support | relevant page | people or orgs who provide financial support
 🔍 | Funding/Grant Finders | | people who help find financial support
+🤔 | Ideas & Planning |
 🚇 | Infrastructure (Hosting, Build-Tools, etc) | link to source file (like `travis.yml`) in repo, if applicable
 🔌 | Plugin/utility libraries | the repo home
 👀 | Reviewed Pull Requests
