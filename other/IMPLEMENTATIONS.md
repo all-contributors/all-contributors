@@ -21,6 +21,7 @@ list, please [make a pull request](https://github.com/kentcdodds/all-contributor
 - [Angular Medellin Meetup](https://github.com/angular-medellin/meetup)
 - [React Medellin Meetup](https://github.com/react-medellin/meetup)
 - [jmeas/redux-resource](https://github.com/jmeas/redux-resource)
+- [render_async](https://github.com/renderedtext/render_async)
 
 **Note**: There are likely many projects not listed here. You'll probably be able to find more with this
 [github search](https://github.com/search?utf8=%E2%9C%93&q=.all-contributorsrc+in%3Apath&type=Code&ref=searchresults)
