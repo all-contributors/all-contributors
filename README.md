@@ -15,8 +15,6 @@
 [![Star on GitHub][github-star-badge]][github-star]
 [![Tweet][twitter-badge]][twitter]
 
-<a href="https://app.codesponsor.io/link/PKGFLnhDiFvsUA5P4kAXfiPs/kentcdodds/all-contributors" rel="nofollow"><img src="https://app.codesponsor.io/embed/PKGFLnhDiFvsUA5P4kAXfiPs/kentcdodds/all-contributors.svg" style="width: 888px; height: 68px;" alt="Sponsor" /></a>
-
 This is a specification for recognizing contributors to an open source project in a way that rewards each and every contribution, not just code.
 
 The basic idea is this:
