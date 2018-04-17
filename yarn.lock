@@ -46,9 +46,9 @@ agent-base@2:
     extend "~3.0.0"
     semver "~5.0.1"
 
-all-contributors-cli@^4.10.1:
-  version "4.10.1"
-  resolved "https://registry.yarnpkg.com/all-contributors-cli/-/all-contributors-cli-4.10.1.tgz#f446a98f83944a4b991e74dcd990ecfc6c7d6b8a"
+all-contributors-cli@^4.11.1:
+  version "4.11.1"
+  resolved "https://registry.yarnpkg.com/all-contributors-cli/-/all-contributors-cli-4.11.1.tgz#8e4d28a69bb60006b72d53758177a0c7b8a20f19"
   dependencies:
     async "^2.0.0-rc.1"
     chalk "^2.3.0"
