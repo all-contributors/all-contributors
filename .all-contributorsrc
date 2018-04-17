@@ -150,6 +150,16 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "VisionMkhabela",
+      "name": "Vision Mkhabela",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/33633740?v=4",
+      "profile": "https://github.com/VisionMkhabela",
+      "contributions": [
+        "code"
+      ]
     }
-  ]
+  ],
+  "repoType": "github"
 }
