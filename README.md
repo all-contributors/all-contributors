@@ -62,6 +62,7 @@ Emoji | Represents | Links to | Comment
 💬 | Answering Questions (in Issues, Stack Overflow, Gitter, Slack, etc.)
 🐛 | Bug reports | `https://github.com/${ownerName}/${repoName}/issues?q=author%3A${username}`
 📝 | Blogposts | the blogpost
+💼 | Business Development | | people who execute on the business end
 💻 | Code | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`
 📖 | Documentation | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`, Wiki, or other source of documentation
 🎨 | Design | the logo/iconography/visual design/etc.
