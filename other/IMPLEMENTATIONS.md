@@ -24,6 +24,7 @@ list, please [make a pull request](https://github.com/kentcdodds/all-contributor
 - [render_async](https://github.com/renderedtext/render_async)
 - [GitPoint](https://github.com/gitpoint/git-point)
 - [ioof-holdings/redux-subspace](https://github.com/ioof-holdings/redux-subspace)
+- [syt123450/giojs](https://github.com/syt123450/giojs)
 
 **Note**: There are likely many projects not listed here. You'll probably be able to find more with this
 [github search](https://github.com/search?utf8=%E2%9C%93&q=.all-contributorsrc+in%3Apath&type=Code&ref=searchresults)
