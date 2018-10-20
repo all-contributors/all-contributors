@@ -60,7 +60,7 @@ Emoji | Representa | Links para | Comentário
 :---: | --- | --- | ---
 💬 | Respondendo a perguntas (em Issues, Stack Overflow, Gitter, Slack, etc.)
 🐛 | Relatando Bug | `https://github.com/${ownerName}/${repoName}/issues?q=author%3A${username}`
-📝 | Blogposts | o link para publicação
+📝 | Publicação no Blog | o link para publicação
 💼 | Desenvolvimento de Negócios | | pessoas que executam tarefas de negócio
 💻 | Código | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`
 📖 | Documentação | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`, Wiki, ou outra fonte de documentação
@@ -68,7 +68,7 @@ Emoji | Representa | Links para | Comentário
 💡 | Exemplos | o exemplo
 📋 | Organizadção de Evento | página do evento
 💵 | Ajuda Financeira | página relevante | pessoas ou organizações que fornecem suporte financeiro
-🔍 | Financiamento/Investimento| | pessoas que ajudam a encontrar apoio financeiro
+🔍 | Financiamento/Investimento | | pessoas que ajudam a encontrar apoio financeiro
 🤔 | Ideias e Planejamento |
 🚇 | Infraestrutura (Hosting, Build-Tools, etc) | link para o arquivo de destino (como `travis.yml`) no repositório, se aplicável
 📦 | Packaging/Portando para suportar uma nova plataforma
@@ -79,7 +79,7 @@ Emoji | Representa | Links para | Comentário
 ⚠️ | Testes | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`
 ✅ | Tutoriais | o tutorial
 📢 | Talks | o slides/gravação/repositório/etc.
-📹 | Víceos | o vídeo
+📹 | Vídeos | o vídeo
 
 ## Notas para mantenedores de repositório
 Os colaboradores devem ser reconhecidos assim que a contribuição for descoberta para ajudar a garantir que seus esforços não sejam negligenciados quando a lista for atualizada em uma data posterior. Isso pode ser difícil para contribuições que não são o resultado de um commit no repositório, mas faça o possível para minimizar o tempo entre a contribuição e a atualização da lista.
