@@ -1,5 +1,14 @@
 # ✨ All Contributors ✨
 
+<table>
+    <tr>
+        <!-- Do not translate this table -->
+        <td> Read these guidelines in </td>
+        <td><a href="/README.md">English</a></td>
+        <td><a href="/docs/pt-br/README.md">Português</a></td>
+    </tr>
+</table>
+
 [![chat][chat-badge]][chat]
 [![Build Status][build-badge]][build]
 [![version][version-badge]][package]

@@ -8,7 +8,7 @@
   "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
   "license": "MIT",
   "dependencies": {
-    "all-contributors-cli": "^4.10.1"
+    "all-contributors-cli": "^5.4.1"
   },
   "scripts": {
     "test": "echo \"no tests exist yet... Any ideas?\"",
@@ -18,6 +18,6 @@
     "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "devDependencies": {
-    "semantic-release": "^6.3.2"
+    "semantic-release": "^15.10.5"
   }
 }
