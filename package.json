@@ -19,5 +19,9 @@
   },
   "devDependencies": {
     "semantic-release": "^15.10.5"
-  }
+  },
+   "engines": {
+    "node": ">=9",
+    "npm": ">=5"
+  },
 }
