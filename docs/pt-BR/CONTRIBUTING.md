@@ -1,7 +1,16 @@
+<table>
+    <tr>
+        <!-- Do not translate this table -->
+        <td> Read these guidelines in </td>
+        <td><a href="/CONTRIBUTING.md">English</a></td>
+        <td><a href="/docs/pt-br/CONTRIBUTING.md">Português</a></td>
+    </tr>
+</table>
+
 # Contribuindo
 
-Obrigado pelo seu interesse no projeto! Eu definitivamente estou interessado em feedback e idéias sobre as coisas para este
-projeto em torno de formatação, emoji usado, etc. Sinta-se livre para arquivar problemas para discutir mudanças!
+Obrigado pelo seu interesse no projeto! Eu definitivamente estou interessado em feedback e idéias sobre as coisas para este projeto em torno de formatação, emoji usado, etc. Sinta-se livre para arquivar problemas para discutir mudanças!
+
 
 **Trabalhando no seu primeiro Pull Request?** Você pode aprender como a partir desta série *livre*
 [Como contribuir para um projeto de código aberto no GitHub][egghead]
@@ -26,7 +35,7 @@ Siga o prompt. Se você já se adicionou à lista e está fazendo um novo tipo d
 
 ## Ajuda necessária
 
-Por favor, assista o repositório e responda a perguntas/relatórios de bugs/solicitações de recursos! Obrigado!
+Por favor, siga o repositório e responda a perguntas/relatórios de bugs/solicitações de recursos! Obrigado!
 
 [egghead]: https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github
 [all-contributors]: https://github.com/kentcdodds/all-contributors

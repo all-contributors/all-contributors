@@ -1,3 +1,12 @@
+<table>
+    <tr>
+        <!-- Do not translate this table -->
+        <td> Read these guidelines in </td>
+        <td><a href="/other/CODE_OF_CONDUCT.md">English</a></td>
+        <td><a href="/docs/pt-br/other/CODE_OF_CONDUCT.md">Português</a></td>
+    </tr>
+</table>
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge

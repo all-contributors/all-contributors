@@ -1,3 +1,12 @@
+<table>
+    <tr>
+        <!-- Do not translate this table -->
+        <td> Read these guidelines in </td>
+        <td><a href="/CONTRIBUTING.md">English</a></td>
+        <td><a href="/docs/pt-br/CONTRIBUTING.md">Português</a></td>
+    </tr>
+</table>
+
 # Contributing
 
 Thanks for your interest in the project! I definitely am interested in feedback and ideas on things for this

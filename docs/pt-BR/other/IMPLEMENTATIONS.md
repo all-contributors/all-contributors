@@ -2,15 +2,15 @@
     <tr>
         <!-- Do not translate this table -->
         <td> Read these guidelines in </td>
-        <td><a href="/other/CODE_OF_CONDUCT.md">English</a></td>
-        <td><a href="/docs/pt-br/other/CODE_OF_CONDUCT.md">Português</a></td>
+        <td><a href="/other/IMPLEMENTATIONS.md">English</a></td>
+        <td><a href="/docs/pt-br/other/IMPLEMENTATIONS.md">Português</a></td>
     </tr>
 </table>
 
-# Implementations
+# Implementações
 
-This is a list of projects which have implemented the `all-contributors` specification. To add your project to this
-list, please [make a pull request](https://github.com/kentcdodds/all-contributors/blob/master/CONTRIBUTING.md)!
+Esta é uma lista de projetos que implementaram a especificação `all-contributors`.
+Para adicionar seu projeto a esta lista, por favor [faça um pull request](https://github.com/kentcdodds/all-contributors/blob/master/CONTRIBUTING.md)!
 
 - [kentcdodds/all-contributors](https://github.com/kentcdodds/all-contributors)
 - [sarbbottam/eslint-find-rules](https://github.com/sarbbottam/eslint-find-rules)
@@ -35,5 +35,4 @@ list, please [make a pull request](https://github.com/kentcdodds/all-contributor
 - [ioof-holdings/redux-subspace](https://github.com/ioof-holdings/redux-subspace)
 - [syt123450/giojs](https://github.com/syt123450/giojs)
 
-**Note**: There are likely many projects not listed here. You'll probably be able to find more with this
-[github search](https://github.com/search?utf8=%E2%9C%93&q=.all-contributorsrc+in%3Apath&type=Code&ref=searchresults)
+**Nota**: Provavelmente, muitos projetos não estão listados aqui. Você provavelmente será capaz de encontrar mais com isso [github search](https://github.com/search?utf8=%E2%9C%93&q=.all-contributorsrc+in%3Apath&type=Code&ref=searchresults)

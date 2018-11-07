@@ -5,7 +5,7 @@ cache:
 notifications:
   email: false
 node_js:
-  - '6'
+  - '9'
 script:
   - yarn test
 after_success:

@@ -1,5 +1,15 @@
 # ✨ Todos os Colaboradores ✨
 
+<table>
+    <tr>
+        <!-- Do not translate this table -->
+        <td> Read these guidelines in </td>
+        <td><a href="/README.md">English</a></td>
+        <td><a href="/docs/pt-br/README.md">Português</a></td>
+    </tr>
+</table>
+
+
 [![chat][chat-badge]][chat]
 [![Build Status][build-badge]][build]
 [![version][version-badge]][package]
@@ -23,7 +33,7 @@ A ideia básica é esta:
 
 As pessoas estão doando si mesmas e seu tempo livre para contribuir com projetos de código aberto de muitas maneiras. Pode ser uma fracação do tempo, por vezes, e por isso eles devem ser elogiados por todas as suas contribuições (código ou não).
 
-Use este projeto como um exemplo de implementação da especificação de todos os contribuidores (consulte a seção [Contribuidores](#Contribuidores)Contribuintes abaixo).
+Use este projeto como um exemplo de implementação da especificação de todos os contribuidores (consulte a seção [Contribuidores](#Contribuidores) abaixo).
 
 ## Ferramentas
 
@@ -33,7 +43,8 @@ Se você usar o Atom, experimente [allcontributors](https://atom.io/packages/all
 
 ## Especificação
 
-### Mandatory
+### Obrigatório
+
 Os projetos de código aberto devem incluir os seguintes itens obrigatórios para oferecer suporte à especificação Todos os Colaboradores:
 
 1. Uma seção "Colaboradores" em um site proeminente da documentação do repositório de projetos que inclui uma lista de todos os contribuidores do projeto
@@ -66,11 +77,11 @@ Emoji | Representa | Links para | Comentário
 📖 | Documentação | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`, Wiki, ou outra fonte de documentação
 🎨 | Design | o logo/iconografia/design visual/etc.
 💡 | Exemplos | o exemplo
-📋 | Organizadção de Evento | página do evento
+📋 | Organização de Evento | página do evento
 💵 | Ajuda Financeira | página relevante | pessoas ou organizações que fornecem suporte financeiro
 🔍 | Financiamento/Investimento | | pessoas que ajudam a encontrar apoio financeiro
 🤔 | Ideias e Planejamento |
-🚇 | Infraestrutura (Hosting, Build-Tools, etc) | link para o arquivo de destino (como `travis.yml`) no repositório, se aplicável
+🚇 | Infraestrutura (Hospedagem, Build-Tools, etc) | link para o arquivo de destino (como `travis.yml`) no repositório, se aplicável
 📦 | Packaging/Portando para suportar uma nova plataforma
 🔌 | Plugin/Bibliotecas de utilitários | o repositório
 👀 | Revisão de Pull Request
@@ -92,6 +103,10 @@ No final, não há regras rígidas e rápidas para quando uma contribuição pre
 
 ## Contribuidores
 
+
+Por favor consulte em [Contribuidores](https://github.com/kentcdodds/all-contributors#contributors)
+
+## LICENÇA
 Obrigado vai para essas pessoas maravilhosas ([tabela de emoji][emojis]):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -104,8 +119,6 @@ Obrigado vai para essas pessoas maravilhosas ([tabela de emoji][emojis]):
 
 Este projeto segue a [all-contributors][all-contributors] especificação.
 Contribuições de qualquer tipo são bem vindas!
-
-## LICENSE
 
 MIT
 
