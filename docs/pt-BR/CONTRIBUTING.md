@@ -11,6 +11,7 @@
 
 Obrigado pelo seu interesse no projeto! Eu definitivamente estou interessado em feedback e idéias sobre as coisas para este projeto em torno de formatação, emoji usado, etc. Sinta-se livre para arquivar problemas para discutir mudanças!
 
+
 **Trabalhando no seu primeiro Pull Request?** Você pode aprender como a partir desta série *livre*
 [Como contribuir para um projeto de código aberto no GitHub][egghead]
 
