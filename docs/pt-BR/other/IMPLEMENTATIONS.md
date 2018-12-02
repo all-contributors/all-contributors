@@ -3,7 +3,7 @@
         <!-- Do not translate this table -->
         <td> Read these guidelines in </td>
         <td><a href="/other/IMPLEMENTATIONS.md">English</a></td>
-        <td><a href="/docs/pt-br/other/IMPLEMENTATIONS.md">Português</a></td>
+        <td><a href="/docs/pt-BR/other/IMPLEMENTATIONS.md">Português</a></td>
     </tr>
 </table>
 
