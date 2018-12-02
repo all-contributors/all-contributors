@@ -5,7 +5,7 @@
         <!-- Do not translate this table -->
         <td> Read these guidelines in </td>
         <td><a href="/README.md">English</a></td>
-        <td><a href="/docs/pt-br/README.md">Português</a></td>
+        <td><a href="/docs/pt-BR/README.md">Português</a></td>
     </tr>
 </table>
 
