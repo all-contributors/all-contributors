@@ -3,7 +3,8 @@
         <!-- Do not translate this table -->
         <td> Read these guidelines in </td>
         <td><a href="/other/CODE_OF_CONDUCT.md">English</a></td>
-        <td><a href="/docs/pt-br/other/CODE_OF_CONDUCT.md">Português</a></td>
+        <td><a href="/docs/pt-BR/other/CODE_OF_CONDUCT.md">Português</a></td>
+        <td><a href="/docs/es-ES/other/CODE_OF_CONDUCT.md">Español</a></td>
     </tr>
 </table>
 
