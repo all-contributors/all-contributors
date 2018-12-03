@@ -1,4 +1,4 @@
-# ✨ All Contributors ✨
+# ✨ Todos los Colaboradores ✨
 
 <table>
     <tr>
@@ -25,85 +25,84 @@
 [![Star on GitHub][github-star-badge]][github-star]
 [![Tweet][twitter-badge]][twitter]
 
-This is a specification for recognizing contributors to an open source project in a way that rewards each and every contribution, not just code.
+Esta es una especificación para reconocer a los colaboradores de un proyecto de código abierto, de una manera que se de una a recompensa a cada contribución, no solo de código.
 
-The basic idea is this:
+La idea básica es esta:
 
-> Use the project README (or other prominent public documentation page in the project) to recognize the contributions of members of the project community.
+> Use el proyecto README (u otra página de documentación pública destacada en el proyecto) para reconocer las contribuciones de los miembros de la comunidad del proyecto.
 
-People are giving of themselves and their free time to contribute to open source projects in so many ways. It can be a real
-time sink sometimes and so they should be praised for all their contributions (code or not).
+La gente está dando de sí mismos y de su tiempo libre para contribuir a proyectos de código abierto de muchas maneras. A veces puede esto puede consumir parte de su tiempo, por lo que deben ser elogiados por todas sus contribuciones (de código o no).
 
-Use this project as an example implementation of the all-contributors specification (see the [Contributors](#contributors) section below).
+Utilice este proyecto como ejemplo de implementación de la especificación de Todos los Colaboradores (consulte la sección [Colaboradores](#colaboradores) de más abajo).
 
-## Tools
+## Herramientas
 
-If you find maintaining the list of contributors tedious, try using the [CLI tool](https://www.npmjs.com/package/all-contributors-cli) to lighten your load.
+Si le parece tedioso mantener la lista de colaboradores, intente usar la [herramienta CLI](https://www.npmjs.com/package/all-contributors-cli) para facilitar su carga.
 
-If you use Atom, try out [allcontributors](https://atom.io/packages/allcontributors), an atom package for the all-contributors-spec implementation.
+Si usa Atom, pruebe [allcontributors](https://atom.io/packages/allcontributors), un paquete atom para la implementación de la especificación de Todos los Colaboradores.
 
-## Specification
+## Especificación
 
-### Mandatory
-Open source projects should include the following mandatory items in order to support the All Contributors specification:
+### Obligatorio
+Los proyectos de código abierto deben incluir los siguientes elementos obligatorios para admitir la especificación Todos los Colaboradores:
 
-1. A "Contributors" section in a prominent site of the project repository documentation that includes a list of all project contributors
-  - The goal should be to use the most prominent site of the project documentation when feasible.  In many cases, this is the project README file
-  - Consider use of a CONTRIBUTORS file in the top level of the repository when the number of project contributors exceeds a level at which it is feasible to use the README file to acknowledge contributions.  In this case, a prominent link to the CONTRIBUTORS file should be included on the README page under the "Contributors" heading
-2. The listings should be formatted as a table with the following information about the project contributors:
-  - Name
-  - URL link to a site where more information can be learned about the contributor.  This URL may be determined by the contributor at the project's discretion.
-  - Indication of the Contribution Category in text or icon image format using the defined Contribution Categories and/or Contribution Categories emoji images (see below).
-  - A link to the Contribution Category in text or emoji format using the defined Contribution Categories and/or [Contribution Categories emoji](#emoji-key).
-    - The list of contributors can be spread across multiple lines (each technically being its own table) as needed.
-    - The order of contributors is immaterial to the spec. Order them how you wish.
-3. Projects should define contributors as those who contribute to a project in any of the Contribution Categories at any level of contribution.  This specification is, by definition, inclusive of all contributions.  In cases where projects deviate from the Contribution Categories or require a specific contribution level in order to meet criteria as a project contributor, the project should provide explicit documentation of the definitions that satisfy the project contributor criteria in the CONTRIBUTING document or a similar prominent public document at the top level of the project repository.  This specification recommends against exclusion of an individual from the Contributor list based upon perceived level of contribution.  Instead, projects should use indicators of effort within a list that remains inclusive of all contributors to the project at any level of effort.  If used, these effort indicators are at the discretion of the project and are not currently specified.
+1. Una sección de "Colaboradores" en un sitio destacado de la documentación del repositorio del proyecto que incluye una lista de todos los colaboradores del proyecto
+   - El objetivo debe ser utilizar el sitio más destacado de la documentación del proyecto cuando sea posible. En muchos casos, este es el archivo README del proyecto.
+   - Considere el uso de un archivo CONTRIBUTING en el nivel superior del repositorio cuando el número de colaboradores del proyecto supere un nivel en el que es posible usar el archivo README para reconocer las contribuciones. En este caso, un enlace destacado al archivo CONTRIBUTING debe incluirse en la página README bajo el encabezado "Colaboradores"
+2. Los listados deben tener el formato de tabla con la siguiente información sobre los colaboradores del proyecto:
+   - Nombre
+   - Enlace de URL a un sitio donde se puede obtener más información sobre el colaborador. Esta URL puede ser determinada por el colaborador del proyecto a discreción.
+   - Indicación de la categoría de contribución en formato de imagen de texto o icono utilizando las categorías de contribución definidas y / o las imágenes de emoji de categorías de contribución (ver más abajo).
+   - Un enlace a la Categoría de contribución en formato de texto o emoji usando las Categorías de contribución definidas y / o [Emoji de Categorías de contribución](#emoji-key).
+     - La lista de colaboradores se puede distribuir en varias líneas (cada una técnicamente es su propia tabla) según sea necesario.
+     - El orden de los colaboradores es irrelevante para la especificación. Ordénalos como desees.
+3. Los proyectos deben definir a los colaboradores como aquellos que contribuyen a un proyecto en cualquiera de las categorías de contribución en cualquier nivel de contribución. Esta especificación incluye, por definición, todas las contribuciones. En los casos en que los proyectos se desvíen de las categorías de contribución o requieran un nivel de contribución específico para cumplir con los criterios como colaboradores del proyecto, el proyecto debe proporcionar documentación explícita de las definiciones que satisfacen los criterios del colaborador del proyecto en el documento CONTRIBUTING o en un documento público similar que sea destacado en el nivel superior del repositorio del proyecto. Esta especificación recomienda que no se excluya a un individuo de la lista de colaboradores en función del nivel percibido de contribución. En su lugar, los proyectos deben usar indicadores de esfuerzo dentro de una lista que incluya a todos los colaboradores al proyecto en cualquier nivel de esfuerzo. Si se utilizan, estos indicadores de esfuerzo quedan a discreción del proyecto y no se especifican actualmente.
 
-### Optional
-Projects should consider the following optional items as part of their commitment to the All Contributors specification:
+### Opcional
+Los proyectos deben considerar los siguientes elementos opcionales como parte de su compromiso con la especificación Todos los Colaboradores:
 
-1. The user's avatar can be included and is recommended.
-3. An optional link from the Contribution Category indicator to the category-specific contribution(s) can be included to provide additional information about the project contribution(s) as detailed in the section below.
+1. El avatar del usuario puede ser incluido y se recomienda.
+2. Se puede incluir un enlace opcional desde el indicador de Categoría de contribución a la(s) contribución(es) específica(s) para proporcionar información adicional sobre la(s) contribución(es) del proyecto, tal como se detalla en la siguiente sección.
 
 ## Emoji key
 
-Emoji | Represents | Links to | Comment
+Emoji | Representación | Links para | Comentario
 :---: | --- | --- | ---
-💬 | Answering Questions (in Issues, Stack Overflow, Gitter, Slack, etc.)
-🐛 | Bug reports | `https://github.com/${ownerName}/${repoName}/issues?q=author%3A${username}`
-📝 | Blogposts | the blogpost
-💼 | Business Development | | people who execute on the business end
-💻 | Code | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`
-📖 | Documentation | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`, Wiki, or other source of documentation
-🎨 | Design | the logo/iconography/visual design/etc.
-💡 | Examples | the examples
-📋 | Event Organizers | event page
-💵 | Financial Support | relevant page | people or orgs who provide financial support
-🔍 | Funding/Grant Finders | | people who help find financial support
-🤔 | Ideas & Planning |
-🚇 | Infrastructure (Hosting, Build-Tools, etc) | link to source file (like `travis.yml`) in repo, if applicable
-📦 | Packaging/porting to support a new platform
-🔌 | Plugin/utility libraries | the repo home
-👀 | Reviewed Pull Requests
-🔧 | Tools | the repo home
-🌍 | Translation | the translated content
-⚠️ | Tests | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`
-✅ | Tutorials | the tutorial
-📢 | Talks | the slides/recording/repo/etc.
-📹 | Videos | the video
+💬 | Preguntas respondidas (en Issues, Stack Overflow, Gitter, Slack, etc.)
+🐛 | Informes de errores | `https://github.com/$ {ownerName} / $ {repoName} / issues? q = author% 3A $ {username}`
+📝 | Blogposts | el blogpost
+💼 | Desarrollo de negocios | |
+💻 | Código | `https://github.com/$ {ownerName} / $ {repoName} / commit? author = $ {username}`
+📖 | Documentación | `https://github.com/$ {ownerName} / $ {repoName} / commit? author = $ {username}`, Wiki u otra fuente de documentación
+🎨 | Diseño | el logo / iconografía / diseño visual / etc.
+💡 | Ejemplos | los ejemplos
+📋 | Organizadores de eventos | página del evento
+💵 | Apoyo financiero | pagina relevante | personas u organizaciones que proporcionan apoyo financiero
+🔍 | Buscadores de fondos / subvenciones | | personas que ayudan a encontrar apoyo financiero.
+🤔 | Ideas y Planificación |
+🚇 | Infraestructura (Hosting, Build-Tools, etc.) | enlace al archivo fuente (como `travis.yml`) en el repositorio, si corresponde
+📦 | Embalaje / portabilidad para soportar una nueva plataforma.
+🔌 | Plugin / librerias de utilidades | el repositorio base
+👀 | Pull Requests revisados
+🔧 | Herramientas | el repositorio base
+🌍 | Traducción | el contenido traducido
+⚠️ | Pruebas | `https://github.com/$ {ownerName} / $ {repoName} / commit? author = $ {username}`
+✅ | Tutoriales | el tutorial
+📢 | Charlas | Las diapositivas / grabación / repo / etc.
+📹 | Videos | el video
 
-## Notes for repository maintainers
-Contributors should be recognised as soon as the contribution is discovered to help ensure their efforts are not overlooked when the list gets updated at a later date. This can be difficult for contributions that are not the result of a commit to repository but do your best to minimise the time between the contribution and updating the list.
+## Notas para quienes mantienen el repositorio.
+Los colaboradores deben ser reconocidos tan pronto como quien(es) mantiene(n) el repositorio se entere(n) de la contribución,para ayudar a garantizar que sus esfuerzos no se pasen por alto cuando la lista se actualice en una fecha posterior. Esto puede ser difícil para las contribuciones que no son el resultado de un commit en el repositorio, pero hagan todo lo posible para minimizar el tiempo entre la contribución y la actualización de la lista.
 
-Being the owner or a maintainer of the repository does not mean you are solely responsible for keeping the list of contributors up to date. You should encourage contributors to add themselves to the list as much as possible. This can be in the form of a comment on the issue, blog or answer, or through more direct forms of communication where appropriate.
+Ser propietario o quien mantiene un repositorio no significa que usted sea el único responsable de mantener actualizada la lista de colaboradores. Debe alentar a los colaboradores a que se agreguen a la lista tanto como sea posible. Esto puede ser en forma de un comentario en un issue, blog o en una respuesta, o mediante formas de comunicación más directas cuando corresponda.
 
-Many contributors may not realise that their efforts are sufficient for recognition in the contributors list. This might be because they have not read or understood the definition of a contributor as set out in this specification, or because they do not feel like it is significant enough. In these cases, you should still encourage them to add themselves, but it may be necessary for you to add the contributor yourself (though it's a good idea to do so in the form of a pull request to make sure they're ok with being added).
+Muchos colaboradores pueden no darse cuenta de que sus esfuerzos son suficientes para el reconocimiento en la lista de colaboradores. Esto podría deberse a que no han leído ni entendido la definición de colaborador según lo establecido en esta especificación, o porque no consideran que sea lo suficientemente importante. En estos casos, aún debe alentarlos a que se agreguen ellos mismos, pero puede ser necesario que usted agregue el colaborador usted mismo (aunque es una buena idea hacerlo en forma de un pull request para asegurarse de que estén de acuerdo con ser agregados).
 
-In the end, there are no hard and fast rules for when a contribution has to be added to the list, just do your best to be fair and to ensure all contributors are recognised.
+Al final, no hay reglas estrictas para cuando se debe agregar una contribución a la lista, solo haga lo posible para ser justo y asegurarse de que todos los colaboradores sean reconocidos.
 
-## Contributors
+## Colaboradores
 
-Thanks goes to these wonderful people ([emoji key][emojis]):
+Gracias a estas maravillosas personas ([emoji key][emojis]):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
@@ -113,10 +112,10 @@ Thanks goes to these wonderful people ([emoji key][emojis]):
 | [<img src="https://avatars0.githubusercontent.com/u/23029903?v=4" width="100px;"/><br /><sub><b>Michael Peyper</b></sub>](https://github.com/mpeyper)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=mpeyper "Documentation") | [<img src="https://avatars0.githubusercontent.com/u/23284276?v=4" width="100px;"/><br /><sub><b>Matheus Rocha Vieira</b></sub>](http://matheu.srv.br)<br />[🌍](#translation-MatheusRV "Translation") |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors][all-contributors] specification.
-Contributions of any kind are welcome!
+Este proyecto sigue la especificación de [all-contributors][all-contributors].
+¡Las contribuciones de cualquier tipo son bienvenidas!
 
-## LICENSE
+## LICENCIA
 
 [MIT](LICENSE)
 
