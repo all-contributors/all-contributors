@@ -6,6 +6,7 @@
         <td> Read these guidelines in </td>
         <td><a href="/README.md">English</a></td>
         <td><a href="/docs/pt-BR/README.md">Português</a></td>
+        <td><a href="/docs/es-ES/README.md">Español</a></td>
     </tr>
 </table>
 
