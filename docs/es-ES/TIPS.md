@@ -10,10 +10,10 @@
 
 # Tips
 
-You can get the user's avatar by simply appending .png to their username: 
+Puede obtener el avatar del usuario simplemente agregando .png a su nombre de usuario:
 
 [https://github.com/kentcdodds.png](https://github.com/kentcdodds.png)
 
-However to adjust the size of the avatar, you can proceed as follows:
+Sin embargo, para ajustar el tamaño del avatar, puede proceder de la siguiente manera:
 
-![get-avatar gif](get-avatar.gif)
+![conseguir el gif del avatar](get-avatar.gif)
