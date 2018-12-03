@@ -2,16 +2,16 @@
     <tr>
         <!-- Do not translate this table -->
         <td> Read these guidelines in </td>
-        <td><a href="/other/CODE_OF_CONDUCT.md">English</a></td>
-        <td><a href="/docs/pt-BR/other/CODE_OF_CONDUCT.md">Português</a></td>
-        <td><a href="/docs/es-ES/other/CODE_OF_CONDUCT.md">Español</a></td>
+        <td><a href="/other/IMPLEMENTATIONS.md">English</a></td>
+        <td><a href="/docs/pt-BR/other/IMPLEMENTATIONS.md">Português</a></td>
+        <td><a href="/docs/es-ES/other/IMPLEMENTATIONS.md">Español</a></td>
     </tr>
 </table>
 
-# Implementations
+# Implementaciones
 
-This is a list of projects which have implemented the `all-contributors` specification. To add your project to this
-list, please [make a pull request](https://github.com/kentcdodds/all-contributors/blob/master/CONTRIBUTING.md)!
+Esta es una lista de proyectos que han implementado la especificación `all-contributors`. Para agregar su proyecto a esta lista, por favor
+[haga un pull request](https://github.com/kentcdodds/all-contributors/blob/master/CONTRIBUTING.md)!
 
 - [kentcdodds/all-contributors](https://github.com/kentcdodds/all-contributors)
 - [sarbbottam/eslint-find-rules](https://github.com/sarbbottam/eslint-find-rules)
@@ -36,5 +36,5 @@ list, please [make a pull request](https://github.com/kentcdodds/all-contributor
 - [ioof-holdings/redux-subspace](https://github.com/ioof-holdings/redux-subspace)
 - [syt123450/giojs](https://github.com/syt123450/giojs)
 
-**Note**: There are likely many projects not listed here. You'll probably be able to find more with this
-[github search](https://github.com/search?utf8=%E2%9C%93&q=.all-contributorsrc+in%3Apath&type=Code&ref=searchresults)
+**Nota**: Probablemente hay muchos proyectos que no figuran en esta lista. Probablemente podrás encontrar más con esto.
+[Busqueda en GitHub](https://github.com/search?utf8=%E2%9C%93&q=.all-contributorsrc+in%3Apath&type=Code&ref=searchresults)
