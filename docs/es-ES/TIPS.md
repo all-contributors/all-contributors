@@ -16,4 +16,4 @@ Puede obtener el avatar del usuario simplemente agregando .png a su nombre de us
 
 Sin embargo, para ajustar el tamaño del avatar, puede proceder de la siguiente manera:
 
-![conseguir el gif del avatar](get-avatar.gif)
+![conseguir el gif del avatar](/get-avatar.gif)
