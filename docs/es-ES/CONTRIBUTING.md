@@ -8,38 +8,36 @@
     </tr>
 </table>
 
-# Contributing
+# Colaboraciones
 
-Thanks for your interest in the project! I definitely am interested in feedback and ideas on things for this
-project around formatting, emoji used, etc. Feel free to file issues to discuss changes!
+Gracias por su interés en el proyecto! Definitivamente estoy interesado en comentarios e ideas sobre cosas para este proyecto en torno al formato, emoji utilizado, etc.
 
-**Working on your first Pull Request?** You can learn how from this *free* series
-[How to Contribute to an Open Source Project on GitHub][egghead]
+**Trabajando en tu primer Pull Request?** Puedes aprender como de esta serie *gratuita*
+[Cómo contribuir a un proyecto de código abierto en GitHub (en inglés)][egghead]
 
-## Project setup
+## Configuración del proyecto
 
-You're going to need [`git`](https://git-scm.com/) to get the project, and [`node`](https://nodejs.org/en/) and
-[`yarn`](https://yarnpkg.com/) to install dependencies and run scripts.
+Vas a necesitar [`git`](https://git-scm.com/) para conseguir el proyecto, [`node`](https://nodejs.org/en/) y
+[`yarn`](https://yarnpkg.com/) para instalar dependencias y ejecutar scripts.
 
-1. Fork and clone the repo
-2. Run `yarn` in the repo directory to install dependencies
-3. Create a branch for your PR
+1. Haz Fork y Clona el repositorio.
+2. Ejecuta `yarn` en el directorio del repositorio para instalar dependencias.
+3. Crea una rama para tu PR.
 
-## Add yourself as a contributor
+## Agrégate como colaborador
 
-This project follows the [all contributors][all-contributors] specification. To add yourself to the table of
-contributors on the README.md, please use the automated script as part of your PR:
+Este proyecto sigue la especificación de [all contributors][all-contributors]. Para sumarte a la tabla de
+colaboradores en el archivo README.md, usa el script automatizado como parte de su RP:
 
 ```console
 yarn run add-contributor <YOUR_GITHUB_USERNAME>
 ```
 
-Follow the prompt. If you've already added yourself to the list and are making a new type of contribution, you can run
-it again and select the added contribution type.
+Siga las intrucciones. Si ya se ha agregado a la lista y está haciendo un nuevo tipo de contribución, puede ejecutar de nuevo y seleccionar el tipo de contribución añadida.
 
-## Help needed
+## Se necesita ayuda
 
-Please watch the repo and respond to questions/bug reports/feature requests! Thanks!
+¡Mire el repositorio y responda a las preguntas / informes de errores / solicitudes de funciones! ¡Gracias!
 
 [egghead]: https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github
 [all-contributors]: https://github.com/kentcdodds/all-contributors
