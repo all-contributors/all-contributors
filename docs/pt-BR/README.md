@@ -32,7 +32,7 @@ A ideia básica é esta:
 
 > Use o README do projeto (ou outra página proeminente de documentação pública no projeto) para reconhecer as contribuições dos membros da comunidade do projeto.
 
-As pessoas estão doando si mesmas e seu tempo livre para contribuir com projetos de código aberto de muitas maneiras. Pode ser uma fracação do tempo, por vezes, e por isso eles devem ser elogiados por todas as suas contribuições (código ou não).
+As pessoas estão doando si mesmas e seu tempo livre para contribuir com projetos de código aberto de muitas maneiras. Pode ser uma fração do tempo, por vezes, e por isso eles devem ser elogiados por todas as suas contribuições (código ou não).
 
 Use este projeto como um exemplo de implementação da especificação de todos os contribuidores (consulte a seção [Contribuidores](#Contribuidores) abaixo).
 

@@ -7,9 +7,6 @@
   "repository": "git@github.com:kentcdodds/all-contributors.git",
   "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
   "license": "MIT",
-  "dependencies": {
-    "all-contributors-cli": "^5.4.1"
-  },
   "scripts": {
     "test": "echo \"no tests exist yet... Any ideas?\"",
     "postinstall": "node index.js",
@@ -17,10 +14,13 @@
     "generate-contributors": "all-contributors generate",
     "semantic-release": "semantic-release"
   },
+  "dependencies": {
+    "all-contributors-cli": "^5.4.1"
+  },
   "devDependencies": {
     "semantic-release": "^15.10.5"
   },
-   "engines": {
+  "engines": {
     "node": ">=8",
     "npm": ">=6"
   }

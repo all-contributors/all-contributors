@@ -32,9 +32,9 @@ incluir:
 
 Exemplos de comportamento inaceitável pelos participantes incluem:
 
-* O uso de linguagem ou imagens sexualizadas e atenção sexual indesejada ou
+* O uso de linguagem ou imagens sexuais e atenção sexual indesejada ou
 avanços
-* Trolling, insultos / comentários depreciativos e ataques pessoais ou políticos
+* Trolagem, insultos / comentários depreciativos e ataques pessoais ou políticos
 Assédio público ou privado
 * Publicação de informações privadas de outras pessoas, tais como informações físicas ou eletrônicas.
   endereço, sem permissão explícita
@@ -62,7 +62,7 @@ endereço, postagem por meio de uma conta oficial da mídia social ou agindo com
 representante em um evento on-line ou off-line. A representação de um projeto pode ser
 definidos e esclarecidos pelos mantenedores do projeto.
 
-## Enforcement
+## Esforços
 
 Instâncias de comportamento abusivo, de assédio ou inaceitável podem ser
 informado entrando em contato com a equipe do projeto em kent+coc@doddsfamily.us. Todos
