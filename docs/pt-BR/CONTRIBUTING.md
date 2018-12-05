@@ -10,7 +10,7 @@
 
 # Contribuindo
 
-Obrigado pelo seu interesse no projeto! Eu definitivamente estou interessado em feedback e idéias sobre as coisas para este projeto em torno de formatação, emoji usado, etc. Sinta-se livre para arquivar problemas para discutir mudanças!
+Obrigado pelo seu interesse no projeto! Eu definitivamente estou interessado em feedback e ideias sobre as coisas para este projeto em torno de formatação, emoji usado, etc. Sinta-se livre para arquivar problemas para discutir mudanças!
 
 
 **Trabalhando no seu primeiro Pull Request?** Você pode aprender como a partir desta série *livre*
