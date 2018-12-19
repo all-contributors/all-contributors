@@ -90,6 +90,7 @@ Emoji | Represents | Links to | Comment
 ⚠️ | Tests | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`
 ✅ | Tutorials | the tutorial
 📢 | Talks | the slides/recording/repo/etc.
+📓 | User Testing | user test notes
 📹 | Videos | the video
 
 ## Notes for repository maintainers
