@@ -91,6 +91,7 @@ Emoji | Representa | Links para | Comentário
 ⚠️ | Testes | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`
 ✅ | Tutoriais | o tutorial
 📢 | Talks | o slides/gravação/repositório/etc.
+📓 | Teste de usuário | notas do teste de usuário
 📹 | Vídeos | o vídeo
 
 ## Notas para mantenedores de repositório
