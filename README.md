@@ -74,6 +74,7 @@ Emoji | Represents | Links to | Comment
 📝 | Blogposts | the blogpost
 💼 | Business Development | | people who execute on the business end
 💻 | Code | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`
+🖋 | Content (e.g. website copy) | where the content is used | blog posts are separate
 📖 | Documentation | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`, Wiki, or other source of documentation
 🎨 | Design | the logo/iconography/visual design/etc.
 💡 | Examples | the examples
