@@ -75,6 +75,7 @@ Emoji | Representa | Links para | Comentário
 📝 | Publicação no Blog | o link para publicação
 💼 | Desenvolvimento de Negócios | | pessoas que executam tarefas de negócio
 💻 | Código | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`
+ 🖋 | Conteúdo (ex. cópia do website) | onde o conteúdo foi usado | publicações de blog são separados
 📖 | Documentação | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`, Wiki, ou outra fonte de documentação
 🎨 | Design | o logo/iconografia/design visual/etc.
 💡 | Exemplos | o exemplo
