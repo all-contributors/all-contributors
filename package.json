@@ -14,10 +14,9 @@
     "generate-contributors": "all-contributors generate",
     "semantic-release": "semantic-release"
   },
-  "dependencies": {
-    "all-contributors-cli": "^5.4.1"
-  },
+  "dependencies": {},
   "devDependencies": {
+    "all-contributors-cli": "^5.4.1",
     "semantic-release": "^15.10.5"
   },
   "engines": {
