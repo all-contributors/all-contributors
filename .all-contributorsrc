@@ -161,6 +161,15 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "robertlluberes",
+      "name": "Robert Lluberes",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/13991439?v=4",
+      "profile": "https://robertlluberes.com",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "repoType": "github"
