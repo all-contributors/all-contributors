@@ -86,7 +86,7 @@ Emoji | Represents | Links to | Comment
 📦 | Packaging/porting to support a new platform
 🔌 | Plugin/utility libraries | the repo home
 👀 | Reviewed Pull Requests
-🛡️ | Security
+🛡️ | Security | | identify and/or reduce security threats, GDPR, Privacy, etc
 🔧 | Tools | the repo home
 🌍 | Translation | the translated content
 ⚠️ | Tests | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`
