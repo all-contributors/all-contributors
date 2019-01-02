@@ -170,6 +170,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "jakebolam",
+      "name": "Jake Bolam",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/3534236?v=4",
+      "profile": "https://jakebolam.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github"
