@@ -87,6 +87,7 @@ Emoji | Representa | Links para | Comentário
 📦 | Packaging/Portando para suportar uma nova plataforma
 🔌 | Plugin/Bibliotecas de utilitários | o repositório
 👀 | Revisão de Pull Request
+🛡️ | Segurança | identificar e/ou reduzir ameaças de segurança, GDPR, privacidade, etc
 🔧 | Ferramentas | o repositório
 🌍 | Tradução | o conteúdo traduzido
 ⚠️ | Testes | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`
