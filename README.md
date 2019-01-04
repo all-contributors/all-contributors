@@ -1,3 +1,5 @@
+STATUS: UNMAINTAINED ([looking for maintainers](https://github.com/kentcdodds/all-contributors/issues/112))
+
 # ✨ All Contributors ✨
 
 <table>
