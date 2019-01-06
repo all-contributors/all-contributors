@@ -2,7 +2,7 @@
 The repository contains the code for the All Contributors documentation website. Contributions welcome!
 
 [![Build](https://img.shields.io/circleci/project/github/all-contributors/website/master.svg)](https://circleci.com/gh/all-contributors/website)
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg)](#contributors)
 
 
 ## Contributing
