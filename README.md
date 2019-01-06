@@ -3,7 +3,6 @@
 <a href="https://circleci.com/gh/all-contributors/website">
     <img alt="Builds" src="https://img.shields.io/circleci/project/github/all-contributors/website/master.svg"/>
 </a>
-
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
 All Contributors uses Docusaurus to maintain our documentation website. For more info visit the [Docusaurus Website](https://docusaurus.io)
