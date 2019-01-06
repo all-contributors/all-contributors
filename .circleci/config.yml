@@ -32,7 +32,7 @@ jobs:
       - save_env_cache
   website:
     <<: *docker_defaults
-    working_directory: ~/repo/website
+    working_directory: ~/repo
     steps:
       - prep_env
       - run: yarn build
@@ -42,7 +42,7 @@ jobs:
             - build/
   deploy_website:
     <<: *docker_defaults
-    working_directory: ~/repo/website
+    working_directory: ~/repo
     steps:
       - prep_env
       - attach_workspace:
