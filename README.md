@@ -1,5 +1,3 @@
-STATUS: UNMAINTAINED ([looking for maintainers](https://github.com/kentcdodds/all-contributors/issues/112))
-
 # ✨ All Contributors ✨
 
 <table>
@@ -120,6 +118,7 @@ Thanks goes to these wonderful people ([emoji key][emojis]):
 
 This project follows the [all-contributors][all-contributors] specification.
 Contributions of any kind are welcome!
+We are also [looking for maintainers](https://github.com/kentcdodds/all-contributors/issues/112)
 
 ## LICENSE
 
