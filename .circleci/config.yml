@@ -39,7 +39,7 @@ jobs:
       - persist_to_workspace:
           root: ./
           paths:
-            - build/
+            - website/build/
   deploy_website:
     <<: *docker_defaults
     working_directory: ~/repo

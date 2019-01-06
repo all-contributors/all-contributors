@@ -1,4 +1,4 @@
 node_modules
-build
+website/build
 i18n
 yarn-error.log
