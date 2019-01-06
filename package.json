@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "cd website && ../node_modules/.bin/docusaurus-start",
+    "build": "cd website && ../node_modules/.bin/docusaurus-build",
+    "publish-gh-pages": "cd website && ../node_modules/.bin/docusaurus-publish"
+  },
+  "devDependencies": {
+    "docusaurus": "^1.6.2",
+    "react": "^16.6.3"
+  }
+}

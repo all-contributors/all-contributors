@@ -1,0 +1,4 @@
+node_modules
+build
+i18n
+yarn-error.log
