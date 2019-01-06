@@ -1,15 +1,18 @@
 # All Contributors Website
 The repository contains the code for the All Contributors documentation website. Contributions welcome!
 
-<a href="https://circleci.com/gh/all-contributors/website">
-    <img alt="Builds" src="https://img.shields.io/circleci/project/github/all-contributors/website/master.svg" />
-</a>
-
+[![Build](https://img.shields.io/circleci/project/github/all-contributors/website/master.svg)](https://circleci.com/gh/all-contributors/website)
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
-## LICENSE
 
-[MIT](LICENSE)
+## Contributing
+All Contributors uses Docusaurus to maintain our documentation website. For more info visit the [Docusaurus Website](https://docusaurus.io)
+
+To get started locally:
+- `yarn install`
+- `yarn start`
+- go to http://localhost:3000 (Refresh the page for your changes to be reflected)
+
 
 ## Contributors
 
@@ -23,11 +26,6 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!
 
-## Contributing
-All Contributors uses Docusaurus to maintain our documentation website. For more info visit the [Docusaurus Website](https://docusaurus.io)
+## LICENSE
 
-To get started locally:
-- `yarn install`
-- `yarn start`
-- go to http://localhost:3000 (Refresh the page for your changes to be reflected)
-
+[MIT](LICENSE)
