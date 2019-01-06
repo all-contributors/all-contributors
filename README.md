@@ -65,7 +65,7 @@ Projects should consider the following optional items as part of their commitmen
 1. The user's avatar can be included and is recommended.
 3. An optional link from the Contribution Category indicator to the category-specific contribution(s) can be included to provide additional information about the project contribution(s) as detailed in the section below.
 
-## Emoji key [![](https://img.shields.io/github/release/kentcdodds/all-contributors.svg?style=flat-square)](https://github.com/kentcdodds/all-contributors)
+## Emoji key [![](https://img.shields.io/github/release/all-contributors/all-contributors.svg?style=flat-square)](https://github.com/kentcdodds/all-contributors)
 
 Emoji | Represents | Links to | Comment
 :---: | --- | --- | ---
@@ -146,5 +146,5 @@ We are also [looking for maintainers](https://github.com/kentcdodds/all-contribu
 [github-star]: https://github.com/kentcdodds/all-contributors/stargazers
 [twitter]: https://twitter.com/intent/tweet?text=Check%20out%20all-contributors!%20%E2%9C%A8%20Recognize%20all%20contributors,%20not%20just%20the%20ones%20who%20commit%20code%20%E2%9C%A8%20https://github.com/kentcdodds/all-contributors%20%F0%9F%A4%97
 [twitter-badge]: https://img.shields.io/twitter/url/https/github.com/kentcdodds/all-contributors.svg?style=social
-[emojis]: https://github.com/kentcdodds/all-contributors#emoji-key
+[emojis]: https://github.com/all-contributors/all-contributors#emoji-key
 [all-contributors]: https://github.com/kentcdodds/all-contributors
