@@ -18,7 +18,7 @@ commands:
     steps:
       - save_cache:
           name: Save node_modules cache
-          key: websote-{{ checksum "yarn.lock" }}-{{ .Branch }}
+          key: website-{{ checksum "yarn.lock" }}-{{ .Branch }}
           paths:
             - node_modules/
 
