@@ -124,7 +124,7 @@ We are also [looking for maintainers](https://github.com/all-contributors/all-co
 
 [MIT](LICENSE)
 
-[chat-badge]: https://img.shields.io/badge/slack-join-ff69b4.svg?logo=slack&style=flat-square
+[chat-badge]: https://img.shields.io/badge/slack-join-ff69b4.svg?style=flat-square
 [chat]: https://join.slack.com/t/all-contributors/shared_invite/enQtNTE3ODMyMTA4NTk0LTUwZDMxZGZkMmViMzYzYzk2YTM2NjRkZGM5Yzc0ZTc5NmYzNWY3Y2Q0ZTY3ZmFhZDgyY2E3ZmIzNWQwMTUxZmE
 [build-badge]: https://img.shields.io/circleci/all-contributors/all-contributors/master.svg?style=flat-square
 [build]: https://circleci.com/gh/all-contributors/all-contributors
