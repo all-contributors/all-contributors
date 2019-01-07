@@ -21,7 +21,7 @@ Para adicionar seu projeto a esta lista, por favor [faça um pull request](../..
 - [kentcdodds/webpack-config-utils](https://github.com/kentcdodds/webpack-config-utils)
 - [kentcdodds/p-s](https://github.com/kentcdodds/p-s)
 - [kentcdodds/split-guide](https://github.com/kentcdodds/split-guide)
-- [jfmengels/all-contributors-cli](https://github.com/jfmengels/all-contributors-cli)
+- [all-contributors/all-contributors-cli](https://github.com/all-contributors/all-contributors-cli)
 - [kentcdodds/react-workshop](https://github.com/kentcdodds/react-workshop)
 - [kentcdodds/rtl-css-js](https://github.com/kentcdodds/rtl-css-js)
 - [ta2edchimp/opt-cli](https://github.com/ta2edchimp/opt-cli)
