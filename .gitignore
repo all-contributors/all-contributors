@@ -7,9 +7,6 @@ desktop.ini
 # Output of 'npm pack'
 *.tgz
 
-# Yarn Integrity file
-.yarn-integrity
-
 # Optional eslint cache
 .eslintcache
 
