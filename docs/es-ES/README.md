@@ -112,9 +112,9 @@ Este proyecto sigue la especificación de [all-contributors][all-contributors].
 [MIT](LICENSE)
 
 [chat-badge]: https://img.shields.io/badge/chat-on%20gitter-46BC99.svg?style=flat-square
-[chat]: https://gitter.im/kentcdodds/all-contributors?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
-[build-badge]: https://img.shields.io/travis/kentcdodds/all-contributors.svg?style=flat-square
-[build]: https://travis-ci.org/kentcdodds/all-contributors
+[chat]: https://gitter.im/all-contributors/all-contributors?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+[build-badge]: https://img.shields.io/travis/all-contributors/all-contributors.svg?style=flat-square
+[build]: https://travis-ci.org/all-contributors/all-contributors
 [version-badge]: https://img.shields.io/npm/v/all-contributors.svg?style=flat-square
 [package]: https://www.npmjs.com/package/all-contributors
 [license-badge]: https://img.shields.io/npm/l/all-contributors.svg?style=flat-square
@@ -124,7 +124,7 @@ Este proyecto sigue la especificación de [all-contributors][all-contributors].
 [donate-badge]: https://img.shields.io/badge/$-support-green.svg?style=flat-square
 [donate]: https://kcd.im/donate
 [coc-badge]: https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square
-[coc]: https://github.com/kentcdodds/all-contributors/blob/master/other/CODE_OF_CONDUCT.md
+[coc]: https://github.com/all-contributors/all-contributors/blob/master/other/CODE_OF_CONDUCT.md
 [implementations-badge]: https://img.shields.io/badge/%F0%9F%92%A1-implementations-8C8E93.svg?style=flat-square
 [implementations]: https://github.com/all-contributors/all-contributors/blob/master/other/IMPLEMENTATIONS.md
 [github-watch-badge]: https://img.shields.io/github/watchers/all-contributors/all-contributors.svg?style=social

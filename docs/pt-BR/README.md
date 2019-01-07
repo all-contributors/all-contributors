@@ -114,9 +114,9 @@ Este projeto segue a [all-contributors][all-contributors] especificação.Contri
 MIT
 
 [chat-badge]: https://img.shields.io/badge/chat-on%20gitter-46BC99.svg?style=flat-square
-[chat]: https://gitter.im/kentcdodds/all-contributors?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
-[build-badge]: https://img.shields.io/travis/kentcdodds/all-contributors.svg?style=flat-square
-[build]: https://travis-ci.org/kentcdodds/all-contributors
+[chat]: https://gitter.im/all-contributors/all-contributors?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+[build-badge]: https://img.shields.io/travis/all-contributors/all-contributors.svg?style=flat-square
+[build]: https://travis-ci.org/all-contributors/all-contributors
 [version-badge]: https://img.shields.io/npm/v/all-contributors.svg?style=flat-square
 [package]: https://www.npmjs.com/package/all-contributors
 [license-badge]: https://img.shields.io/npm/l/all-contributors.svg?style=flat-square

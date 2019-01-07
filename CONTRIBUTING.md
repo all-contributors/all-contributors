@@ -42,4 +42,4 @@ it again and select the added contribution type.
 Please watch the repo and respond to questions/bug reports/feature requests! Thanks!
 
 [egghead]: https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github
-[all-contributors]: https://github.com/kentcdodds/all-contributors
+[all-contributors]: https://github.com/all-contributors/all-contributors
