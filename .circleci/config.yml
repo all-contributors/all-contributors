@@ -1,0 +1,66 @@
+version: 2.1
+
+docker_defaults: &docker_defaults
+  docker:
+    - image: circleci/node:8.14.0
+
+commands:
+  prep_env:
+    description: Prepares environment with cache
+    steps:
+      - checkout:
+          path: ~/repo
+      - restore_cache:
+          name: Restore node_modules cache
+          key: all-contributors-{{ checksum "yarn.lock" }}-{{ .Branch }}
+  save_env_cache:
+    description: Saves environment cache
+    steps:
+      - save_cache:
+          name: Save node_modules cache
+          key: all-contributors-{{ checksum "yarn.lock" }}-{{ .Branch }}
+          paths:
+            - node_modules/
+
+jobs:
+  node_modules:
+    <<: *docker_defaults
+    working_directory: ~/repo
+    steps:
+      - prep_env
+      - run: cat package.json | jq 'del(.scripts.postinstall)' > package.json.tmp && mv package.json.tmp package.json
+      - run: yarn install --frozen-lockfile
+      - save_env_cache
+  test:
+    <<: *docker_defaults
+    working_directory: ~/repo
+    steps:
+      - prep_env
+      - run: yarn test
+  deploy:
+    <<: *docker_defaults
+    working_directory: ~/repo
+    steps:
+      - prep_env
+      - run: yarn run semantic-release
+workflows:
+  version: 2
+  test_and_deploy:
+    jobs:
+      - node_modules
+      - test:
+          requires:
+            - node_modules
+      - deploy:
+          requires:
+            - test
+          filters:
+            branches:
+              only:
+                - master
+
+experimental:
+  notify:
+    branches:
+      only:
+        - master
