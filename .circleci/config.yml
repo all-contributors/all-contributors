@@ -31,12 +31,6 @@ jobs:
       - run: cat package.json | jq 'del(.scripts.postinstall)' > package.json.tmp && mv package.json.tmp package.json
       - run: yarn install --frozen-lockfile
       - save_env_cache
-  test:
-    <<: *docker_defaults
-    working_directory: ~/repo
-    steps:
-      - prep_env
-      - run: yarn test
   deploy:
     <<: *docker_defaults
     working_directory: ~/repo
@@ -48,12 +42,9 @@ workflows:
   test_and_deploy:
     jobs:
       - node_modules
-      - test:
-          requires:
-            - node_modules
       - deploy:
           requires:
-            - test
+            - node_modules
           filters:
             branches:
               only:
