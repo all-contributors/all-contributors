@@ -102,7 +102,7 @@ Al final, no hay reglas estrictas para cuando se debe agregar una contribución 
 
 ## Colaboradores
 
-Por favor consulte en [Contributors](https://github.com/kentcdodds/all-contributors#contributors)
+Por favor consulte en [Contributors](https://github.com/all-contributors/all-contributors#contributors)
 
 Este proyecto sigue la especificación de [all-contributors][all-contributors].
 ¡Las contribuciones de cualquier tipo son bienvenidas!
@@ -112,26 +112,26 @@ Este proyecto sigue la especificación de [all-contributors][all-contributors].
 [MIT](LICENSE)
 
 [chat-badge]: https://img.shields.io/badge/chat-on%20gitter-46BC99.svg?style=flat-square
-[chat]: https://gitter.im/kentcdodds/all-contributors?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
-[build-badge]: https://img.shields.io/travis/kentcdodds/all-contributors.svg?style=flat-square
-[build]: https://travis-ci.org/kentcdodds/all-contributors
+[chat]: https://gitter.im/all-contributors/all-contributors?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+[build-badge]: https://img.shields.io/travis/all-contributors/all-contributors.svg?style=flat-square
+[build]: https://travis-ci.org/all-contributors/all-contributors
 [version-badge]: https://img.shields.io/npm/v/all-contributors.svg?style=flat-square
 [package]: https://www.npmjs.com/package/all-contributors
 [license-badge]: https://img.shields.io/npm/l/all-contributors.svg?style=flat-square
-[license]: https://github.com/kentcdodds/all-contributors/blob/master/LICENSE
+[license]: https://github.com/all-contributors/all-contributors/blob/master/LICENSE
 [prs-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
 [prs]: http://makeapullrequest.com
 [donate-badge]: https://img.shields.io/badge/$-support-green.svg?style=flat-square
 [donate]: https://kcd.im/donate
 [coc-badge]: https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square
-[coc]: https://github.com/kentcdodds/all-contributors/blob/master/other/CODE_OF_CONDUCT.md
+[coc]: https://github.com/all-contributors/all-contributors/blob/master/other/CODE_OF_CONDUCT.md
 [implementations-badge]: https://img.shields.io/badge/%F0%9F%92%A1-implementations-8C8E93.svg?style=flat-square
-[implementations]: https://github.com/kentcdodds/all-contributors/blob/master/other/IMPLEMENTATIONS.md
-[github-watch-badge]: https://img.shields.io/github/watchers/kentcdodds/all-contributors.svg?style=social
-[github-watch]: https://github.com/kentcdodds/all-contributors/watchers
-[github-star-badge]: https://img.shields.io/github/stars/kentcdodds/all-contributors.svg?style=social
-[github-star]: https://github.com/kentcdodds/all-contributors/stargazers
-[twitter]: https://twitter.com/intent/tweet?text=Check%20out%20all-contributors!%20%E2%9C%A8%20Recognize%20all%20contributors,%20not%20just%20the%20ones%20who%20commit%20code%20%E2%9C%A8%20https://github.com/kentcdodds/all-contributors%20%F0%9F%A4%97
-[twitter-badge]: https://img.shields.io/twitter/url/https/github.com/kentcdodds/all-contributors.svg?style=social
-[emojis]: https://github.com/kentcdodds/all-contributors#emoji-key
-[all-contributors]: https://github.com/kentcdodds/all-contributors
+[implementations]: https://github.com/all-contributors/all-contributors/blob/master/other/IMPLEMENTATIONS.md
+[github-watch-badge]: https://img.shields.io/github/watchers/all-contributors/all-contributors.svg?style=social
+[github-watch]: https://github.com/all-contributors/all-contributors/watchers
+[github-star-badge]: https://img.shields.io/github/stars/all-contributors/all-contributors.svg?style=social
+[github-star]: https://github.com/all-contributors/all-contributors/stargazers
+[twitter]: https://twitter.com/intent/tweet?text=Check%20out%20all-contributors!%20%E2%9C%A8%20Recognize%20all%20contributors,%20not%20just%20the%20ones%20who%20commit%20code%20%E2%9C%A8%20https://github.com/all-contributors/all-contributors%20%F0%9F%A4%97
+[twitter-badge]: https://img.shields.io/twitter/url/https/github.com/all-contributors/all-contributors.svg?style=social
+[emojis]: https://github.com/all-contributors/all-contributors#emoji-key
+[all-contributors]: https://github.com/all-contributors/all-contributors

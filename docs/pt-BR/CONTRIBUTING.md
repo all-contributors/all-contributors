@@ -39,4 +39,4 @@ Siga o prompt. Se você já se adicionou à lista e está fazendo um novo tipo d
 Por favor, siga o repositório e responda a perguntas/relatórios de bugs/solicitações de recursos! Obrigado!
 
 [egghead]: https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github
-[all-contributors]: https://github.com/kentcdodds/all-contributors
+[all-contributors]: https://github.com/all-contributors/all-contributors

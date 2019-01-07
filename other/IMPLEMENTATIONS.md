@@ -11,9 +11,9 @@
 # Implementations
 
 This is a list of projects which have implemented the `all-contributors` specification. To add your project to this
-list, please [make a pull request](https://github.com/kentcdodds/all-contributors/blob/master/CONTRIBUTING.md)!
+list, please [make a pull request](../CONTRIBUTING.md)!
 
-- [kentcdodds/all-contributors](https://github.com/kentcdodds/all-contributors)
+- [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
 - [sarbbottam/eslint-find-rules](https://github.com/sarbbottam/eslint-find-rules)
 - [platinumazure/eslint-plugin-qunit](https://github.com/platinumazure/eslint-plugin-qunit)
 - [djangocon/2016.djangocon.us](https://github.com/djangocon/2016.djangocon.us)
@@ -21,7 +21,7 @@ list, please [make a pull request](https://github.com/kentcdodds/all-contributor
 - [kentcdodds/webpack-config-utils](https://github.com/kentcdodds/webpack-config-utils)
 - [kentcdodds/p-s](https://github.com/kentcdodds/p-s)
 - [kentcdodds/split-guide](https://github.com/kentcdodds/split-guide)
-- [jfmengels/all-contributors-cli](https://github.com/jfmengels/all-contributors-cli)
+- [all-contributors/all-contributors-cli](https://github.com/all-contributors/all-contributors-cli)
 - [kentcdodds/react-workshop](https://github.com/kentcdodds/react-workshop)
 - [kentcdodds/rtl-css-js](https://github.com/kentcdodds/rtl-css-js)
 - [ta2edchimp/opt-cli](https://github.com/ta2edchimp/opt-cli)
