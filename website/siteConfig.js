@@ -20,8 +20,7 @@ const siteConfig = {
         secondaryColor: '#f9316d',
     },
     customDocsPath: 'docs',
-    // gaTrackingId: 'UA-129741728-1',
-
+    gaTrackingId: 'UA-131821931-1',
     copyright: 'All Contributors',
 
     highlight: {
