@@ -28,10 +28,10 @@ class Footer extends React.Component {
                         </a>
                     </div>
                     <div className="footer-github">
-                        <a href="https://github.com/kentcdodds/all-contributors">GitHub</a>
+                        <a href="https://github.com/all-contributors/all-contributors">GitHub</a>
                         <a
                             className="github-button"
-                            href="https://github.com/kentcdodds/all-contributors"
+                            href="https://github.com/all-contributors/all-contributors"
                             data-icon="octicon-star"
                             data-count-href="/facebook/docusaurus/stargazers"
                             data-show-count="true"

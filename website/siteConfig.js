@@ -10,7 +10,7 @@ const siteConfig = {
     // End deploy options
     headerLinks: [
         { doc: 'overview', label: 'Docs' },
-        { href: "https://github.com/kentcdodds/all-contributors", label: "GitHub" },
+        { href: "https://github.com/all-contributors/all-contributors", label: "GitHub" },
     ],
     // headerIcon: 'img/all-contributors.png',
     // footerIcon: 'img/all-contributors.png',
