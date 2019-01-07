@@ -11,9 +11,9 @@
 # Implementações
 
 Esta é uma lista de projetos que implementaram a especificação `all-contributors`.
-Para adicionar seu projeto a esta lista, por favor [faça um pull request](https://github.com/kentcdodds/all-contributors/blob/master/CONTRIBUTING.md)!
+Para adicionar seu projeto a esta lista, por favor [faça um pull request](../../../CONTRIBUTING.md)!
 
-- [kentcdodds/all-contributors](https://github.com/kentcdodds/all-contributors)
+- [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
 - [sarbbottam/eslint-find-rules](https://github.com/sarbbottam/eslint-find-rules)
 - [platinumazure/eslint-plugin-qunit](https://github.com/platinumazure/eslint-plugin-qunit)
 - [djangocon/2016.djangocon.us](https://github.com/djangocon/2016.djangocon.us)

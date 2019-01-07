@@ -106,7 +106,7 @@ Muitos contribuintes podem não perceber que seus esforços são suficientes par
 No final, não há regras rígidas e rápidas para quando uma contribuição precisa ser adicionada à lista, apenas faça o melhor para ser justa e garantir que todos os contribuidores sejam reconhecidos.
 
 ## Contribuidores
-Por favor consulte em [Contribuidores](https://github.com/kentcdodds/all-contributors#contributors)
+Por favor consulte em [Contribuidores](https://github.com/all-contributors/all-contributors#contributors)
 
 Este projeto segue a [all-contributors][all-contributors] especificação.Contribuições de qualquer tipo são bem vindas!
 
@@ -120,20 +120,20 @@ MIT
 [version-badge]: https://img.shields.io/npm/v/all-contributors.svg?style=flat-square
 [package]: https://www.npmjs.com/package/all-contributors
 [license-badge]: https://img.shields.io/npm/l/all-contributors.svg?style=flat-square
-[license]: https://github.com/kentcdodds/all-contributors/blob/master/LICENSE
+[license]: https://github.com/all-contributors/all-contributors/blob/master/LICENSE
 [prs-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
 [prs]: http://makeapullrequest.com
 [donate-badge]: https://img.shields.io/badge/$-support-green.svg?style=flat-square
 [donate]: http://kcd.im/donate
 [coc-badge]: https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square
-[coc]: https://github.com/kentcdodds/all-contributors/blob/master/other/CODE_OF_CONDUCT.md
+[coc]: https://github.com/all-contributors/all-contributors/blob/master/other/CODE_OF_CONDUCT.md
 [implementations-badge]: https://img.shields.io/badge/%F0%9F%92%A1-implementations-8C8E93.svg?style=flat-square
-[implementations]: https://github.com/kentcdodds/all-contributors/blob/master/other/IMPLEMENTATIONS.md
-[github-watch-badge]: https://img.shields.io/github/watchers/kentcdodds/all-contributors.svg?style=social
-[github-watch]: https://github.com/kentcdodds/all-contributors/watchers
-[github-star-badge]: https://img.shields.io/github/stars/kentcdodds/all-contributors.svg?style=social
-[github-star]: https://github.com/kentcdodds/all-contributors/stargazers
-[twitter]: https://twitter.com/intent/tweet?text=Check%20out%20all-contributors!%20%E2%9C%A8%20Recognize%20all%20contributors,%20not%20just%20the%20ones%20who%20commit%20code%20%E2%9C%A8%20https://github.com/kentcdodds/all-contributors%20%F0%9F%A4%97
-[twitter-badge]: https://img.shields.io/twitter/url/https/github.com/kentcdodds/all-contributors.svg?style=social
-[emojis]: https://github.com/kentcdodds/all-contributors#emoji-key
-[all-contributors]: https://github.com/kentcdodds/all-contributors
+[implementations]: https://github.com/all-contributors/all-contributors/blob/master/other/IMPLEMENTATIONS.md
+[github-watch-badge]: https://img.shields.io/github/watchers/all-contributors/all-contributors.svg?style=social
+[github-watch]: https://github.com/all-contributors/all-contributors/watchers
+[github-star-badge]: https://img.shields.io/github/stars/all-contributors/all-contributors.svg?style=social
+[github-star]: https://github.com/all-contributors/all-contributors/stargazers
+[twitter]: https://twitter.com/intent/tweet?text=Check%20out%20all-contributors!%20%E2%9C%A8%20Recognize%20all%20contributors,%20not%20just%20the%20ones%20who%20commit%20code%20%E2%9C%A8%20https://github.com/all-contributors/all-contributors%20%F0%9F%A4%97
+[twitter-badge]: https://img.shields.io/twitter/url/https/github.com/all-contributors/all-contributors.svg?style=social
+[emojis]: https://github.com/all-contributors/all-contributors#emoji-key
+[all-contributors]: https://github.com/all-contributors/all-contributors

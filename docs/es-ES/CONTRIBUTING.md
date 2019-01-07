@@ -40,4 +40,4 @@ Siga las intrucciones. Si ya se ha agregado a la lista y está haciendo un nuevo
 ¡Mire el repositorio y responda a las preguntas / informes de errores / solicitudes de funciones! ¡Gracias!
 
 [egghead]: https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github
-[all-contributors]: https://github.com/kentcdodds/all-contributors
+[all-contributors]: https://github.com/all-contributors/all-contributors

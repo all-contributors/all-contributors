@@ -4,7 +4,7 @@
   "version": "0.0.0-semantically-released",
   "bin": "index.js",
   "main": "index.js",
-  "repository": "git@github.com:kentcdodds/all-contributors.git",
+  "repository": "git@github.com:all-contributors/all-contributors.git",
   "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
   "license": "MIT",
   "scripts": {
