@@ -124,10 +124,10 @@ We are also [looking for maintainers](https://github.com/all-contributors/all-co
 
 [MIT](LICENSE)
 
-[chat-badge]: https://img.shields.io/badge/chat-on%20gitter-46BC99.svg?style=flat-square
-[chat]: https://gitter.im/all-contributors/all-contributors?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
-[build-badge]: https://img.shields.io/travis/all-contributors/all-contributors.svg?style=flat-square
-[build]: https://travis-ci.org/all-contributors/all-contributors
+[chat-badge]: https://img.shields.io/badge/slack-join-ff69b4.svg?logo=slack&style=flat-square
+[chat]: https://join.slack.com/t/all-contributors/shared_invite/enQtNTE3ODMyMTA4NTk0LTUwZDMxZGZkMmViMzYzYzk2YTM2NjRkZGM5Yzc0ZTc5NmYzNWY3Y2Q0ZTY3ZmFhZDgyY2E3ZmIzNWQwMTUxZmE
+[build-badge]: https://img.shields.io/circleci/all-contributors/all-contributors/master.svg?style=flat-square
+[build]: https://circleci.com/gh/all-contributors/all-contributors
 [version-badge]: https://img.shields.io/npm/v/all-contributors.svg?style=flat-square
 [package]: https://www.npmjs.com/package/all-contributors
 [license-badge]: https://img.shields.io/npm/l/all-contributors.svg?style=flat-square
