@@ -24,6 +24,7 @@
 [![Watch on GitHub][github-watch-badge]][github-watch]
 [![Star on GitHub][github-star-badge]][github-star]
 [![Tweet][twitter-badge]][twitter]
+[![Pull Reminders](https://pullreminders.com/badge.svg)](https://pullreminders.com?ref=badge) 
 
 This is a specification for recognizing contributors to an open source project in a way that rewards each and every contribution, not just code.
 
