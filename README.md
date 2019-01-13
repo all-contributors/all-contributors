@@ -1,4 +1,8 @@
-# ✨ All Contributors ✨
+<div align="center">
+    <a href="https://github.com/all-contributors/all-contributors">
+        <img src="other/logo-full.png" alt="✨ All Contributors ✨" width="800px" />
+    </a>
+</div>
 
 <table>
     <tr>
@@ -24,7 +28,7 @@
 [![Watch on GitHub][github-watch-badge]][github-watch]
 [![Star on GitHub][github-star-badge]][github-star]
 [![Tweet][twitter-badge]][twitter]
-[![Pull Reminders](https://pullreminders.com/badge.svg)](https://pullreminders.com?ref=badge) 
+[![Pull Reminders](https://pullreminders.com/badge.svg)](https://pullreminders.com?ref=badge)
 
 This is a specification for recognizing contributors to an open source project in a way that rewards each and every contribution, not just code.
 
@@ -105,7 +109,7 @@ Many contributors may not realise that their efforts are sufficient for recognit
 
 In the end, there are no hard and fast rules for when a contribution has to be added to the list, just do your best to be fair and to ensure all contributors are recognised.
 
-## Contributors
+## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key][emojis]):
 
