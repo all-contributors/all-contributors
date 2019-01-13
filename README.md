@@ -109,7 +109,7 @@ Many contributors may not realise that their efforts are sufficient for recognit
 
 In the end, there are no hard and fast rules for when a contribution has to be added to the list, just do your best to be fair and to ensure all contributors are recognised.
 
-## Contributors
+## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key][emojis]):
 
