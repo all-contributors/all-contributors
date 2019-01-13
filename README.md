@@ -10,21 +10,27 @@
     </tr>
 </table>
 
-[![chat][chat-badge]][chat]
-[![Build Status][build-badge]][build]
-[![version][version-badge]][package]
-[![MIT License][license-badge]][LICENSE]
+<div align="center">
+    <a href="https://github.com/all-contributors/all-contributors">
+        <img src="other/logo-full.png"/>
+    </a>
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-18-orange.svg?style=flat-square)](#contributors)
-[![PRs Welcome][prs-badge]][prs]
-[![Implementations][implementations-badge]][implementations]
-[![Donate][donate-badge]][donate]
-[![Code of Conduct][coc-badge]][coc]
+    [![chat][chat-badge]][chat]
+    [![Build Status][build-badge]][build]
+    [![version][version-badge]][package]
+    [![MIT License][license-badge]][LICENSE]
 
-[![Watch on GitHub][github-watch-badge]][github-watch]
-[![Star on GitHub][github-star-badge]][github-star]
-[![Tweet][twitter-badge]][twitter]
-[![Pull Reminders](https://pullreminders.com/badge.svg)](https://pullreminders.com?ref=badge) 
+    [![All Contributors](https://img.shields.io/badge/all_contributors-18-orange.svg?style=flat-square)](#contributors)
+    [![PRs Welcome][prs-badge]][prs]
+    [![Implementations][implementations-badge]][implementations]
+    [![Donate][donate-badge]][donate]
+    [![Code of Conduct][coc-badge]][coc]
+
+    [![Watch on GitHub][github-watch-badge]][github-watch]
+    [![Star on GitHub][github-star-badge]][github-star]
+    [![Tweet][twitter-badge]][twitter]
+    [![Pull Reminders](https://pullreminders.com/badge.svg)](https://pullreminders.com?ref=badge)
+</div>
 
 This is a specification for recognizing contributors to an open source project in a way that rewards each and every contribution, not just code.
 
