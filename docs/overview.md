@@ -1,9 +1,12 @@
 ---
 id: overview
-title: Overview
+title: Overview ✨
 ---
 
-# ✨ All Contributors ✨
+<div align="center">
+    <img src="/img/icons/logo-full-transparent.png" alt="✨ All Contributors ✨" width="800px" />
+</div>
+
 
 This is a specification for recognizing contributors to an open source project in a way that rewards each and every contribution, not just code.
 

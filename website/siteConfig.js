@@ -12,9 +12,9 @@ const siteConfig = {
         { doc: 'overview', label: 'Docs' },
         { href: "https://github.com/all-contributors/all-contributors", label: "GitHub" },
     ],
-    // headerIcon: 'img/all-contributors.png',
-    // footerIcon: 'img/all-contributors.png',
-    // favicon: 'img/favicon.png',
+    headerIcon: 'img/icons/logo-square-transparent.png',
+    footerIcon: 'img/icons/logo-square-transparent.png',
+    favicon: 'img/icons/favicon-32x32.png',
     colors: {
         primaryColor: '#008DF9',
         secondaryColor: '#f9316d',
