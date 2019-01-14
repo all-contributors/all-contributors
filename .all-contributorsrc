@@ -19,6 +19,16 @@
         "doc",
         "infra"
       ]
+    },
+    {
+      "login": "tbenning",
+      "name": "tbenning",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/7265547?v=4",
+      "profile": "https://github.com/tbenning",
+      "contributions": [
+        "design"
+      ]
     }
-  ]
+  ],
+  "contributorsPerLine": 7
 }
