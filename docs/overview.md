@@ -21,11 +21,11 @@ time sink sometimes and so they should be praised for all their contributions (c
 
 Use this project as an example implementation of the all-contributors specification.
 
-## Tools
+## Tools for updating your all-contributors table
 
-If you find maintaining the list of contributors tedious, try using the [CLI tool](https://www.npmjs.com/package/all-contributors-cli) to lighten your load.
+If you find maintaining the list of contributors tedious, say hello to the [@all-contributors bot 🤖](https://github.com/all-contributors/all-contributors-bot)
 
-If you use Atom, try out [allcontributors](https://atom.io/packages/allcontributors), an atom package for the all-contributors-spec implementation.
+If you prefer command line tools, there is also the [all-contributors CLI tool](https://www.npmjs.com/package/all-contributors-cli)
 
 ## Specification
 
