@@ -3,6 +3,8 @@ id: overview
 title: Overview ✨
 ---
 
+> There is now a GitHub Bot for automating the maintenance of your contributors table ✨<br />Say goodbye to command line tool dependencies and hello to @all-contributors 🤖
+
 <div align="center">
     <img src="/img/icons/logo-full-transparent.png" alt="✨ All Contributors ✨" width="800px" />
 </div>
