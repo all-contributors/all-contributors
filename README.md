@@ -44,9 +44,9 @@ Use this project as an example implementation of the all-contributors specificat
 
 ## Tools for updating your all-contributors table
 
-If you find maintaining the list of contributors tedious, try using one of these tools to lighten your load:
-- The [all-contributors CLI tool](https://www.npmjs.com/package/all-contributors-cli)
-- The [AllContributors GitHub bot](https://github.com/all-contributors/all-contributors-bot)
+If you find maintaining the list of contributors tedious, say hello to the [@all-contributors bot 🤖](https://github.com/all-contributors/all-contributors-bot)
+
+If you prefer command line tools, there is also the [all-contributors CLI tool](https://www.npmjs.com/package/all-contributors-cli)
 
 ## Specification
 
