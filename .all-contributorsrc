@@ -201,16 +201,6 @@
       ]
     }
   ],
-  {
-      "login": "jongjineee",
-      "name": "Jongjin",
-      "avatar_url": "https://avatars0.githubusercontent.com/u/26620470?v=3",
-      "profile": "https://github.com/jongjineee",
-      "contributions": [
-        "doc",
-        "translation"
-      ]
-    },
   "repoType": "github",
   "contributorsPerLine": 7
 }
