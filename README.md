@@ -71,7 +71,7 @@ Projects should consider the following optional items as part of their commitmen
 1. The user's avatar can be included and is recommended.
 3. An optional link from the Contribution Category indicator to the category-specific contribution(s) can be included to provide additional information about the project contribution(s) as detailed in the section below.
 
-## Emoji key [![](https://img.shields.io/github/release/all-contributors/all-contributors.svg?style=flat-square)](https://github.com/all-contributors/all-contributors)
+## Emoji key [![](https://img.shields.io/github/release/all-contributors/all-contributors.svg?style=flat-square)](https://github.com/all-contributors/all-contributors) [![Greenkeeper badge](https://badges.greenkeeper.io/all-contributors/all-contributors.svg)](https://greenkeeper.io/)
 
 Emoji | Represents | Links to | Comment
 :---: | --- | --- | ---
