@@ -68,6 +68,7 @@ Emoji | Represents | Links to | Comment
 🔍 | Funding/Grant Finders | | people who help find financial support
 🤔 | Ideas & Planning |
 🚇 | Infrastructure (Hosting, Build-Tools, etc) | link to source file (like `travis.yml`) in repo, if applicable
+🚧 | Maintenance | `https://github.com/${ownerName}/${repoName}/commits?author=${username}` | people who help in maintaining the repo
 📦 | Packaging/porting to support a new platform
 🔌 | Plugin/utility libraries | the repo home
 👀 | Reviewed Pull Requests
