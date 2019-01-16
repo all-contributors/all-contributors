@@ -80,7 +80,7 @@ Emoji | Represents | Links to | Comment
 🐛 | Bug reports | `https://github.com/${ownerName}/${repoName}/issues?q=author%3A${username}`
 📝 | Blogposts | the blogpost
 💼 | Business Development | | people who execute on the business end
-💻 | Code | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`
+💻 | Code |	`https://github.com/${ownerName}/${repoName}/commits?author=${username}`
 🖋 | Content (e.g. website copy) | where the content is used | blog posts are separate
 📖 | Documentation | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`, Wiki, or other source of documentation
 🎨 | Design | the logo/iconography/visual design/etc.
@@ -90,6 +90,7 @@ Emoji | Represents | Links to | Comment
 🔍 | Funding/Grant Finders | | people who help find financial support
 🤔 | Ideas & Planning |
 🚇 | Infrastructure (Hosting, Build-Tools, etc) | link to source file (like `travis.yml`) in repo, if applicable
+🚧 | Maintenance | `https://github.com/${ownerName}/${repoName}/commits?author=${username}` | people who help in maintaining the repo
 📦 | Packaging/porting to support a new platform
 🔌 | Plugin/utility libraries | the repo home
 👀 | Reviewed Pull Requests
