@@ -12,6 +12,7 @@
         <td><a href="/docs/pt-BR/README.md">Português</a></td>
         <td><a href="/docs/es-ES/README.md">Español</a></td>
         <td><a href="/docs/fr-FR/README.md">Français</a></td>
+        <td><a href="/docs/ko-KR/README.md">한국어</a></td>
     </tr>
 </table>
 
@@ -20,7 +21,7 @@
 [![version][version-badge]][package]
 [![MIT License][license-badge]][LICENSE]
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](#contributors)
 [![PRs Welcome][prs-badge]][prs]
 [![Implementations][implementations-badge]][implementations]
 [![Donate][donate-badge]][donate]
