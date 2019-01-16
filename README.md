@@ -17,6 +17,7 @@
 
 [![chat][chat-badge]][chat]
 [![Build Status][build-badge]][build]
+[![Greenkeeper badge](https://badges.greenkeeper.io/all-contributors/all-contributors.svg?style=flat-square)](https://greenkeeper.io/)
 [![version][version-badge]][package]
 [![MIT License][license-badge]][LICENSE]
 
