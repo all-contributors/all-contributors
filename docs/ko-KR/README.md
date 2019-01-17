@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://github.com/all-contributors/all-contributors">
-        <img src="other/logo-full.png" alt="✨ All Contributors ✨" width="800px" />
+        <img src="../../other/logo-full.png" alt="✨ All Contributors ✨" width="800px" />
     </a>
 </div>
 
@@ -18,7 +18,6 @@
 
 [![chat][chat-badge]][chat]
 [![Build Status][build-badge]][build]
-[![Greenkeeper badge](https://badges.greenkeeper.io/all-contributors/all-contributors.svg?style=flat-square)](https://greenkeeper.io/)
 [![version][version-badge]][package]
 [![MIT License][license-badge]][LICENSE]
 
@@ -33,89 +32,91 @@
 [![Tweet][twitter-badge]][twitter]
 [![Pull Reminders](https://pullreminders.com/badge.svg)](https://pullreminders.com?ref=badge)
 
-This is a specification for recognizing contributors to an open source project in a way that rewards each and every contribution, not just code.
+All Contributors는 코드뿐만 아니라 모든 기여에 대해 보상하는 방식으로 오픈소스 프로젝트에 대한 기여자를 인정하기 위한 규격입니다.
 
-The basic idea is this:
+기본 아이디어:
 
-> Use the project README (or other prominent public documentation page in the project) to recognize the contributions of members of the project community.
+> 프로젝트 커뮤니티 구성원의 기여도를 보시려면 README 프로젝트(또는 프로젝트의 다른 공공 문서 페이지)를 확인하세요.
 
-People are giving of themselves and their free time to contribute to open source projects in so many ways. It can be a real
-time sink sometimes and so they should be praised for all their contributions (code or not).
+사람들은 그들 자신과 자유 시간을 많은 방법으로 오픈소스 프로젝트에 기여했습니다. 그들은 그들의 모든 기여에 대해 칭찬받아야 합니다.(코드이든 아니든)
 
-Use this project as an example implementation of the all-contributors specification (see the [Contributors](#contributors) section below).
+이 프로젝트를 모든 기여자들의 이행 예제로 이용하세요. (아래의 [Contributors](#contributors) 섹션을 참조하세요).
 
-## Tools for updating your all-contributors table
+## 전체 기여자 표 업데이트 도구
 
-If you find maintaining the list of contributors tedious, say hello to the [@all-contributors bot 🤖](https://github.com/all-contributors/all-contributors-bot)
+기여자 목록을 관리하는 데 지겨울 경우 [@all-contributors bot 🤖](https://github.com/all-contributors/all-contributors-bot) 봇에게 인사해보세요.
 
-If you prefer command line tools, there is also the [all-contributors CLI tool](https://www.npmjs.com/package/all-contributors-cli)
+명령줄 도구를 선호하는 경우 [all-contributors CLI tool](https://www.npmjs.com/package/all-contributors-cli)를 이용하세요.
 
-## Specification
+## 서식
 
-### Mandatory
-Open source projects should include the following mandatory items in order to support the All Contributors specification:
+### 필수 항목
+오픈 소스 프로젝트는 모든 기여자 서식을 지원하기 위해 다음과 같은 필수 항목을 포함해야 합니다.
 
-1. A "Contributors" section in a prominent site of the project repository documentation that includes a list of all project contributors
-  - The goal should be to use the most prominent site of the project documentation when feasible.  In many cases, this is the project README file
-  - Consider use of a CONTRIBUTORS file in the top level of the repository when the number of project contributors exceeds a level at which it is feasible to use the README file to acknowledge contributions.  In this case, a prominent link to the CONTRIBUTORS file should be included on the README page under the "Contributors" heading
-2. The listings should be formatted as a table with the following information about the project contributors:
-  - Name
-  - URL link to a site where more information can be learned about the contributor.  This URL may be determined by the contributor at the project's discretion.
-  - Indication of the Contribution Category in text or icon image format using the defined Contribution Categories and/or Contribution Categories emoji images (see below).
-  - A link to the Contribution Category in text or emoji format using the defined Contribution Categories and/or [Contribution Categories emoji](#emoji-key).
-    - The list of contributors can be spread across multiple lines (each technically being its own table) as needed.
-    - The order of contributors is immaterial to the spec. Order them how you wish.
-3. Projects should define contributors as those who contribute to a project in any of the Contribution Categories at any level of contribution.  This specification is, by definition, inclusive of all contributions.  In cases where projects deviate from the Contribution Categories or require a specific contribution level in order to meet criteria as a project contributor, the project should provide explicit documentation of the definitions that satisfy the project contributor criteria in the CONTRIBUTING document or a similar prominent public document at the top level of the project repository.  This specification recommends against exclusion of an individual from the Contributor list based upon perceived level of contribution.  Instead, projects should use indicators of effort within a list that remains inclusive of all contributors to the project at any level of effort.  If used, these effort indicators are at the discretion of the project and are not currently specified.
+1. 모든 프로젝트 기여자 리스트가 포함된 프로젝트 저장소 문서의 주요 페이지에 있는 "Contributors" 섹션
+  - 프로젝트 문서의 가장 두드러진 페이지를 사용하는 것이 목표입니다. 대부분 프로젝트 README 파일입니다.
+  - 프로젝트 기여자 수가 README 파일을 사용할 수 있는 수준을 초과하는 경우 저장소의 최상위에 CONTRIBUTORS 파일을 사용하세요. 
+    이 경우 CONTRIBUTORS 파일에 대한 링크가 "Contributors" 제목 아래의 README 페이지에 포함되어야 한다.
+2. 목록은 프로젝트 기여자에 대한 다음 정보가 포함된 표 형식으로 작성해야 합니다:
+  - 이름
+  - 기여자에 대해 더 많은 정보를 얻을 수 있는 사이트에 대한 URL 링크. 이 URL은 프로젝트의 재량에 따라 기여자에 의해 결정될 수 있습니다.
+  - 정의된 기여 카테고리 또는 기여 카테고리 이모지 이미지를 사용하여 텍스트 또는 아이콘 이미지 형식으로 기여 카테고리를 표시합니다(아래 참조).
+  - 기여 카테고리 또는 기여 카테고리 이모지 링크[Contribution Categories emoji](#emoji-key).
+    - 기여자 목록은 필요에 따라 여러 줄로 분산될 수 있습니다(기술적으로 자체적인 표임).
+    - 기부자의 요구는 그 서식에 중요하지 않습니다. 기여자들에게 원하는 대로 요구하세요.
+3. 프로젝트는 기여도를 어떤 수준의 기여 카테고리에서든 프로젝트에 기여하는 자로 정의해야 합니다. 이 서식은 정의상 모든 기여를 포함합니다.
+  프로젝트가 기여 범주에서 벗어나거나 프로젝트 기여자 기준을 충족하기 위해 특정 기여 수준을 요구하는 경우, 프로젝트는 CONTRIBUTING 문서 또는 상위 공공 문서의 프로젝트 기여자 기준을 충족하는 정의에 대한 프로젝트 최상위에 있는 명시적 문서를 제공해야 합니다. 이 서식은 기여 수준에 따라 기여자 목록에서 개인을 제외하지 않을 것을 권장합니다. 대신, 프로젝트는 어떤 수준의 노력에서든 프로젝트에 대한 모든 기여자를 포함하는 목록 내의 노력 지표를 사용해야 합니다. 사용 된 경우, 이러한 노력 지표는 프로젝트의 재량에 달려 있으며 현재 명시되지 않았습니다.
 
-### Optional
-Projects should consider the following optional items as part of their commitment to the All Contributors specification:
 
-1. The user's avatar can be included and is recommended.
-3. An optional link from the Contribution Category indicator to the category-specific contribution(s) can be included to provide additional information about the project contribution(s) as detailed in the section below.
+### 옵션
+
+프로젝트는 모든 기여자 명세에 대한 헌신의 일환으로 다음의 선택적 항목을 고려해야합니다:
+
+1. 사용자의 아바타가 포함될 수 있으며 권장됩니다.
+3. 아래에 상세히 기술되는 프로젝트 기여도에 대한 추가 정보를 제공하기 위해 기여 범주별 기여도에 대한 선택적 링크가 포함될 수 있습니다.
 
 ## Emoji key [![](https://img.shields.io/github/release/all-contributors/all-contributors.svg?style=flat-square)](https://github.com/all-contributors/all-contributors)
 
 Emoji | Represents | Links to | Comment
 :---: | --- | --- | ---
-💬 | Answering Questions (in Issues, Stack Overflow, Gitter, Slack, etc.)
-🐛 | Bug reports | `https://github.com/${ownerName}/${repoName}/issues?q=author%3A${username}`
-📝 | Blogposts | the blogpost
-💼 | Business Development | | people who execute on the business end
-💻 | Code |	`https://github.com/${ownerName}/${repoName}/commits?author=${username}`
-🖋 | Content (e.g. website copy) | where the content is used | blog posts are separate
-📖 | Documentation | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`, Wiki, or other source of documentation
-🎨 | Design | the logo/iconography/visual design/etc.
-💡 | Examples | the examples
-📋 | Event Organizers | event page
-💵 | Financial Support | relevant page | people or orgs who provide financial support
-🔍 | Funding/Grant Finders | | people who help find financial support
-🤔 | Ideas & Planning |
-🚇 | Infrastructure (Hosting, Build-Tools, etc) | link to source file (like `travis.yml`) in repo, if applicable
-🚧 | Maintenance | `https://github.com/${ownerName}/${repoName}/commits?author=${username}` | people who help in maintaining the repo
-📦 | Packaging/porting to support a new platform
-🔌 | Plugin/utility libraries | the repo home
-👀 | Reviewed Pull Requests
-🛡️ | Security | | identify and/or reduce security threats, GDPR, Privacy, etc
-🔧 | Tools | the repo home
-🌍 | Translation | the translated content
-⚠️ | Tests | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`
-✅ | Tutorials | the tutorial
-📢 | Talks | the slides/recording/repo/etc.
-📓 | User Testing | user test notes
-📹 | Videos | the video
+💬 | 질문 답변 (in Issues, Stack Overflow, Gitter, Slack, etc.)
+🐛 | 버그 보고 | `https://github.com/${ownerName}/${repoName}/issues?q=author%3A${username}`
+📝 | 블로그 포스트 | 블로그 포스트
+💼 | 사업 개발 | | 사업을 하는 사람들
+💻 | 코드 | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`
+🖋 | 콘텐츠 (예 : 웹사이트 카피) | 콘텐츠가 사용되는 곳 | 블로그 게시물은 별도입니다.
+📖 | 참고자료 | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`, Wiki 또는 다른 문서 소스
+🎨 | 디자인 | 로고/아이콘/시각적 디자인/등
+💡 | 예 | 예제들
+📋 | 이벤트 주최자 | 이벤트 페이지
+💵 | 경제적 지원 | 관련 페이지 | 경제적 지원을 제공하는 사람 또는 기관
+🔍 | 기금 모금/ 보조금 찾기 | | 경제적 지원을 찾는 것을 돕는 사람들
+🤔 | 아이디어 & 계획 |
+🚇 | 인프라(호스팅, 빌드 도구 등) | 해당하는 경우 repo에서 소스 파일(예: "travis.yml")에 연결
+📦 | 새로운 플랫폼을 지원하기위한 패키징 / 포팅
+🔌 | 플러그인 / 유틸리티 라이브러리 | 리포지토리
+👀 | Pull Requests 리뷰
+🛡️ | 보안 | | 보안 위협, GDPR, 개인 정보 보호 등을 식별 또는 축소
+🔧 | Tools | 리포지토리
+🌍 | 번역 | 콘텐츠 번역
+⚠️ | 테스트 | `https://github.com/${ownerName}/${repoName}/commits?author=${username}`
+✅ | 튜토리얼 | 튜토리얼
+📢 | 토크 | 슬라이드/녹음/리포지토리/등
+📓 | 사용자 테스트 | 사용자 테스트 노트
+📹 | 동영상 | 동영상
 
-## Notes for repository maintainers
-Contributors should be recognised as soon as the contribution is discovered to help ensure their efforts are not overlooked when the list gets updated at a later date. This can be difficult for contributions that are not the result of a commit to repository but do your best to minimise the time between the contribution and updating the list.
+## 저장소 유지 관리자에 대한 참고 사항
+기여자는 목록이 나중에 업데이트될 때 자신의 노력이 간과되지 않도록 하기 위해 기여가 발견되는 즉시 인식해야 합니다. 이것은 저장소에 대한 커밋의 결과가 아니라 기여와 목록 업데이트 사이의 시간을 최소화하기 위해 최선을 다하는 기여의 경우 어려울 수 있습니다다.
 
-Being the owner or a maintainer of the repository does not mean you are solely responsible for keeping the list of contributors up to date. You should encourage contributors to add themselves to the list as much as possible. This can be in the form of a comment on the issue, blog or answer, or through more direct forms of communication where appropriate.
+저장소의 소유자 또는 유지관리자가 되는 것이 기여자 목록을 최신 상태로 유지하는 것에 대한 유일한 책임을 의미하지는 않습니다. 기여자들이 가능한 한 목록에 자신을 추가하도록 격려해야 합니다. 이는 이슈, 블로그 또는 답변에 대한 코멘트, 또는 적절한 경우 보다 직접적인 형태의 커뮤니케이션을 통해 이루어질 수 있습니다.
 
-Many contributors may not realise that their efforts are sufficient for recognition in the contributors list. This might be because they have not read or understood the definition of a contributor as set out in this specification, or because they do not feel like it is significant enough. In these cases, you should still encourage them to add themselves, but it may be necessary for you to add the contributor yourself (though it's a good idea to do so in the form of a pull request to make sure they're ok with being added).
+많은 기여자들은 그들의 노력이 기고자 목록에 추가되기에 충분하다는 것을 깨닫지 못할 수 있습니다. 이는 그들이 이 서식에 명시된 기여자의 정의를 읽지 못했거나 이해하지 못했거나 충분히 유의하다고 생각하지 않기 때문일 수 있습니다. 이러한 경우에, 여러분은 그들이 자신을 추가하도록 해야 하지만, 여러분이 기여자를 직접 추가하는 것이 필요할 수 있습니다(추가되는 것이 괜찮은지 확인하기 위해 Pull Request의 형태로 하는 것은 좋은 생각입니다).
 
-In the end, there are no hard and fast rules for when a contribution has to be added to the list, just do your best to be fair and to ensure all contributors are recognised.
+결국, 언제 기여를 목록에 추가해야 하는지에 대한 어떠한 강력하고 빠른 규칙도 없으며, 단지 공정하고 모든 기여자들을 인정하기 위해 최선을 다하세요.
 
 ## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key][emojis]):
+이 멋진 분들에게 감사드립니다. ([emoji key][emojis]):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
@@ -125,11 +126,11 @@ Thanks goes to these wonderful people ([emoji key][emojis]):
 | [<img src="https://avatars0.githubusercontent.com/u/23029903?v=4" width="100px;"/><br /><sub><b>Michael Peyper</b></sub>](https://github.com/mpeyper)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=mpeyper "Documentation") | [<img src="https://avatars0.githubusercontent.com/u/23284276?v=4" width="100px;"/><br /><sub><b>Matheus Rocha Vieira</b></sub>](http://matheu.srv.br)<br />[🌍](#translation-MatheusRV "Translation") [💻](https://github.com/kentcdodds/all-contributors/commits?author=MatheusRV "Code") [📖](https://github.com/kentcdodds/all-contributors/commits?author=MatheusRV "Documentation") | [<img src="https://avatars1.githubusercontent.com/u/13991439?v=4" width="100px;"/><br /><sub><b>Robert Lluberes</b></sub>](https://robertlluberes.com)<br />[🌍](#translation-robertlluberes "Translation") | [<img src="https://avatars2.githubusercontent.com/u/3534236?v=4" width="100px;"/><br /><sub><b>Jake Bolam</b></sub>](https://jakebolam.com)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=jakebolam "Documentation") [🔧](#tool-jakebolam "Tools") | [<img src="https://avatars2.githubusercontent.com/u/7265547?v=4" width="100px;"/><br /><sub><b>tbenning</b></sub>](https://github.com/tbenning)<br />[🎨](#design-tbenning "Design") | [<img src="https://avatars0.githubusercontent.com/u/8260834?v=4" width="100px;"/><br /><sub><b>Maximilian Berkmann</b></sub>](maxcubing.wordpress.com)<br />[📖](https://github.com/kentcdodds/all-contributors/commits?author=Berkmann18 "Documentation") [🌍](#translation-Berkmann18 "Translation") |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors][all-contributors] specification.
-Contributions of any kind are welcome!
-We are also [looking for maintainers](https://github.com/all-contributors/all-contributors/issues/112)
+이 프로젝트는 [all-contributors][all-contributors] 서식을 따릅니다.
+어떤 종류의 기여든 환영합니다!
+우리는 [관리자를 찾고 있습니다](https://github.com/all-contributors/all-contributors/issues/112)
 
-## LICENSE
+## 라이센스
 
 [MIT](LICENSE)
 
