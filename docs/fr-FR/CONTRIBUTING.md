@@ -5,6 +5,7 @@
         <td><a href="/CONTRIBUTING.md">English</a></td>
         <td><a href="/docs/pt-BR/CONTRIBUTING.md">Português</a></td>
         <td><a href="/docs/es-ES/CONTRIBUTING.md">Español</a></td>
+        <td><a href="/docs/ko-KR/CONTRIBUTING.md">한국어</a></td>
     </tr>
 </table>
 

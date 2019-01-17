@@ -3,8 +3,9 @@
         <!-- Do not translate this table -->
         <td> Read these guidelines in </td>
         <td><a href="/TIPS.md">English</a></td>
-        <td><a href="/docs/pt-BR/Dicas.md">Português</a></td>
         <td><a href="/docs/es-ES/TIPS.md">Español</a></td>
+        <td><a href="/docs/fr-FR/TIPS.md">Français</a></td>
+        <td><a href="/docs/ko-KR/TIPS.md">한국어</a></td>
     </tr>
 </table>
 
