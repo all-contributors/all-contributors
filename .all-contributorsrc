@@ -2,7 +2,11 @@
   "projectName": "all-contributors",
   "projectOwner": "kentcdodds",
   "files": [
-    "README.md"
+    "README.md",
+    "docs/es-ES/README.md",
+    "docs/fr-FR/README.md",
+    "docs/ko-KR/README.md",
+    "docs/pt-BR/README.md"
   ],
   "imageSize": 100,
   "commit": false,
@@ -195,6 +199,16 @@
       "name": "Maximilian Berkmann",
       "avatar_url": "https://avatars0.githubusercontent.com/u/8260834?v=4",
       "profile": "maxcubing.wordpress.com",
+      "contributions": [
+        "doc",
+        "translation"
+      ]
+    },
+    {
+      "login": "Jongjineee",
+      "name": "이종진",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/26620470?v=4",
+      "profile": "https://jongjineee.github.io",
       "contributions": [
         "doc",
         "translation"
