@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://github.com/all-contributors/all-contributors">
-        <img src="other/logo-full.png" alt="✨ All Contributors ✨" width="800px" />
+        <img src="../../other/logo-full.png" alt="✨ All Contributors ✨" width="800px" />
     </a>
 </div>
 
@@ -12,6 +12,7 @@
         <td><a href="/docs/pt-BR/README.md">Português</a></td>
         <td><a href="/docs/es-ES/README.md">Español</a></td>
         <td><a href="/docs/fr-FR/README.md">Français</a></td>
+        <td><a href="/docs/ko-KR/README.md">한국어</a></td>
     </tr>
 </table>
 
