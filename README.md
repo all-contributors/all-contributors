@@ -115,7 +115,7 @@ In the end, there are no hard and fast rules for when a contribution has to be a
 
 ## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key][https://github.com/all-contributors/all-contributors#emoji-key]):
+Thanks goes to these wonderful people ([emoji key](https://github.com/all-contributors/all-contributors#emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
