@@ -2,7 +2,11 @@
   "projectName": "all-contributors",
   "projectOwner": "kentcdodds",
   "files": [
-    "README.md"
+    "README.md",
+    "docs/es-ES/README.md",
+    "docs/fr-FR/README.md",
+    "docs/ko-KR/README.md",
+    "docs/pt-BR/README.md"
   ],
   "imageSize": 100,
   "commit": false,
