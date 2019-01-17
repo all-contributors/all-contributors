@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://github.com/all-contributors/all-contributors">
-        <img src="other/logo-full.png" alt="✨ All Contributors ✨" width="800px" />
+        <img src="../other/logo-full.png" alt="✨ All Contributors ✨" width="800px" />
     </a>
 </div>
 
@@ -37,16 +37,13 @@ L'idée de base est ceci:
 
 > Utilise le README du projet (ou toute autre page de documentation publique importante dans le projet) pour reconnaître les contributions des membres de la communauté du projet.
 
-People are giving of themselves and their free time to contribute to open source projects in so many ways. It can be a real
-time sink sometimes and so they should be praised for all their contributions (code or not).
-
 Les gens donnent de leur temps et de leur temps libre pour contribuer à des projets open source de tant de façons. Ça peut parfois être un aspirateur de temps donc, ils devraient être loués pour toutes leurs contributions (code ou pas).
 
 Utilise ce projet comme exemple de mise on oeuvre de la spécification de `all-contributors` (voir la section de [Contributeur](#contributeurs) dessous).
 
 ## Outil pour mettre à jour votre table all-contributors:
 
-Si vous trouvrz la tenue à jour de la liste des contributeurs fastidieux, essayez d'utiliser un de ces outils pour alléger votre charge:
+Si vous trouvez la tenue à jour de la liste des contributeurs fastidieux, essayez d'utiliser un de ces outils pour alléger votre charge:
 - L'[iutil d'interface de ligne de commande all-contributors](https://www.npmjs.com/package/all-contributors-cli)
 - Le [robot GitHub AllContributors](https://github.com/all-contributors/all-contributors-bot)
 
@@ -65,8 +62,7 @@ Les projets open source devraient comprendre les éléments obligatoires suivant
   - Un lien vers la catégorie de contribution en format de texte ou d'emoji en utilisant les catégories de contribution définies et/ou [Catégories de Contribution emoji](#emoji-key).
     - La liste de contributeurs peut être mises sur plusieur lignes (chacune étant techniquement sa propre table) si besoin.
     - L'ordre de contributeurs est immatériel pour la spécification. Ordonner les comme vous le souhaitez.
-3. 
-Les projets devraient définir les contributeurs comme étant ceux qui contribuent à un projet dans n'importe quelle catégorie de contributions à n'importe quel niveau de contribution. Cette spécification comprend, par définition, toutes les contributions. Dans les cas où les projets s'écartent des catégories de contribution ou exigent un niveau de contribution spécifique pour répondre aux critères en tant que contributeur de projet, le projet devrait fournir une documentation explicite des définitions qui satisfont aux critères de contributeur de projet dans le document CONTRIBUTER ou un document public de premier plan similaire au niveau supérieur du répertoire du projet.
+3. Les projets devraient définir les contributeurs comme étant ceux qui contribuent à un projet dans n'importe quelle catégorie de contributions à n'importe quel niveau de contribution. Cette spécification comprend, par définition, toutes les contributions. Dans les cas où les projets s'écartent des catégories de contribution ou exigent un niveau de contribution spécifique pour répondre aux critères en tant que contributeur de projet, le projet devrait fournir une documentation explicite des définitions qui satisfont aux critères de contributeur de projet dans le document CONTRIBUTER ou un document public de premier plan similaire au niveau supérieur du répertoire du projet.
 Cette spécification recommande être contre l'exclusion d'une personne de la liste des contributeurs en fonction du niveau de contribution perçu. Les projets devraient plutôt utiliser des indicateurs d'effort à l'intérieur d'une liste qui inclut tous les contributeurs au projet, peu importe le niveau d'effort. S'ils sont utilisés, ces indicateurs d'effort sont à la discrétion du projet et ne sont pas actuellement précisés.
 
 ### Optionnel
