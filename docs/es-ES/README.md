@@ -64,7 +64,7 @@ Los proyectos deben considerar los siguientes elementos opcionales como parte de
 1. El avatar del usuario puede ser incluido y se recomienda.
 2. Se puede incluir un enlace opcional desde el indicador de Categoría de contribución a la(s) contribución(es) específica(s) para proporcionar información adicional sobre la(s) contribución(es) del proyecto, tal como se detalla en la siguiente sección.
 
-## Emoji key
+## Emoji key (2.7.0)
 
 Emoji | Representación | Links para | Comentario
 :---: | --- | --- | ---
