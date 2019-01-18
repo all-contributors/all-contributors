@@ -66,7 +66,7 @@ Os projetos devem considerar os seguintes itens opcionais como parte de seu comp
 1. O avatar do usuário pode ser incluído e é recomendado.
 3. Um link opcional do indicador Categoria de Contribuição para as contribuições específicas da categoria pode ser incluído para fornecer informações adicionais sobre as contribuições do projeto, conforme detalhado na seção abaixo.
 
-## Tabela de Emoji (v2.7.0)
+## Tabela de Emoji (v2.7.1)
 
 Emoji | Representa | Links para | Comentário
 :---: | --- | --- | ---

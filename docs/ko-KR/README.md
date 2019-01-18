@@ -75,7 +75,7 @@ All Contributors는 코드뿐만 아니라 모든 기여에 대해 보상하는 
 1. 사용자의 아바타가 포함될 수 있으며 권장됩니다.
 3. 아래에 상세히 기술되는 프로젝트 기여도에 대한 추가 정보를 제공하기 위해 기여 범주별 기여도에 대한 선택적 링크가 포함될 수 있습니다.
 
-## Emoji key [![](https://img.shields.io/github/release/all-contributors/all-contributors.svg?style=flat-square)](https://github.com/all-contributors/all-contributors)
+## Emoji key (2.7.1)
 
 Emoji | Represents | Links to | Comment
 :---: | --- | --- | ---
