@@ -43,9 +43,9 @@ People are giving of themselves and their free time to contribute to open source
 
 Use this project as an example implementation of the all-contributors specification (see the [Contributors](#contributors) section below).
 
-## Tools for updating your all-contributors table
+## Automate acknowledging contributors
 
-If you find maintaining the list of contributors tedious, say hello to the [@all-contributors bot 🤖](https://github.com/all-contributors/all-contributors-bot)
+You can use [the @all-contributors bot 🤖](/docs/bot/overview) to automate acknowledging contributors to your open source projects
 
 If you prefer command line tools, there is also the [all-contributors CLI tool](https://www.npmjs.com/package/all-contributors-cli)
 
