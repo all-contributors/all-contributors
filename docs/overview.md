@@ -18,7 +18,8 @@ The basic idea is this:
 
 > Use the project README (or another prominent public documentation page in the project) to recognize the contributions of members of the project community.
 
-People are giving of themselves and their free time to contribute to open source projects in so many ways. Everyone should be praised for all their contributions (code or not).
+People are giving of themselves and their free time to contribute to open source projects in so many ways.
+Everyone should be praised for their contributions (code or not).
 
 ## The All Contributors Table
 Below is an example of how using the all-contributors spec table can recognize all contributors

@@ -4,6 +4,7 @@ title: Specification
 sidebar_label: Specification
 ---
 
+An example of how using the all-contributors spec table can recognize all contributors
 <div align="center">
     <img src="assets/contributors-table-small.png" alt="Contributors Table Screenshot" width="800px" />
 </div>
