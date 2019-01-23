@@ -1,5 +1,26 @@
 {
   "docs": {
-    "Getting Started": ["overview"]
+    "Specification": [
+      "overview",
+      "specification",
+      "emoji-key",
+      "repository-maintainers",
+      "tooling"
+    ],
+    "@all-contributors Bot 🤖": [
+      "bot/overview",
+      "bot/installation",
+      "bot/usage",
+      "bot/configuration"
+    ],
+    "CLI": [
+      "cli/overview",
+      "cli/installation",
+      "cli/usage",
+      "cli/configuration"
+    ],
+    "Documentation": [
+      "website/contribute"
+    ]
   }
 }

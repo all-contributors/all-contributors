@@ -43,7 +43,7 @@ article p img, article iframe {
 .navigationSlider .slidingNav ul li.siteNavItemActive a,
 .navigationSlider .slidingNav ul li.siteNavGroupActive a
 {
-    color: #f9316d !important;
+    color: #0e0c33 !important;
     background: #fff !important;
 }
 
@@ -54,5 +54,9 @@ article p img, article iframe {
 
 .navigationSlider .slidingNav ul li a:hover {
     background: #fff !important;
-    color: #f9316d !important;
+    color: #0e0c33 !important;
+}
+
+a {
+    color: #008DF9;
 }

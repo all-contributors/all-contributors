@@ -1,0 +1,67 @@
+---
+id: installation
+title: CLI Installation
+sidebar_label: Installation
+---
+
+
+## 1. Install from NPM
+<a href="https://www.npmjs.com/package/all-contributors-cli">
+    <img src="https://img.shields.io/npm/v/all-contributors-cli.svg" alt="NPM Version" />
+</a>
+
+This module is distributed via [npm](https://www.npmjs.com/) which is bundled with [node](https://nodejs.org/) and
+should be installed as one of your project's `devDependencies`:
+
+```console
+yarn add --dev all-contributors-cli # or npm
+```
+
+> The CLI is node based, if you don't wish to add a node depdendency use the [@all-contributors bot 🤖](/docs/bot/overview)
+
+
+## 2. Init the Project
+Init the project using `init` and answer a few questions
+
+```console
+yarn all-contributors init # npm run
+
+# Or directly execute the bin
+./node_modules/.bin/all-contributors init
+```
+
+## 3. Add some contributors
+```console
+yarn all-contributors add jfmengels doc
+yarn all-contributors generate
+```
+For more on the commands see [CLI usage](/docs/cli/usage)
+
+
+## 4. Update your Contributing documentation
+Consider updating your `CONTRIBUTING.md` or similar with steps on how your contributors can add themselves. You can even link to the [cli usage documentation](/docs/cli/usage).
+
+
+## 5. *Optionally* add shortcut scripts to your `package.json`
+You can optionally add shortcuts to your commands in your `package.json` `scripts` field.
+
+For example:
+```json
+{
+  "scripts": {
+    "contributors:add": "all-contributors add",
+    "contributors:generate": "all-contributors generate"
+  }
+}
+```
+
+To allow shortcuts such as
+```console
+yarn contributors:add jfmengels doc
+```
+
+
+## Whats Next
+- [Using the CLI](/docs/cli/usage)
+- [Configuring the CLI](/docs/cli/configuration)
+

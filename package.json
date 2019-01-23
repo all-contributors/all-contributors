@@ -5,7 +5,6 @@
     "publish-gh-pages": "cd website && ../node_modules/.bin/docusaurus-publish"
   },
   "devDependencies": {
-    "all-contributors-cli": "^5.6.0",
     "docusaurus": "^1.6.2",
     "react": "^16.6.3"
   }

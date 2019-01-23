@@ -8,6 +8,7 @@ const siteConfig = {
     projectName: 'website',
     organizationName: 'all-contributors',
     // End deploy options
+    editUrl: 'https://github.com/all-contributors/website/tree/master/docs/',
     headerLinks: [
         { doc: 'overview', label: 'Docs' },
         { href: "https://github.com/all-contributors/all-contributors", label: "GitHub" },
@@ -16,8 +17,8 @@ const siteConfig = {
     footerIcon: 'img/icons/logo-square-transparent.png',
     favicon: 'img/icons/favicon-32x32.png',
     colors: {
-        primaryColor: '#008DF9',
-        secondaryColor: '#f9316d',
+        primaryColor: '#0e0c33',
+        secondaryColor: '#008DF9',
     },
     customDocsPath: 'docs',
     gaTrackingId: 'UA-131821931-1',
@@ -39,6 +40,16 @@ const siteConfig = {
 
     // Show documentation's last contributor's name.
     enableUpdateBy: true,
+    enableUpdateTime: true,
+
+    // Search
+    // algolia: {
+    //     apiKey: 'my-api-key',
+    //     indexName: 'my-index-name',
+    //     algoliaOptions: {
+    //         facetFilters: [ "language:LANGUAGE" ]
+    //     }
+    // },
 }
 
 module.exports = siteConfig
