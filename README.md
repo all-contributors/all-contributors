@@ -47,7 +47,7 @@ Use this project as an example implementation of the all-contributors specificat
 
 You can use [the @all-contributors bot 🤖](/docs/bot/overview) to automate acknowledging contributors to your open source projects
 
-If you prefer command line tools, there is also the [all-contributors CLI tool](https://www.npmjs.com/package/all-contributors-cli)
+If you prefer command line tools, there is also the [all-contributors CLI tool](https://github.com/all-contributors/all-contributors-cli)
 
 ## Specification
 
