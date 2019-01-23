@@ -75,5 +75,5 @@ set PRIVATE_TOKEN=your_private_token
 
 
 
-## Whats Next
+## What's next
 - [Configuring the CLI](/docs/cli/configuration)

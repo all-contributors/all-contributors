@@ -61,7 +61,7 @@ yarn contributors:add jfmengels doc
 ```
 
 
-## Whats Next
+## What's next
 - [Using the CLI](/docs/cli/usage)
 - [Configuring the CLI](/docs/cli/configuration)
 

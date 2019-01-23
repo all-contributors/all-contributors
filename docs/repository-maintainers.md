@@ -18,12 +18,12 @@ This can be in the form of a comment on the issue, blog or answer, or through mo
 
 Many contributors may not realise that their efforts are sufficient for recognition in the contributors list.
 This might be because they have not read or understood the definition of a contributor as set out in this specification,
-r because they do not feel like it is significant enough. In these cases, you should still encourage them to add themselves,
+or because they do not feel like it is significant enough. In these cases, you should still encourage them to add themselves,
 but it may be necessary for you to add the contributor yourself (though it's a good idea to do so in the form of a pull
 request to make sure they're ok with being added).
 
 In the end, there are no hard and fast rules for when a contribution has to be added to the list,
 just do your best to be fair and to ensure all contributors are recognised.
 
-## Whats next
+## What's next
 - [Automating the process using tools](/docs/tooling)

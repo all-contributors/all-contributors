@@ -13,9 +13,9 @@ Emoji/Type | Represents | Comments
 💬 <br /> `question` | Answering Questions | Answering Questions in Issues, Stack Overflow, Gitter, Slack, etc.
 🐛 <br /> `bug` | Bug reports | links to issues reported by the user on this project
 📝 <br /> `blog` | Blogposts | links to the blogpost
-💼 <br /> NOT_IMPLEMENTED | Business Development | people who execute on the business end
+💼 <br /> N/I* | Business Development | people who execute on the business end
 💻 <br /> `code` | Code | links to commits by the user on this project
-🖋 <br /> NOT_IMPLEMENTED | Content | e.g. website copy, blog posts are separate
+🖋 <br /> N/I* | Content | e.g. website copy, blog posts are separate
 📖 <br /> `doc` | Documentation | links to commits by the user on this project`, Wiki, or other source of documentation
 🎨 <br /> `design` | Design | links to the logo/iconography/visual design/etc.
 💡 <br /> `examples` | Examples | links to the examples
@@ -37,6 +37,8 @@ Emoji/Type | Represents | Comments
 📓 <br /> `userTesting` | User Testing | links to user test notes
 📹 <br /> `video` | Videos | links to the video
 
-## Whats next
+*N/I: These contribution types are currently not supported by tooling.
+
+## What's next
 - [Notes for repository maintainers](/docs/repository-maintainers)
 - [Automating the process using tools](/docs/tooling)

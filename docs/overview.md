@@ -16,20 +16,19 @@ This is a specification for recognizing contributors to an open source project i
 
 The basic idea is this:
 
-> Use the project README (or other prominent public documentation page in the project) to recognize the contributions of members of the project community.
+> Use the project README (or another prominent public documentation page in the project) to recognize the contributions of members of the project community.
 
-People are giving of themselves and their free time to contribute to open source projects in so many ways. It can be a real
-time sink sometimes and so they should be praised for all their contributions (code or not).
+People are giving of themselves and their free time to contribute to open source projects in so many ways. Everyone should be praised for all their contributions (code or not).
 
 ## The All Contributors Table
-A project using the all-contributors spec table:
+Below is an example of how using the all-contributors spec table can recognize all contributors
 <div align="center">
-    <img src="assets/contributors-table-small.png" alt="Contributors Table Screenshot" width="800px" />
+    <img src="assets/contributors-table-small.png" alt="All Contributors Table Screenshot" width="800px" />
 </div>
 
-> There is [now a GitHub Bot](/docs/bot/overview) for automating the creation of your contributors table ✨<br />Say goodbye to command line tool dependencies and hello to the [@all-contributors bot 🤖](/docs/bot/overview)
+> You can automate the creation of the all-contributors table using the [@all-contributors bot 🤖](/docs/bot/overview) on your GitHub repository
 
-## Whats next
+## What's next
 - [The all contributors specification](/docs/specification)
 - [Emoji Key (Contribution Types Reference)](/docs/emoji-key)
 - [Notes for repository maintainers](/docs/repository-maintainers)

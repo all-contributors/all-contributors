@@ -26,5 +26,5 @@ The bot will then create a Pull Request to add the contributor, then reply with 
 >
 > `Jane you are crushing it in documentation and your infrastructure work has been great too. Let's add jane.doe23 for her contributions. cc @all-contributors`
 
-## Whats Next
+## What's next
 - [Configuring the Bot](/docs/bot/configuration)

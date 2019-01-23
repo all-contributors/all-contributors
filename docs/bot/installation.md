@@ -28,7 +28,7 @@ Consider updating your `CONTRIBUTING.md` or similar with steps on how contributo
 
 
 
-## Whats Next
+## What's next
 - [Using the Bot](/docs/bot/usage)
 - [Configuring the Bot](/docs/bot/configuration)
 
