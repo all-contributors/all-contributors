@@ -24,7 +24,7 @@ Open source projects should include the following mandatory items in order to su
         - The order of contributors is immaterial to the spec. Order them how you wish.
 3. Projects should define contributors as those who contribute to a project in any of the Contribution Categories at any level of contribution.  This specification is, by definition, inclusive of all contributions.  In cases where projects deviate from the Contribution Categories or require a specific contribution level in order to meet criteria as a project contributor, the project should provide explicit documentation of the definitions that satisfy the project contributor criteria in the CONTRIBUTING document or a similar prominent public document at the top level of the project repository.  This specification recommends against exclusion of an individual from the Contributor list based upon perceived level of contribution.  Instead, projects should use indicators of effort within a list that remains inclusive of all contributors to the project at any level of effort.  If used, these effort indicators are at the discretion of the project and are not currently specified.
 
-> **Pro tip:** You can use [the @all-contributors bot 🤖](/docs/bot/overview) for automating the creation of your contributors table ✨
+> **Pro tip:** You can use [the @all-contributors bot 🤖](/docs/bot/overview) to automate acknowledging contributors to your open source projects ✨
 
 ## Optional
 Projects should consider the following optional items as part of their commitment to the All Contributors specification:

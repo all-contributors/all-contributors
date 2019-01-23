@@ -9,15 +9,12 @@ sidebar_label: Overview
 </a>
 <a class="github-button" href="https://github.com/all-contributors/all-contributors-bot" data-icon="octicon-star" data-count-href="/all-contributors/all-contributors-bot/stargazers" data-show-count="true" data-count-aria-label="# stargazers on GitHub" aria-label="Star this project on GitHub" >Star</a>
 
-## The problem
+🤖 A GitHub bot to automate acknowledging contributors to your open source projects.
 
-You want to implement the [All Contributors](/docs/specification) spec, but don't
-want to maintain the table by hand
+## Motivation
+Implementing the [All Contributors spec](/docs/specification) by hand is a laborious process.
 
-## The bot solution 🤖
-
-Hello, `@all-contributors` to help automate adding contributor acknowledgements
-
+Enter the `@all-contributors bot`! The bot will automatically pull a user's profile, grab the contribution type emoji, update the project README and then open a Pull Request against the project
 <a href="/docs/bot/usage">
     <img alt="Example usage screenshot" src="../assets/bot-usage.png" width="500px">
 </a>

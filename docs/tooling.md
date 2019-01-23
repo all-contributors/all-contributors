@@ -4,10 +4,15 @@ title: Automating Updates with Tooling
 sidebar_label: Tooling
 ---
 
-## The Problem
-You want to implement the [All Contributors spec](/docs/specification), but don't want to maintain the table by hand
+## Motivation
+Implementing the [All Contributors spec](/docs/specification) by hand is a laborious process.
 
-## The solution
-Say hello to the [@all-contributors bot 🤖](/docs/bot/overview)to automate the process on your GitHub repository
+### All Contributors Bot
+Enter the [@all-contributors bot 🤖](/docs/bot/overview)! The bot will automatically pull a user's profile, grab the contribution type emoji, update the project README and then open a Pull Request against the project ✨
+<a href="/docs/bot/usage">
+    <img alt="Example usage screenshot" src="assets/bot-usage.png" width="500px">
+</a>
 
-If you prefer command line tools, or don't host your project on GitHub, there is also the [all-contributors CLI tool](/docs/cli/overview)
+
+### All Contributors CLI
+If you prefer command line tools there is also the [all-contributors CLI tool](/docs/cli/overview) to help automate adding contributor acknowledgements.

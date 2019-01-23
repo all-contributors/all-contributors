@@ -25,7 +25,7 @@ Below is an example of how using the all-contributors spec table can recognize a
     <img src="assets/contributors-table-small.png" alt="All Contributors Table Screenshot" width="800px" />
 </div>
 
-> You can automate the creation of the all-contributors table using the [@all-contributors bot 🤖](/docs/bot/overview) on your GitHub repository
+> You can use [the @all-contributors bot 🤖](/docs/bot/overview) to automate acknowledging contributors to your open source projects
 
 ## What's next
 - [The all contributors specification](/docs/specification)
