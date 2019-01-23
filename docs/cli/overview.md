@@ -6,6 +6,12 @@ sidebar_label: Overview
 
 > [There is now a GitHub Bot](/docs/bot/overview) for automating the maintenance of your contributors table ✨<br />Say goodbye to command line tool dependencies and hello to the [@all-contributors bot 🤖](/docs/bot/overview)
 
+## The problem
+
+You want to implement the [All Contributors](/docs/specification) spec, but don't
+want to maintain the table by hand
+
+## The CLI solution
 
 The *all-contributors-cli* is a tool to help automate adding contributor acknowledgements according to the [all-contributors specification](/docs/specification) for your GitHub or GitLab repository.
 
