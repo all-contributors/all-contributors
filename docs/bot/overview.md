@@ -7,9 +7,7 @@ sidebar_label: Overview
 <a href="https://github.com/all-contributors/all-contributors-bot/releases">
     <img alt="Bot Latest Release" src="https://img.shields.io/github/release/all-contributors/all-contributors-bot.svg"/>
 </a>
-<a href="https://github.com/all-contributors/all-contributors-bot/stargazers">
-    <img src="https://img.shields.io/github/stars/all-contributors/all-contributors-bot.svg" alt="Star on GitHub" />
-</a>
+<a class="github-button" href="https://github.com/all-contributors/all-contributors-bot" data-icon="octicon-star" data-count-href="/all-contributors/all-contributors-bot/stargazers" data-show-count="true" data-count-aria-label="# stargazers on GitHub" aria-label="Star this project on GitHub" >Star</a>
 
 ## The problem
 

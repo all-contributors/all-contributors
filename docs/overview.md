@@ -8,9 +8,7 @@ sidebar_label: Overview
     <img src="assets/logo-full-transparent.png" alt="✨ All Contributors ✨" width="800px" />
 </div>
 
-<a href="https://github.com/all-contributors/all-contributors/stargazers">
-    <img src="https://img.shields.io/github/stars/all-contributors/all-contributors.svg" alt="Star on GitHub" />
-</a>
+<a class="github-button" href="https://github.com/all-contributors/all-contributors" data-icon="octicon-star" data-count-href="/all-contributors/all-contributors/stargazers" data-show-count="true" data-count-aria-label="# stargazers on GitHub" aria-label="Star this project on GitHub" >Star</a>
 
 This is a specification for recognizing contributors to an open source project in a way that rewards each and every contribution, not just code.
 
