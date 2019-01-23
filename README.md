@@ -39,8 +39,7 @@ The basic idea is this:
 
 > Use the project README (or other prominent public documentation page in the project) to recognize the contributions of members of the project community.
 
-People are giving of themselves and their free time to contribute to open source projects in so many ways. It can be a real
-time sink sometimes and so they should be praised for all their contributions (code or not).
+People are giving of themselves and their free time to contribute to open source projects in so many ways. Everyone should be praised for their contributions (code or not).
 
 Use this project as an example implementation of the all-contributors specification (see the [Contributors](#contributors) section below).
 
