@@ -21,7 +21,7 @@
 [![Greenkeeper badge](https://badges.greenkeeper.io/all-contributors/all-contributors.svg?style=flat-square)](https://greenkeeper.io/)
 [![version][version-badge]][package]
 [![MIT License][license-badge]][LICENSE]
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](http://commitizen.github.io/cz-cli/)
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors)
 [![PRs Welcome][prs-badge]][prs]
