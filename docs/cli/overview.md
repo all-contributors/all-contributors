@@ -22,4 +22,3 @@ The all-contributors-cli is a tool to help automate adding contributor acknowled
 - [Installing the CLI](/docs/cli/installation)
 - [Using the CLI](/docs/cli/usage)
 - [Configuring the CLI](/docs/cli/configuration)
-Automate acknowledging contributors to your open source projects
