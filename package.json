@@ -11,15 +11,23 @@
     "postinstall": "node index.js",
     "add-contributor": "all-contributors add",
     "generate-contributors": "all-contributors generate",
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release",
+    "commit": "npx git-cz"
   },
   "dependencies": {},
   "devDependencies": {
     "all-contributors-cli": "^5.4.1",
+    "cz-conventional-changelog": "^2.1.0",
+    "git-cz": "^1.8.0",
     "semantic-release": "^15.10.5"
   },
   "engines": {
     "node": ">=8",
     "npm": ">=6"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
   }
 }
