@@ -71,7 +71,7 @@ Les projets devraient envisager les éléments facultatifs suivants dans le cadr
 1. L'avatar de l'utilisateur peut être inclus et est recommandé.
 2. Un lien facultatif de l'indicateur de la catégorie de contribution jusqu'aux catégories-orientée contributions peut être inclus pour fournir des renseignements supplémentaires, comme il est expliqué dans la section ci-dessous.
 
-## Emoji key [![](https://img.shields.io/github/release/all-contributors/all-contributors.svg?style=flat-square)](https://github.com/all-contributors/all-contributors)
+## Emoji key (2.7.1)
 
 Emoji | Représente | Liens à | Commentaire
 :---: | --- | --- | ---

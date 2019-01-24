@@ -40,16 +40,15 @@ The basic idea is this:
 
 > Use the project README (or other prominent public documentation page in the project) to recognize the contributions of members of the project community.
 
-People are giving of themselves and their free time to contribute to open source projects in so many ways. It can be a real
-time sink sometimes and so they should be praised for all their contributions (code or not).
+People are giving of themselves and their free time to contribute to open source projects in so many ways. Everyone should be praised for their contributions (code or not).
 
 Use this project as an example implementation of the all-contributors specification (see the [Contributors](#contributors) section below).
 
-## Tools for updating your all-contributors table
+## Automate acknowledging contributors
 
-If you find maintaining the list of contributors tedious, say hello to the [@all-contributors bot 🤖](https://github.com/all-contributors/all-contributors-bot)
+You can use [the @all-contributors bot 🤖](/docs/bot/overview) to automate acknowledging contributors to your open source projects
 
-If you prefer command line tools, there is also the [all-contributors CLI tool](https://www.npmjs.com/package/all-contributors-cli)
+If you prefer command line tools, there is also the [all-contributors CLI tool](https://github.com/all-contributors/all-contributors-cli)
 
 ## Specification
 
@@ -92,7 +91,7 @@ Emoji | Represents | Links to | Comment
 🔍 | Funding/Grant Finders | | people who help find financial support
 🤔 | Ideas & Planning |
 🚇 | Infrastructure (Hosting, Build-Tools, etc) | link to source file (like `travis.yml`) in repo, if applicable
-🚧 | Maintenance | `https://github.com/${ownerName}/${repoName}/commits?author=${username}` | people who help in maintaining the repo
+🚧 | Maintenance | `https://github.com/${ownerName}/${repoName}/commits?author=${username}` | people who help in maintaining the repoistory
 📦 | Packaging/porting to support a new platform
 🔌 | Plugin/utility libraries | the repo home
 👀 | Reviewed Pull Requests
