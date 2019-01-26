@@ -46,7 +46,7 @@ Use this project as an example implementation of the all-contributors specificat
 
 ## Automate acknowledging contributors
 
-You can use [the @all-contributors bot 🤖](/docs/bot/overview) to automate acknowledging contributors to your open source projects
+You can use [the @all-contributors bot 🤖](https://github.com/all-contributors/all-contributors-bot) to automate acknowledging contributors to your open source projects
 
 If you prefer command line tools, there is also the [all-contributors CLI tool](https://github.com/all-contributors/all-contributors-cli)
 
