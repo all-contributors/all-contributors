@@ -12,13 +12,13 @@ sidebar_label: Overview
 
 ## The problem
 
-You want to implement the [All Contributors](/docs/specification) spec, but don't
+You want to implement the [All Contributors](../specification) spec, but don't
 want to maintain the table by hand
 
 ## The CLI solution
 
 The all-contributors-cli is a tool to help automate adding contributor acknowledgements for your GitHub or GitLab repository.
 
-- [Installing the CLI](/docs/cli/installation)
-- [Using the CLI](/docs/cli/usage)
-- [Configuring the CLI](/docs/cli/configuration)
+- [Installing the CLI](installation)
+- [Using the CLI](usage)
+- [Configuring the CLI](configuration)

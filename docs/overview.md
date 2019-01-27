@@ -4,8 +4,10 @@ title: Overview
 sidebar_label: Overview
 ---
 
+> Call for translators! [We're looking for translators](https://github.com/all-contributors/all-contributors/issues/143) to help translate this spec for everyone!
+
 <div align="center">
-    <img src="assets/logo-full-transparent.png" alt="✨ All Contributors ✨" width="800px" />
+    <img src="../assets/logo-full-transparent.png" alt="✨ All Contributors ✨" width="800px" />
 </div>
 
 <a class="github-button" href="https://github.com/all-contributors/all-contributors" data-icon="octicon-star" data-count-href="/all-contributors/all-contributors/stargazers" data-show-count="true" data-count-aria-label="# stargazers on GitHub" aria-label="Star this project on GitHub" >Star</a>
@@ -22,14 +24,14 @@ Everyone should be praised for their contributions (code or not).
 ## The All Contributors Table
 Below is an example of how using the all-contributors spec table can recognize all contributors
 <div align="center">
-    <img src="assets/contributors-table-small.png" alt="All Contributors Table Screenshot" width="800px" />
+    <img src="../assets/contributors-table-small.png" alt="All Contributors Table Screenshot" width="800px" />
 </div>
 
-> You can use [the @all-contributors bot 🤖](/docs/bot/overview) to automate acknowledging contributors to your open source projects
+> You can use [the @all-contributors bot 🤖](bot/overview) to automate acknowledging contributors to your open source projects
 
 ## What's next
-- [The all contributors specification](/docs/specification)
-- [Emoji Key (Contribution Types Reference)](/docs/emoji-key)
-- [Notes for repository maintainers](/docs/repository-maintainers)
-- [Automating the process using tools](/docs/tooling)
+- [The all contributors specification](specification)
+- [Emoji Key (Contribution Types Reference)](emoji-key)
+- [Notes for repository maintainers](repository-maintainers)
+- [Automating the process using tools](tooling)
 

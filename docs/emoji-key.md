@@ -6,7 +6,7 @@ sidebar_label: Emoji Key ✨
 
 ## Table
 
-> To have a contribution added when using the [Bot](/docs/bot/overview) or [CLI](/docs/cli/overview) use the keyword in the `Type` column. The bot will also use [basic Natural Language Parsing](https://github.com/all-contributors/all-contributors-bot/blob/master/src/tasks/processIssueComment/utils/parse-comment/index.js) to determine your contribution intent.
+> To have a contribution added when using the [Bot](bot/overview) or [CLI](cli/overview) use the keyword in the `Type` column. The bot will also use [basic Natural Language Parsing](https://github.com/all-contributors/all-contributors-bot/blob/master/src/tasks/processIssueComment/utils/parse-comment/index.js) to determine your contribution intent.
 
 Emoji/Type | Represents | Comments
 :---: | :---: | :---:
@@ -40,5 +40,5 @@ Emoji/Type | Represents | Comments
 *N/I: These contribution types are currently not supported by tooling.
 
 ## What's next
-- [Notes for repository maintainers](/docs/repository-maintainers)
-- [Automating the process using tools](/docs/tooling)
+- [Notes for repository maintainers](repository-maintainers)
+- [Automating the process using tools](tooling)

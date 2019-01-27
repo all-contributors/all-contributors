@@ -30,16 +30,6 @@ jobs:
       - prep_env
       - run: yarn install --frozen-lockfile
       - save_env_cache
-  website:
-    <<: *docker_defaults
-    working_directory: ~/repo
-    steps:
-      - prep_env
-      - run: yarn build
-      - persist_to_workspace:
-          root: ./
-          paths:
-            - website/build/
   deploy_website:
     <<: *docker_defaults
     working_directory: ~/repo
@@ -51,10 +41,19 @@ jobs:
           fingerprints:
             - "17:59:4f:3f:42:ec:3c:e0:9f:55:88:c7:4d:b8:30:70"
       - run:
+          name: Install crowdin
+          command: |
+              - sudo apt-get install default-jre
+              - wget https://artifacts.crowdin.com/repo/deb/crowdin.deb -O crowdin.deb
+              - sudo dpkg -i crowdin.deb
+      - run:
           name: Setup git user and deploy website
           command: |
             git config --global user.email "circleci-all-contributors-website@users.noreply.github.com"
             git config --global user.name "CircleCI All Contributors Website"
+            - yarn write-translation
+            - yarn crowdin-upload
+            - yarn crowdin-download
             CUSTOM_COMMIT_MESSAGE="[skip ci]" USE_SSH=true yarn publish-gh-pages
 
 workflows:
@@ -62,12 +61,9 @@ workflows:
   build_and_deploy:
     jobs:
       - node_modules
-      - website:
-          requires:
-            - node_modules
       - deploy_website:
           requires:
-            - website
+            - node_modules
           filters:
             branches:
               only:

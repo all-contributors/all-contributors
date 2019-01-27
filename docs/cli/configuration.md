@@ -8,7 +8,7 @@ You can configure all-contributors by updating the `.all-contributorsrc` JSON fi
 The data used to generate the contributors list will be stored in there, and you
 can configure how you want `all-contributors-cli` to generate the list.
 
-> You are viewing the CLI Configuration, are you looking for the [Bot Configuration](/docs/bot/configuration)?
+> You are viewing the CLI Configuration, are you looking for the [Bot Configuration](../bot/configuration)?
 
 These are the keys you can specify:
 
@@ -25,7 +25,7 @@ These are the keys you can specify:
 | `badgeTemplate`       | Define your own lodash template to generate the badge.                                              | |
 | `contributorTemplate` | Define your own lodash template to generate the contributor.                                        | |
 | `types`               | Specify custom symbols or link templates for contribution types. Can override the documented types. | |
-| `contributors`        | List of contributors for this project, this is updated by [all-contributors add](/docs/cli/usage#all-contributors-add) | |
+| `contributors`        | List of contributors for this project, this is updated by [all-contributors add](usage#all-contributors-add) | |
 ```json
 {
   "projectName": "all-contributors-cli",

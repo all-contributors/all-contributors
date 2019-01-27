@@ -1,4 +1,5 @@
 node_modules
 website/build
-i18n
+website/i18n
+website/translated_docs
 yarn-error.log

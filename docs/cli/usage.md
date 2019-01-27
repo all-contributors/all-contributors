@@ -4,7 +4,7 @@ title: CLI Usage
 sidebar_label: Usage
 ---
 
-> This usage documentation assumes you have already followed the [cli installation steps](/docs/cli/installation).
+> This usage documentation assumes you have already followed the [cli installation steps](installation).
 
 A quick note: Below we'll just show `all-contributors` to keep things simple, but if you're having any difficulties, then give the `yarn all-contributors` route a try 😺
 
@@ -29,7 +29,7 @@ all-contributors add jfmengels code,doc
 ```
 
 Where `username` is the user's GitHub or Gitlab username, and `contribution` is a
-`,`-separated list of contributions. See the [Emoji Key (Contribution Types Reference)](/docs/emoji-key)
+`,`-separated list of contributions. See the [Emoji Key (Contribution Types Reference)](../emoji-key)
 for a list of valid `contribution` types.
 
 > **GitLab Users**: See the [additional requirements for GitLab users](#gitlab-users)
@@ -76,4 +76,4 @@ set PRIVATE_TOKEN=your_private_token
 
 
 ## What's next
-- [Configuring the CLI](/docs/cli/configuration)
+- [Configuring the CLI](configuration)
