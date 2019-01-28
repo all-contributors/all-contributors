@@ -5,6 +5,7 @@
         <td><a href="/other/IMPLEMENTATIONS.md">English</a></td>
         <td><a href="/docs/pt-BR/other/IMPLEMENTATIONS.md">Português</a></td>
         <td><a href="/docs/es-ES/other/IMPLEMENTATIONS.md">Español</a></td>
+        <td><a href="/docs/fr-FR/other/IMPLEMENTATIONS.md">Français</a></td>
         <td><a href="/docs/ko-KR/other/IMPLEMENTATIONS.md">한국어</a></td>
     </tr>
 </table>

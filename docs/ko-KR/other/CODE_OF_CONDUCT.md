@@ -5,6 +5,7 @@
         <td><a href="/other/CODE_OF_CONDUCT.md">English</a></td>
         <td><a href="/docs/pt-BR/other/CODE_OF_CONDUCT.md">Português</a></td>
         <td><a href="/docs/es-ES/other/CODE_OF_CONDUCT.md">Español</a></td>
+        <td><a href="/docs/fr-FR/other/CODE_OF_CONDUCT.md">Français</a></td>
         <td><a href="/docs/ko-KR/other/CODE_OF_CONDUCT.md">한국어</a></td>
     </tr>
 </table>
