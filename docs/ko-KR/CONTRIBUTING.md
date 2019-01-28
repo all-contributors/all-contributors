@@ -29,7 +29,7 @@
 
 ## 기여자 되기
 
-이 프로젝트는 [all contributors][all-contributors]를 따릅니다. 
+이 프로젝트는 [all contributors][all-contributors]사양을 따릅니다. 
 README.md의 기여자 리스트에 자신을 추가하려면 PR의 일부로 자동 스크립트를 사용하세요 :
 
 ```console
