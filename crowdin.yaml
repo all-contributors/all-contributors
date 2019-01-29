@@ -12,7 +12,7 @@ files:
         'es-ES': 'es-ES'
         'fr': 'fr'
         'ko': 'ko'
-        'pt-PT': 'pt-PT'
+        'pt-BR': 'pt-BR'
 
   -
     source: '/website/i18n/en.json'
