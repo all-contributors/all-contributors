@@ -13,6 +13,7 @@ files:
         'fr': 'fr'
         'ko': 'ko'
         'pt-BR': 'pt-BR'
+        'zh-CN': 'zh-CN'
 
   -
     source: '/website/i18n/en.json'
