@@ -16,7 +16,7 @@ Emoji/Type | Represents | Comments
 💼 <br /> `business` | Business Development | people who execute on the business end
 💻 <br /> `code` | Code | links to commits by the user on this project
 🖋 <br /> `content` | Content | e.g. website copy, blog posts are separate
-📖 <br /> `doc` | Documentation | links to commits by the user on this project`, Wiki, or other source of documentation
+📖 <br /> `doc` | Documentation | links to commits by the user on this project, Wiki, or other source of documentation
 🎨 <br /> `design` | Design | links to the logo/iconography/visual design/etc.
 💡 <br /> `examples` | Examples | links to the examples
 📋 <br /> `eventOrganizing` | Event Organizers | links to event page |

@@ -5,8 +5,7 @@ sidebar_label: Repository Maintainers
 ---
 
 Contributors should be recognised as soon as the contribution is discovered to help ensure their efforts are not
-overlooked when the list gets updated at a later date. This can be difficult for contributions that are not the
-result of a commit to repository but do your best to minimise the time between the contribution and updating the list.
+overlooked when the list gets updated at a later date. This can be difficult for contributions that are not the result of a commit to the repository but do your best to minimise the time between the contribution and updating the list.
 
 > **Pro tip:** If your project is configured for [the @all-contributors bot 🤖](bot/overview)simply write a comment on an issue or pull request to recognise their contribution. For example:
 >
