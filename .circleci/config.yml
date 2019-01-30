@@ -51,7 +51,7 @@ jobs:
           command: |
             git config --global user.email "circleci-all-contributors-website@users.noreply.github.com"
             git config --global user.name "CircleCI All Contributors Website"
-            yarn write-translation
+            yarn write-translations
             yarn crowdin-upload
             yarn crowdin-download
             CUSTOM_COMMIT_MESSAGE="[skip ci]" USE_SSH=true yarn publish-gh-pages
