@@ -44,7 +44,7 @@ it's due.
 
 
 ### `all-contributors generate`
-Generate will read the `contributors` list from your `.all-contributorsrc` file
+Use `generate` to read the `contributors` list from your `.all-contributorsrc` file
 and update the contributor tables specified by the `files` key.
 
 Please note the command must be able to find the following tags in those files, in order to update the table:
