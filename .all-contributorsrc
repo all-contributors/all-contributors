@@ -77,6 +77,15 @@
       ]
     },
     {
+      "login": "allcontributors",
+      "name": "allcontributors[bot]",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/46843839?v=4",
+      "profile": "https://github.com/all-contributors/all-contributors-bot",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
       "login": "greenkeeper",
       "name": "greenkeeper",
       "avatar_url": "https://avatars1.githubusercontent.com/u/21041633?v=4",
