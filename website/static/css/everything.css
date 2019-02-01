@@ -1,0 +1,9 @@
+
+a {
+  color: #008df9;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+}

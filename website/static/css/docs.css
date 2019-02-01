@@ -1,0 +1,75 @@
+.mainContainer .wrapper .post .postHeaderTitle {
+  margin-top: 12px;
+}
+
+article p img, article iframe {
+    display: inline-block;
+}
+
+.footer-github {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-icon {
+    margin-right: 10px;
+}
+
+.fixedHeaderContainer {
+    background: #fff;
+    color: black;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+}
+
+.fixedHeaderContainer a,
+.navigationSlider .slidingNav ul li.siteNavItemActive a,
+.navigationSlider .slidingNav ul li.siteNavGroupActive a
+{
+    color: #0e0c33 !important;
+    background: #fff !important;
+}
+
+.navigationSlider .slidingNav ul li a  {
+    color: black !important;
+    background: #fff !important;
+}
+
+.navigationSlider .slidingNav ul li a:hover {
+    background: #fff !important;
+    color: #0e0c33 !important;
+}
+
+/* Search ico n*/
+.navSearchWrapper.reactNavSearchWrapper::before {
+    border: 3px solid black;
+}
+.navSearchWrapper.reactNavSearchWrapper::after {
+    background:black;
+}
+
+/* Search bar */
+.reactNavSearchWrapper input#search_input_react {
+    color: black;
+    background: white;
+}
+.reactNavSearchWrapper input#search_input_react:focus {
+    color: black;
+}
+.reactNavSearchWrapper input#search_input_react::placeholder {
+    color: rgba(0, 0, 0, 0.5);
+}
+
+/* Duplicated from above */
+@media only screen and (max-width: 1024px) {
+    .reactNavSearchWrapper input#search_input_react {
+        color: black;
+        background: white;
+    }
+    .reactNavSearchWrapper input#search_input_react:focus {
+        color: black;
+        background: white;
+    }
+    .reactNavSearchWrapper input#search_input_react::placeholder {
+        color: rgba(0, 0, 0, 0.5);
+    }
+}
