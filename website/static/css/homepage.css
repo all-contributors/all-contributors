@@ -185,11 +185,13 @@ p {
     0 4px 8px 0 rgba(45, 34, 152, 0.09);
   transition: 0.35s;
   display: inline-block;
+  text-align: center;
 }
 
 .cta-button:hover {
   transition: 0.35s;
   background: #1e1576;
+  color: #fff;
   box-shadow: 0 18px 28px 0 rgba(110, 96, 230, 0.2),
     0 8px 12px 0 rgba(45, 34, 152, 0.09);
 }
@@ -203,19 +205,22 @@ p {
 }
 
 .cta-secondary:hover {
-  background: var(--ppl-10);
-  border: 2px solid #e7e6f2;
+  background: #fff;
+  border: 2px solid #d1cfe6;
+  color: var(--colored-text);
 }
 
 /*---Header Nav--*/
 .homepage .logo {
   height: 40px;
   margin: 20px;
+  width: calc(100% - 40px);
 }
 
-.homepage .header {
+.homepage header {
   display: flex;
   justify-content: space-between;
+  width: 100%;
 }
 
 .homepage .header nav {
@@ -244,26 +249,25 @@ p {
 }
 
 /*--Hero --*/
-.homepage .hero::before {
+.wave {
   content: '';
-  background: url(../img/bg-swoop.svg);
+  background: url(../img/bg-swoop.svg) no-repeat;
   background-size: 2045px 380px;
   bottom: -40px;
+  background-position: center;
   left: 0;
-  background-position: -430px;
-  background-position: 62%;
-  left: -20px;
   height: 380px;
-  width: calc(100vw + 20px);
-  position: absolute;
+  width: 100%;
+  position: relative;
   z-index: -100;
+  margin-bottom: 0;
 }
 
 .homepage .hero {
   position: relative;
   display: flex;
   padding-top: 50px;
-  padding-bottom: 200px;
+  margin-bottom: -250px;
   align-items: center;
 }
 .homepage .hero img {
@@ -284,6 +288,7 @@ p {
 .benefits {
   background: var(--ppl-10);
   padding-bottom: 40px;
+  padding-top: 40px;
 }
 .benefits h2 {
   margin-bottom: 12px;
@@ -303,7 +308,7 @@ p {
 
 /*--How To--*/
 
-.how-to {
+.homepage .how-to {
   display: flex;
   padding-top: 60px;
 }
@@ -386,19 +391,19 @@ p {
 }
 
 .tile h5 {
-  margin-bottom: 0;
+  margin: 0;
 }
 /*--Users--*/
-.users {
+.homepage .users {
   padding-top: 20px;
   padding-bottom: 60px;
 }
 
-.users p {
+.homepage .users p {
   margin-bottom: 32px;
 }
 
-.user-logos {
+.homepage .user-logos {
   display: flex;
   align-items: center;
   flex: 1;
@@ -434,21 +439,20 @@ p {
 
 /* Existing custom css */
 @media only screen and (max-width: 1023px) {
-  h1,
-  .hero h1 {
+  .homepage .hero h1 {
     font-size: 40px;
   }
-  h2,
+  .homepage h2,
   .benefits h2 {
     font-size: 32px;
   }
-  h3 {
+  .homepage h3 {
     font-size: 24px;
   }
-  h4 {
-    font-size: 20px;
+  .homepage h4 {
+    font-size: 20px !important;
   }
-  h5 {
+  .homepage h5 {
     font-size: 18px;
   }
 
@@ -512,13 +516,14 @@ p {
   }
 
   .homepage .hero {
-    margin-bottom: 20px;
+    margin-bottom: -500px;
     padding-bottom: 20px;
     padding-top: 10px;
   }
 
   .benefits {
-    margin-top: 40px;
+    margin-top: -5px;
+    padding-top: 140px;
   }
   .benefits h2 {
     font-size: 28px;
@@ -533,6 +538,11 @@ p {
     width: calc(100% - 20px);
   }
 
+  .homepage .how-to {
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-top: 0;
+  }
   .how-to h2 {
     margin-bottom: 20px;
   }
