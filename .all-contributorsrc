@@ -93,6 +93,15 @@
       "contributions": [
         "infra"
       ]
+    },
+    {
+      "login": "maryampaz",
+      "name": "Maryam Pazirandeh",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/30090413?v=4",
+      "profile": "https://github.com/maryampaz",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7
