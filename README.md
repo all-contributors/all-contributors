@@ -2,8 +2,8 @@
 The repository contains the code for the All Contributors documentation website. Contributions welcome!
 
 [![Build](https://img.shields.io/circleci/project/github/all-contributors/website/master.svg)](https://circleci.com/gh/all-contributors/website)
-[![Greenkeeper badge](https://badges.greenkeeper.io/all-contributors/website.svg)](https://greenkeeper.io/)
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/all-contributors/localized.svg)](https://crowdin.com/project/all-contributors)
+[![Greenkeeper badge](https://badges.greenkeeper.io/all-contributors/website.svg)](https://greenkeeper.io/)
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors)
 [![Chat on Slack](https://img.shields.io/badge/slack-join-ff69b4.svg)](https://join.slack.com/t/all-contributors/shared_invite/enQtNTE3ODMyMTA4NTk0LTUwZDMxZGZkMmViMzYzYzk2YTM2NjRkZGM5Yzc0ZTc5NmYzNWY3Y2Q0ZTY3ZmFhZDgyY2E3ZmIzNWQwMTUxZmE)
@@ -17,6 +17,8 @@ To get started locally:
 - `yarn start`
 - go to http://localhost:3000 (Refresh the page for your changes to be reflected)
 
+for translations we use crowdin
+[![Crowdin](https://d322cqt584bo4o.cloudfront.net/all-contributors/localized.svg)](https://crowdin.com/project/all-contributors)
 
 ## Contributors
 
