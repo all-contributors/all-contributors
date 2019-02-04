@@ -11,7 +11,7 @@ sidebar_label: Help us Improve
 Thanks for your interest in the project!
 Pull Requests welcome for any level of improvement, from a small typo to new section, help us make the project better
 
-All the source code is available at [github.com/all-contributors/website](https://github.com/all-contributors/website/tree/master/docs)
+All the source code is available at [github.com/all-contributors/all-contributors](https://github.com/all-contributors/all-contributors/tree/master/docs)
 
 ## Editing Content
 

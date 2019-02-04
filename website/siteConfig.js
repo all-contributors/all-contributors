@@ -2,13 +2,13 @@ const siteConfig = {
     title: 'All Contributors',
     tagline: '✨ Recognize all contributors, not just the ones who push code ✨',
     // For deploy
-    cname: 'all-contributors.js.org',
-    url: 'https://all-contributors.js.org',
+    cname: 'allcontributors.org',
+    url: 'https://allcontributors.org',
     baseUrl: '/',
-    projectName: 'website',
+    projectName: 'all-contributors',
     organizationName: 'all-contributors',
     // End deploy options
-    editUrl: 'https://github.com/all-contributors/website/tree/master/docs/',
+    editUrl: 'https://github.com/all-contributors/all-contributors/tree/master/docs/',
     headerLinks: [
         { doc: 'overview', label: 'Docs' },
         { href: "https://github.com/all-contributors/all-contributors", label: "GitHub" },
