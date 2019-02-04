@@ -27,28 +27,77 @@ jobs:
     <<: *docker_defaults
     working_directory: ~/repo
     steps:
-      - prep_env
+      # - prep_env
+      - checkout:
+          path: ~/repo
       - run: cat package.json | jq 'del(.scripts.postinstall)' > package.json.tmp && mv package.json.tmp package.json
       - run: yarn install --frozen-lockfile
       - save_env_cache
-  deploy:
+  build:
     <<: *docker_defaults
     working_directory: ~/repo
     steps:
       - prep_env
-      - run: yarn run semantic-release
+      - run:
+          name: Build website
+          command: yarn build
+  deploy_website:
+    <<: *docker_defaults
+    working_directory: ~/repo
+    steps:
+      - prep_env
+      - add_ssh_keys:
+          fingerprints:
+            - "17:59:4f:3f:42:ec:3c:e0:9f:55:88:c7:4d:b8:30:70"
+      - run:
+          name: Install crowdin
+          command: |
+              sudo apt-get install default-jre
+              wget https://artifacts.crowdin.com/repo/deb/crowdin.deb -O crowdin.deb
+              sudo dpkg -i crowdin.deb
+      - run:
+          name: Setup git user and deploy website
+          command: |
+            git config --global user.email "circleci-all-contributors-website@users.noreply.github.com"
+            git config --global user.name "CircleCI All Contributors Website"
+            yarn write-translations
+            yarn crowdin-upload
+            yarn crowdin-download
+            CUSTOM_COMMIT_MESSAGE="[skip ci]" USE_SSH=true yarn publish-gh-pages
+      - run:
+          name: Semantic release to NPM and GitHub releases
+          command: yarn run semantic-release
+
+  check_404s:
+    <<: *docker_defaults
+    working_directory: ~/repo
+    steps:
+      - prep_env
+      - run:
+          name: Wait to hit CDN edges
+          command: sleep 60
+      - run:
+          name: Check 404s production
+          command: yarn blc https://all-contributors.js.org -ro
+
 workflows:
   version: 2
-  test_and_deploy:
+  build_and_deploy:
     jobs:
       - node_modules
-      - deploy:
+      - build:
           requires:
             - node_modules
+      - deploy_website:
+          requires:
+            - build
           filters:
             branches:
               only:
                 - master
+      - check_404s:
+          requires:
+            - deploy_website
 
 experimental:
   notify:

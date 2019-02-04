@@ -1,15 +1,10 @@
 {
   "projectName": "all-contributors",
-  "projectOwner": "kentcdodds",
+  "projectOwner": "all-contributors",
   "files": [
-    "README.md",
-    "docs/es-ES/README.md",
-    "docs/fr-FR/README.md",
-    "docs/ko-KR/README.md",
-    "docs/pt-BR/README.md"
+    "README.md"
   ],
   "imageSize": 100,
-  "commit": false,
   "contributors": [
     {
       "login": "kentcdodds",
@@ -21,6 +16,79 @@
         "doc",
         "review",
         "talk"
+      ]
+    },
+    {
+      "login": "jfmengels",
+      "name": "Jeroen Engels",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3869412?v=3",
+      "profile": "https://github.com/jfmengels",
+      "contributions": [
+        "doc",
+        "review",
+        "tool"
+      ]
+    },
+    {
+      "login": "jakebolam",
+      "name": "Jake Bolam",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/3534236?v=4",
+      "profile": "https://jakebolam.com",
+      "contributions": [
+        "doc",
+        "tool",
+        "infra",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "tbenning",
+      "name": "tbenning",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/7265547?v=4",
+      "profile": "https://github.com/tbenning",
+      "contributions": [
+        "design",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "sinchang",
+      "name": "Jeff Wen",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/3297859?v=4",
+      "profile": "https://sinchang.me",
+      "contributions": [
+        "maintenance"
+      ]
+    },
+    {
+      "login": "Berkmann18",
+      "name": "Maximilian Berkmann",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/8260834?v=4",
+      "profile": "http://maxcubing.wordpress.com",
+      "contributions": [
+        "translation",
+        "doc",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "MatheusRV",
+      "name": "Matheus Rocha Vieira",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/23284276?v=4",
+      "profile": "http://matheu.srv.br",
+      "contributions": [
+        "translation",
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "robertlluberes",
+      "name": "Robert Lluberes",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/13991439?v=4",
+      "profile": "https://robertlluberes.com",
+      "contributions": [
+        "translation"
       ]
     },
     {
@@ -50,17 +118,6 @@
       "profile": "https://github.com/Jameskmonger",
       "contributions": [
         "doc"
-      ]
-    },
-    {
-      "login": "jfmengels",
-      "name": "Jeroen Engels",
-      "avatar_url": "https://avatars.githubusercontent.com/u/3869412?v=3",
-      "profile": "https://github.com/jfmengels",
-      "contributions": [
-        "doc",
-        "review",
-        "tool"
       ]
     },
     {
@@ -156,57 +213,6 @@
       ]
     },
     {
-      "login": "MatheusRV",
-      "name": "Matheus Rocha Vieira",
-      "avatar_url": "https://avatars0.githubusercontent.com/u/23284276?v=4",
-      "profile": "http://matheu.srv.br",
-      "contributions": [
-        "translation",
-        "code",
-        "doc"
-      ]
-    },
-    {
-      "login": "robertlluberes",
-      "name": "Robert Lluberes",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/13991439?v=4",
-      "profile": "https://robertlluberes.com",
-      "contributions": [
-        "translation"
-      ]
-    },
-    {
-      "login": "jakebolam",
-      "name": "Jake Bolam",
-      "avatar_url": "https://avatars2.githubusercontent.com/u/3534236?v=4",
-      "profile": "https://jakebolam.com",
-      "contributions": [
-        "doc",
-        "tool",
-        "maintenance"
-      ]
-    },
-    {
-      "login": "tbenning",
-      "name": "tbenning",
-      "avatar_url": "https://avatars2.githubusercontent.com/u/7265547?v=4",
-      "profile": "https://github.com/tbenning",
-      "contributions": [
-        "design"
-      ]
-    },
-    {
-      "login": "Berkmann18",
-      "name": "Maximilian Berkmann",
-      "avatar_url": "https://avatars0.githubusercontent.com/u/8260834?v=4",
-      "profile": "maxcubing.wordpress.com",
-      "contributions": [
-        "doc",
-        "translation",
-        "maintenance"
-      ]
-    },
-    {
       "login": "Jongjineee",
       "name": "이종진",
       "avatar_url": "https://avatars2.githubusercontent.com/u/26620470?v=4",
@@ -235,12 +241,30 @@
       ]
     },
     {
-      "login": "sinchang",
-      "name": "Jeff Wen",
-      "avatar_url": "https://avatars0.githubusercontent.com/u/3297859?v=4",
-      "profile": "https://sinchang.me",
+      "login": "allcontributors",
+      "name": "allcontributors[bot]",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/46843839?v=4",
+      "profile": "https://github.com/all-contributors/all-contributors-bot",
       "contributions": [
-        "maintenance"
+        "doc"
+      ]
+    },
+    {
+      "login": "Greenkeeper[bot]",
+      "name": "Greenkeeper[bot]",
+      "avatar_url": "https://avatars3.githubusercontent.com/in/505?v=4",
+      "profile": "https://github.com/apps/greenkeeper",
+      "contributions": [
+        "infra"
+      ]
+    },
+        {
+      "login": "maryampaz",
+      "name": "Maryam Pazirandeh",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/30090413?v=4",
+      "profile": "https://github.com/maryampaz",
+      "contributions": [
+        "doc"
       ]
     }
   ],
