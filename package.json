@@ -9,13 +9,10 @@
   "license": "MIT",
   "scripts": {
     "postinstall": "node index.js",
-    "add-contributor": "all-contributors add",
-    "generate-contributors": "all-contributors generate",
     "semantic-release": "semantic-release"
   },
   "dependencies": {},
   "devDependencies": {
-    "all-contributors-cli": "^5.4.1",
     "semantic-release": "^15.10.5"
   },
   "engines": {
