@@ -30,13 +30,19 @@ jobs:
       - prep_env
       - run: yarn install --frozen-lockfile
       - save_env_cache
+  build:
+    <<: *docker_defaults
+    working_directory: ~/repo
+    steps:
+      - prep_env
+      - run:
+          name: Build website
+          command: yarn build
   deploy_website:
     <<: *docker_defaults
     working_directory: ~/repo
     steps:
       - prep_env
-      - attach_workspace:
-          at: ./
       - add_ssh_keys:
           fingerprints:
             - "17:59:4f:3f:42:ec:3c:e0:9f:55:88:c7:4d:b8:30:70"
@@ -55,19 +61,36 @@ jobs:
             yarn crowdin-upload
             yarn crowdin-download
             CUSTOM_COMMIT_MESSAGE="[skip ci]" USE_SSH=true yarn publish-gh-pages
+  check_404s:
+    <<: *docker_defaults
+    working_directory: ~/repo
+    steps:
+      - prep_env
+      - run:
+          name: Wait to hit CDN edges
+          command: sleep 60
+      - run:
+          name: Check 404s production
+          command: yarn blc https://all-contributors.js.org -ro
 
 workflows:
   version: 2
   build_and_deploy:
     jobs:
       - node_modules
-      - deploy_website:
+      - build:
           requires:
             - node_modules
+      - deploy_website:
+          requires:
+            - build
           filters:
             branches:
               only:
                 - master
+      - check_404s:
+          requires:
+            - deploy_website
 
 experimental:
   notify:
