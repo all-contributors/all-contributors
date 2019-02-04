@@ -210,7 +210,42 @@ p {
   color: var(--colored-text);
 }
 
+/*--Aloha--*/
+.ribbon {
+  font-size: 16px !important;
+  /* This ribbon is based on a 16px font side and a 24px vertical rhythm. I've used em's to position each element for scalability. If you want to use a different font size you may have to play with the position of the ribbon elements */
+  width: 300px;
+  position: absolute;
+  left: 0;
+  top: 80px;
+  background: #ea7068;
+  color: #fff;
+  text-align: centre;
+  padding: 16px; /* Adjust to suit */
+  padding-left: 100px;
+}
+
+.ribbon:after {
+  content: '';
+  position: absolute;
+  display: block;
+  bottom: 0;
+  border: 26px solid #ea7068;
+  z-index: -1;
+  right: -2em;
+  border-left-width: 1.5em;
+  border-right-color: transparent;
+}
+
+@media only screen and (max-width: 650px) {
+  .ribbon {
+    top: 110px;
+    z-index: 100;
+  }
+}
+
 /*---Header Nav--*/
+
 .homepage .logo {
   height: 40px;
   margin: 20px;
