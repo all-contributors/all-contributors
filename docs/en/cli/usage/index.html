@@ -1,0 +1,160 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><title>CLI Usage · All Contributors</title><meta name="viewport" content="width=device-width"/><meta name="generator" content="Docusaurus"/><meta name="description" content="&lt;blockquote&gt;
+&lt;p&gt;This usage documentation assumes you have already followed the &lt;a href=&quot;installation&quot;&gt;cli installation steps&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+"/><meta name="docsearch:language" content="en"/><meta property="og:title" content="CLI Usage · All Contributors"/><meta property="og:type" content="website"/><meta property="og:url" content="https://allcontributors.org/index.html"/><meta property="og:description" content="&lt;blockquote&gt;
+&lt;p&gt;This usage documentation assumes you have already followed the &lt;a href=&quot;installation&quot;&gt;cli installation steps&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+"/><meta name="twitter:card" content="summary"/><link rel="shortcut icon" href="/img/icons/favicon-32x32.png"/><link rel="stylesheet" href="https://cdn.jsdelivr.net/docsearch.js/1/docsearch.min.css"/><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"/><script>
+              (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+              })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+              ga('create', 'UA-131821931-1', 'auto');
+              ga('send', 'pageview');
+            </script><script type="text/javascript" src="https://buttons.github.io/buttons.js"></script><link rel="stylesheet" href="/css/main.css"/><script src="/js/codetabs.js"></script></head><body class="sideNavVisible separateOnPageNav"><div class="fixedHeaderContainer"><div class="headerWrapper wrapper"><header><a href="/en"><img class="logo" src="/img/icons/logo-square-transparent.png" alt="All Contributors"/><h2 class="headerTitleWithLogo">All Contributors</h2></a><div class="navigationWrapper navigationSlider"><nav class="slidingNav"><ul class="nav-site nav-site-internal"><li class="siteNavGroupActive"><a href="/docs/en/overview" target="_self">Docs</a></li><li class=""><a href="https://github.com/all-contributors/all-contributors" target="_self">GitHub</a></li><span><li><a id="languages-menu" href="#"><img class="languages-icon" src="/img/language.svg" alt="Languages icon"/>English</a><div id="languages-dropdown" class="hide"><ul id="languages-dropdown-items"><li><a href="/docs/es-ES/cli/usage">Español</a></li><li><a href="/docs/fr/cli/usage">Français</a></li><li><a href="/docs/ko/cli/usage">한국어</a></li><li><a href="/docs/pt-BR/cli/usage">Português (Brasil)</a></li><li><a href="/docs/zh-CN/cli/usage">中文</a></li></ul></div></li><script>
+        const languagesMenuItem = document.getElementById("languages-menu");
+        const languagesDropDown = document.getElementById("languages-dropdown");
+        languagesMenuItem.addEventListener("click", function(event) {
+          event.preventDefault();
+
+          if (languagesDropDown.className == "hide") {
+            languagesDropDown.className = "visible";
+          } else {
+            languagesDropDown.className = "hide";
+          }
+        });
+      </script></span><li class="navSearchWrapper reactNavSearchWrapper"><input type="text" id="search_input_react" placeholder="Search" title="Search"/></li></ul></nav></div></header></div></div><div class="navPusher"><div class="docMainWrapper wrapper"><div class="container docsNavContainer" id="docsNav"><nav class="toc"><div class="toggleNav"><section class="navWrapper wrapper"><div class="navBreadcrumb wrapper"><div class="navToggle" id="navToggler"><i></i></div><h2><i>›</i><span>CLI</span></h2><div class="tocToggler" id="tocToggler"><i class="icon-toc"></i></div></div><div class="navGroups"><div class="navGroup"><h3 class="navGroupCategoryTitle">Specification</h3><ul class=""><li class="navListItem"><a class="navItem" href="/docs/en/overview">Overview</a></li><li class="navListItem"><a class="navItem" href="/docs/en/specification">Specification</a></li><li class="navListItem"><a class="navItem" href="/docs/en/emoji-key">Emoji Key ✨</a></li><li class="navListItem"><a class="navItem" href="/docs/en/repository-maintainers">Repository Maintainers</a></li><li class="navListItem"><a class="navItem" href="/docs/en/tooling">Tooling</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">@all-contributors Bot 🤖</h3><ul class=""><li class="navListItem"><a class="navItem" href="/docs/en/bot/overview">Overview</a></li><li class="navListItem"><a class="navItem" href="/docs/en/bot/installation">Installation</a></li><li class="navListItem"><a class="navItem" href="/docs/en/bot/usage">Usage</a></li><li class="navListItem"><a class="navItem" href="/docs/en/bot/configuration">Configuration</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">CLI</h3><ul class=""><li class="navListItem"><a class="navItem" href="/docs/en/cli/overview">Overview</a></li><li class="navListItem"><a class="navItem" href="/docs/en/cli/installation">Installation</a></li><li class="navListItem navListItemActive"><a class="navItem" href="/docs/en/cli/usage">Usage</a></li><li class="navListItem"><a class="navItem" href="/docs/en/cli/configuration">Configuration</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Project</h3><ul class=""><li class="navListItem"><a class="navItem" href="/docs/en/project/contribute">Help us Improve</a></li><li class="navListItem"><a class="navItem" href="/docs/en/project/code-of-conduct">Code of Conduct</a></li></ul></div></div></section></div><script>
+            var coll = document.getElementsByClassName('collapsible');
+            var checkActiveCategory = true;
+            for (var i = 0; i < coll.length; i++) {
+              var links = coll[i].nextElementSibling.getElementsByTagName('*');
+              if (checkActiveCategory){
+                for (var j = 0; j < links.length; j++) {
+                  if (links[j].classList.contains('navListItemActive')){
+                    coll[i].nextElementSibling.classList.toggle('hide');
+                    coll[i].childNodes[1].classList.toggle('rotate');
+                    checkActiveCategory = false;
+                    break;
+                  }
+                }
+              }
+
+              coll[i].addEventListener('click', function() {
+                var arrow = this.childNodes[1];
+                arrow.classList.toggle('rotate');
+                var content = this.nextElementSibling;
+                content.classList.toggle('hide');
+              });
+            }
+
+            document.addEventListener('DOMContentLoaded', function() {
+              createToggler('#navToggler', '#docsNav', 'docsSliderActive');
+              createToggler('#tocToggler', 'body', 'tocActive');
+
+              const headings = document.querySelector('.toc-headings');
+              headings && headings.addEventListener('click', function(event) {
+                if (event.target.tagName === 'A') {
+                  document.body.classList.remove('tocActive');
+                }
+              }, false);
+
+              function createToggler(togglerSelector, targetSelector, className) {
+                var toggler = document.querySelector(togglerSelector);
+                var target = document.querySelector(targetSelector);
+
+                if (!toggler) {
+                  return;
+                }
+
+                toggler.onclick = function(event) {
+                  event.preventDefault();
+
+                  target.classList.toggle(className);
+                };
+              }
+            });
+        </script></nav></div><div class="container mainContainer"><div class="wrapper"><div class="post"><header class="postHeader"><a class="edit-page-link button" href="https://github.com/all-contributors/all-contributors/tree/master/docs/cli/usage.md" target="_blank" rel="noreferrer noopener">Edit</a><h1 class="postHeaderTitle">CLI Usage</h1></header><article><div><span><blockquote>
+<p>This usage documentation assumes you have already followed the <a href="installation">cli installation steps</a>.</p>
+</blockquote>
+<p>A quick note: Below we'll just show <code>all-contributors</code> to keep things simple, but if you're having any difficulties, then give the <code>yarn all-contributors</code> route a try 😺</p>
+<h2><a class="anchor" aria-hidden="true" id="commands"></a><a href="#commands" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Commands</h2>
+<ul>
+<li><a href="#all-contributors-init"><code>all-contributors init</code></a></li>
+<li><a href="#all-contributors-add"><code>all-contributors add</code></a></li>
+<li><a href="#all-contributors-check"><code>all-contributors check</code></a></li>
+<li><a href="#all-contributors-generate"><code>all-contributors generate</code></a></li>
+</ul>
+<h3><a class="anchor" aria-hidden="true" id="all-contributors-init"></a><a href="#all-contributors-init" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><code>all-contributors init</code></h3>
+<p>Run this when you first start using the all-contributors-cli. This commands asks a few questions and sets up the project for all-contributors.
+This setup includes creating a <code>.all-contributorsrc</code> configuration file and creating a contributor table in the <code>files</code> you specify (usually your <code>README.md</code>).</p>
+<h3><a class="anchor" aria-hidden="true" id="all-contributors-add"></a><a href="#all-contributors-add" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><code>all-contributors add</code></h3>
+<p>Use <code>add</code> to add new contributors to your project, or add new ways in which they
+have contributed. They will be added to your configuration file, and the
+contributors file will be updated just as if you used the <a href="#all-contributors-generate">generate command</a>.</p>
+<pre><code class="hljs css language-console"><span class="hljs-meta">#</span><span class="bash"> Add new contributor &lt;username&gt;, who made a contribution of <span class="hljs-built_in">type</span> &lt;contribution&gt;</span>
+all-contributors add &lt;username&gt; &lt;contribution&gt;
+<span class="hljs-meta">#</span><span class="bash"> Example:</span>
+all-contributors add jfmengels code,doc
+</code></pre>
+<p>Where <code>username</code> is the user's GitHub or Gitlab username, and <code>contribution</code> is a
+<code>,</code>-separated list of contributions. See the <a href="../emoji-key">Emoji Key (Contribution Types Reference)</a>
+for a list of valid <code>contribution</code> types.</p>
+<blockquote>
+<p><strong>GitLab Users</strong>: See the <a href="#gitlab-users">additional requirements for GitLab users</a></p>
+</blockquote>
+<h3><a class="anchor" aria-hidden="true" id="all-contributors-check"></a><a href="#all-contributors-check" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><code>all-contributors check</code></h3>
+<p>Use <code>check</code> to compare contributors from GitHub with the ones credited in your
+<code>.all-contributorsrc</code> file, in order to make sure that credit is given where
+it's due.</p>
+<blockquote>
+<p>Due to GitHub API restrictions, this command only works for projects with less
+than 500 contributors. (Unless you set a <code>PRIVATE_TOKEN</code>) as mentioned <a href="#github-users">below in GitHub users</a></p>
+</blockquote>
+<h3><a class="anchor" aria-hidden="true" id="all-contributors-generate"></a><a href="#all-contributors-generate" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><code>all-contributors generate</code></h3>
+<p>Use <code>generate</code> to read the <code>contributors</code> list from your <code>.all-contributorsrc</code> file
+and update the contributor tables specified by the <code>files</code> key.</p>
+<p>Please note the command must be able to find the following tags in those files, in order to update the table:</p>
+<pre><code class="hljs"><span class="hljs-comment">&lt;!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section --&gt;</span>
+<span class="hljs-comment">&lt;!-- ALL-CONTRIBUTORS-LIST:END --&gt;</span>
+</code></pre>
+<h2><a class="anchor" aria-hidden="true" id="github-users"></a><a href="#github-users" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>GitHub Users</h2>
+<p>In some cases you may see the error message <code>GitHub API rate limit exceeded for xxx</code>. You may need to set an environment variable named <code>PRIVATE_TOKEN</code> in order to circumvent this <a href="https://developer.github.com/v3/rate_limit/">GitHub rate limit</a>.</p>
+<blockquote>
+<p>Private token is your personal access token to authenticate with the GitHub API.</p>
+</blockquote>
+<h2><a class="anchor" aria-hidden="true" id="gitlab-users"></a><a href="#gitlab-users" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>GitLab Users</h2>
+<p>Please note that if you are using a self-hosted gitlab instance,
+some commands will need you to set an environment variable named <code>PRIVATE_TOKEN</code> first.</p>
+<blockquote>
+<p>Private token is the personal access token to authenticate with the GitLab API.</p>
+</blockquote>
+<pre><code class="hljs css language-console"><span class="hljs-meta">#</span><span class="bash"> <span class="hljs-built_in">set</span> private token on linux</span>
+export PRIVATE_TOKEN=your_private_token
+<span class="hljs-meta">#</span><span class="bash"> <span class="hljs-built_in">set</span> private token on windows</span>
+set PRIVATE_TOKEN=your_private_token
+</code></pre>
+<h2><a class="anchor" aria-hidden="true" id="what-s-next"></a><a href="#what-s-next" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>What's next</h2>
+<ul>
+<li><a href="configuration">Configuring the CLI</a></li>
+</ul>
+</span></div></article></div><div class="docLastUpdate"><em>Last updated on 2019-2-4 by Jake Bolam</em></div><div class="docs-prevnext"><a class="docs-prev button" href="/docs/en/cli/installation"><span class="arrow-prev">← </span><span>Installation</span></a><a class="docs-next button" href="/docs/en/cli/configuration"><span>Configuration</span><span class="arrow-next"> →</span></a></div></div></div><nav class="onPageNav"><ul class="toc-headings"><li><a href="#commands">Commands</a><ul class="toc-headings"><li><a href="#all-contributors-init"><code>all-contributors init</code></a></li><li><a href="#all-contributors-add"><code>all-contributors add</code></a></li><li><a href="#all-contributors-check"><code>all-contributors check</code></a></li><li><a href="#all-contributors-generate"><code>all-contributors generate</code></a></li></ul></li><li><a href="#github-users">GitHub Users</a></li><li><a href="#gitlab-users">GitLab Users</a></li><li><a href="#what-s-next">What's next</a></li></ul></nav></div><footer class="docs-footer"><a href="/"><img class="docs-footer__logo" src="/img/icons/logo-square-transparent.png" alt="All Contributors"/></a><a class="github-button docs-footer__github-stars" href="https://github.com/all-contributors/all-contributors" data-icon="octicon-star" data-count-href="/facebook/docusaurus/stargazers" data-show-count="true" data-count-aria-label="# stargazers on GitHub" aria-label="Star All Contributors on GitHub">Star All Contributors</a></footer></div><script type="text/javascript" src="https://cdn.jsdelivr.net/docsearch.js/1/docsearch.min.js"></script><script>
+                document.addEventListener('keyup', function(e) {
+                  if (e.target !== document.body) {
+                    return;
+                  }
+                  // keyCode for '/' (slash)
+                  if (e.keyCode === 191) {
+                    const search = document.getElementById('search_input_react');
+                    search && search.focus();
+                  }
+                });
+              </script><script>
+              var search = docsearch({
+                
+                apiKey: 'df11e55c8bba69bfec12fca22be89831',
+                indexName: 'all-contributors',
+                inputSelector: '#search_input_react',
+                algoliaOptions: {}
+              });
+            </script></body></html>
