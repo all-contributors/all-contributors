@@ -32,6 +32,14 @@ If you like, [comment on this issue](https://github.com/all-contributors/all-con
 ## Search
 Search is by algolia, configuration is at https://github.com/algolia/docsearch-configs/blob/master/configs/all-contributors.json
 
+## Running the site locally:
+All Contributors uses Docusaurus to maintain our documentation website. For more info visit the [Docusaurus Website](https://docusaurus.io)
+
+To get started locally:
+- `yarn install`
+- `yarn start`
+- go to http://localhost:3000 (Refresh the page for your changes to be reflected)
+
 
 ## Add yourself as a contributor
 To add yourself to the table of contributors, follow the [bot usage instructions](../bot/usage) ;).
