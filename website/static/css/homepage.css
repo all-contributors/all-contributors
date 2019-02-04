@@ -225,6 +225,10 @@ p {
   padding-left: 100px;
 }
 
+.ribbon a {
+  color: white;
+}
+
 .ribbon:after {
   content: '';
   position: absolute;
