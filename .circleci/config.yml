@@ -48,7 +48,7 @@ jobs:
       - prep_env
       - add_ssh_keys:
           fingerprints:
-            - "17:59:4f:3f:42:ec:3c:e0:9f:55:88:c7:4d:b8:30:70"
+            - "52:5e:b6:b5:d7:2c:c9:11:28:8c:23:c9:b0:a7:dc:66"
       - run:
           name: Install crowdin
           command: |
