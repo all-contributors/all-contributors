@@ -16,21 +16,21 @@
     </tr>
 </table>
 
-[![Build Status][https://img.shields.io/circleci/project/all-contributors/all-contributors/master.svg]][https://circleci.com/gh/all-contributors/all-contributors]
+[![Build Status](https://img.shields.io/circleci/project/all-contributors/all-contributors/master.svg)](https://circleci.com/gh/all-contributors/all-contributors)
 [![Greenkeeper badge](https://badges.greenkeeper.io/all-contributors/all-contributors.svg)](https://greenkeeper.io/)
-[![version][https://img.shields.io/npm/v/all-contributors.svg]][https://www.npmjs.com/package/all-contributors]
+[![version](https://img.shields.io/npm/v/all-contributors.svg)](https://www.npmjs.com/package/all-contributors)
 
-[![Chat on slack][https://img.shields.io/badge/slack-join-ff69b4.svg]][https://join.slack.com/t/all-contributors/shared_invite/enQtNTE3ODMyMTA4NTk0LTUwZDMxZGZkMmViMzYzYzk2YTM2NjRkZGM5Yzc0ZTc5NmYzNWY3Y2Q0ZTY3ZmFhZDgyY2E3ZmIzNWQwMTUxZmE]
+[![Chat on slack](https://img.shields.io/badge/slack-join-ff69b4.svg)](https://join.slack.com/t/all-contributors/shared_invite/enQtNTE3ODMyMTA4NTk0LTUwZDMxZGZkMmViMzYzYzk2YTM2NjRkZGM5Yzc0ZTc5NmYzNWY3Y2Q0ZTY3ZmFhZDgyY2E3ZmIzNWQwMTUxZmE)
 [![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg)](#contributors)
-[![PRs Welcome][https://img.shields.io/badge/PRs-welcome-brightgreen.svg]][http://makeapullrequest.com]
-[![Code of Conduct][https://img.shields.io/badge/code%20of-conduct-ff69b4.svg]][https://all-contributors.js.org/docs/en/project/code-of-conduct]
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![Code of Conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg)](https://all-contributors.js.org/docs/en/project/code-of-conduct)
 [![Pull Reminders](https://pullreminders.com/badge.svg)](https://pullreminders.com?ref=badge)
 
-[![Watch on GitHub][https://img.shields.io/github/watchers/all-contributors/all-contributors.svg?style=social]][https://github.com/all-contributors/all-contributors/watchers]
-[![Star on GitHub][https://img.shields.io/github/stars/all-contributors/all-contributors.svg?style=social]][https://github.com/all-contributors/all-contributors/stargazers]
-[![Tweet][https://img.shields.io/twitter/url/https/github.com/all-contributors/all-contributors.svg?style=social]][https://twitter.com/intent/tweet?text=Check%20out%20all-contributors!%20%E2%9C%A8%20Recognize%20all%20contributors,%20not%20just%20the%20ones%20who%20commit%20code%20%E2%9C%A8%20https://github.com/all-contributors/all-contributors%20%F0%9F%A4%97]
-[![Implementations][https://img.shields.io/badge/%F0%9F%92%A1-implementations-8C8E93.svg]][https://all-contributors.js.org/docs/en/project/implementations]
-[![Donate][https://img.shields.io/badge/$-support-green.svg]][https://kcd.im/donate]
+[![Watch on GitHub](https://img.shields.io/github/watchers/all-contributors/all-contributors.svg?style=social)](https://github.com/all-contributors/all-contributors/watchers)
+[![Star on GitHub](https://img.shields.io/github/stars/all-contributors/all-contributors.svg?style=social)](https://github.com/all-contributors/all-contributors/stargazers)
+[![Tweet](https://img.shields.io/twitter/url/https/github.com/all-contributors/all-contributors.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20all-contributors!%20%E2%9C%A8%20Recognize%20all%20contributors,%20not%20just%20the%20ones%20who%20commit%20code%20%E2%9C%A8%20https://github.com/all-contributors/all-contributors%20%F0%9F%A4%97)
+[![Implementations](https://img.shields.io/badge/%F0%9F%92%A1-implementations-8C8E93.svg)](https://all-contributors.js.org/docs/en/project/implementations)
+[![Donate](https://img.shields.io/badge/$-support-green.svg)](https://kcd.im/donate)
 
 This is a specification for recognizing contributors to an open source project in a way that rewards each and every contribution, not just code.
 
