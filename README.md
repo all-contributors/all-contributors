@@ -1,7 +1,7 @@
 # All Contributors Website
 The repository contains the code for the All Contributors documentation website. Contributions welcome!
 
-[![Build](https://img.shields.io/circleci/project/github/all-contributors/website/master.svg)](https://circleci.com/gh/all-contributors/website)
+[![Build](https://img.shields.io/circleci/project/github/all-contributors/website/master.svg)](https://circleci.com/gh/all-contributors/workflows/website/tree/master)
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/all-contributors/localized.svg)](https://crowdin.com/project/all-contributors)
 [![Greenkeeper badge](https://badges.greenkeeper.io/all-contributors/website.svg)](https://greenkeeper.io/)
 
