@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://all-contributors.js.org">
-        <img src="../docs/assets/logo-full-transparent.png" alt="✨ All Contributors ✨" width="800px" />
+        <img src="docs/assets/logo-full-transparent.png" alt="✨ All Contributors ✨" width="800px" />
     </a>
 </div>
 
@@ -44,7 +44,7 @@ Everyone should be praised for their contributions (code or not).
 ## The All Contributors Table
 Below is an example of how using the all-contributors spec table can recognize all contributors
 <div align="center">
-    <img src="../assets/contributors-table-small.png" alt="All Contributors Table Screenshot" width="800px" />
+    <img src="docs/assets/contributors-table-small.png" alt="All Contributors Table Screenshot" width="800px" />
 </div>
 
 > You can use [the @all-contributors bot 🤖](https://all-contributors.js.org/docs/en/bot/overview) to automate acknowledging contributors to your open source projects
