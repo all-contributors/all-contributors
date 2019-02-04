@@ -22,7 +22,7 @@
     "Project": [
       "project/contribute",
       "project/code-of-conduct",
-      "project/whos-using-it"
+      "project/implementations"
     ]
   }
 }
