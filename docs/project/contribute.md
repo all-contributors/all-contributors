@@ -8,10 +8,10 @@ sidebar_label: Help us Improve
 
 ## Help improve the all-contributors documentation!
 
-Pull Requests welcome for any level of improvement, from a small typo to new section, help us make the documentation better!
+Thanks for your interest in the project!
+Pull Requests welcome for any level of improvement, from a small typo to new section, help us make the project better
 
 All the source code is available at [github.com/all-contributors/website](https://github.com/all-contributors/website/tree/master/docs)
-
 
 ## Editing Content
 
@@ -23,5 +23,13 @@ Once on a file, click the 'pencil' icon to [easily edit the file inline](https:/
 </div>
 
 
-## Translation
-Our translations are managed through crowdin. If you want to help contribute [please comment on this thread](https://github.com/all-contributors/all-contributors/issues/143) and I'll add you to the project
+## Translations
+[![Crowdin](https://d322cqt584bo4o.cloudfront.net/all-contributors/localized.svg)](https://crowdin.com/project/all-contributors)
+
+Our translations are managed through crowdin. You can help contribute by heading to [the crowdin project](https://crowdin.com/project/all-contributors) and suggesting translations.
+If you like, [comment on this issue](https://github.com/all-contributors/all-contributors/issues/143) to let us know you're helping or if you have any queries!
+
+
+
+## Add yourself as a contributor
+To add yourself to the table of contributors, follow the [bot usage instructions](../bot/usage) ;).

@@ -14,7 +14,6 @@ const siteConfig = {
         { href: "https://github.com/all-contributors/all-contributors", label: "GitHub" },
     ],
     headerIcon: 'img/icons/logo-square-transparent.png',
-    footerIcon: 'img/icons/logo-square-transparent.png',
     favicon: 'img/icons/favicon-32x32.png',
     colors: {
         primaryColor: '#0e0c33',

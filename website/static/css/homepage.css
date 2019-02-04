@@ -212,7 +212,7 @@ p {
 
 /*--Aloha--*/
 .ribbon {
-  font-size: 16px !important;
+  font-size: 16px;
   /* This ribbon is based on a 16px font side and a 24px vertical rhythm. I've used em's to position each element for scalability. If you want to use a different font size you may have to play with the position of the ribbon elements */
   width: 300px;
   position: absolute;
@@ -220,9 +220,10 @@ p {
   top: 80px;
   background: #ea7068;
   color: #fff;
-  text-align: centre;
+  text-align: center;
   padding: 16px; /* Adjust to suit */
-  padding-left: 100px;
+  height: 52px;
+  font-weight:bold;
 }
 
 .ribbon a {

@@ -19,8 +19,10 @@
       "cli/usage",
       "cli/configuration"
     ],
-    "Documentation": [
-      "website/contribute"
+    "Project": [
+      "project/contribute",
+      "project/code-of-conduct",
+      "project/whos-using-it"
     ]
   }
 }
