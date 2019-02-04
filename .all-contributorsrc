@@ -92,6 +92,25 @@
       ]
     },
     {
+      "login": "Jongjineee",
+      "name": "이종진",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/26620470?v=4",
+      "profile": "https://jongjineee.github.io",
+      "contributions": [
+        "doc",
+        "translation"
+      ]
+    },
+        {
+      "login": "MarsXue",
+      "name": "Wenqing Xue",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/21303543?v=4",
+      "profile": "http://marsx.vip",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
       "login": "bogas04",
       "name": "Divjot Singh",
       "avatar_url": "https://avatars.githubusercontent.com/u/6177621?v=3",
@@ -213,31 +232,12 @@
       ]
     },
     {
-      "login": "Jongjineee",
-      "name": "이종진",
-      "avatar_url": "https://avatars2.githubusercontent.com/u/26620470?v=4",
-      "profile": "https://jongjineee.github.io",
-      "contributions": [
-        "doc",
-        "translation"
-      ]
-    },
-    {
       "login": "The24thDS",
       "name": "David Sima",
       "avatar_url": "https://avatars0.githubusercontent.com/u/26633429?v=4",
       "profile": "https://github.com/The24thDS",
       "contributions": [
         "doc"
-      ]
-    },
-    {
-      "login": "MarsXue",
-      "name": "Wenqing Xue",
-      "avatar_url": "https://avatars2.githubusercontent.com/u/21303543?v=4",
-      "profile": "http://marsx.vip",
-      "contributions": [
-        "translation"
       ]
     },
     {
