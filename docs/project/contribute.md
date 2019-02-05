@@ -29,6 +29,9 @@ Once on a file, click the 'pencil' icon to [easily edit the file inline](https:/
 Our translations are managed through crowdin. You can help contribute by heading to [the crowdin project](https://crowdin.com/project/all-contributors) and suggesting translations.
 If you like, [comment on this issue](https://github.com/all-contributors/all-contributors/issues/143) to let us know you're helping or if you have any queries!
 
+> When translating its important that anything that has the XPATH `@href`, `@src` etc should not be translated. Things like `code` should not be either. This will cause the project to 404. See below image for an example:
+<img src="../../assets/translating-xpath.png" alt="Contribute to translating" />
+
 ## Search
 Search is by algolia, configuration is at https://github.com/algolia/docsearch-configs/blob/master/configs/all-contributors.json
 
