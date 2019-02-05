@@ -266,6 +266,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "itself",
+      "name": "itself",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/7271053?v=4",
+      "profile": "https://github.com/itself",
+      "contributions": [
+        "platform"
+      ]
     }
   ],
   "repoType": "github",
