@@ -9,7 +9,7 @@ sidebar_label: Help us Improve
 ## Help improve the all-contributors documentation!
 
 Thanks for your interest in the project!
-Pull Requests welcome for any level of improvement, from a small typo to new section, help us make the project better
+Pull Requests welcome for any level of improvement, from a small typo to a new section, help us make the project better
 
 All the source code is available at [github.com/all-contributors/all-contributors](https://github.com/all-contributors/all-contributors/tree/master/docs)
 
@@ -36,13 +36,16 @@ If you like, [comment on this issue](https://github.com/all-contributors/all-con
 
 #### Translate strings
 1. Go to [the crowdin project].
-2. Click on the flag of the language you want to translate the documentation to.
-3. Click on any `*.md` files that isn't completely translated (read showing 100% on the right-hand-side)
+2. Click on the flag of the language you want to translate the documentation too.
+3. Click on any `*.md` files that isn't completely translated (read showing 100% on the right-hand side)
 4. Write your translation in the _"Enter translation here"_ field (which would correspond to the translation of the text in the _"SOURCE STRING"_ field above) then click "SAVE"
 5. If someone (including yourself) submitted a suggestion (which should appear in the _"[LANGUAGE] TRANSLATIONS"_ section below) and you believe it's correct then click on the :ballot_box_with_check: icon to approve it.
 
+### Change deployments
+After you translate strings in any given languages, you won't see those changes appearing live until the `master` branch was updated followed by a successful deployment.
+
 ## Search
-Search is by algolia, configuration is at https://github.com/algolia/docsearch-configs/blob/master/configs/all-contributors.json
+Search is by algolia, the configuration is at https://github.com/algolia/docsearch-configs/blob/master/configs/all-contributors.json
 
 ## Running the site locally:
 All Contributors uses Docusaurus to maintain our documentation website. For more info visit the [Docusaurus Website](https://docusaurus.io)
