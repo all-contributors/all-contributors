@@ -27,9 +27,7 @@ jobs:
     <<: *docker_defaults
     working_directory: ~/repo
     steps:
-      # - prep_env
-      - checkout:
-          path: ~/repo
+      - prep_env
       - run: cat package.json | jq 'del(.scripts.postinstall)' > package.json.tmp && mv package.json.tmp package.json
       - run: yarn install --frozen-lockfile
       - save_env_cache
@@ -78,7 +76,7 @@ jobs:
           command: sleep 60
       - run:
           name: Check 404s production
-          command: yarn blc https://all-contributors.js.org -ro
+          command: yarn blc https://allcontributors.org -ro
 
 workflows:
   version: 2

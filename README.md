@@ -1,7 +1,7 @@
 > Call for translators! [We're looking for translators](https://github.com/all-contributors/all-contributors/issues/143) to help translate this spec for everyone!
 
 <div align="center">
-    <a href="https://all-contributors.js.org">
+    <a href="https://allcontributors.org">
         <img src="docs/assets/logo-full-transparent.png" alt="✨ All Contributors ✨" width="800px" />
     </a>
 </div>
@@ -9,12 +9,12 @@
 <table>
     <tr>
         <td>Read these docs in </td>
-        <td><a href="https://all-contributors.js.org/docs/en/overview">English</a></td>
-        <td><a href="https://all-contributors.js.org/docs/pt-BR/overview">Português</a></td>
-        <td><a href="https://all-contributors.js.org/docs/es-ES/overview">Español</a></td>
-        <td><a href="https://all-contributors.js.org/docs/fr/overview">Français</a></td>
-        <td><a href="https://all-contributors.js.org/docs/ko/overview">한국어</a></td>
-        <td><a href="https://all-contributors.js.org/docs/ch-CN/overview">中文</a></td>
+        <td><a href="https://allcontributors.org/docs/en/overview">English</a></td>
+        <td><a href="https://allcontributors.org/docs/pt-BR/overview">Português</a></td>
+        <td><a href="https://allcontributors.org/docs/es-ES/overview">Español</a></td>
+        <td><a href="https://allcontributors.org/docs/fr/overview">Français</a></td>
+        <td><a href="https://allcontributors.org/docs/ko/overview">한국어</a></td>
+        <td><a href="https://allcontributors.org/docs/ch-CN/overview">中文</a></td>
     </tr>
 </table>
 
@@ -26,13 +26,13 @@
 [![Chat on slack](https://img.shields.io/badge/slack-join-ff69b4.svg)](https://join.slack.com/t/all-contributors/shared_invite/enQtNTE3ODMyMTA4NTk0LTUwZDMxZGZkMmViMzYzYzk2YTM2NjRkZGM5Yzc0ZTc5NmYzNWY3Y2Q0ZTY3ZmFhZDgyY2E3ZmIzNWQwMTUxZmE)
 [![All Contributors](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![Code of Conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg)](https://all-contributors.js.org/docs/en/project/code-of-conduct)
+[![Code of Conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg)](https://allcontributors.org/docs/en/project/code-of-conduct)
 [![Pull Reminders](https://pullreminders.com/badge.svg)](https://pullreminders.com?ref=badge)
 
 [![Watch on GitHub](https://img.shields.io/github/watchers/all-contributors/all-contributors.svg?style=social)](https://github.com/all-contributors/all-contributors/watchers)
 [![Star on GitHub](https://img.shields.io/github/stars/all-contributors/all-contributors.svg?style=social)](https://github.com/all-contributors/all-contributors/stargazers)
 [![Tweet](https://img.shields.io/twitter/url/https/github.com/all-contributors/all-contributors.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20all-contributors!%20%E2%9C%A8%20Recognize%20all%20contributors,%20not%20just%20the%20ones%20who%20commit%20code%20%E2%9C%A8%20https://github.com/all-contributors/all-contributors%20%F0%9F%A4%97)
-[![Implementations](https://img.shields.io/badge/%F0%9F%92%A1-implementations-8C8E93.svg)](https://all-contributors.js.org/docs/en/project/implementations)
+[![Implementations](https://img.shields.io/badge/%F0%9F%92%A1-implementations-8C8E93.svg)](https://allcontributors.org/docs/en/project/implementations)
 [![Donate](https://img.shields.io/badge/$-support-green.svg)](https://kcd.im/donate)
 
 This is a specification for recognizing contributors to an open source project in a way that rewards each and every contribution, not just code.
@@ -49,23 +49,23 @@ Below is an example of how using the all-contributors spec table can recognize a
     <img src="docs/assets/contributors-table-small.png" alt="All Contributors Table Screenshot" width="800px" />
 </div>
 
-> You can use [the @all-contributors bot 🤖](https://all-contributors.js.org/docs/en/bot/overview) to automate acknowledging contributors to your open source projects
+> You can use [the @all-contributors bot 🤖](https://allcontributors.org/docs/en/bot/overview) to automate acknowledging contributors to your open source projects
 
 ## Specification
-The [specification](https://all-contributors.js.org) is detailed on [all-contributors.js.org](https://all-contributors.js.org)
+The [specification](https://allcontributors.org) is detailed on [allcontributors.org](https://allcontributors.org)
 
 ## Emoji key
-The [Emoji Key](https://all-contributors.js.org/docs/en/emoji-key) ✨ (and Contribution Types) can be found on [all-contributors.js.org](https://all-contributors.js.org)
+The [Emoji Key](https://allcontributors.org/docs/en/emoji-key) ✨ (and Contribution Types) can be found on [allcontributors.org](https://allcontributors.org)
 
 
 ## Contributing
 If you've ever wanted to contribute to open source, and a great cause, now is your chance!
 
-See the [contributing docs](https://all-contributors.js.org/docs/en/project/contribute) for me information
+See the [contributing docs](https://allcontributors.org/docs/en/project/contribute) for me information
 
 ## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://all-contributors.js.org/docs/en/emoji-key)):
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
@@ -76,7 +76,7 @@ Thanks goes to these wonderful people ([emoji key](https://all-contributors.js.o
 | [<img src="https://avatars2.githubusercontent.com/u/5346497?v=4" width="100px;" alt="Demian Dekoninck"/><br /><sub><b>Demian Dekoninck</b></sub>](https://dem.be)<br />[💻](https://github.com/all-contributors/all-contributors/commits?author=DemianD "Code") | [<img src="https://avatars0.githubusercontent.com/u/23029903?v=4" width="100px;" alt="Michael Peyper"/><br /><sub><b>Michael Peyper</b></sub>](https://github.com/mpeyper)<br />[📖](https://github.com/all-contributors/all-contributors/commits?author=mpeyper "Documentation") | [<img src="https://avatars0.githubusercontent.com/u/26633429?v=4" width="100px;" alt="David Sima"/><br /><sub><b>David Sima</b></sub>](https://github.com/The24thDS)<br />[📖](https://github.com/all-contributors/all-contributors/commits?author=The24thDS "Documentation") | [<img src="https://avatars3.githubusercontent.com/u/46843839?v=4" width="100px;" alt="allcontributors[bot]"/><br /><sub><b>allcontributors[bot]</b></sub>](https://github.com/all-contributors/all-contributors-bot)<br />[📖](https://github.com/all-contributors/all-contributors/commits?author=allcontributors "Documentation") | [<img src="https://avatars3.githubusercontent.com/in/505?v=4" width="100px;" alt="Greenkeeper[bot]"/><br /><sub><b>Greenkeeper[bot]</b></sub>](https://github.com/apps/greenkeeper)<br />[🚇](#infra-Greenkeeper[bot] "Infrastructure (Hosting, Build-Tools, etc)") | [<img src="https://avatars1.githubusercontent.com/u/30090413?v=4" width="100px;" alt="Maryam Pazirandeh"/><br /><sub><b>Maryam Pazirandeh</b></sub>](https://github.com/maryampaz)<br />[📖](https://github.com/all-contributors/all-contributors/commits?author=maryampaz "Documentation") | [<img src="https://avatars1.githubusercontent.com/u/47280556?v=4" width="100px;" alt="Cassandra Venere"/><br /><sub><b>Cassandra Venere</b></sub>](https://github.com/CassVenere)<br />[📖](https://github.com/all-contributors/all-contributors/commits?author=CassVenere "Documentation") |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://all-contributors.js.org) specification.
+This project follows the [all-contributors](https://allcontributors.org) specification.
 Contributions of any kind are welcome!
 
 ## LICENSE
