@@ -29,8 +29,10 @@ Once on a file, click the 'pencil' icon to [easily edit the file inline](https:/
 Our translations are managed through crowdin. You can help contribute by heading to [the crowdin project] and suggesting translations.
 If you like, [comment on this issue](https://github.com/all-contributors/all-contributors/issues/143) to let us know you're helping or if you have any queries!
 
-> When translating its important that anything that has the XPATH `@href`, `@src` etc should not be translated. Things like `code` should not be either. This will cause the project to 404. See below image for an example:
+> When translating, its important that anything that has the [XPATH](https://developer.mozilla.org/en-US/docs/Web/XPath) `@href`, `@src` etc should not be translated. Things like `code` should not be either. This will cause the project to 404. See below image for an example:
 <img src="../../assets/translating-xpath.png" alt="Contribute to translating" />
+
+> However, it's recommended to translate any content that would contribute to a better comprehension like the comments in `code` tags _as long as_ it doesn't change the actual code since it only understands English.
 
 ### How to's
 #### Login to Crowdin
