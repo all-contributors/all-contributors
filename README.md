@@ -14,7 +14,7 @@
         <td><a href="https://allcontributors.org/docs/es-ES/overview">Español</a></td>
         <td><a href="https://allcontributors.org/docs/fr/overview">Français</a></td>
         <td><a href="https://allcontributors.org/docs/ko/overview">한국어</a></td>
-        <td><a href="https://allcontributors.org/docs/ch-CN/overview">中文</a></td>
+        <td><a href="https://allcontributors.org/docs/zh-CN/overview">中文</a></td>
     </tr>
 </table>
 
