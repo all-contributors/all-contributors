@@ -13,6 +13,10 @@ Pull Requests welcome for any level of improvement, from a small typo to a new s
 
 All the source code is available at [github.com/all-contributors/all-contributors](https://github.com/all-contributors/all-contributors/tree/master/docs)
 
+## Committing to an all-contributors repo
+We use the [angular commit convention](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#-commit-message-guidelines) for commits which is used for an automated changelog generation, so it would be advisable to respect that.
+If you're not used to it or are afraid to mis-type a commit, you can run `npm run commit` or `git cz` (if you have installed `commitizen`) which would take you through a few questions and write the commit for you.
+
 ## Editing Content
 
 > **Pro Tip**: Every page has an _Edit_ button up the top, clicking this will take you straight to the GitHub source code for that page
@@ -28,6 +32,11 @@ Once on a file, click the 'pencil' icon to [easily edit the file inline](https:/
 
 Our translations are managed through crowdin. You can help contribute by heading to [the crowdin project] and suggesting translations.
 If you like, [comment on this issue](https://github.com/all-contributors/all-contributors/issues/143) to let us know you're helping or if you have any queries!
+
+> When translating, its important that anything that has the [XPATH](https://developer.mozilla.org/en-US/docs/Web/XPath) `@href`, `@src` etc should not be translated. Things like `code` should not be either. This will cause the project to 404. See below image for an example:
+<img src="../../assets/translating-xpath.png" alt="Contribute to translating" />
+
+> However, it's recommended to translate any content that would contribute to a better comprehension like the comments in `code` tags _as long as_ it doesn't change the actual code since it only understands English.
 
 ### How to's
 #### Login to Crowdin
