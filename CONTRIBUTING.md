@@ -5,3 +5,4 @@ Read the contributing docs in:
 - <a href="https://allcontributors.org/docs/fr/project/contribute">Français</a>
 - <a href="https://allcontributors.org/docs/ko/project/contribute">한국어</a>
 - <a href="https://allcontributors.org/docs/zh-CN/project/contribute">中文</a>
+- <a href="https://allcontributors.org/docs/id/project/contribute">Bahasa Indonesia</a>
