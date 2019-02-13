@@ -40,7 +40,7 @@ Use `check` to compare contributors from GitHub with the ones credited in your
 it's due.
 
 > Due to GitHub API restrictions, this command only works for projects with less
-> than 500 contributors. (Unless you set a `PRIVATE_TOKEN`) as mentioned [below in GitHub users](#github-users)
+> than 500 contributors (Unless you set a `PRIVATE_TOKEN` as mentioned [below in GitHub users](#github-users)).
 
 
 ### `all-contributors generate`
