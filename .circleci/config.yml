@@ -76,7 +76,7 @@ jobs:
           command: sleep 60
       - run:
           name: Check 404s production
-          command: yarn blc https://allcontributors.org -ro
+          command: yarn blc https://allcontributors.org -ro || true
 
 workflows:
   version: 2

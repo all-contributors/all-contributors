@@ -82,9 +82,9 @@ const languages = [
     tag: 'hu',
   },
   {
-    enabled: false,
+    enabled: true,
     name: 'Bahasa Indonesia',
-    tag: 'id-ID',
+    tag: 'id',
   },
   {
     enabled: false,
