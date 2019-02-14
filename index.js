@@ -4,4 +4,5 @@ if (!process.env.CI) {
     'uninstall this module first (npm uninstall all-contributors) and install `all-contributors-cli`.\n\n*******\n\n\n\n'
   console.error(message)
   process.exitCode = 1
+ main.view
 }
