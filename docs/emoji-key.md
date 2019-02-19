@@ -27,6 +27,7 @@ Emoji/Type | Represents | Comments
 🚧 <br /> `maintenance` | Maintenance | people who help in maintaining the repo, links to commits by the user on this project
 📦 <br /> `platform` | Packaging | porting to support a new platform |
 🔌 <br /> `plugin` | Plugin/utility libraries | links to the repo home
+📆 <br/> `pm` | Project Management | |
 👀 <br /> `review` | Reviewed Pull Requests | |
 🛡️ <br /> `security` | Security | identify and/or reduce security threats, GDPR, Privacy, etc
 🔧 <br /> `tool` | Tools | the repo home
