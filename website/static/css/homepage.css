@@ -223,7 +223,7 @@ p {
   text-align: center;
   padding: 16px; /* Adjust to suit */
   height: 52px;
-  font-weight:bold;
+  font-weight: bold;
 }
 
 .ribbon a {
@@ -286,6 +286,11 @@ p {
   display: inline;
   list-style: none;
   margin-left: 20px;
+  margin-top: 0;
+}
+
+li.github-star {
+  padding-top: 5px;
 }
 
 /*--Hero --*/
