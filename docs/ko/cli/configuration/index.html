@@ -1,5 +1,5 @@
-<!DOCTYPE html><html lang="ko"><head><meta charSet="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><title>CLI 설정 · All Contributors</title><meta name="viewport" content="width=device-width"/><meta name="generator" content="Docusaurus"/><meta name="description" content="&lt;p&gt;You can configure all-contributors by updating the &lt;code&gt;.all-contributorsrc&lt;/code&gt; JSON file. The data used to generate the contributors list will be stored in there, and you can configure how you want &lt;code&gt;all-contributors-cli&lt;/code&gt; to generate the list.&lt;/p&gt;
-"/><meta name="docsearch:language" content="ko"/><meta property="og:title" content="CLI 설정 · All Contributors"/><meta property="og:type" content="website"/><meta property="og:url" content="https://allcontributors.org/index.html"/><meta property="og:description" content="&lt;p&gt;You can configure all-contributors by updating the &lt;code&gt;.all-contributorsrc&lt;/code&gt; JSON file. The data used to generate the contributors list will be stored in there, and you can configure how you want &lt;code&gt;all-contributors-cli&lt;/code&gt; to generate the list.&lt;/p&gt;
+<!DOCTYPE html><html lang="ko"><head><meta charSet="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><title>CLI 설정 · All Contributors</title><meta name="viewport" content="width=device-width"/><meta name="generator" content="Docusaurus"/><meta name="description" content="&lt;p&gt;&lt;code&gt;.all-contributorsrc&lt;/code&gt; JSON 파일을 업데이트하여 all-contributors를 구성할 수 있습니다. 기여자 목록을 생성하는 데 사용되는 데이터는 여기에 저장되며 &lt;code&gt;all-contributors-cli&lt;/code&gt;에서 목록을 생성하는 방법을 구성할 수 있습니다.&lt;/p&gt;
+"/><meta name="docsearch:language" content="ko"/><meta property="og:title" content="CLI 설정 · All Contributors"/><meta property="og:type" content="website"/><meta property="og:url" content="https://allcontributors.org/index.html"/><meta property="og:description" content="&lt;p&gt;&lt;code&gt;.all-contributorsrc&lt;/code&gt; JSON 파일을 업데이트하여 all-contributors를 구성할 수 있습니다. 기여자 목록을 생성하는 데 사용되는 데이터는 여기에 저장되며 &lt;code&gt;all-contributors-cli&lt;/code&gt;에서 목록을 생성하는 방법을 구성할 수 있습니다.&lt;/p&gt;
 "/><meta name="twitter:card" content="summary"/><link rel="shortcut icon" href="/img/icons/favicon-32x32.png"/><link rel="stylesheet" href="https://cdn.jsdelivr.net/docsearch.js/1/docsearch.min.css"/><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"/><script>
               (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
               (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -70,24 +70,24 @@
                 };
               }
             });
-        </script></nav></div><div class="container mainContainer"><div class="wrapper"><div class="post"><header class="postHeader"><a class="edit-page-link button" href="https://github.com/all-contributors/all-contributors/tree/master/docs/cli/configuration.md" target="_blank" rel="noreferrer noopener">Edit</a><h1 class="postHeaderTitle">CLI 설정</h1></header><article><div><span><p>You can configure all-contributors by updating the <code>.all-contributorsrc</code> JSON file. The data used to generate the contributors list will be stored in there, and you can configure how you want <code>all-contributors-cli</code> to generate the list.</p>
+        </script></nav></div><div class="container mainContainer"><div class="wrapper"><div class="post"><header class="postHeader"><a class="edit-page-link button" href="https://github.com/all-contributors/all-contributors/tree/master/docs/cli/configuration.md" target="_blank" rel="noreferrer noopener">Edit</a><h1 class="postHeaderTitle">CLI 설정</h1></header><article><div><span><p><code>.all-contributorsrc</code> JSON 파일을 업데이트하여 all-contributors를 구성할 수 있습니다. 기여자 목록을 생성하는 데 사용되는 데이터는 여기에 저장되며 <code>all-contributors-cli</code>에서 목록을 생성하는 방법을 구성할 수 있습니다.</p>
 <blockquote>
-<p>You are viewing the CLI Configuration, are you looking for the <a href="../bot/configuration">Bot Configuration</a>?</p>
+<p>혹시 <a href="../bot/configuration"> 봇 구성</a>을 찾으시나요? 현재 CLI 설정을 잃고 계십니다.</p>
 </blockquote>
-<p>These are the keys you can specify:</p>
+<p>지정할 수있는 키는 다음과 같습니다.</p>
 <table>
 <thead>
-<tr><th>Option</th><th>Description</th><th>Example/Default</th></tr>
+<tr><th>옵션</th><th>내용</th><th>예제/기본값</th></tr>
 </thead>
 <tbody>
-<tr><td><code>projectName</code></td><td>Mandatory, name of the project.</td><td>Example: <code>all-contributors-cli</code></td></tr>
-<tr><td><code>projectOwner</code></td><td>Mandatory, name of the user the project is hosted by.</td><td>Example: <code>jfmengels</code></td></tr>
-<tr><td><code>repoType</code></td><td>Type of repository. Must be either <code>github</code> or <code>gitlab</code>.</td><td>Default: <code>github</code></td></tr>
-<tr><td><code>repoHost</code></td><td>Points to the repository hostname. Change it if you use a self-hosted repository.</td><td>Default: <code>https://github.com</code> if <code>repoType</code> is <code>github</code>, and <code>https://gitlab.com</code> if <code>repoType</code> is <code>gitlab</code></td></tr>
-<tr><td><code>files</code></td><td>Array of files to update.</td><td>Default: <code>['README.md']</code></td></tr>
-<tr><td><code>imageSize</code></td><td>Size (in px) of the user's avatar.</td><td>Default: <code>100</code></td></tr>
-<tr><td><code>commit</code></td><td>Auto-commit badge when adding contributors.</td><td><code>true</code> or <code>false</code></td></tr>
-<tr><td><code>contributorsPerLine</code></td><td>Maximum number of columns for the contributors table.</td><td>Default: <code>7</code></td></tr>
+<tr><td><code>projectName</code></td><td>필수 옵션인 프로젝트 이름.</td><td>예: <code>all-contributors-cli</code></td></tr>
+<tr><td><code>projectOwner</code></td><td>필수적 옵션인 프로젝트가 호스팅되는 사용자의 이름.</td><td>예: <code>jfmengels</code></td></tr>
+<tr><td><code>repoType</code></td><td>리포지토리 유형. <code>github</code>와 <code>gitlab</code> 둘중에 하나.</td><td>기본값: <code>github</code></td></tr>
+<tr><td><code>repoHost</code></td><td>리포지토리 호스트를 가리킵니다. 자가 호스팅 리포지토리를 사용하는 경우 변경하십시오.</td><td>기본값: <code>repoType</code>이 <code>github</code>이면 <code>https://github.com</code>으로, <code>repoType</code>이 <code>gitlab</code>이면 <code>https://gitlab.com</code></td></tr>
+<tr><td><code>files</code></td><td>Array of files to update.</td><td>기본값: <code>['README.md']</code></td></tr>
+<tr><td><code>imageSize</code></td><td>Size (in px) of the user's avatar.</td><td>기본값: <code>100</code></td></tr>
+<tr><td><code>commit</code></td><td>Auto-commit badge when adding contributors.</td><td><code>true</code>나 <code>false</code></td></tr>
+<tr><td><code>contributorsPerLine</code></td><td>Maximum number of columns for the contributors table.</td><td>기본값: <code>7</code></td></tr>
 <tr><td><code>badgeTemplate</code></td><td>Define your own lodash template to generate the badge.</td><td></td></tr>
 <tr><td><code>contributorTemplate</code></td><td>Define your own lodash template to generate the contributor.</td><td></td></tr>
 <tr><td><code>types</code></td><td>Specify custom symbols or link templates for contribution types. Can override the documented types.</td><td></td></tr>
