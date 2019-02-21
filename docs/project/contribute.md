@@ -13,6 +13,9 @@ Pull Requests welcome for any level of improvement, from a small typo to a new s
 
 All the source code is available at [github.com/all-contributors/all-contributors](https://github.com/all-contributors/all-contributors/tree/master/docs)
 
+## New Contributor Onboarding
+We offer new contributor onboarding, if you're interested in taking part in this please comment in the slack channel. 
+
 ## Committing to an all-contributors repo
 We use the [angular commit convention](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#-commit-message-guidelines) for commits which is used for an automated changelog generation, so it would be advisable to respect that.
 If you're not used to it or are afraid to mis-type a commit, you can run `npm run commit` or `git cz` (if you have installed `commitizen`) which would take you through a few questions and write the commit for you.
