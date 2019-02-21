@@ -19,6 +19,7 @@ See [the github All Contributors Core Team group](https://github.com/orgs/all-co
 - [ ] Establish a check-in ritual
 - [ ] Establish a culture of gratitude ritual 
 - [ ] Develop more proactive information-sharing practices
+- [ ] - To keep engaged: sending regular (weekly) updates about the recent events related to the project 
 - [ ] Develop more open and inclusive decision-making processes
 
 ### Building an All Contributors presence and visibilty
