@@ -84,14 +84,14 @@
 <tr><td><code>projectOwner</code></td><td>필수적 옵션인 프로젝트가 호스팅되는 사용자의 이름.</td><td>예: <code>jfmengels</code></td></tr>
 <tr><td><code>repoType</code></td><td>리포지토리 유형. <code>github</code>와 <code>gitlab</code> 둘중에 하나.</td><td>기본값: <code>github</code></td></tr>
 <tr><td><code>repoHost</code></td><td>리포지토리 호스트를 가리킵니다. 자가 호스팅 리포지토리를 사용하는 경우 변경하십시오.</td><td>기본값: <code>repoType</code>이 <code>github</code>이면 <code>https://github.com</code>으로, <code>repoType</code>이 <code>gitlab</code>이면 <code>https://gitlab.com</code></td></tr>
-<tr><td><code>files</code></td><td>Array of files to update.</td><td>기본값: <code>['README.md']</code></td></tr>
-<tr><td><code>imageSize</code></td><td>Size (in px) of the user's avatar.</td><td>기본값: <code>100</code></td></tr>
-<tr><td><code>commit</code></td><td>Auto-commit badge when adding contributors.</td><td><code>true</code>나 <code>false</code></td></tr>
-<tr><td><code>contributorsPerLine</code></td><td>Maximum number of columns for the contributors table.</td><td>기본값: <code>7</code></td></tr>
-<tr><td><code>badgeTemplate</code></td><td>Define your own lodash template to generate the badge.</td><td></td></tr>
-<tr><td><code>contributorTemplate</code></td><td>Define your own lodash template to generate the contributor.</td><td></td></tr>
-<tr><td><code>types</code></td><td>Specify custom symbols or link templates for contribution types. Can override the documented types.</td><td></td></tr>
-<tr><td><code>contributors</code></td><td>List of contributors for this project, this is updated by <a href="usage#all-contributors-add">all-contributors add</a></td><td></td></tr>
+<tr><td><code>files</code></td><td>업데이트 할 파일의 배열.</td><td>기본값: <code>['README.md']</code></td></tr>
+<tr><td><code>imageSize</code></td><td>사용자의 아바타 크기 (픽셀 단위) 입니다.</td><td>기본값: <code>100</code></td></tr>
+<tr><td><code>commit</code></td><td>기여자를 자동 추가 할 때 자동 커밋 배지.</td><td><code>true</code>나 <code>false</code></td></tr>
+<tr><td><code>contributorsPerLine</code></td><td>Contributors 테이블의 최대 열 수.</td><td>기본값: <code>7</code></td></tr>
+<tr><td><code>badgeTemplate</code></td><td>Lodash 템플릿을 정의하여 배지를 생성하세요.</td><td></td></tr>
+<tr><td><code>contributorTemplate</code></td><td>Lodash 템플릿을 정의하여 기여자를 생성하세요.</td><td></td></tr>
+<tr><td><code>types</code></td><td>기여 유형에 대한 사용자 기호 또는 링크 템플리트를 지정하세요. 문서화 된 유형을 대체 할 수 있습니다.</td><td></td></tr>
+<tr><td><code>contributors</code></td><td>이 프로젝트의 참여자 목록입니다. <a href="usage#all-contributors-add">all-contributors-add</a>를 사용하여 업데이트됩니다.</td><td></td></tr>
 </tbody>
 </table>
 <pre><code class="hljs css language-json">{
