@@ -15,19 +15,18 @@ See [the github All Contributors Core Team group](https://github.com/orgs/all-co
 - [x] Add Branding, central Communication Places
 - [x] Launch website and centralize documentation
 
-### Develop more open and inclusive decision-making processes
-- [ ] Task TODO
-
-### Develop more proactive information-sharing practices
-- [ ] Task TODO
-
-### Make sure developers working in languages apart from JavaScript aware that they can use this work and contribute to it
-- [ ] All Contributors Bot in Marketplace (Requires 250 bot installs)
-
-### Make it more inviting #mimi; recognize contributors; make value exchanges clearer
+### Establish an All Contributors community
 - [ ] Establish a check-in ritual
 - [ ] Establish a culture of gratitude ritual 
-- [ ] Possibly:: All Contributors Web App that reognizing contributors
+- [ ] Develop more proactive information-sharing practices
+- [ ] Develop more open and inclusive decision-making processes
+
+### Building an All Contributors presence and visibilty
+- [x] Switch to .org from .js.org and promote to communities outside JavaScript
+- [ ] Create a video
+- [ ] Improve SEO (see goals)
+- [ ] Add all contributors bot to github marketplace (see goals 250 app installs)
+
 
 ## Metrics OKR Period - Open Leaders (Mid Feb 2019 until April 2019)
 ### Project & Website
