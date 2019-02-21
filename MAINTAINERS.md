@@ -9,9 +9,25 @@ Current maintainers:
 
 See [the github All Contributors Core Team group](https://github.com/orgs/all-contributors/teams/core/members)
 
-## Roadmap
-- All Contributors Bot in Marketplace (Requires 250 bot installs)
-- All Contributors Website Portal?
+## Roadmap/Goals
+### Unite all contributor efforts ✅
+- [x] Create central org, and move across all-contributors, all-contributors-cli, all-contributors-atom and all-contributors-bot
+- [x] Add Branding, central Communication Places
+- [x] Launch website and centralize documentation
+
+### Develop more open and inclusive decision-making processes
+- [ ] Task TODO
+
+### Develop more proactive information-sharing practices
+- [ ] Task TODO
+
+### Make sure developers working in languages apart from JavaScript aware that they can use this work and contribute to it
+- [ ] All Contributors Bot in Marketplace (Requires 250 bot installs)
+
+### Make it more inviting #mimi; recognize contributors; make value exchanges clearer
+- [ ] Establish a check-in ritual
+- [ ] Establish a culture of gratitude ritual 
+- [ ] Possibly:: All Contributors Web App that reognizing contributors
 
 ## Metrics OKR Period - Open Leaders (Mid Feb 2019 until April 2019)
 ### Project & Website
