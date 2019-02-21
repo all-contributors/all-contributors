@@ -62,7 +62,7 @@ The [Emoji Key](https://allcontributors.org/docs/en/emoji-key) ✨ (and Contribu
 ## Contributing
 If you've ever wanted to contribute to open source, and a great cause, now is your chance!
 
-See the [contributing docs](https://allcontributors.org/docs/en/project/contribute) for me information
+See the [contributing docs](https://allcontributors.org/docs/en/project/contribute) for more information
 
 ## Contributors ✨
 
