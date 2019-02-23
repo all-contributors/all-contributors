@@ -7,13 +7,13 @@
 /id     /   302
 
 # Language doc redirects
-/docs/*  /docs/en/:splat        302  Language=en
-/docs/*  /docs/es-ES/:splat     302  Language=es
-/docs/*  /docs/fr/:splat        302  Language=fr
-/docs/*  /docs/ko/:splat        302  Language=ko
-/docs/*  /docs/pt-BR/:splat     302  Language=pt
-/docs/*  /docs/zh-CN/:splat     302  Language=zh
-/docs/*  /docs/id/:splat        302  Language=id
+/docs  /docs/en/:splat        302  Language=en
+/docs  /docs/es-ES/:splat     302  Language=es
+/docs  /docs/fr/:splat        302  Language=fr
+/docs  /docs/ko/:splat        302  Language=ko
+/docs  /docs/pt-BR/:splat     302  Language=pt
+/docs  /docs/zh-CN/:splat     302  Language=zh
+/docs  /docs/id/:splat        302  Language=id
 
 # API Proxy
 # /api/*  https://api.example.com/:splat  200
