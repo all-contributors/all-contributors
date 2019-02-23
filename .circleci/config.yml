@@ -37,31 +37,42 @@ jobs:
     steps:
       - prep_env
       - run:
-          name: Build website
-          command: yarn build
-  deploy_website:
-    <<: *docker_defaults
-    working_directory: ~/repo
-    steps:
-      - prep_env
-      - add_ssh_keys:
-          fingerprints:
-            - "52:5e:b6:b5:d7:2c:c9:11:28:8c:23:c9:b0:a7:dc:66"
-      - run:
           name: Install crowdin
           command: |
               sudo apt-get install default-jre
               wget https://artifacts.crowdin.com/repo/deb/crowdin.deb -O crowdin.deb
               sudo dpkg -i crowdin.deb
       - run:
-          name: Setup git user and deploy website
+          name: Build website
           command: |
-            git config --global user.email "circleci-all-contributors-website@users.noreply.github.com"
-            git config --global user.name "CircleCI All Contributors Website"
             yarn write-translations
             yarn crowdin-upload
             yarn crowdin-download
-            CUSTOM_COMMIT_MESSAGE="[skip ci]" USE_SSH=true yarn publish-gh-pages
+            yarn build
+      - persist_to_workspace:
+          root: ~/repo
+          paths:
+            - website/build/all-contributors/
+  deploy_preview_website:
+    <<: *docker_defaults
+    working_directory: ~/repo
+    steps:
+      - prep_env
+      - attach_workspace:
+          at: ~/repo
+      - run:
+          name: Deploy preview site
+          command: yarn netlify deploy
+  deploy_production_website:
+    <<: *docker_defaults
+    working_directory: ~/repo
+    steps:
+      - prep_env
+      - attach_workspace:
+          at: ~/repo
+      - run:
+          name: Deploy production
+          command: yarn netlify deploy --prod
       - run:
           name: Semantic release to NPM and GitHub releases
           command: yarn run semantic-release
@@ -86,7 +97,14 @@ workflows:
       - build:
           requires:
             - node_modules
-      - deploy_website:
+      - deploy_preview_website:
+          requires:
+            - build
+          filters:
+            branches:
+              ignore:
+                - master
+      - deploy_production_website:
           requires:
             - build
           filters:
@@ -95,7 +113,7 @@ workflows:
                 - master
       - check_404s:
           requires:
-            - deploy_website
+            - deploy_production_website
 
 experimental:
   notify:
