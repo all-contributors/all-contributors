@@ -37,11 +37,11 @@ jobs:
     steps:
       - prep_env
       - run:
-        name: Install crowdin
-        command: |
-            sudo apt-get install default-jre
-            wget https://artifacts.crowdin.com/repo/deb/crowdin.deb -O crowdin.deb
-            sudo dpkg -i crowdin.deb
+          name: Install crowdin
+          command: |
+              sudo apt-get install default-jre
+              wget https://artifacts.crowdin.com/repo/deb/crowdin.deb -O crowdin.deb
+              sudo dpkg -i crowdin.deb
       - run:
           name: Build website
           command: |
