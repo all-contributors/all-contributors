@@ -5,3 +5,4 @@
   publish = "website/build/all-contributors/"
   command = "yarn build"
   # functions = "api/functions/"
+
