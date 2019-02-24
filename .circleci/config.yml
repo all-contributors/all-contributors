@@ -58,7 +58,11 @@ workflows:
   version: 2
   build_and_deploy:
     jobs:
-      - node_modules
+      - node_modules:
+          filters:
+            branches:
+              only:
+                - master
       - publish_release:
           requires:
             - node_modules
@@ -69,6 +73,10 @@ workflows:
       - check_404s:
           requires:
             - publish_release
+          filters:
+            branches:
+              only:
+                - master
 
 experimental:
   notify:
