@@ -53,6 +53,9 @@ If you like, [comment on this issue](https://github.com/all-contributors/all-con
 ### Change deployments
 After you translate strings in any given languages, you won't see those changes appearing live until the `master` branch was updated followed by a successful deployment.
 
+### Find 404's and fix them
+Can get a list of 404's by heading to [brokenlinkcheck.com](https://www.brokenlinkcheck.com/broken-links.php) and supplying the site to check.
+
 ## Search
 Search is by algolia, the configuration is at https://github.com/algolia/docsearch-configs/blob/master/configs/all-contributors.json
 
