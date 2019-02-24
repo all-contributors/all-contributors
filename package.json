@@ -14,6 +14,7 @@
     "write-translations": "cd website && ../node_modules/.bin/docusaurus-write-translations",
     "crowdin-upload": "crowdin --config crowdin.yaml upload sources --auto-update -b $CIRCLE_BRANCH ",
     "crowdin-download": "crowdin --config crowdin.yaml download -b $CIRCLE_BRANCH",
+    "pre-deploy": "java -version",
     "commit": "git-cz"
   },
   "dependencies": {},
