@@ -59,19 +59,16 @@ workflows:
   build_and_deploy:
     jobs:
       - node_modules
-      - build:
-          requires:
-            - node_modules
       - publish_release:
           requires:
-            - build
+            - node_modules
           filters:
             branches:
               only:
                 - master
       - check_404s:
           requires:
-            - deploy_production_website
+            - publish_release
 
 experimental:
   notify:
