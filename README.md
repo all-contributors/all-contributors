@@ -23,6 +23,7 @@
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/all-contributors/localized.svg)](https://crowdin.com/project/all-contributors)
 [![Greenkeeper badge](https://badges.greenkeeper.io/all-contributors/all-contributors.svg)](https://greenkeeper.io/)
 [![version](https://img.shields.io/npm/v/all-contributors.svg)](https://www.npmjs.com/package/all-contributors)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e30784c5-9efd-4f20-8a47-13f3fb899613/deploy-status)](https://app.netlify.com/sites/allcontributors-org/deploys)
 
 [![Chat on slack](https://img.shields.io/badge/slack-join-ff69b4.svg)](https://join.slack.com/t/all-contributors/shared_invite/enQtNTE3ODMyMTA4NTk0LTUwZDMxZGZkMmViMzYzYzk2YTM2NjRkZGM5Yzc0ZTc5NmYzNWY3Y2Q0ZTY3ZmFhZDgyY2E3ZmIzNWQwMTUxZmE)
 [![All Contributors](https://img.shields.io/badge/all_contributors-35-orange.svg?style=flat-square)](#contributors)
@@ -57,7 +58,6 @@ The [specification](https://allcontributors.org) is detailed on [allcontributors
 
 ## Emoji key
 The [Emoji Key](https://allcontributors.org/docs/en/emoji-key) ✨ (and Contribution Types) can be found on [allcontributors.org](https://allcontributors.org)
-
 
 ## Contributing
 If you've ever wanted to contribute to open source, and a great cause, now is your chance!
