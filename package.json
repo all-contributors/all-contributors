@@ -8,7 +8,6 @@
   "author": "All Contributors (https://allcontributors.org)",
   "license": "MIT",
   "scripts": {
-    "postinstall": "node index.js",
     "semantic-release": "semantic-release",
     "start": "cd website && ../node_modules/.bin/docusaurus-start",
     "build": "cd website && ../node_modules/.bin/docusaurus-build && cp _redirects build/all-contributors",
@@ -23,7 +22,6 @@
     "cz-conventional-changelog": "^2.1.0",
     "docusaurus": "^1.6.2",
     "git-cz": "^1.8.0",
-    "netlify-cli": "^2.8.0",
     "react": "^16.6.3",
     "semantic-release": "^15.10.5"
   },
