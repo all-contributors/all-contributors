@@ -2,7 +2,6 @@ const siteConfig = {
     title: 'All Contributors',
     tagline: '✨ Recognize all contributors, not just the ones who push code ✨',
     // For deploy
-    cname: 'allcontributors.org',
     url: 'https://allcontributors.org',
     baseUrl: '/',
     projectName: 'all-contributors',

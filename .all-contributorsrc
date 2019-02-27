@@ -331,6 +331,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "s-pace",
+      "name": "Sylvain Pace",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/32097720?v=4",
+      "profile": "https://github.com/s-pace",
+      "contributions": [
+        "plugin"
+      ]
     }
   ],
   "repoType": "github",
