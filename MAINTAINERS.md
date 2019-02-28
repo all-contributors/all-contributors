@@ -19,7 +19,7 @@ See [the github All Contributors Core Team group](https://github.com/orgs/all-co
 - [ ] Establish a check-in ritual
 - [ ] Establish a culture of gratitude ritual 
 - [ ] Develop more proactive information-sharing practices
-- [ ] - To keep engaged: sending regular (weekly) updates about the recent events related to the project 
+- [ ] To keep engaged: sending regular (weekly) updates about the recent events related to the project 
 - [ ] Develop more open and inclusive decision-making processes
 
 ### Building an All Contributors presence and visibilty
@@ -31,9 +31,10 @@ See [the github All Contributors Core Team group](https://github.com/orgs/all-co
 
 ## Metrics OKR Period - Open Leaders (Mid Feb 2019 until April 2019)
 ### Project & Website
-Date | Maintainers | Contributors |Stars | Website Languages  | Website Sessions | Seo Hits
+Date | Maintainers | Contributors | Stars | Website Languages  | Website Sessions | Seo Hits
 ---|---|---|---|---|---|---
-**TARGET for April 201** | 4 | 40 | 2700 | 10 | 500 | 10
+**TARGET for April 2019** | 4 | 40 | 2700 | 10 | 500 | 10
+Wed Feb 27th | 4 | 35 | 2509 | 7 | 636 | 1
 Wed Feb 20th | 4 | 34 | 2442 | 7 | 382 | 0
 Wed Feb 13th | 4 | 33 | 2430 | 6 | 431 | 0
 
@@ -42,8 +43,10 @@ Wed Feb 13th | 4 | 33 | 2430 | 6 | 431 | 0
 Date | Bot Installs | Bot Stars | Bot Messages | Bot PRs 
 ---|---|---|---|---
 **TARGET for April 2019** | 250 | 100 | 50 | 40
+Wed Feb 27th | 121 | 80 | 39 | 37
 Wed Feb 20th | 107 | 75 | 21 | 20
 Wed Feb 13th | 82 | 71 | 24 | 23
+
 
 ## Metric Sources
 - [Bot Installs/Stars](https://probot.github.io/apps/all-contributors/)
