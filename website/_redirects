@@ -1,3 +1,18 @@
+# Redirect default Netlify subdomain to primary domain
+http://allcontributors-org.netlify.com/* https://allcontributors.org/:splat 301!
+https://allcontributors-org.netlify.com/* https://allcontributors.org/:splat 301!
+
+
+# Redirect alternative domains to primary domain
+http://all-contributors.org/* https://allcontributors.org/:splat 301!
+https://all-contributors.org/* https://allcontributors.org/:splat 301!
+
+http://allcontributors.com/* https://allcontributors.org/:splat 301!
+https://allcontributors.com/* https://allcontributors.org/:splat 301!
+
+http://all-contributors.com/* https://allcontributors.org/:splat 301!
+https://all-contributors.com/* https://allcontributors.org/:splat 301!
+
 /en     /   302
 /es-ES  /   302
 /fr     /   302
@@ -20,18 +35,3 @@
 
 # Custom 404 page
 /*    /404.html  404
-
-# Redirect default Netlify subdomain to primary domain
-http://allcontributors-org.netlify.com/* https://allcontributors.org/:splat 301!
-https://allcontributors-org.netlify.com/* https://allcontributors.org/:splat 301!
-
-
-# Redirect alternative domains to primary domain
-http://all-contributors.org/* https://allcontributors.org/:splat 301!
-https://all-contributors.org/* https://allcontributors.org/:splat 301!
-
-http://allcontributors.com/* https://allcontributors.org/:splat 301!
-https://allcontributors.com/* https://allcontributors.org/:splat 301!
-
-http://all-contributors.com/* https://allcontributors.org/:splat 301!
-https://all-contributors.com/* https://allcontributors.org/:splat 301!
