@@ -1,8 +1,7 @@
 <!--
 Thanks for your interest in the project. Bugs filed and PRs submitted are appreciated!
 
-Please make sure that you are familiar with and follow the [Code of Conduct](https://allcontributors.org/docs/en/project/code-of-conduct) for
-this project.
+Please make sure that you are familiar with and follow the [Code of Conduct](https://allcontributors.org/docs/en/project/code-of-conduct) for this project.
 
 Also, please make sure you're familiar with and follow the instructions in the
 [contributing guidelines](https://github.com/all-contributors/all-contributors/blob/master/CONTRIBUTING.md) (found in the CONTRIBUTING.md file).
