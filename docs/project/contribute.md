@@ -40,12 +40,12 @@ If you like, [comment on this issue](https://github.com/all-contributors/all-con
 
 ### How to's
 #### Login to Crowdin
-1. Go to [the crowdin project], then either [sign up](https://crowdin.com/join) then [log in](https://crowdin.com/login).
+1. Go to [the crowdin project], then [sign up](https://crowdin.com/join) and/or [log in](https://crowdin.com/login).
 2. Join the "All Contributors" project and voila!
 
 #### Translate strings
 1. Go to [the crowdin project].
-2. Click on the flag of the language you want to translate the documentation too.
+2. Click on the flag of the language you want to translate the documentation to.
 3. Click on any `*.md` files that isn't completely translated (read showing 100% on the right-hand side)
 4. Write your translation in the _"Enter translation here"_ field (which would correspond to the translation of the text in the _"SOURCE STRING"_ field above) then click "SAVE"
 5. If someone (including yourself) submitted a suggestion (which should appear in the _"[LANGUAGE] TRANSLATIONS"_ section below) and you believe it's correct then click on the :ballot_box_with_check: icon to approve it.
