@@ -1,0 +1,37 @@
+# Redirect default Netlify subdomain to primary domain
+http://allcontributors-org.netlify.com/* https://allcontributors.org/:splat 301!
+https://allcontributors-org.netlify.com/* https://allcontributors.org/:splat 301!
+
+
+# Redirect alternative domains to primary domain
+http://all-contributors.org/* https://allcontributors.org/:splat 301!
+https://all-contributors.org/* https://allcontributors.org/:splat 301!
+
+http://allcontributors.com/* https://allcontributors.org/:splat 301!
+https://allcontributors.com/* https://allcontributors.org/:splat 301!
+
+http://all-contributors.com/* https://allcontributors.org/:splat 301!
+https://all-contributors.com/* https://allcontributors.org/:splat 301!
+
+/en     /   302
+/es-ES  /   302
+/fr     /   302
+/ko     /   302
+/pt-BR  /   302
+/zh-CN  /   302
+/id     /   302
+
+# Language doc redirects
+/docs  /docs/en/overview        302  Language=en
+/docs  /docs/es-ES/overview     302  Language=es
+/docs  /docs/fr/overview        302  Language=fr
+/docs  /docs/ko/overview        302  Language=ko
+/docs  /docs/pt-BR/overview     302  Language=pt
+/docs  /docs/zh-CN/overview     302  Language=zh
+/docs  /docs/id/overview        302  Language=id
+
+# API Proxy
+# /api/*  https://api.example.com/:splat  200
+
+# Custom 404 page
+/*    /404.html  404
