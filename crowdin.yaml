@@ -15,6 +15,7 @@ files:
         'pt-BR': 'pt-BR'
         'zh-CN': 'zh-CN'
         'id': 'id'
+        'de': 'de'
 
   -
     source: '/website/i18n/en.json'

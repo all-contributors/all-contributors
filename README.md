@@ -16,6 +16,7 @@
         <td><a href="https://allcontributors.org/docs/ko/overview">한국어</a></td>
         <td><a href="https://allcontributors.org/docs/zh-CN/overview">中文</a></td>
         <td><a href="https://allcontributors.org/docs/id/overview">Bahasa Indonesia</a></td>
+        <td><a href="https://allcontributors.org/docs/de/overview">Deutsch</a></td>
     </tr>
 </table>
 
