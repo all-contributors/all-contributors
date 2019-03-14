@@ -31,18 +31,22 @@ See [the github All Contributors Core Team group](https://github.com/orgs/all-co
 
 ## Metrics OKR Period - Open Leaders (Mid Feb 2019 until April 2019)
 ### Project & Website
-Date | Maintainers | Contributors | Stars | Website Languages  | Website Sessions | Seo Hits
----|---|---|---|---|---|---
-**TARGET for April 2019** | 4 | 40 | 2700 | 10 | 500 | 10
-Wed Feb 27th | 4 | 35 | 2509 | 7 | 636 | 1
-Wed Feb 20th | 4 | 34 | 2442 | 7 | 382 | 0
-Wed Feb 13th | 4 | 33 | 2430 | 6 | 431 | 0
+Date | Maintainers | Contributors | Stars | Website Languages  | Website Sessions | SEO Clicks | SEO Impressions
+---|---|---|---|---|---|---|---
+**TARGET for April 2019** | 4 | 40 | 2700 | 10 | 500 | 10 | 100
+Wed Mar 13th | 4 | 36 | 2572 | 8 | 434 | 0 | 69
+Wed Mar 6th  | 4 | 36 | - | 7 | 692 | 5 | 43
+Wed Feb 27th | 4 | 35 | 2509 | 7 | 636 | 1 | -
+Wed Feb 20th | 4 | 34 | 2442 | 7 | 382 | 0 | -
+Wed Feb 13th | 4 | 33 | 2430 | 6 | 431 | 0 | -
 
 
 ### Bot
 Date | Bot Installs | Bot Stars | Bot Messages | Bot PRs 
 ---|---|---|---|---
 **TARGET for April 2019** | 250 | 100 | 50 | 40
+Wed Mar 13th | 156 | 92 | 30 | 29
+Wed Mar 6th | - | - | 41 | 37
 Wed Feb 27th | 121 | 80 | 39 | 37
 Wed Feb 20th | 107 | 75 | 21 | 20
 Wed Feb 13th | 82 | 71 | 24 | 23
