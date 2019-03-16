@@ -42,14 +42,14 @@ Wed Feb 13th | 4 | 33 | 2430 | 6 | 431 | 0 | -
 
 
 ### Bot
-Date | Bot Installs | Bot Stars | Bot Messages | Bot PRs 
----|---|---|---|---
-**TARGET for April 2019** | 250 | 100 | 50 | 40
-Wed Mar 13th | 156 | 92 | 30 | 29
-Wed Mar 6th | - | - | 41 | 37
-Wed Feb 27th | 121 | 80 | 39 | 37
-Wed Feb 20th | 107 | 75 | 21 | 20
-Wed Feb 13th | 82 | 71 | 24 | 23
+Date | Installs Total | Installs thisWeek | Uninstalls this Week | Bot Stars | Bot Messages | Bot PRs 
+---|---|---|---|---|---|---
+**TARGET for April 2019** | 250 | 20 | 0 | 100 | 50 | 40
+Wed Mar 13th | 156 | - | - | 92 | 30 | 29
+Wed Mar 6th | - | - | - | - | 41 | 37
+Wed Feb 27th | 121 | - | - | 80 | 39 | 37
+Wed Feb 20th | 107 | - | - | 75 | 21 | 20
+Wed Feb 13th | 82 | - | - | 71 | 24 | 23
 
 
 ## Metric Sources
