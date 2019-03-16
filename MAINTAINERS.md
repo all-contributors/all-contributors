@@ -53,7 +53,7 @@ Wed Feb 13th | 82 | - | - | 71
 
 ### Bot Usage
 Date | GatewayInvokes | GatewayErrors | Bot Messages | Bot Errors | Bot PRs 
----|---|---
+---|---|---|---|---|---
 **TARGET for April 2019** | 10k | 0 | 50 | 0 | 40
 Wed Mar 13th | - | - | 30 | - | 29
 Wed Mar 6th | - | - | 41 | - | 37
