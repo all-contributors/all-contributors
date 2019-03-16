@@ -42,7 +42,7 @@ Wed Feb 13th | 4 | 33 | 2430 | 6 | 431 | 0 | -
 
 
 ### Bot
-Date | Installs Total | Installs thisWeek | Uninstalls this Week | Bot Stars | Bot Messages | Bot PRs 
+Date | Installs Total | Installs this Week | Uninstalls this Week | Bot Stars | Bot Messages | Bot PRs 
 ---|---|---|---|---|---|---
 **TARGET for April 2019** | 250 | 20 | 0 | 100 | 50 | 40
 Wed Mar 13th | 156 | - | - | 92 | 30 | 29
