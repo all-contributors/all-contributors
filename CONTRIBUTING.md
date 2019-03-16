@@ -6,3 +6,5 @@ Read the contributing docs in:
 - <a href="https://allcontributors.org/docs/ko/project/contribute">한국어</a>
 - <a href="https://allcontributors.org/docs/zh-CN/project/contribute">中文</a>
 - <a href="https://allcontributors.org/docs/id/project/contribute">Bahasa Indonesia</a>
+- <a href="https://allcontributors.org/docs/de/project/contribute">Deutsch</a>
+- <a href="https://allcontributors.org/docs/pl/project/contribute">Polskie</a>
