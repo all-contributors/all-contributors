@@ -41,20 +41,34 @@ Wed Feb 20th | 4 | 34 | 2442 | 7 | 382 | 0 | -
 Wed Feb 13th | 4 | 33 | 2430 | 6 | 431 | 0 | -
 
 
-### Bot
-Date | Installs Total | Installs this Week | Uninstalls this Week | Bot Stars | Bot Messages | Bot PRs 
----|---|---|---|---|---|---
-**TARGET for April 2019** | 250 | 20 | 0 | 100 | 50 | 40
-Wed Mar 13th | 156 | - | - | 92 | 30 | 29
-Wed Mar 6th | - | - | - | - | 41 | 37
-Wed Feb 27th | 121 | - | - | 80 | 39 | 37
-Wed Feb 20th | 107 | - | - | 75 | 21 | 20
-Wed Feb 13th | 82 | - | - | 71 | 24 | 23
+### Bot Installs
+Date | Installs Total | Installs this Week | Uninstalls this Week | Bot Stars
+---|---|---|---|---
+**TARGET for April 2019** | 250 | 20 | 0 | 100
+Wed Mar 13th | 156 | - | - | 92 
+Wed Mar 6th | - | - | - | - 
+Wed Feb 27th | 121 | - | - | 80 
+Wed Feb 20th | 107 | - | - | 75
+Wed Feb 13th | 82 | - | - | 71
+
+### Bot Usage
+Date | GatewayInvokes | GatewayErrors | Bot Messages | Bot Errors | Bot PRs 
+---|---|---
+**TARGET for April 2019** | 10k | 0 | 50 | 0 | 40
+Wed Mar 13th | - | - | 30 | - | 29
+Wed Mar 6th | - | - | 41 | - | 37
+Wed Feb 27th | - | - | 39 | - | 37
+Wed Feb 20th | - | - | 21 | - | 20
+Wed Feb 13th | - | - | 24 | - | 23
 
 
 ## Metric Sources
+### Bot
 - [Bot Installs/Stars](https://probot.github.io/apps/all-contributors/)
 - [Analytics](https://analytics.amplitude.com/all-contributors/dashboard/yh9wcyv)
+- [AWS Dashboard](https://console.aws.amazon.com/cloudwatch/home?region=us-east-1#dashboards:name=All-Contributors-Bot)
+
+### Website
 - [Google Analyitics](https://analytics.google.com/analytics/web/#/dashboard/OZG_ZAFyR2-GjE4In1DVBg/a131821931w191468068p187370803/)
 - [Search Console](https://search.google.com/search-console?resource_id=https%3A%2F%2Fallcontributors.org%2F)
 
