@@ -7,3 +7,4 @@ Read the code of conduct in:
 - <a href="https://allcontributors.org/docs/zh-CN/project/code-of-conduct">中文</a>
 - <a href="https://allcontributors.org/docs/od/project/code-of-conduct">Bahasa Indonesia</a>
 - <a href="https://allcontributors.org/docs/de/project/code-of-conduct">Deutsch</a>
+- <a href="https://allcontributors.org/docs/pl/project/code-of-conduct">Polskie</a>
