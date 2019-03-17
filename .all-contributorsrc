@@ -340,6 +340,24 @@
       "contributions": [
         "plugin"
       ]
+    },
+    {
+      "login": "peterhuerlimann",
+      "name": "Peter Hürlimann",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/18031711?v=4",
+      "profile": "http://www.peterhuerlimann.li",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "thiagodp",
+      "name": "Thiago Delgado Pinto",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/2997844?v=4",
+      "profile": "https://github.com/thiagodp",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "repoType": "github",

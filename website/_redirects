@@ -20,6 +20,8 @@ https://all-contributors.com/* https://allcontributors.org/:splat 301!
 /pt-BR  /   302
 /zh-CN  /   302
 /id     /   302
+/de     /   302
+/pl     /   302
 
 # Language doc redirects
 /docs  /docs/en/overview        302  Language=en
@@ -29,6 +31,8 @@ https://all-contributors.com/* https://allcontributors.org/:splat 301!
 /docs  /docs/pt-BR/overview     302  Language=pt
 /docs  /docs/zh-CN/overview     302  Language=zh
 /docs  /docs/id/overview        302  Language=id
+/docs  /docs/de/overview        302  Language=de
+/docs  /docs/pl/overview        302  Language=pl
 
 # API Proxy
 # /api/*  https://api.example.com/:splat  200
