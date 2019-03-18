@@ -43,6 +43,8 @@ https://all-contributors.com/* https://allcontributors.org/:splat 301!
 /docs  /docs/id/overview        302  Language=id
 /docs  /docs/de/overview        302  Language=de
 /docs  /docs/pl/overview        302  Language=pl
+# Fallback to english if no language present
+/docs  /docs/en/overview	      302
 
 # API Proxy
 # /api/*  https://api.example.com/:splat  200
