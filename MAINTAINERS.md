@@ -56,10 +56,10 @@ Wed Feb 13th | 82 | - | - | 71
 * indicates the full data was not available on that week
 
 ### Bot Usage
-Date | GatewayInvokes | GatewayErrors | Bot Messages | Bot Errors | Bot PRs | Bot PR Creation Time
+Date | WebhookInvokes | WebhookErrors | Bot Messages | Bot Errors | Bot PRs | Bot PR Creation Time
 ---|---|---|---|---|---|---
 **TARGET for April 2019** | 10k | 0 | 50 | 0 | 40 | ~10s
-Wed Mar 20th | 5.5k | 21 | 31 | 0 | 31 | ~9s
+Wed Mar 20th | 5.49k | 13 | 31 | 0 | 31 | ~9s
 Wed Mar 13th | - | - | 30 | - | 29 | -
 Wed Mar 6th | - | - | 41 | - | 37 | -
 Wed Feb 27th | - | - | 39 | - | 37 | -
