@@ -28,40 +28,16 @@ jobs:
     working_directory: ~/repo
     steps:
       - prep_env
-      - run: cat package.json | jq 'del(.scripts.postinstall)' > package.json.tmp && mv package.json.tmp package.json
       - run: yarn install --frozen-lockfile
       - save_env_cache
-  build:
+  publish_release:
     <<: *docker_defaults
     working_directory: ~/repo
     steps:
       - prep_env
       - run:
-          name: Build website
-          command: yarn build
-  deploy_website:
-    <<: *docker_defaults
-    working_directory: ~/repo
-    steps:
-      - prep_env
-      - add_ssh_keys:
-          fingerprints:
-            - "52:5e:b6:b5:d7:2c:c9:11:28:8c:23:c9:b0:a7:dc:66"
-      - run:
-          name: Install crowdin
-          command: |
-              sudo apt-get install default-jre
-              wget https://artifacts.crowdin.com/repo/deb/crowdin.deb -O crowdin.deb
-              sudo dpkg -i crowdin.deb
-      - run:
-          name: Setup git user and deploy website
-          command: |
-            git config --global user.email "circleci-all-contributors-website@users.noreply.github.com"
-            git config --global user.name "CircleCI All Contributors Website"
-            yarn write-translations
-            yarn crowdin-upload
-            yarn crowdin-download
-            CUSTOM_COMMIT_MESSAGE="[skip ci]" USE_SSH=true yarn publish-gh-pages
+          name: Don't allow install of package, when published
+          command: cat package.json | jq '.scripts.postinstall = "node index.js"' > package.json.tmp && mv package.json.tmp package.json
       - run:
           name: Semantic release to NPM and GitHub releases
           command: yarn run semantic-release
@@ -73,7 +49,7 @@ jobs:
       - prep_env
       - run:
           name: Wait to hit CDN edges
-          command: sleep 60
+          command: sleep 500
       - run:
           name: Check 404s production
           command: yarn blc https://allcontributors.org -ro || true
@@ -82,20 +58,25 @@ workflows:
   version: 2
   build_and_deploy:
     jobs:
-      - node_modules
-      - build:
+      - node_modules:
+          filters:
+            branches:
+              only:
+                - master
+      - publish_release:
           requires:
             - node_modules
-      - deploy_website:
-          requires:
-            - build
           filters:
             branches:
               only:
                 - master
       - check_404s:
           requires:
-            - deploy_website
+            - publish_release
+          filters:
+            branches:
+              only:
+                - master
 
 experimental:
   notify:
