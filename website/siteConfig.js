@@ -45,7 +45,6 @@ const siteConfig = {
         apiKey: 'df11e55c8bba69bfec12fca22be89831',
         indexName: 'all-contributors',
         algoliaOptions: {
-            // TODO: only search in this language
             facetFilters: [ "language:LANGUAGE" ]
         }
     },
