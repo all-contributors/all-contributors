@@ -46,7 +46,7 @@ const siteConfig = {
         indexName: 'all-contributors',
         algoliaOptions: {
             // TODO: only search in this language
-            // facetFilters: [ "language:LANGUAGE" ]
+            facetFilters: [ "language:LANGUAGE" ]
         }
     },
 }
