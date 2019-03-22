@@ -3201,10 +3201,10 @@ gifsicle@^4.0.0:
     execa "^1.0.0"
     logalot "^2.0.0"
 
-git-cz@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/git-cz/-/git-cz-2.0.0.tgz#e75549e458945426b12d28511c2b9711bd8587e9"
-  integrity sha512-OZOIf1PHP374Y6qSww9xm+0P9H5wLIs3061cDfPxO7K3PR1JbXfcRUDIXkJ3yWGorew1N9pmkQjBMTcwRVnROg==
+git-cz@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/git-cz/-/git-cz-3.0.0.tgz#f7eea129af0238ec9ebdde32a23229ac3da4ca0e"
+  integrity sha512-/64Km/xx0gyE+Sdf5NS9nDFdY/+ZIKpeRELBm46P2FJ+DHEZsa1kKOxgcL4UtkG2CUrS/QOdWMKYWM8luR9wzQ==
 
 git-log-parser@^1.2.0:
   version "1.2.0"
