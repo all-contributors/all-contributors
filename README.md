@@ -26,9 +26,6 @@
     </tbody>
 </table>
 
-
-<hr />
-
 [![Build Status](https://img.shields.io/circleci/project/all-contributors/all-contributors/master.svg)](https://circleci.com/gh/all-contributors/workflows/all-contributors/tree/master)
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/all-contributors/localized.svg)](https://crowdin.com/project/all-contributors)
 [![Greenkeeper badge](https://badges.greenkeeper.io/all-contributors/all-contributors.svg)](https://greenkeeper.io/)
