@@ -6,20 +6,28 @@
     </a>
 </div>
 
+
 <table>
-    <tr>
-        <td>Read these docs in </td>
-        <td><a href="https://allcontributors.org/docs/en/overview">English</a></td>
-        <td><a href="https://allcontributors.org/docs/pt-BR/overview">Português</a></td>
-        <td><a href="https://allcontributors.org/docs/es-ES/overview">Español</a></td>
-        <td><a href="https://allcontributors.org/docs/fr/overview">Français</a></td>
-        <td><a href="https://allcontributors.org/docs/ko/overview">한국어</a></td>
-        <td><a href="https://allcontributors.org/docs/zh-CN/overview">中文</a></td>
-        <td><a href="https://allcontributors.org/docs/id/overview">Bahasa Indonesia</a></td>
-        <td><a href="https://allcontributors.org/docs/de/overview">Deutsch</a></td>
-        <td><a href="https://allcontributors.org/docs/pl/overview">Polskie</a></td>
-    </tr>
+    <caption>Read these docs in the following languages</caption>
+    <tbody>
+        <tr>
+            <td><a href="https://allcontributors.org/docs/ko/overview">한국어</a></td>
+            <td><a href="https://allcontributors.org/docs/zh-CN/overview">中文</a></td>
+            <td><a href="https://allcontributors.org/docs/id/overview">Bahasa Indonesia</a></td>
+            <td><a href="https://allcontributors.org/docs/de/overview">Deutsch</a></td>
+            <td><a href="https://allcontributors.org/docs/pl/overview">Polskie</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://allcontributors.org/docs/en/overview">English</a></td>
+            <td><a href="https://allcontributors.org/docs/pt-BR/overview">Português</a></td>
+            <td><a href="https://allcontributors.org/docs/es-ES/overview">Español</a></td>
+            <td><a href="https://allcontributors.org/docs/fr/overview">Français</a></td>
+        </tr>
+    </tbody>
 </table>
+
+
+<hr />
 
 [![Build Status](https://img.shields.io/circleci/project/all-contributors/all-contributors/master.svg)](https://circleci.com/gh/all-contributors/workflows/all-contributors/tree/master)
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/all-contributors/localized.svg)](https://crowdin.com/project/all-contributors)
