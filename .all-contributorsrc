@@ -367,6 +367,33 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "jprask",
+      "name": "João Pedro Raskopf",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/28638133?v=4",
+      "profile": "http://lattes.cnpq.br/4287615973321905",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "edwinvrgs",
+      "name": "Edwin Vargas",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/9091905?v=4",
+      "profile": "http://edwinvargas.com.ve",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "fkanout",
+      "name": "Faisal KANOUT",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/6838659?v=4",
+      "profile": "https://kanout.com",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "repoType": "github",
