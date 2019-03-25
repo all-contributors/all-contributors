@@ -2345,9 +2345,10 @@ dir-glob@^2.0.0, dir-glob@^2.2.1:
   dependencies:
     path-type "^3.0.0"
 
-docusaurus@^1.6.2:
-  version "1.7.2"
-  resolved "https://registry.yarnpkg.com/docusaurus/-/docusaurus-1.7.2.tgz#2de7323a8b27da3a4e54cab90fc397c786326a9a"
+docusaurus@^1.7.3:
+  version "1.7.3"
+  resolved "https://registry.yarnpkg.com/docusaurus/-/docusaurus-1.7.3.tgz#c3546ec83ca83f5840c46b529e54f12b8f6fb565"
+  integrity sha512-FiMtqdX2ytp176ahp+F3epqe0KyTZ12jx2xw2NLmgxCd7d9rbZ6bWHHHGjevi77VhXnM1ZUZQZkmsh3Hl+TlGA==
   dependencies:
     "@babel/core" "^7.0.0"
     "@babel/plugin-proposal-class-properties" "^7.0.0"
@@ -3200,9 +3201,10 @@ gifsicle@^4.0.0:
     execa "^1.0.0"
     logalot "^2.0.0"
 
-git-cz@^1.8.0:
-  version "1.8.0"
-  resolved "https://registry.yarnpkg.com/git-cz/-/git-cz-1.8.0.tgz#b8a116d70e03f2fd8243444a788e75cf0001cdcc"
+git-cz@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/git-cz/-/git-cz-3.0.0.tgz#f7eea129af0238ec9ebdde32a23229ac3da4ca0e"
+  integrity sha512-/64Km/xx0gyE+Sdf5NS9nDFdY/+ZIKpeRELBm46P2FJ+DHEZsa1kKOxgcL4UtkG2CUrS/QOdWMKYWM8luR9wzQ==
 
 git-log-parser@^1.2.0:
   version "1.2.0"

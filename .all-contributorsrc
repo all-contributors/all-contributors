@@ -342,12 +342,57 @@
       ]
     },
     {
-      "login": "simonhoyos",
-      "name": "Simon Hoyos",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/23706543?v=4",
-      "profile": "https://www.linkedin.com/in/simonhoyos/",
+      "login": "peterhuerlimann",
+      "name": "Peter Hürlimann",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/18031711?v=4",
+      "profile": "http://www.peterhuerlimann.li",
       "contributions": [
-        "doc"
+        "translation"
+      ]
+    },
+    {
+      "login": "thiagodp",
+      "name": "Thiago Delgado Pinto",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/2997844?v=4",
+      "profile": "https://github.com/thiagodp",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "danielbronder",
+      "name": "danielbronder",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/9819957?v=4",
+      "profile": "https://github.com/danielbronder",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "jprask",
+      "name": "João Pedro Raskopf",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/28638133?v=4",
+      "profile": "http://lattes.cnpq.br/4287615973321905",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "edwinvrgs",
+      "name": "Edwin Vargas",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/9091905?v=4",
+      "profile": "http://edwinvargas.com.ve",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "fkanout",
+      "name": "Faisal KANOUT",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/6838659?v=4",
+      "profile": "https://kanout.com",
+      "contributions": [
+        "translation"
       ]
     }
   ],

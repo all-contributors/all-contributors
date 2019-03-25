@@ -31,26 +31,50 @@ See [the github All Contributors Core Team group](https://github.com/orgs/all-co
 
 ## Metrics OKR Period - Open Leaders (Mid Feb 2019 until April 2019)
 ### Project & Website
-Date | Maintainers | Contributors | Stars | Website Languages  | Website Sessions | Seo Hits
----|---|---|---|---|---|---
-**TARGET for April 2019** | 4 | 40 | 2700 | 10 | 500 | 10
-Wed Feb 27th | 4 | 35 | 2509 | 7 | 636 | 1
-Wed Feb 20th | 4 | 34 | 2442 | 7 | 382 | 0
-Wed Feb 13th | 4 | 33 | 2430 | 6 | 431 | 0
+Date | Maintainers | Contributors | Stars | Website Languages  | Website Sessions | SEO Clicks | SEO Impressions
+---|---|---|---|---|---|---|---
+**TARGET for April 2019** | 4 | 40 | 2700 | 10 | 500 | 10 | 100
+Wed Mar 20th | 4 | 37 | 2609 | 9 | 449 | 4 | 100
+Wed Mar 13th | 4 | 36 | 2572 | 8 | 434 | 0 | 69
+Wed Mar 6th  | 4 | 36 | - | 7 | 692 | 5 | 43
+Wed Feb 27th | 4 | 35 | 2509 | 7 | 636 | 1 | -
+Wed Feb 20th | 4 | 34 | 2442 | 7 | 382 | 0 | -
+Wed Feb 13th | 4 | 33 | 2430 | 6 | 431 | 0 | -
 
 
-### Bot
-Date | Bot Installs | Bot Stars | Bot Messages | Bot PRs 
+### Bot Installs
+Date | Installs Total | Installs this Week | Uninstalls this Week | Bot Stars
 ---|---|---|---|---
-**TARGET for April 2019** | 250 | 100 | 50 | 40
-Wed Feb 27th | 121 | 80 | 39 | 37
-Wed Feb 20th | 107 | 75 | 21 | 20
-Wed Feb 13th | 82 | 71 | 24 | 23
+**TARGET for April 2019** | 250 | 20 | 0 | 100
+Wed Mar 20th | 214 | 13* | 3* | 93 
+Wed Mar 13th | unavailable [bot#167](https://github.com/all-contributors/all-contributors-bot/issues/167) | - | - | 92 
+Wed Mar 6th | 156 | - | - | - 
+Wed Feb 27th | 121 | - | - | 80 
+Wed Feb 20th | 107 | - | - | 75
+Wed Feb 13th | 82 | - | - | 71
+
+* indicates the full data was not available on that week
+
+### Bot Usage
+Date | WebhookInvokes | WebhookErrors | Bot Messages | Bot Errors | Bot PRs | Bot PR Creation Time
+---|---|---|---|---|---|---
+**TARGET for April 2019** | 10k | 0 | 50 | 0 | 40 | ~10s
+Wed Mar 20th | 5.49k | 13 | 31 | 0 | 31 | ~9s
+Wed Mar 13th | - | - | 30 | - | 29 | -
+Wed Mar 6th | - | - | 41 | - | 37 | -
+Wed Feb 27th | - | - | 39 | - | 37 | -
+Wed Feb 20th | - | - | 21 | - | 20 | -
+Wed Feb 13th | - | - | 24 | - | 23 | -
+
 
 
 ## Metric Sources
+### Bot
 - [Bot Installs/Stars](https://probot.github.io/apps/all-contributors/)
 - [Analytics](https://analytics.amplitude.com/all-contributors/dashboard/yh9wcyv)
+- [AWS Dashboard](https://console.aws.amazon.com/cloudwatch/home?region=us-east-1#dashboards:name=All-Contributors-Bot)
+
+### Website
 - [Google Analyitics](https://analytics.google.com/analytics/web/#/dashboard/OZG_ZAFyR2-GjE4In1DVBg/a131821931w191468068p187370803/)
 - [Search Console](https://search.google.com/search-console?resource_id=https%3A%2F%2Fallcontributors.org%2F)
 
