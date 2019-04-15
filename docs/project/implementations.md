@@ -29,6 +29,8 @@ list, please [edit this page](contribute)!
 - [GitPoint](https://github.com/gitpoint/git-point)
 - [ioof-holdings/redux-subspace](https://github.com/ioof-holdings/redux-subspace)
 - [syt123450/giojs](https://github.com/syt123450/giojs)
+- [olavoparno/jest-badges-readme](https://github.com/olavoparno/jest-badges-readme)
+- [gatewayapps/kamino](https://github.com/gatewayapps/kamino)
 
 **Note**: There are many projects not listed here. You'll probably be able to find more with this
 [github search for .all-contributorsrc](https://github.com/search?utf8=%E2%9C%93&q=.all-contributorsrc+in%3Apath&type=Code&ref=searchresults)
