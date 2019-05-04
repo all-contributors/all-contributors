@@ -22,6 +22,8 @@
             <td><a href="https://allcontributors.org/docs/pt-BR/overview">Português</a></td>
             <td><a href="https://allcontributors.org/docs/es-ES/overview">Español</a></td>
             <td><a href="https://allcontributors.org/docs/fr/overview">Français</a></td>
+            <td><a href="https://allcontributors.org/docs/ru/overview">Русский</a></td>
+            <td><a href="https://allcontributors.org/docs/ja/overview">日本語</a></td>
         </tr>
     </tbody>
 </table>
