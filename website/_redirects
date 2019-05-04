@@ -22,6 +22,8 @@ https://all-contributors.com/* https://allcontributors.org/:splat 301!
 /id     /   302
 /de     /   302
 /pl     /   302
+/ru     /   302
+/ja     /   302
 
 /docs/en     /docs/en/overview   302
 /docs/es-ES  /docs/es-ES/overview   302
@@ -32,6 +34,8 @@ https://all-contributors.com/* https://allcontributors.org/:splat 301!
 /docs/id     /docs/id/overview   302
 /docs/de     /docs/de/overview   302
 /docs/pl     /docs/pl/overview   302
+/docs/ru     /docs/ru/overview   302
+/docs/ja     /docs/ja/overview   302
 
 # Language doc redirects
 /docs  /docs/en/overview        302  Language=en
@@ -43,6 +47,8 @@ https://all-contributors.com/* https://allcontributors.org/:splat 301!
 /docs  /docs/id/overview        302  Language=id
 /docs  /docs/de/overview        302  Language=de
 /docs  /docs/pl/overview        302  Language=pl
+/docs  /docs/ru/overview        302  Language=ru
+/docs  /docs/ja/overview        302  Language=ja
 # Fallback to english if no language present
 /docs  /docs/en/overview	      302
 
