@@ -8,3 +8,5 @@ Read the contributing docs in:
 - <a href="https://allcontributors.org/docs/id/project/contribute">Bahasa Indonesia</a>
 - <a href="https://allcontributors.org/docs/de/project/contribute">Deutsch</a>
 - <a href="https://allcontributors.org/docs/pl/project/contribute">Polskie</a>
+- <a href="https://allcontributors.org/docs/ru/project/contribute">Русский</a>
+- <a href="https://allcontributors.org/docs/ja/project/contribute">日本語</a>
