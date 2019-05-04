@@ -64,7 +64,7 @@ All Contributors uses Docusaurus to maintain our documentation website. For more
 To get started locally:
 - `yarn install`
 - `yarn start`
-- go to http://localhost:3000 (Refresh the page for your changes to be reflected)
+- go to `http://localhost:3000` (Refresh the page for your changes to be reflected)
 
 
 ## Add yourself as a contributor
