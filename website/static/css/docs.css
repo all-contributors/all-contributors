@@ -27,20 +27,19 @@ article p img, article iframe {
     box-shadow: 0 1px 4px rgba(0,0,0,0.1);
 }
 
-.fixedHeaderContainer a,
-.navigationSlider .slidingNav ul li.siteNavItemActive a,
-.navigationSlider .slidingNav ul li.siteNavGroupActive a
+.navigationSlider .slidingNav ul li.siteNavItemActive > a,
+.navigationSlider .slidingNav ul li.siteNavGroupActive > a
 {
     color: #0e0c33 !important;
     background: #fff !important;
 }
 
-.navigationSlider .slidingNav ul li a  {
+.navigationSlider .slidingNav ul li > a  {
     color: black !important;
     background: #fff !important;
 }
 
-.navigationSlider .slidingNav ul li a:hover {
+.navigationSlider .slidingNav ul li > a:hover {
     background: #fff !important;
     color: #0e0c33 !important;
 }

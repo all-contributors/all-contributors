@@ -67,9 +67,9 @@ some commands will need you to set an environment variable named `PRIVATE_TOKEN`
 > Private token is the personal access token to authenticate with the GitLab API.
 
 ```console
-# set private token on linux
+# set private token on Linux
 export PRIVATE_TOKEN=your_private_token
-# set private token on windows
+# set private token on Windows
 set PRIVATE_TOKEN=your_private_token
 ```
 

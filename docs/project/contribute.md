@@ -6,6 +6,8 @@ sidebar_label: Help us Improve
 
 > Call for translators! [We're looking for translators](https://github.com/all-contributors/all-contributors/issues/143) to help translate this spec for everyone!
 
+We work out of a slack workspace, feel free to [come join us](https://join.slack.com/t/all-contributors/shared_invite/enQtNTE3ODMyMTA4NTk0LTUwZDMxZGZkMmViMzYzYzk2YTM2NjRkZGM5Yzc0ZTc5NmYzNWY3Y2Q0ZTY3ZmFhZDgyY2E3ZmIzNWQwMTUxZmE)! [![Chat on slack](https://img.shields.io/badge/slack-join-ff69b4.svg)](https://join.slack.com/t/all-contributors/shared_invite/enQtNTE3ODMyMTA4NTk0LTUwZDMxZGZkMmViMzYzYzk2YTM2NjRkZGM5Yzc0ZTc5NmYzNWY3Y2Q0ZTY3ZmFhZDgyY2E3ZmIzNWQwMTUxZmE)
+
 ## Help improve the all-contributors documentation!
 
 Thanks for your interest in the project!
@@ -49,9 +51,9 @@ If you like, [comment on this issue](https://github.com/all-contributors/all-con
 #### Translate strings
 1. Go to [the crowdin project].
 2. Click on the flag of the language you want to translate the documentation to.
-3. Click on any `*.md` files that isn't completely translated (read showing 100% on the right-hand side)
+3. Click on any `*.md` files that aren't completely translated (read showing 100% on the right-hand side)
 4. Write your translation in the _"Enter translation here"_ field (which would correspond to the translation of the text in the _"SOURCE STRING"_ field above) then click "SAVE"
-5. If someone (including yourself) submitted a suggestion (which should appear in the _"[LANGUAGE] TRANSLATIONS"_ section below) and you believe it's correct then click on the :ballot_box_with_check: icon to approve it.
+5. For **proofreaders** only: You can either approve translation suggestions (whether it's done by you or someone else), which you will find in the _"[LANGUAGE] TRANSLATIONS"_ section, by clicking on the :ballot_box_with_check: or delete them by clicking on the :wastebasket: icon.
 
 ### Change deployments
 After you translate strings in any given languages, you won't see those changes appearing live until the `master` branch was updated followed by a successful deployment.
@@ -65,7 +67,7 @@ All Contributors uses Docusaurus to maintain our documentation website. For more
 To get started locally:
 - `yarn install`
 - `yarn start`
-- go to http://localhost:3000 (Refresh the page for your changes to be reflected)
+- go to `http://localhost:3000` (Refresh the page for your changes to be reflected)
 
 
 ## Add yourself as a contributor

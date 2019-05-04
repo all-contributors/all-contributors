@@ -349,8 +349,72 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "thiagodp",
+      "name": "Thiago Delgado Pinto",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/2997844?v=4",
+      "profile": "https://github.com/thiagodp",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "turbolego",
+      "name": "Tobias Andersen",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/2650749?v=4",
+      "profile": "https://www.linkedin.com/in/turbolego/",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "danielbronder",
+      "name": "danielbronder",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/9819957?v=4",
+      "profile": "https://github.com/danielbronder",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "jprask",
+      "name": "João Pedro Raskopf",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/28638133?v=4",
+      "profile": "http://lattes.cnpq.br/4287615973321905",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "edwinvrgs",
+      "name": "Edwin Vargas",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/9091905?v=4",
+      "profile": "http://edwinvargas.com.ve",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "fkanout",
+      "name": "Faisal KANOUT",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/6838659?v=4",
+      "profile": "https://kanout.com",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "johnmurphy01",
+      "name": "John Murphy",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/2939548?v=4",
+      "profile": "https://github.com/johnmurphy01",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
-  "contributorsPerLine": 7
+  "contributorsPerLine": 7,
+  "repoHost": "https://github.com"
 }
