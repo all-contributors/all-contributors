@@ -3,6 +3,7 @@ desktop.ini
 
 # Jetbrains
 .idea
+.vscode
 
 # Output of 'npm pack'
 *.tgz

@@ -416,5 +416,6 @@
   ],
   "repoType": "github",
   "contributorsPerLine": 7,
-  "repoHost": "https://github.com"
+  "repoHost": "https://github.com",
+  "commitConvention": "angular"
 }
