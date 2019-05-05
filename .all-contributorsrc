@@ -431,6 +431,15 @@
         "doc",
         "translation"
       ]
+    },
+    {
+      "login": "ivan-nginx",
+      "name": "Ivan.Nginx",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/16944225?v=4",
+      "profile": "https://almostover.ru",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "repoType": "github",
