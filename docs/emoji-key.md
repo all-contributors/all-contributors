@@ -18,7 +18,7 @@ Emoji/Type | Represents | Comments
 🖋 <br /> `content` | Content | e.g. website copy, blog posts are separate
 📖 <br /> `doc` | Documentation | links to commits by the user on this project, Wiki, or other source of documentation
 🎨 <br /> `design` | Design | links to the logo/iconography/visual design/etc.
-💡 <br /> `examples` | Examples | links to the examples
+💡 <br /> `example` | Examples | links to the examples
 📋 <br /> `eventOrganizing` | Event Organizers | links to event page |
 💵 <br /> `financial` | Financial Support | people or orgs who provide financial support, links to relevant page
 🔍 <br /> `fundingFinding` | Funding/Grant Finders | people who help find financial support
