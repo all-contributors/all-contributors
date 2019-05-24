@@ -30,7 +30,7 @@ Emoji/Type | Represents | Comments
 📆 <br/> `projectManagement` | Project Management | |
 👀 <br /> `review` | Reviewed Pull Requests | |
 🛡️ <br /> `security` | Security | identify and/or reduce security threats, GDPR, Privacy, etc
-🔧 <br /> `tool` | Tools | the repo home
+🔧 <br /> `tool` | Tools | links to the repo home
 🌍 <br /> `translation` | Translation | links to the translated content
 ⚠️ <br /> `test` | Tests | links to commits by the user on this project
 ✅ <br /> `tutorial` | Tutorials | links to the tutorial
