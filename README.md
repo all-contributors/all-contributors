@@ -137,6 +137,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://almostover.ru"><img src="https://avatars2.githubusercontent.com/u/16944225?v=4" width="100px;" alt="Ivan.Nginx"/><br /><sub><b>Ivan.Nginx</b></sub></a><br /><a href="#translation-ivan-nginx" title="Translation">🌍</a></td>
     <td align="center"><a href="http://levy.work"><img src="https://avatars3.githubusercontent.com/u/9384365?v=4" width="100px;" alt="levy"/><br /><sub><b>levy</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=levy9527" title="Documentation">📖</a></td>
     <td align="center"><a href="https://piksel.se"><img src="https://avatars2.githubusercontent.com/u/807383?v=4" width="100px;" alt="nils måsén"/><br /><sub><b>nils måsén</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=piksel" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
     <td align="center"><a href="http://uraway.hatenablog.com/"><img src="https://avatars3.githubusercontent.com/u/15242484?v=4" width="100px;" alt="Masato Urai (@uraway_)"/><br /><sub><b>Masato Urai (@uraway_)</b></sub></a><br /><a href="#translation-uraway" title="Translation">🌍</a></td>
   </tr>
 </table>
