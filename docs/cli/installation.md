@@ -17,7 +17,7 @@ should be installed as one of your project's `devDependencies`:
 yarn add --dev all-contributors-cli # or npm
 ```
 
-> The CLI is node based, if you don't wish to add a node depdendency use the [@all-contributors bot 🤖](../bot/overview)
+> The CLI is node based, if you don't wish to add a node dependency use the [@all-contributors bot 🤖](../bot/overview)
 
 
 ## 2. Init the Project
