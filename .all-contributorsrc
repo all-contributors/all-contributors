@@ -360,6 +360,15 @@
       ]
     },
     {
+      "login": "rogeriopradoj",
+      "name": "Rogerio Prado de Jesus",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/443391?v=4",
+      "profile": "https://rogeriopradoj.com",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
       "login": "turbolego",
       "name": "Tobias Andersen",
       "avatar_url": "https://avatars3.githubusercontent.com/u/2650749?v=4",
@@ -421,9 +430,57 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "sirpeas",
+      "name": "Patryk Peas",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/4818642?v=4",
+      "profile": "https://github.com/sirpeas",
+      "contributions": [
+        "doc",
+        "translation",
+        "code"
+      ]
+    },
+    {
+      "login": "ivan-nginx",
+      "name": "Ivan.Nginx",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/16944225?v=4",
+      "profile": "https://almostover.ru",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "levy9527",
+      "name": "levy",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/9384365?v=4",
+      "profile": "http://levy.work",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "piksel",
+      "name": "nils måsén",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/807383?v=4",
+      "profile": "https://piksel.se",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "uraway",
+      "name": "Masato Urai (@uraway_)",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/15242484?v=4",
+      "profile": "http://uraway.hatenablog.com/",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "repoType": "github",
   "contributorsPerLine": 7,
-  "repoHost": "https://github.com"
+  "repoHost": "https://github.com",
+  "commitConvention": "angular"
 }

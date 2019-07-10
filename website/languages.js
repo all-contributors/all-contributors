@@ -118,7 +118,7 @@ const languages = [
   },
   {
     enabled: true,
-    name: 'Polskie',
+    name: 'Polski',
     tag: 'pl',
   },
   {
