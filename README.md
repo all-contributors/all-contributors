@@ -31,7 +31,7 @@
 
 [![Build Status](https://img.shields.io/circleci/project/all-contributors/all-contributors/master.svg)](https://circleci.com/gh/all-contributors/workflows/all-contributors/tree/master)
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/all-contributors/localized.svg)](https://crowdin.com/project/all-contributors)
-[![All Contributors](https://img.shields.io/badge/all_contributors-49-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-50-orange.svg?style=flat-square)](#contributors)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e30784c5-9efd-4f20-8a47-13f3fb899613/deploy-status)](https://app.netlify.com/sites/allcontributors-org/deploys)
 [![Star on GitHub](https://img.shields.io/github/stars/all-contributors/all-contributors.svg?style=social)](https://github.com/all-contributors/all-contributors/stargazers)
 [![Pull Reminders](https://pullreminders.com/badge.svg)](https://pullreminders.com?ref=badge)
@@ -132,10 +132,13 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://kanout.com"><img src="https://avatars0.githubusercontent.com/u/6838659?v=4" width="100px;" alt="Faisal KANOUT"/><br /><sub><b>Faisal KANOUT</b></sub></a><br /><a href="#translation-fkanout" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/johnmurphy01"><img src="https://avatars2.githubusercontent.com/u/2939548?v=4" width="100px;" alt="John Murphy"/><br /><sub><b>John Murphy</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=johnmurphy01" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://whitakerlab.github.io"><img src="https://avatars1.githubusercontent.com/u/3626306?v=4" width="100px;" alt="Kirstie Whitaker"/><br /><sub><b>Kirstie Whitaker</b></sub></a><br /><a href="#ideas-KirstieJane" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/sirpeas"><img src="https://avatars3.githubusercontent.com/u/4818642?v=4" width="100px;" alt="Patryk Peas"/><br /><sub><b>Patryk Peas</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=sirpeas" title="Documentation">📖</a> <a href="#translation-sirpeas" title="Translation">🌍</a> <a href="https://github.com/all-contributors/all-contributors/commits?author=sirpeas" title="Code">💻</a></td>
     <td align="center"><a href="https://almostover.ru"><img src="https://avatars2.githubusercontent.com/u/16944225?v=4" width="100px;" alt="Ivan.Nginx"/><br /><sub><b>Ivan.Nginx</b></sub></a><br /><a href="#translation-ivan-nginx" title="Translation">🌍</a></td>
     <td align="center"><a href="http://levy.work"><img src="https://avatars3.githubusercontent.com/u/9384365?v=4" width="100px;" alt="levy"/><br /><sub><b>levy</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=levy9527" title="Documentation">📖</a></td>
     <td align="center"><a href="https://piksel.se"><img src="https://avatars2.githubusercontent.com/u/807383?v=4" width="100px;" alt="nils måsén"/><br /><sub><b>nils måsén</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=piksel" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
     <td align="center"><a href="http://uraway.hatenablog.com/"><img src="https://avatars3.githubusercontent.com/u/15242484?v=4" width="100px;" alt="Masato Urai (@uraway_)"/><br /><sub><b>Masato Urai (@uraway_)</b></sub></a><br /><a href="#translation-uraway" title="Translation">🌍</a></td>
   </tr>
 </table>
