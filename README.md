@@ -31,7 +31,7 @@
 
 [![Build Status](https://img.shields.io/circleci/project/all-contributors/all-contributors/master.svg)](https://circleci.com/gh/all-contributors/workflows/all-contributors/tree/master)
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/all-contributors/localized.svg)](https://crowdin.com/project/all-contributors)
-[![All Contributors](https://img.shields.io/badge/all_contributors-50-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-51-orange.svg?style=flat-square)](#contributors)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e30784c5-9efd-4f20-8a47-13f3fb899613/deploy-status)](https://app.netlify.com/sites/allcontributors-org/deploys)
 [![Star on GitHub](https://img.shields.io/github/stars/all-contributors/all-contributors.svg?style=social)](https://github.com/all-contributors/all-contributors/stargazers)
 [![Pull Reminders](https://pullreminders.com/badge.svg)](https://pullreminders.com?ref=badge)
@@ -140,6 +140,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="http://uraway.hatenablog.com/"><img src="https://avatars3.githubusercontent.com/u/15242484?v=4" width="100px;" alt="Masato Urai (@uraway_)"/><br /><sub><b>Masato Urai (@uraway_)</b></sub></a><br /><a href="#translation-uraway" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://kylemh.com"><img src="https://avatars1.githubusercontent.com/u/9523719?v=4" width="100px;" alt="Kyle Holmberg"/><br /><sub><b>Kyle Holmberg</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=kylemh" title="Documentation">📖</a></td>
   </tr>
 </table>
 
