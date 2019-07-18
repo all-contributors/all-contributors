@@ -20,6 +20,7 @@ These are the keys you can specify:
 | `badgeTemplate`       | Define your own lodash template to generate the badge.                                              | |
 | `contributorTemplate` | Define your own lodash template to generate the contributor.                                        | |
 | `types`               | Specify custom symbols or link templates for contribution types. Can override the documented types. | |
+| `skipCi`              | Makes the CI ignore the commit. (or not, basically a suffix for the message)                        | Default: `[skip ci]` |
 | `contributors`        | List of contributors for this project, this is updated by [@all-contributors add](usage#all-contributors-add) | |
 
 ```json
@@ -36,6 +37,7 @@ These are the keys you can specify:
       "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
     }
   },
+  "skipCi": '[skip ci]',
   "contributors": []
 }
 ```
