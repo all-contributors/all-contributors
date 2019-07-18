@@ -477,6 +477,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "kylemh",
+      "name": "Kyle Holmberg",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/9523719?v=4",
+      "profile": "https://kylemh.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
