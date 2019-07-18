@@ -21,7 +21,6 @@ list, please [edit this page](contribute)!
 - [ta2edchimp/opt-cli](https://github.com/ta2edchimp/opt-cli)
 - [diegohaz/arc](https://github.com/diegohaz/arc)
 - [jccguimaraes/atom-project-viewer](https://github.com/jccguimaraes/atom-project-viewer)
-- [tutorship/tutorship](https://github.com/tutorship/tutorship)
 - [Angular Medellin Meetup](https://github.com/angular-medellin/meetup)
 - [React Medellin Meetup](https://github.com/react-medellin/meetup)
 - [jmeas/redux-resource](https://github.com/jmeas/redux-resource)
