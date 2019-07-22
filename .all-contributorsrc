@@ -495,6 +495,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "fennecdjay",
+      "name": "Jérémie Astor",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/4943921?v=4",
+      "profile": "https://github.com/fennecdjay",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
