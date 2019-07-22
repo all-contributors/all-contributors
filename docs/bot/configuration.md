@@ -37,7 +37,7 @@ These are the keys you can specify:
       "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
     }
   },
-  "skipCi": 'true',
+  "skipCi": "true",
   "contributors": []
 }
 ```
