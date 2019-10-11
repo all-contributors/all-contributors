@@ -145,6 +145,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/fennecdjay"><img src="https://avatars0.githubusercontent.com/u/4943921?v=4" width="100px;" alt="Jérémie Astor"/><br /><sub><b>Jérémie Astor</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=fennecdjay" title="Documentation">📖</a></td>
     <td align="center"><a href="https://rachelcarmena.github.io"><img src="https://avatars0.githubusercontent.com/u/22792183?v=4" width="100px;" alt="Rachel M. Carmena"/><br /><sub><b>Rachel M. Carmena</b></sub></a><br /><a href="#translation-rachelcarmena" title="Translation">🌍</a></td>
     <td align="center"><a href="https://sno2wman.dev/"><img src="https://avatars3.githubusercontent.com/u/15155608?v=4" width="100px;" alt="SnO₂WMaN"/><br /><sub><b>SnO₂WMaN</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=SnO2WMaN" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://thefactsbook.com"><img src="https://avatars0.githubusercontent.com/u/24487349?v=4" width="100px;" alt="Mudassar Ali"/><br /><sub><b>Mudassar Ali</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=Mudassar045" title="Documentation">📖</a></td>
   </tr>
 </table>
 
