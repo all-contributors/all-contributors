@@ -52,6 +52,11 @@ Please note the command must be able to find the following tags in those files, 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 ```
+Also note that it needs to find the following tags in order to update the badge:
+```
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+```
 
 
 ## GitHub Users
