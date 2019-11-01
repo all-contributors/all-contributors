@@ -32,6 +32,7 @@ list, please [edit this page](contribute)!
 - [gatewayapps/kamino](https://github.com/gatewayapps/kamino)
 - [sxwjs/sxwjs](https://github.com/sxwjs/sxwjs)
 - [OperationCode/front-end](https://github.com/OperationCode/front-end)
+- [cesar-richard/heimdal](https://github.com/cesar-richard/heimdal)
 - [gitcoinco/code_fund_ads](https://github.com/gitcoinco/code_fund_ads)
 
 **Note**: There are many projects not listed here. You'll probably be able to find more with this
