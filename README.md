@@ -147,6 +147,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://sno2wman.dev/"><img src="https://avatars3.githubusercontent.com/u/15155608?v=4" width="100px;" alt="SnO₂WMaN"/><br /><sub><b>SnO₂WMaN</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=SnO2WMaN" title="Documentation">📖</a></td>
     <td align="center"><a href="https://www.andrewmason.me/"><img src="https://avatars1.githubusercontent.com/u/18423853?v=4" width="100px;" alt="Andrew Mason"/><br /><sub><b>Andrew Mason</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=andrewmcodes" title="Documentation">📖</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://itsmmgamer.tk"><img src="https://avatars1.githubusercontent.com/u/22800592?v=4" width="100px;" alt="itsmmgamer"/><br /><sub><b>itsmmgamer</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=MM-coder" title="Documentation">📖</a></td>
+  </tr>
 </table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
