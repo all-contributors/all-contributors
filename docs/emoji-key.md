@@ -10,7 +10,7 @@ sidebar_label: Emoji Key ✨
 
 Emoji/Type | Represents | Comments
 :---: | :---: | :---:
-💬 <br /> `question` | Answering Questions | Answering Questions in Issues, Stack Overflow, Gitter, Slack, etc.
+♿️ <br /> `a11y` | Accessibility | Reporting or working on accessibility issues
 🐛 <br /> `bug` | Bug reports | links to issues reported by the user on this project
 📝 <br /> `blog` | Blogposts | links to the blogpost
 💼 <br /> `business` | Business Development | people who execute on the business end
@@ -28,6 +28,7 @@ Emoji/Type | Represents | Comments
 📦 <br /> `platform` | Packaging | porting to support a new platform |
 🔌 <br /> `plugin` | Plugin/utility libraries | links to the repo home
 📆 <br/> `projectManagement` | Project Management | |
+💬 <br /> `question` | Answering Questions | Answering Questions in Issues, Stack Overflow, Gitter, Slack, etc.
 👀 <br /> `review` | Reviewed Pull Requests | |
 🛡️ <br /> `security` | Security | identify and/or reduce security threats, GDPR, Privacy, etc
 🔧 <br /> `tool` | Tools | links to the repo home
