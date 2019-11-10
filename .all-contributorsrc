@@ -531,6 +531,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "phacks",
+      "name": "Nicolas Goutay",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/2587348?v=4",
+      "profile": "https://phacks.dev/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
