@@ -149,6 +149,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://phacks.dev/"><img src="https://avatars1.githubusercontent.com/u/2587348?v=4" width="100px;" alt="Nicolas Goutay"/><br /><sub><b>Nicolas Goutay</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=phacks" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/aaa-bbb"><img src="https://avatars1.githubusercontent.com/u/7513958?v=4" width="100px;" alt="aaa-bbb"/><br /><sub><b>aaa-bbb</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/issues?q=author%3Aaaa-bbb" title="Bug reports">🐛</a> <a href="https://github.com/all-contributors/all-contributors/commits?author=aaa-bbb" title="Tests">⚠️</a> <a href="#ideas-aaa-bbb" title="Ideas, Planning, & Feedback">🤔</a> <a href="#question-aaa-bbb" title="Answering Questions">💬</a></td>
   </tr>
 </table>
 
