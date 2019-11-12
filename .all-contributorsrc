@@ -540,6 +540,18 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "aaa-bbb",
+      "name": "aaa-bbb",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/7513958?v=4",
+      "profile": "https://github.com/aaa-bbb",
+      "contributions": [
+        "bug",
+        "test",
+        "ideas",
+        "question"
+      ]
     }
   ],
   "repoType": "github",
