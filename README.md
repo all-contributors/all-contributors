@@ -149,6 +149,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://phacks.dev/"><img src="https://avatars1.githubusercontent.com/u/2587348?v=4" width="100px;" alt="Nicolas Goutay"/><br /><sub><b>Nicolas Goutay</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=phacks" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://phor.net"><img src="https://avatars0.githubusercontent.com/u/382183?v=4" width="100px;" alt="William Entriken"/><br /><sub><b>William Entriken</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=fulldecent" title="Code">💻</a></td>
   </tr>
 </table>
 
