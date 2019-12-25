@@ -10,7 +10,7 @@ sidebar_label: Emoji Key ✨
 
 Emoji/Type | Represents | Comments
 :---: | :---: | :---:
-💬 <br /> `question` | Answering Questions | Answering Questions in Issues, Stack Overflow, Gitter, Slack, etc.
+♿️ <br /> `a11y` | Accessibility | Reporting or working on accessibility issues
 🐛 <br /> `bug` | Bug reports | links to issues reported by the user on this project
 📝 <br /> `blog` | Blogposts | links to the blogpost
 💼 <br /> `business` | Business Development | people who execute on the business end
@@ -18,7 +18,7 @@ Emoji/Type | Represents | Comments
 🖋 <br /> `content` | Content | e.g. website copy, blog posts are separate
 📖 <br /> `doc` | Documentation | links to commits by the user on this project, Wiki, or other source of documentation
 🎨 <br /> `design` | Design | links to the logo/iconography/visual design/etc.
-💡 <br /> `examples` | Examples | links to the examples
+💡 <br /> `example` | Examples | links to the examples
 📋 <br /> `eventOrganizing` | Event Organizers | links to event page |
 💵 <br /> `financial` | Financial Support | people or orgs who provide financial support, links to relevant page
 🔍 <br /> `fundingFinding` | Funding/Grant Finders | people who help find financial support
@@ -28,9 +28,10 @@ Emoji/Type | Represents | Comments
 📦 <br /> `platform` | Packaging | porting to support a new platform |
 🔌 <br /> `plugin` | Plugin/utility libraries | links to the repo home
 📆 <br/> `projectManagement` | Project Management | |
+💬 <br /> `question` | Answering Questions | Answering Questions in Issues, Stack Overflow, Gitter, Slack, etc.
 👀 <br /> `review` | Reviewed Pull Requests | |
 🛡️ <br /> `security` | Security | identify and/or reduce security threats, GDPR, Privacy, etc
-🔧 <br /> `tool` | Tools | the repo home
+🔧 <br /> `tool` | Tools | links to the repo home
 🌍 <br /> `translation` | Translation | links to the translated content
 ⚠️ <br /> `test` | Tests | links to commits by the user on this project
 ✅ <br /> `tutorial` | Tutorials | links to the tutorial
