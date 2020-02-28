@@ -567,6 +567,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "atuttle",
+      "name": "Adam Tuttle",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/46990?v=4",
+      "profile": "http://adamtuttle.codes",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
