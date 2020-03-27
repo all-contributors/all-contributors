@@ -22,6 +22,7 @@ Enter the `@all-contributors bot`! The bot will automatically pull a user's prof
 - [Installing the Bot](installation)
 - [Using the Bot](usage)
 - [Configuring the Bot](configuration)
+- [Frequently Asked Questions](faq)
 
 
 

@@ -540,10 +540,47 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "phacks",
+      "name": "Nicolas Goutay",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/2587348?v=4",
+      "profile": "https://phacks.dev/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "fulldecent",
+      "name": "William Entriken",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/382183?v=4",
+      "profile": "http://phor.net",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "kytwb",
+      "name": "Amine",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/412895?v=4",
+      "profile": "https://linkedin.com/in/kytwb",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "smoia",
+      "name": "Stefano Moia",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/35300580?v=4",
+      "profile": "https://github.com/smoia",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
   "contributorsPerLine": 7,
   "repoHost": "https://github.com",
-  "commitConvention": "angular"
+  "commitConvention": "angular",
+  "skipCi": true
 }

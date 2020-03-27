@@ -10,12 +10,13 @@ sidebar_label: Emoji Key ✨
 
 Emoji/Type | Represents | Comments
 :---: | :---: | :---:
-💬 <br /> `question` | Answering Questions | Answering Questions in Issues, Stack Overflow, Gitter, Slack, etc.
+♿️ <br /> `a11y` | Accessibility | Reporting or working on accessibility issues
 🐛 <br /> `bug` | Bug reports | links to issues reported by the user on this project
 📝 <br /> `blog` | Blogposts | links to the blogpost
 💼 <br /> `business` | Business Development | people who execute on the business end
 💻 <br /> `code` | Code | links to commits by the user on this project
 🖋 <br /> `content` | Content | e.g. website copy, blog posts are separate
+🔣 <br /> `data` | Data | links to contributed data for the project (both tests and datasets)
 📖 <br /> `doc` | Documentation | links to commits by the user on this project, Wiki, or other source of documentation
 🎨 <br /> `design` | Design | links to the logo/iconography/visual design/etc.
 💡 <br /> `example` | Examples | links to the examples
@@ -28,6 +29,7 @@ Emoji/Type | Represents | Comments
 📦 <br /> `platform` | Packaging | porting to support a new platform |
 🔌 <br /> `plugin` | Plugin/utility libraries | links to the repo home
 📆 <br/> `projectManagement` | Project Management | |
+💬 <br /> `question` | Answering Questions | Answering Questions in Issues, Stack Overflow, Gitter, Slack, etc.
 👀 <br /> `review` | Reviewed Pull Requests | |
 🛡️ <br /> `security` | Security | identify and/or reduce security threats, GDPR, Privacy, etc
 🔧 <br /> `tool` | Tools | links to the repo home
