@@ -7,7 +7,7 @@ sidebar_label: Overview
 > Call for translators! [We're looking for translators](https://github.com/all-contributors/all-contributors/issues/143) to help translate this spec for everyone!
 
 <div align="center">
-    <img src="../assets/logo-full-transparent.png" alt="✨ All Contributors ✨" width="800px" />
+    <img src="https://raw.githubusercontent.com/all-contributors/all-contributors/master/docs/assets/logo-full-transparent.png" alt="✨ All Contributors ✨" width="800px" />
 </div>
 
 <a class="github-button" href="https://github.com/all-contributors/all-contributors" data-icon="octicon-star" data-count-href="/all-contributors/all-contributors/stargazers" data-show-count="true" data-count-aria-label="# stargazers on GitHub" aria-label="Star this project on GitHub" >Star</a>
