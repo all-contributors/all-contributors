@@ -15,4 +15,4 @@ Enter the [@all-contributors bot 🤖](bot/overview)! The bot will automatically
 
 
 ### All Contributors CLI
-If you prefer command line tools there is also the [all-contributors CLI tool](cli/overview) to help automate adding contributor acknowledgements.
+If you prefer command line tools there is also the [all-contributors CLI tool](https://github.com/paras-jain/all-contributors/blob/master/docs/cli/overview.md) to help automate adding contributor acknowledgements.
