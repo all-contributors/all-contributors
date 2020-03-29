@@ -41,5 +41,5 @@ Emoji/Type | Represents | Comments
 📹 <br /> `video` | Videos | links to the video
 
 ## What's next
-- [Notes for repository maintainers](repository-maintainers)
-- [Automating the process using tools](tooling)
+- [Notes for repository maintainers](https://github.com/all-contributors/all-contributors/blob/master/docs/repository-maintainers.md)
+- [Automating the process using tools](https://github.com/all-contributors/all-contributors/blob/master/docs/tooling.md)
