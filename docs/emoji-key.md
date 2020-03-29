@@ -6,7 +6,7 @@ sidebar_label: Emoji Key ✨
 
 ## Table
 
-> To have a contribution added when using the [Bot](https://github.com/paras-jain/all-contributors/blob/master/docs/bot/overview.md) or [CLI](https://github.com/paras-jain/all-contributors/blob/master/docs/cli/overview) use the keyword in the `Type` column. The bot will also use [basic Natural Language Parsing](https://github.com/all-contributors/all-contributors-bot/blob/master/src/tasks/processIssueComment/utils/parse-comment/index.js) to determine your contribution intent.
+> To have a contribution added when using the [Bot](https://github.com/paras-jain/all-contributors/blob/master/docs/bot/overview.md) or [CLI](https://github.com/paras-jain/all-contributors/blob/master/docs/cli/overview.md) use the keyword in the `Type` column. The bot will also use [basic Natural Language Parsing](https://github.com/all-contributors/all-contributors-bot/blob/master/src/tasks/processIssueComment/utils/parse-comment/index.js) to determine your contribution intent.
 
 Emoji/Type | Represents | Comments
 :---: | :---: | :---:
