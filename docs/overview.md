@@ -29,8 +29,8 @@ Below is an example of how using the all-contributors spec table can recognize a
 > You can use [the @all-contributors bot 🤖](bot/overview) to automate acknowledging contributors to your open source projects
 
 ## What's next
-- [The all contributors specification](specification)
-- [Emoji Key (Contribution Types Reference)](emoji-key)
-- [Notes for repository maintainers](repository-maintainers)
-- [Automating the process using tools](tooling)
+- [The all contributors specification](https://github.com/paras-jain/all-contributors/blob/master/docs/specification.md)
+- [Emoji Key (Contribution Types Reference)](https://github.com/paras-jain/all-contributors/blob/master/docs/emoji-key.md)
+- [Notes for repository maintainers](https://github.com/paras-jain/all-contributors/blob/master/docs/repository-maintainers.md)
+- [Automating the process using tools](https://github.com/paras-jain/all-contributors/blob/master/docs/tooling.md)
 
