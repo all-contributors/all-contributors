@@ -33,7 +33,7 @@ Projects should consider the following optional items as part of their commitmen
 3. An optional link from the Contribution Category indicator to the category-specific contribution(s) can be included to provide additional information about the project contribution(s) as detailed in the section below.
 
 ## What's next
-- [Emoji Key (Contribution Types Reference)](emoji-key)
-- [Notes for repository maintainers](repository-maintainers)
-- [Automating the process using tools](tooling)
+- [Emoji Key (Contribution Types Reference)](https://github.com/paras-jain/all-contributors/blob/master/docs/emoji-key.md)
+- [Notes for repository maintainers](https://github.com/paras-jain/all-contributors/blob/master/docs/repository-maintainers.md)
+- [Automating the process using tools](https://github.com/paras-jain/all-contributors/blob/master/docs/tooling.md)
 
