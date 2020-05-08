@@ -567,6 +567,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "NotMoni",
+      "name": "Moni",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/40552237?v=4",
+      "profile": "https://github.com/NotMoni",
+      "contributions": [
+        "infra"
+      ]
     }
   ],
   "repoType": "github",
