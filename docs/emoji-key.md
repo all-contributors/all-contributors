@@ -39,6 +39,7 @@ Emoji/Type | Represents | Comments
 📢 <br /> `talk` | Talks | links to the slides/recording/repo/etc
 📓 <br /> `userTesting` | User Testing | links to user test notes
 📹 <br /> `video` | Videos | links to the video
+⚙  <br /> `build` | Build | Building/working on projects
 
 ## What's next
 - [Notes for repository maintainers](repository-maintainers)
