@@ -12,22 +12,24 @@ can configure how you want `@all-contributors` to generate the list.
 
 These are the keys you can specify:
 
-| Option                | Description                                                                                         | Example/Default                                                                                             |
-| --------------------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| `files`               | Array of files to update.                                                                           | Default: `['README.md']`                                                                                    |
-| `imageSize`           | Size (in px) of the user's avatar.                                                                  | Default: `100`                                                                                            |
-| `contributorsPerLine` | Maximum number of columns for the contributors table.                                               | Default: `7`                                                                                                |
-| `badgeTemplate`       | Define your own lodash template to generate the badge.                                              | |
-| `contributorTemplate` | Define your own lodash template to generate the contributor.                                        | |
-| `types`               | Specify custom symbols or link templates for contribution types. Can override the documented types. | |
-| `skipCi`              | Makes the CI ignore the commit. (either `true` or `false`)                                          | Default: `true` |
-| `contributors`        | List of contributors for this project, this is updated by [@all-contributors add](usage#all-contributors-add) | |
+| Option                           | Description                                                                                         | Example/Default                                                                                             |
+| -------------------------------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| `files`                          | Array of files to update.                                                                           | Default: `['README.md']`                                                                                    |
+| `imageSize`                      | Size (in px) of the user's avatar.                                                                  | Default: `100`                                                                                              |
+| `contributorsPerLine`            | Maximum number of columns for the contributors table.                                               | Default: `7`                                                                                                |
+| `contributorsSortAlphabetically` | Sort the contributors table in alphabetical order. (either `true` or `false`)                       | Default: `false`                                                                                            |
+| `badgeTemplate`                  | Define your own lodash template to generate the badge.                                              | |
+| `contributorTemplate`            | Define your own lodash template to generate the contributor.                                        | |
+| `types`                          | Specify custom symbols or link templates for contribution types. Can override the documented types. | |
+| `skipCi`                         | Makes the CI ignore the commit. (either `true` or `false`)                                          | Default: `true` |
+| `contributors`                   | List of contributors for this project, this is updated by [@all-contributors add](usage#all-contributors-add) | |
 
 ```json
 {
   "files": ["README.md"],
   "imageSize": 100,
   "contributorsPerLine": 7,
+  "contributorsSortAlphabetically": false,
   "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
   "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
   "types": {
