@@ -569,12 +569,22 @@
       ]
     },
     {
+
       "login": "NotMoni",
       "name": "Moni",
       "avatar_url": "https://avatars2.githubusercontent.com/u/40552237?v=4",
       "profile": "https://github.com/NotMoni",
       "contributions": [
         "infra"
+       ]
+     },
+     {
+      "login": "ilai-deutel",
+      "name": "Ilaï Deutel",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/10098207?v=4",
+      "profile": "https://github.com/ilai-deutel",
+      "contributions": [
+        "doc"
       ]
     }
   ],
