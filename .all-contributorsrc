@@ -531,10 +531,83 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "andrewmcodes",
+      "name": "Andrew Mason",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/18423853?v=4",
+      "profile": "https://www.andrewmason.me/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "phacks",
+      "name": "Nicolas Goutay",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/2587348?v=4",
+      "profile": "https://phacks.dev/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "fulldecent",
+      "name": "William Entriken",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/382183?v=4",
+      "profile": "http://phor.net",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "kytwb",
+      "name": "Amine",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/412895?v=4",
+      "profile": "https://linkedin.com/in/kytwb",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "smoia",
+      "name": "Stefano Moia",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/35300580?v=4",
+      "profile": "https://github.com/smoia",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "NotMoni",
+      "name": "Moni",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/40552237?v=4",
+      "profile": "https://github.com/NotMoni",
+      "contributions": [
+        "infra"
+      ]
+    },
+    {
+      "login": "ilai-deutel",
+      "name": "Ilaï Deutel",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/10098207?v=4",
+      "profile": "https://github.com/ilai-deutel",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "baikho",
+      "name": "Sang Lostrie",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/4610533?v=4",
+      "profile": "https://www.weareaccess.co.uk/",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "repoType": "github",
   "contributorsPerLine": 7,
   "repoHost": "https://github.com",
-  "commitConvention": "angular"
+  "commitConvention": "angular",
+  "skipCi": true
 }
