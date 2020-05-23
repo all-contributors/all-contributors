@@ -576,6 +576,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "nhnb",
+      "name": "Hendrik Brummermann",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/364184?v=4",
+      "profile": "https://github.com/nhnb",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
