@@ -153,6 +153,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://phor.net"><img src="https://avatars0.githubusercontent.com/u/382183?v=4" width="100px;" alt=""/><br /><sub><b>William Entriken</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=fulldecent" title="Code">💻</a></td>
     <td align="center"><a href="https://linkedin.com/in/kytwb"><img src="https://avatars0.githubusercontent.com/u/412895?v=4" width="100px;" alt=""/><br /><sub><b>Amine</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=kytwb" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/smoia"><img src="https://avatars3.githubusercontent.com/u/35300580?v=4" width="100px;" alt=""/><br /><sub><b>Stefano Moia</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=smoia" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/NotMoni"><img src="https://avatars2.githubusercontent.com/u/40552237?v=4" width="100px;" alt=""/><br /><sub><b>Moni</b></sub></a><br /><a href="#infra-NotMoni" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+    <td align="center"><a href="https://github.com/ilai-deutel"><img src="https://avatars0.githubusercontent.com/u/10098207?v=4" width="100px;" alt=""/><br /><sub><b>Ilaï Deutel</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=ilai-deutel" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://www.weareaccess.co.uk/"><img src="https://avatars0.githubusercontent.com/u/4610533?v=4" width="100px;" alt=""/><br /><sub><b>Sang Lostrie</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/issues?q=author%3Abaikho" title="Bug reports">🐛</a></td>
   </tr>
 </table>
 

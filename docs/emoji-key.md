@@ -10,6 +10,7 @@ sidebar_label: Emoji Key ✨
 
 Emoji/Type | Represents | Comments
 :---: | :---: | :---:
+🔊 <br /> `audio` | Audio | Podcasts, background music or sound effects
 ♿️ <br /> `a11y` | Accessibility | Reporting or working on accessibility issues
 🐛 <br /> `bug` | Bug reports | links to issues reported by the user on this project
 📝 <br /> `blog` | Blogposts | links to the blogpost
