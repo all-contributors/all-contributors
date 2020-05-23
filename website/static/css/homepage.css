@@ -429,6 +429,7 @@ li.github-star {
   align-content: center;
   justify-content: center;
   margin: 20px;
+  flex: 0 0 80px;
 }
 
 .tile:hover .tile-icon {
