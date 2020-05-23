@@ -23,7 +23,7 @@
     "broken-link-checker": "^0.7.8",
     "cz-conventional-changelog": "^3.0.0",
     "docusaurus": "^1.7.3",
-    "git-cz": "^3.0.0",
+    "git-cz": "^4.1.0",
     "react": "^16.6.3",
     "semantic-release": "^15.10.5"
   },
