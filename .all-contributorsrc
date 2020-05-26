@@ -524,10 +524,28 @@
       ]
     },
     {
+      "login": "Mudassar045",
+      "name": "Mudassar Ali",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/24487349?v=4",
+      "profile": "http://thefactsbook.com",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
       "login": "andrewmcodes",
       "name": "Andrew Mason",
       "avatar_url": "https://avatars1.githubusercontent.com/u/18423853?v=4",
       "profile": "https://www.andrewmason.me/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "MM-coder",
+      "name": "itsmmgamer",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/22800592?v=4",
+      "profile": "https://itsmmgamer.tk",
       "contributions": [
         "doc"
       ]
@@ -569,12 +587,30 @@
       ]
     },
     {
+      "login": "NotMoni",
+      "name": "Moni",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/40552237?v=4",
+      "profile": "https://github.com/NotMoni",
+      "contributions": [
+        "infra"
+      ]
+    },
+    {
       "login": "ilai-deutel",
       "name": "Ilaï Deutel",
       "avatar_url": "https://avatars0.githubusercontent.com/u/10098207?v=4",
       "profile": "https://github.com/ilai-deutel",
       "contributions": [
         "doc"
+      ]
+    },
+    {
+      "login": "baikho",
+      "name": "Sang Lostrie",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/4610533?v=4",
+      "profile": "https://www.weareaccess.co.uk/",
+      "contributions": [
+        "bug"
       ]
     }
   ],
