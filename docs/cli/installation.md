@@ -5,9 +5,12 @@ sidebar_label: Installation
 ---
 
 
-## 1. Install from NPM
+## 1. Install the CLI tool
 <a href="https://www.npmjs.com/package/all-contributors-cli">
     <img src="https://img.shields.io/npm/v/all-contributors-cli.svg" alt="NPM Version" />
+</a>
+<a href="https://aur.archlinux.org/packages/all-contributors-cli">
+    <img src="https://img.shields.io/aur/version/all-contributors-cli.svg" alt="AUR Version" />
 </a>
 
 This module is distributed via [npm](https://www.npmjs.com/) which is bundled with [node](https://nodejs.org/) and
@@ -16,6 +19,8 @@ should be installed as one of your project's `devDependencies`:
 ```console
 yarn add --dev all-contributors-cli # or npm i -D all-contributors-cli
 ```
+
+Alternatively, Arch Linux users can install the [`all-contributors-cli`](https://aur.archlinux.org/packages/all-contributors-cli) package from the AUR.
 
 > The CLI is node based, if you don't wish to add a node dependency use the [@all-contributors bot 🤖](../bot/overview)
 
