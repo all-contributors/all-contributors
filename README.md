@@ -160,6 +160,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://www.weareaccess.co.uk/"><img src="https://avatars0.githubusercontent.com/u/4610533?v=4" width="100px;" alt=""/><br /><sub><b>Sang Lostrie</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/issues?q=author%3Abaikho" title="Bug reports">🐛</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://itsmmgamer.tk"><img src="https://avatars1.githubusercontent.com/u/22800592?v=4" width="100px;" alt="itsmmgamer"/><br /><sub><b>itsmmgamer</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=MM-coder" title="Documentation">📖</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-enable -->
