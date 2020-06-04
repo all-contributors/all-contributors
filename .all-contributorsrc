@@ -621,6 +621,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "ivanpaulovich",
+      "name": "Ivan Paulovich",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/7133698?v=4",
+      "profile": "https://paulovich.net",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
