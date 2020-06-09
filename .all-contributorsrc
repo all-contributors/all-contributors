@@ -542,6 +542,15 @@
       ]
     },
     {
+      "login": "MM-coder",
+      "name": "itsmmgamer",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/22800592?v=4",
+      "profile": "https://itsmmgamer.tk",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
       "login": "phacks",
       "name": "Nicolas Goutay",
       "avatar_url": "https://avatars1.githubusercontent.com/u/2587348?v=4",
@@ -602,6 +611,24 @@
       "profile": "https://www.weareaccess.co.uk/",
       "contributions": [
         "bug"
+      ]
+    },
+    {
+      "login": "xinbenlv",
+      "name": "xinbenlv",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/640325?v=4",
+      "profile": "https://github.com/xinbenlv",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "ivanpaulovich",
+      "name": "Ivan Paulovich",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/7133698?v=4",
+      "profile": "https://paulovich.net",
+      "contributions": [
+        "doc"
       ]
     }
   ],
