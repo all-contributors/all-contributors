@@ -17,7 +17,7 @@ This module is distributed via [npm](https://www.npmjs.com/) which is bundled wi
 should be installed as one of your project's `devDependencies`:
 
 ```console
-yarn add --dev all-contributors-cli # or npm
+yarn add --dev all-contributors-cli # or npm i -D all-contributors-cli
 ```
 
 Alternatively, Arch Linux users can install the [`all-contributors-cli`](https://aur.archlinux.org/packages/all-contributors-cli) package from the AUR.
@@ -29,7 +29,7 @@ Alternatively, Arch Linux users can install the [`all-contributors-cli`](https:/
 Init the project using `init` and answer a few questions
 
 ```console
-yarn all-contributors init # npm run
+yarn all-contributors init # or npx all-contributors init 
 
 # Or directly execute the bin
 ./node_modules/.bin/all-contributors init
