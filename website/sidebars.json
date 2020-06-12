@@ -11,7 +11,8 @@
       "bot/overview",
       "bot/installation",
       "bot/usage",
-      "bot/configuration"
+      "bot/configuration",
+      "bot/faq"
     ],
     "CLI": [
       "cli/overview",
