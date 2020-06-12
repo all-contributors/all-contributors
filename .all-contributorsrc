@@ -38,7 +38,9 @@
         "doc",
         "tool",
         "infra",
-        "maintenance"
+        "maintenance",
+        "review",
+        "question"
       ]
     },
     {
@@ -57,7 +59,8 @@
       "avatar_url": "https://avatars0.githubusercontent.com/u/3297859?v=4",
       "profile": "https://sinchang.me",
       "contributions": [
-        "maintenance"
+        "maintenance",
+        "review"
       ]
     },
     {
@@ -68,7 +71,9 @@
       "contributions": [
         "translation",
         "doc",
-        "maintenance"
+        "maintenance",
+        "review",
+        "talk"
       ]
     },
     {
