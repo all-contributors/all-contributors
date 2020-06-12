@@ -170,6 +170,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/ilai-deutel"><img src="https://avatars0.githubusercontent.com/u/10098207?v=4" width="100px;" alt=""/><br /><sub><b>Ilaï Deutel</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=ilai-deutel" title="Documentation">📖</a></td>
     <td align="center"><a href="https://www.weareaccess.co.uk/"><img src="https://avatars0.githubusercontent.com/u/4610533?v=4" width="100px;" alt=""/><br /><sub><b>Sang Lostrie</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/issues?q=author%3Abaikho" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://github.com/xinbenlv"><img src="https://avatars2.githubusercontent.com/u/640325?v=4" width="100px;" alt=""/><br /><sub><b>xinbenlv</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=xinbenlv" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://paulovich.net"><img src="https://avatars3.githubusercontent.com/u/7133698?v=4" width="100px;" alt=""/><br /><sub><b>Ivan Paulovich</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=ivanpaulovich" title="Documentation">📖</a></td>
   </tr>
 </table>
 
