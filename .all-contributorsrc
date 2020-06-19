@@ -543,7 +543,7 @@
       "name": "kharaone",
       "avatar_url": "https://avatars1.githubusercontent.com/u/6599271?v=4",
       "profile": "https://github.com/kharaone",
-       "contributions": [
+      "contributions": [
         "doc"
       ]
     },
@@ -660,6 +660,15 @@
       "name": "Ivan Paulovich",
       "avatar_url": "https://avatars3.githubusercontent.com/u/7133698?v=4",
       "profile": "https://paulovich.net",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "jakewies",
+      "name": "Jake Wiesler",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/12075916?v=4",
+      "profile": "https://www.jakewiesler.com",
       "contributions": [
         "doc"
       ]
