@@ -168,6 +168,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://www.jakewiesler.com"><img src="https://avatars1.githubusercontent.com/u/12075916?v=4" width="100px;" alt=""/><br /><sub><b>Jake Wiesler</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=jakewies" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://kkrieger.de"><img src="https://avatars2.githubusercontent.com/u/4435523?v=4" width="100px;" alt=""/><br /><sub><b>Kevin Krieger</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=kkrieger85" title="Documentation">📖</a></td>
   </tr>
 </table>
 
