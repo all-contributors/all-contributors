@@ -2,7 +2,7 @@
 
 <div align="center">
     <a href="https://allcontributors.org">
-        <img src="https://d33wubrfki0l68.cloudfront.net/02a655fd7b0c5dae117b57bfde67f8850bb23226/e2f0c/img/logo.svg" alt="✨ All Contributors ✨" width="800px" />
+        <img src="docs/assets/logo-full.svg" alt="✨ All Contributors ✨" width="800px" />
     </a>
 </div>
 
