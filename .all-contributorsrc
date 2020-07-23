@@ -681,6 +681,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "mloning",
+      "name": "Markus Löning",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/21020482?v=4",
+      "profile": "https://www.linkedin.com/in/mloning/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
