@@ -19,7 +19,7 @@
         </tr>
         <tr>
             <td><a href="https://allcontributors.org/docs/en/overview">English</a></td>
-            <td><a href="https://allcontributors.org/docs/pt-BR/overview">Português</a></td>
+            <td><a href="https://allcontributors.org/docs/pt-BR/overview">Português do Brasil</a></td>
             <td><a href="https://allcontributors.org/docs/es-ES/overview">Español</a></td>
             <td><a href="https://allcontributors.org/docs/fr/overview">Français</a></td>
             <td><a href="https://allcontributors.org/docs/ru/overview">Русский</a></td>
