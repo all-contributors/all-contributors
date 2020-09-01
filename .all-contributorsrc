@@ -699,6 +699,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "nils-a",
+      "name": "Nils Andresen",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/349188?v=4",
+      "profile": "http://www.nils-andresen.de",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
