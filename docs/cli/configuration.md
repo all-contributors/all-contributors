@@ -44,7 +44,6 @@ These are the keys you can specify:
     "custom": {
       "symbol": "🔭",
       "description": "A custom contribution type.",
-      "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
     }
   },
   "contributors": []
