@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html>
+
+  <!-- Hey there! Looking for the source code for this website?
+  https://github.com/Kenichycmd/hacktoberfestcheck.github.io/
+  If you could help contribute to my really bad code it would mean alot!
+  Thanks!
+  Table of contents:
+  SEO: Line 26
+  Style: Line 54
+  Javascript: Line 146
+  Body: Line 292
+  Cookies, Javascript: Line 295
+  Button, Theme: Line 305
+  Text, Javascript: Line 311
+  Hide, Javascript: Line 317
+  Credits: Line 322
+  -->
+
+  <head>
+
+    <meta charset="utf-8"> 
+
+    <title>Hacktoberfest Repository Check</title>
+
+    <!-- This is for the SEO. (SEO)-->
+    <meta name="title" content="Hacktoberfest Repository Check" />
+    <meta
+      name="description"
+      content="An unnecessary GitHub / Hacktoberfest check that checks if a repository is opt-in Hacktoberfest 2020."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://hacktoberfestcheck.github.io/" />
+    <meta property="og:title" content="Hacktoberfest Repository Check" />
+    <meta
+      property="og:description"
+      content="An unnecessary GitHub / Hacktoberfest check that checks if a repository is opt-in Hacktoberfest 2020."
+    />
+    <meta
+      property="twitter:url"
+      content="https://hacktoberfestcheck.github.io/"
+    />
+    <meta property="twitter:title" content="Hacktoberfest Repository Check" />
+    <meta
+      property="twitter:description"
+      content="An unnecessary GitHub / Hacktoberfest check that checks if a repository is opt-in Hacktoberfest 2020."
+    />
+
+    <link 
+      href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap" 
+      rel="stylesheet"
+    >
+
+    <!-- Style for the Website. Needs fixes. (Style)-->
+    <style>
+        body {
+          font-family: 'Open Sans', sans-serif;
+          background-color: #e3e3e3;
+        }
+        a {
+          color: orange;
+        }
+        h1 {
+          font-size: 58px;
+          font-weight: 700;
+          margin-top: 10%;
+          margin-left: 4%;
+        }
+        .footer {
+          position: fixed;
+          bottom: 0;
+          width: 100%;
+        }
+        .margin {
+          margin-left: 4%;
+        }
+        .inputbox {
+          font-size: 22px;
+          background-color: white;
+          border-color: white;
+          border-radius: 40px;
+          border: 2px solid #2196F3;
+          height: 68px;
+          width: 580px;
+        }
+        .switch {
+          position: relative;
+          display: inline-block;
+          width: 60px;
+          height: 34px;
+          margin-left: 90%;
+          margin-top: 5%;
+        }
+        .switch input {
+          opacity: 0;
+          width: 0;
+          height: 0;
+        }
+        input:checked + .slider {
+          background-color: #2196F3;
+        }
+        input:focus + .slider {
+          box-shadow: 0 0 1px #2196F3;
+        }
+        input:checked + .slider:before {
+          -webkit-transform: translateX(26px);
+          -ms-transform: translateX(26px);
+          transform: translateX(26px);
+        }
+        .slider {
+          position: absolute;
+          cursor: pointer;
+          top: 0;
+          left: 0;
+          right: 0;
+          bottom: 0;
+          background-color: #ccc;
+          -webkit-transition: .4s;
+          transition: .4s;
+          border-radius: 34px;
+        }
+        .slider:before {
+          position: absolute;
+          content: "";
+          height: 26px;
+          width: 26px;
+          left: 4px;
+          bottom: 4px;
+          background-color: white;
+          -webkit-transition: .4s;
+          transition: .4s;
+          border-radius: 50%;
+        }
+        .button {
+          font-size: 20px;
+          font-weight: 600;
+          text-align: center;
+          border-radius: 40px;
+          background-color: #2196F3;
+          color: white;
+          border: none;
+          padding: 24px;
+        }
+    </style>
+
+    <!-- Searches API. Need fixes. (Javascript)-->
+    <script>
+      /**
+       * This short-hand function makes code a bit more concise.
+       **/
+      const $ = (id) => document.getElementById(id);
+
+      /**
+       * This toggled variable is associated with enableDisableDark().
+       **/
+
+      var toggled = false;
+
+      /**
+       * In order to support either a URL or a USER/REPO input, this function
+       * adds some flexibility.
+       **/
+      const getRepoUrl = () =>
+        $("url").value.match(/^https:\/\//i)
+          ? $("url").value
+          : $("url").value.length > 0
+          ? `https://github.com/${$("url").value}`
+          : "";
+
+      /**
+       * Dark mode?
+       * Yeah the dark mode needs fixing as well.
+       **/
+      function enableDisableDark() {
+        if (toggled) {
+          document.body.style.backgroundColor = "#e3e3e3";
+          document.body.style.color = "#000000";
+          toggled = false;
+          document.cookie = "theme=light; expires=Tue, 1 Jan 2030 12:00:00 UTC";
+        } else {
+          document.body.style.backgroundColor = "#003852";
+          document.body.style.color = "#e3e3e3";
+          toggled = true;
+          document.cookie = "theme=dark; expires=Tue, 1 Jan 2030 12:00:00 UTC";
+        }
+      }
+
+      /**
+       * OnClick checker.
+       * Fix this if needed.
+       **/
+      function newPopup() {
+        $("button").parentNode.removeChild(document.getElementById("button"));
+        $("url").style.visibility = "visible";
+        $("checker").style.visibility = "visible";
+        $("status").innerHTML = "Enter a GitHub repo link to check if they are <br/>opt-in Hacktoberfest 2020"
+      }
+
+      function checkStatus() {
+        var url = getRepoUrl();
+        $("status").innerHTML = "";
+
+        function loadTopics() {
+          var req = new XMLHttpRequest();
+          var urlflied =
+            url.replace("github.com", "api.github.com/repos") + "/topics";
+          urlflied = urlflied.replace("//topic", "/topic");
+          req.open("GET", urlflied, false);
+          req.setRequestHeader(
+            "Accept",
+            "application/vnd.github.mercy-preview+json"
+          );
+          req.send();
+          return JSON.parse(req.responseText);
+        }
+        function isLabelled() {
+          var req = new XMLHttpRequest();
+          var urlflied =
+            url.replace("github.com", "api.github.com/repos") +
+            "/labels/hacktoberfest-accepted";
+          urlflied = urlflied.replace("//label", "/label");
+          req.open("GET", urlflied, false);
+          if (req.send() === 404) {
+            return false;
+          }
+          return true;
+        }
+
+        /**
+         * This function tells us whether or not Hacktoberfest is over.
+         **/
+        function isOver() {
+          // These constants make the date math more clear.
+          const September = 8;
+          const October = 9;
+          const December = 11;
+          const January = 0;
+
+          // We want to get the current month.
+          const month = new Date().getMonth(); // This is zero-based, so January is 0
+          if (month === October) return false; // October is now, so we're done.
+
+          const message =
+            month === October - 1
+              ? "It's Preptember! Be ready for Hacktoberfest next month!"
+              : `Hacktoberfest is sadly over, but it will be back in ${
+                  month < October
+                    ? October - month
+                    : December - month + October + 1
+                } months.`;
+
+          // Set the message
+          $("status").innerHTML = `${message}<br/><br/>`;
+
+          // It seems like it would still be useful to show the opt-in status in Preptember.
+          return month !== September;
+        }
+
+        const overMessage = isOver();
+        if (!overMessage && url.startsWith("https://github.com/")) {
+          try {
+            if (loadTopics().names.includes("hacktoberfest")) {
+              // if (isBanned()) {
+              //   $("status").innerHTML +=
+              //     "This repository is banned.";
+              // }
+              $("status").innerHTML +=
+                "This repository is opted-in Hacktoberfest 2020!";
+            } else if (isLabelled()) {
+              $("status").innerHTML +=
+                "This repository might be opted-in Hacktoberfest 2020,<br/>It has the *hacktoberfest-accepted* label!";
+            } else {
+              $("status").innerHTML +=
+                "Unfortunately, this repository is not opted in<br/>Hacktoberfest 2020,<br/>It does not include the Hacktoberfest topic.";
+            }
+          } catch (err) {
+            $("status").innerHTML +=
+              "Unfortunately, this repository is not opted in Hacktoberfest 2020,<br/>It does not include any topics or does not exist.";
+          }
+        } else if (url.startsWith("https://hacktoberfest.digitalocean.com")) {
+          $("status").innerHTML +=
+            "Thats the hacktoberfest website dummy xD,<br/>Thats where you apply for Hacktoberfest.";
+        } else {
+          $("status").innerHTML +=
+            "This isn't a github link,<br/>Make sure to add a https.";
+        }
+      }
+    </script>
+
+  </head>
+
+  <!-- The website itself. (Body)-->
+  <body>
+
+    <!-- Cookie checking. (Cookies, Javascript)-->
+    <script>
+      /**
+       * Enables / Disables dark mode.
+       **/
+      if (document.cookie.includes("dark")) {
+        enableDisableDark();
+      }
+    </script>
+
+    <!-- Dark and light mode switch. (Button, Theme)-->
+    <label class="switch">
+      <input type="checkbox">
+      <span class="slider" id="toggled" onclick="enableDisableDark()"></span>
+    </label>
+
+    <!-- Current Status. (Text, Javascript)-->
+    <h1 id="status">
+        Check if a repository is opted-in <br />
+        Hacktoberfest 2020!
+    </h1>
+
+    <!-- Hides and shows stuff. (Hide, Javascript)-->
+    <button class="button margin" onclick="newPopup()" id="button">Start Checking!</button>
+    <input class="inputbox margin" id="url" type="text" style="visibility: hidden;" />
+    <input class="button" type="submit" value="Check" onclick="checkStatus()" id="checker" style="visibility: hidden;" />
+
+    <!-- Credits! (Credits)-->
+    <p class="footer">
+      Learn how to check if a repository is opt-in Hacktoberfest 2020 
+      <a
+      href="https://github.com/hacktoberfestcheck/hacktoberfestcheck.github.io/blob/main/CheckHacktoberfestTopic.md"
+       target="_blank">here</a
+      >
+      !
+      <br />
+      Hey, if you wanna contribute to the website, create a pull request
+      <a
+        href="https://github.com/hacktoberfestcheck/hacktoberfestcheck.github.io/blob/main/CONTRIBUTING.md"
+        target="_blank">here</a
+      >
+      !
+      <br />
+      Not associated with 
+      <a
+      href="https://digitalocean.com/"
+      target="_blank">DigitalOcean</a
+      >
+       or 
+      <a
+      href="https://github.com/"
+      >GitHub</a
+      >
+       or any company, this was made
+      for fun.
+      <br />
+      Check out other Hacktoberfest-Checking repositories: 
+      <a 
+      href="https://hacktoberfest.ninja/"
+      target="_blank">lukeocodes</a
+      >
+       | 
+      <a 
+      href="https://github.com/lukeocodes/hacktoberfest-checker"
+      target="_blank">src</a
+      >
+      , 
+      <a href="https://hacktoberfest.cf/"
+      target="_blank">mananchawla2005</a
+      >
+       | 
+      <a 
+      href="https://github.com/mananchawla2005/Hacktoberfest-Repo-Checker"
+      target="_blank">src</a
+      >
+      ,
+      <a href="#"
+      target="_blank">Kenichycmd</a
+      >
+       | 
+      <a 
+      href="https://github.com/Kenichycmd/hacktoberfestcheck.github.io/"
+      target="_blank">src</a
+      >
+    </p>
+
+  </body>
+
+</html>
