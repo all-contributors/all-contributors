@@ -171,6 +171,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/MicaelJarniac"><img src="https://avatars0.githubusercontent.com/u/19514231?v=4" width="100px;" alt=""/><br /><sub><b>Micael Jarniac</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/issues?q=author%3AMicaelJarniac" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/mloning/"><img src="https://avatars3.githubusercontent.com/u/21020482?v=4" width="100px;" alt=""/><br /><sub><b>Markus Löning</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=mloning" title="Documentation">📖</a></td>
     <td align="center"><a href="https://austinhuang.me"><img src="https://avatars1.githubusercontent.com/u/16656689?v=4" width="100px;" alt=""/><br /><sub><b>Austin Huang</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=austinhuang0131" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://www.nils-andresen.de"><img src="https://avatars3.githubusercontent.com/u/349188?v=4" width="100px;" alt=""/><br /><sub><b>Nils Andresen</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=nils-a" title="Documentation">📖</a></td>
   </tr>
 </table>
 
