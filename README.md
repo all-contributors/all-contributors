@@ -16,6 +16,7 @@
             <td><a href="https://allcontributors.org/docs/id/overview">Bahasa Indonesia</a></td>
             <td><a href="https://allcontributors.org/docs/de/overview">Deutsch</a></td>
             <td><a href="https://allcontributors.org/docs/pl/overview">Polski</a></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://allcontributors.org/docs/en/overview">English</a></td>
