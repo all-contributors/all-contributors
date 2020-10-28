@@ -22,7 +22,7 @@ but it may be necessary for you to add the contributor yourself (though it's a g
 request to make sure they're ok with being added).
 
 In the end, there are no hard and fast rules for when a contribution has to be added to the list,
-just do your best to be fair and to ensure all contributors are recognised.
+just do your best to be fair and to ensure all contributors are recognized.
 
 ## What's next
 - [Automating the process using tools](tooling)
