@@ -10,7 +10,7 @@ An example of how using the all-contributors spec table can recognize all contri
 </div>
 
 ## Mandatory
-Open source projects should include the following mandatory items in order to support the All Contributors specification:
+Open source projects should include the following mandatory items to support the All Contributors specification:
 
 1. A "Contributors" section in a prominent site of the project repository documentation that includes a list of all project contributors
     - The goal should be to use the most prominent site of the project documentation when feasible.  In many cases, this is the project README file
