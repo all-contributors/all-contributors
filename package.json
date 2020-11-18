@@ -25,7 +25,7 @@
     "docusaurus": "^1.7.3",
     "git-cz": "^4.1.0",
     "react": "^16.6.3",
-    "semantic-release": "^15.10.5"
+    "semantic-release": "^17.2.3"
   },
   "engines": {
     "node": ">=8",
