@@ -32,6 +32,7 @@ Emoji/Type | Represents | Comments
 🔌 <br /> `plugin` | Plugin/utility libraries | Links to the repo home
 📆 <br/> `projectManagement` | Project Management | |
 💬 <br /> `question` | Answering Questions | Answering Questions in Issues, Stack Overflow, Gitter, Slack, etc.
+🔬 <br /> `research` | Research | Literature review.
 👀 <br /> `review` | Reviewed Pull Requests | |
 🛡️ <br /> `security` | Security | Identify and/or reduce security threats, GDPR, Privacy, etc
 🔧 <br /> `tool` | Tools | Links to the repo home
