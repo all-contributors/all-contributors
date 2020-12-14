@@ -567,9 +567,9 @@
     },
     {
       "login": "MM-coder",
-      "name": "itsmmgamer",
+      "name": "Mauro M.",
       "avatar_url": "https://avatars1.githubusercontent.com/u/22800592?v=4",
-      "profile": "https://itsmmgamer.tk",
+      "profile": "https://maurom.dev",
       "contributions": [
         "doc"
       ]
@@ -671,6 +671,51 @@
       "profile": "https://www.jakewiesler.com",
       "contributions": [
         "doc"
+      ]
+    },
+    {
+      "login": "MicaelJarniac",
+      "name": "Micael Jarniac",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/19514231?v=4",
+      "profile": "https://github.com/MicaelJarniac",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "mloning",
+      "name": "Markus Löning",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/21020482?v=4",
+      "profile": "https://www.linkedin.com/in/mloning/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "austinhuang0131",
+      "name": "Austin Huang",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/16656689?v=4",
+      "profile": "https://austinhuang.me",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "nils-a",
+      "name": "Nils Andresen",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/349188?v=4",
+      "profile": "http://www.nils-andresen.de",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "mbiesiad",
+      "name": "Michal",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/18367606?v=4",
+      "profile": "https://dev.to/mbiesiad",
+      "contributions": [
+        "translation"
       ]
     }
   ],
