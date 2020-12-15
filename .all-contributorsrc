@@ -506,7 +506,6 @@
       "name": "Cem",
       "avatar_url": "https://avatars0.githubusercontent.com/u/21110691?v=4",
       "profile": "https://github.com/BayCem",
-
       "contributions": [
         "translation"
       ]
@@ -735,6 +734,15 @@
       "profile": "https://dev.to/mbiesiad",
       "contributions": [
         "translation"
+      ]
+    },
+    {
+      "login": "ali-master",
+      "name": "Ali Torki",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/9049092?v=4",
+      "profile": "https://www.linkedin.com/in/alitorki/",
+      "contributions": [
+        "doc"
       ]
     }
   ],
