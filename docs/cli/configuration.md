@@ -23,7 +23,7 @@ These are the keys you can specify:
 | `commit`                         | Auto-commit badge when adding contributors.                                                         | `true` or `false`                                                                                           |
 | `commitConvention`               | Commit convention ([`angular`](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#-commit-message-guidelines), [`atom`](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#git-commit-messages), [`ember`](https://guides.emberjs.com/v1.10.0/contributing/#toc_commits), [`eslint`](https://eslint.org/docs/1.0.0/developer-guide/contributing#step-2-make-your-changes), [`jshint`](https://jshint.com/contribute/) or [`gitmoji`](https://gitmoji.carloscuesta.me/)).                                                         | Default: `none`                                                                                           |
 | `contributorsPerLine`            | Maximum number of columns for the contributors table.                                               | Default: `7`                                                                                                |
-| `contributorsSortAlphabetically` | Sort the contributors table in alphabetical order. Must be either `true` or `false`.                | Default: `false`                                                                                                |
+| `contributorsSortAlphabetically` | `true`: Sort alphabetically. `false`: Display in order of addition.                                 | Default: `false`                                                                                                |
 | `badgeTemplate`                  | Define your own lodash template to generate the badge.                                              | |
 | `contributorTemplate`            | Define your own lodash template to generate the contributor.                                        | |
 | `types`                          | Specify custom symbols or link templates for contribution types. Can override the documented types. | |
@@ -50,5 +50,3 @@ These are the keys you can specify:
   "contributors": []
 }
 ```
-
-
