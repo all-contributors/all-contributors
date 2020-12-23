@@ -17,7 +17,7 @@ These are the keys you can specify:
 | `files`                          | Array of files to update.                                                                           | Default: `['README.md']`                                                                                    |
 | `imageSize`                      | Size (in px) of the user's avatar.                                                                  | Default: `100`                                                                                              |
 | `contributorsPerLine`            | Maximum number of columns for the contributors table.                                               | Default: `7`                                                                                                |
-| `contributorsSortAlphabetically` | Sort the contributors table in alphabetical order. (either `true` or `false`)                       | Default: `false`                                                                                            |
+| `contributorsSortAlphabetically` | `true`: Sort alphabetically. `false`: Display in order of addition.                       | Default: `false`                                                                                            |
 | `badgeTemplate`                  | Define your own lodash template to generate the badge.                                              | |
 | `contributorTemplate`            | Define your own lodash template to generate the contributor.                                        | |
 | `types`                          | Specify custom symbols or link templates for contribution types. Can override the documented types. | |
@@ -43,5 +43,3 @@ These are the keys you can specify:
   "contributors": []
 }
 ```
-
-
