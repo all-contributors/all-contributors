@@ -22,7 +22,7 @@ See [the github All Contributors Core Team group](https://github.com/orgs/all-co
 - [ ] To keep engaged: sending regular (weekly) updates about the recent events related to the project 
 - [ ] Develop more open and inclusive decision-making processes
 
-### Building an All Contributors presence and visibilty
+### Building an All Contributors presence and visibility
 - [x] Switch to .org from .js.org and promote to communities outside JavaScript
 - [ ] Create a video
 - [ ] Improve SEO (see goals)
