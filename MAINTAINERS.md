@@ -81,7 +81,7 @@ Wed Feb 13th | - | - | 24 | - | 23 | -
 - [AWS Dashboard](https://console.aws.amazon.com/cloudwatch/home?region=us-east-1#dashboards:name=All-Contributors-Bot)
 
 ### Website
-- [Google Analyitics](https://analytics.google.com/analytics/web/#/dashboard/OZG_ZAFyR2-GjE4In1DVBg/a131821931w191468068p187370803/)
+- [Google Analytics](https://analytics.google.com/analytics/web/#/dashboard/OZG_ZAFyR2-GjE4In1DVBg/a131821931w191468068p187370803/)
 - [Search Console](https://search.google.com/search-console?resource_id=https%3A%2F%2Fallcontributors.org%2F)
 
 
