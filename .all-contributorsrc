@@ -745,6 +745,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "bradgarropy",
+      "name": "Brad Garropy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11336745?v=4",
+      "profile": "https://bradgarropy.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
