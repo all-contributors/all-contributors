@@ -745,6 +745,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "jsoref",
+      "name": "Josh Soref",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/2119212?v=4",
+      "profile": "https://github.com/jsoref",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
