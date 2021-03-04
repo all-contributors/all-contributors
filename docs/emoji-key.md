@@ -6,7 +6,7 @@ sidebar_label: Emoji Key ✨
 
 ## Table
 
-> To have a contribution added when using the [Bot](bot/overview) or [CLI](cli/overview) use the keyword in the `Type` column. The bot will also use [basic Natural Language Parsing](https://github.com/all-contributors/all-contributors-bot/blob/master/src/tasks/processIssueComment/utils/parse-comment/index.js) to determine your contribution intent.
+> To have a contribution added when using the [Bot](bot/overview) or [CLI](cli/overview) use the keyword in the `Type` column. The bot will also use [basic Natural Language Parsing](https://github.com/all-contributors/app/blob/master/lib/parse-comment.js) to determine your contribution intent.
 
 Emoji/Type | Represents | Comments
 :---: | :---: | :---:
@@ -32,6 +32,7 @@ Emoji/Type | Represents | Comments
 🔌 <br /> `plugin` | Plugin/utility libraries | Links to the repo home
 📆 <br/> `projectManagement` | Project Management | |
 💬 <br /> `question` | Answering Questions | Answering Questions in Issues, Stack Overflow, Gitter, Slack, etc.
+🔬 <br /> `research` | Research | Literature review.
 👀 <br /> `review` | Reviewed Pull Requests | |
 🛡️ <br /> `security` | Security | Identify and/or reduce security threats, GDPR, Privacy, etc
 🔧 <br /> `tool` | Tools | Links to the repo home
