@@ -45,12 +45,13 @@
     },
     {
       "login": "tbenning",
-      "name": "tbenning",
+      "name": "Tyler Benning",
       "avatar_url": "https://avatars2.githubusercontent.com/u/7265547?v=4",
       "profile": "https://github.com/tbenning",
       "contributions": [
-        "design",
-        "maintenance"
+        "maintenance",
+        "code",
+        "design"
       ]
     },
     {
@@ -750,6 +751,15 @@
       "name": "Ali Torki",
       "avatar_url": "https://avatars1.githubusercontent.com/u/9049092?v=4",
       "profile": "https://www.linkedin.com/in/alitorki/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "jsoref",
+      "name": "Josh Soref",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/2119212?v=4",
+      "profile": "https://github.com/jsoref",
       "contributions": [
         "doc"
       ]
