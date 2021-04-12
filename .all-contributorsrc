@@ -763,6 +763,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "Taiizor",
+      "name": "Taiizor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41683699?v=4",
+      "profile": "https://www.taiizor.com",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "repoType": "github",
