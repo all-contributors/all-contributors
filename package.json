@@ -18,14 +18,13 @@
     "build-with-translations": "yarn write-translations && yarn crowdin-upload && yarn crowdin-download && yarn build",
     "commit": "git-cz"
   },
-  "dependencies": {},
   "devDependencies": {
     "broken-link-checker": "^0.7.8",
     "cz-conventional-changelog": "^2.1.0",
     "docusaurus": "^1.7.3",
     "git-cz": "^4.1.0",
     "react": "^16.6.3",
-    "semantic-release": "^15.10.5"
+    "semantic-release": "^17.4.2"
   },
   "engines": {
     "node": ">=8",
