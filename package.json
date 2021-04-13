@@ -27,7 +27,7 @@
     "semantic-release": "^17.4.2"
   },
   "engines": {
-    "node": ">=8",
+    "node": ">=12",
     "npm": ">=6"
   },
   "config": {
