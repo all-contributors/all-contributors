@@ -35,6 +35,8 @@ list, please [edit this page](contribute)!
 - [tstrohmeier/docker-spark-development](https://github.com/tstrohmeier/docker-spark-development)
 - [jakewies/hugo-theme-codex](https://github.com/jakewies/hugo-theme-codex)
 - [persian-tools/persian-tools](https://github.com/persian-tools/persian-tools)
+- [Taiizor/ReaLTaiizor](https://github.com/Taiizor/ReaLTaiizor)
+- [Soferity/Witcher](https://github.com/Soferity/Witcher)
 
 **Note**: There are many projects not listed here. You'll probably be able to find more with this
 [github search for .all-contributorsrc](https://github.com/search?utf8=%E2%9C%93&q=.all-contributorsrc+in%3Apath&type=Code&ref=searchresults)
