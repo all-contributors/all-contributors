@@ -772,6 +772,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "mtfoley",
+      "name": "Matthew",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3792749?v=4",
+      "profile": "https://twitter.com/MatthewTFoley",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
