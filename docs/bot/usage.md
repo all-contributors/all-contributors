@@ -26,6 +26,7 @@ The bot will then create a Pull Request to add the contributor, then reply with 
 > For example, this will work too:
 >
 > `Jane you are crushing it in documentation and your infrastructure work has been great too. Let's add @jane.doe23 for her contributions. cc @all-contributors`
-
+> 
+> The bot will work best in parsing your comment correctly if you precede the contributor's username with @ as shown above. Otherwise, the bot may not correctly identify the user.
 ## What's next
 - [Configuring the Bot](configuration)
