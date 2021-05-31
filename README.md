@@ -182,6 +182,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/jsoref"><img src="https://avatars0.githubusercontent.com/u/2119212?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Josh Soref</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=jsoref" title="Documentation">📖</a></td>
     <td align="center"><a href="https://bandism.net/"><img src="https://avatars.githubusercontent.com/u/22633385?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ikko Ashimine</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=eltociear" title="Documentation">📖</a></td>
     <td align="center"><a href="https://twitter.com/MatthewTFoley"><img src="https://avatars.githubusercontent.com/u/3792749?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Matthew</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=mtfoley" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://google.com (not really)"><img src="https://avatars.githubusercontent.com/u/61319150?v=4?s=100" width="100px;" alt=""/><br /><sub><b>--Explosion--</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/issues?q=author%3AExplosion-Scratch" title="Bug reports">🐛</a></td>
   </tr>
 </table>
 
