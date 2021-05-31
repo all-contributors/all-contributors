@@ -781,6 +781,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "Explosion-Scratch",
+      "name": "--Explosion--",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61319150?v=4",
+      "profile": "https://google.com (not really)",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "repoType": "github",
