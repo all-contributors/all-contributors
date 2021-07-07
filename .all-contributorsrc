@@ -781,6 +781,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "corneliusroemer",
+      "name": "Cornelius Roemer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25161793?v=4",
+      "profile": "https://github.com/corneliusroemer",
+      "contributions": [
+        "design"
+      ]
     }
   ],
   "repoType": "github",
