@@ -19,6 +19,8 @@ e.g. Fixes #0
 
 Check this [list](https://help.github.com/en/articles/closing-issues-using-keywords) of valid keywords.
  -->
+ 
+ Resolves #
 **What**:
 
 <!-- Why are these changes necessary? -->
