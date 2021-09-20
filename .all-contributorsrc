@@ -763,6 +763,33 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "eltociear",
+      "name": "Ikko Ashimine",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22633385?v=4",
+      "profile": "https://bandism.net/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "mtfoley",
+      "name": "Matthew",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3792749?v=4",
+      "profile": "https://twitter.com/MatthewTFoley",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "corneliusroemer",
+      "name": "Cornelius Roemer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25161793?v=4",
+      "profile": "https://github.com/corneliusroemer",
+      "contributions": [
+        "design"
+      ]
     }
   ],
   "repoType": "github",
