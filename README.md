@@ -55,7 +55,7 @@ Below is an example of how using the all-contributors spec table can recognize a
     <img src="docs/assets/contributors-table-small.png" alt="All Contributors Table Screenshot" width="800px" />
 </div>
 
-> You can use [the @all-contributors bot 🤖](https://allcontributors.org/docs/en/bot/overview) to automate acknowledging contributors to your open source projects
+> You can use [the @allcontributors bot 🤖](https://allcontributors.org/docs/en/bot/overview) to automate acknowledging contributors to your open source projects
 
 ## Specification
 The [specification](https://allcontributors.org) is detailed on [allcontributors.org](https://allcontributors.org)
