@@ -6,7 +6,7 @@ sidebar_label: Configuration
 
 You can configure the all-contributors bot behaviour by updating the `.all-contributorsrc` JSON file.
 The data used to generate the contributors list will be stored in there, and you
-can configure how you want `@all-contributors` to generate the list.
+can configure how you want `@allcontributors` to generate the list.
 
 > You are viewing the 🤖Bot Configuration, which is similar to the [CLI Configuration](../cli/configuration)
 
@@ -22,7 +22,7 @@ These are the keys you can specify:
 | `contributorTemplate`            | Define your own lodash template to generate the contributor.                                        | |
 | `types`                          | Specify custom symbols or link templates for contribution types. Can override the documented types. | |
 | `skipCi`                         | Makes the CI ignore the commit. (either `true` or `false`)                                          | Default: `true` |
-| `contributors`                   | List of contributors for this project, this is updated by [@all-contributors add](usage#all-contributors-add) | |
+| `contributors`                   | List of contributors for this project, this is updated by [@allcontributors add](usage#all-contributors-add) | |
 
 ```json
 {
