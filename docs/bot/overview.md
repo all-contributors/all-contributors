@@ -14,7 +14,7 @@ sidebar_label: Overview
 ## Motivation
 Implementing the [All Contributors spec](../specification) by hand is a laborious process.
 
-Enter the `@all-contributors bot`! The bot will automatically pull a user's profile, grab the contribution type emoji, update the project README and then open a Pull Request against the project
+Enter the `@allcontributors bot`! The bot will automatically pull a user's profile, grab the contribution type emoji, update the project README and then open a Pull Request against the project
 <a href="usage">
     <img alt="Example usage screenshot" src="../../assets/bot-usage.png" width="500px">
 </a>
