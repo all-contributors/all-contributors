@@ -7,7 +7,7 @@
       "repository-maintainers",
       "tooling"
     ],
-    "@all-contributors Bot 🤖": [
+    "@allcontributors Bot 🤖": [
       "bot/overview",
       "bot/installation",
       "bot/usage",
