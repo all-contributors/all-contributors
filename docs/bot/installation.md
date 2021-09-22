@@ -21,7 +21,7 @@ sidebar_label: Installation
 Ensure you have a `README.md` file in the root of the project (it can be empty).
 
 If you prefer your contributors table in a place other than the `README.md`; After merging your first bot PR, you can move your contributors table,
-see `files` in the [bot configuration](configuration)
+see `files` in the [bot configuration](configuration).
 
 ## 4. Update your Contributing documentation
 Consider updating your `CONTRIBUTING.md` or similar with steps on how contributors can add themselves. You can even link to the [bot usage documentation](usage).
