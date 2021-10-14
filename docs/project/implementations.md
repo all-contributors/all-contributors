@@ -7,6 +7,7 @@ sidebar_label: Who's using it?
 This is a list of projects which have implemented the `all-contributors` specification. To add your project to this
 list, please [edit this page](contribute)!
 
+- [vedantmgoyal2009/winget-pkgs-automation](https://github.com/vedantmgoyal2009/winget-pkgs-automation)
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
 - [sarbbottam/eslint-find-rules](https://github.com/sarbbottam/eslint-find-rules)
 - [platinumazure/eslint-plugin-qunit](https://github.com/platinumazure/eslint-plugin-qunit)
