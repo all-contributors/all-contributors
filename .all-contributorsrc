@@ -797,4 +797,13 @@
   "repoHost": "https://github.com",
   "commitConvention": "angular",
   "skipCi": true
+},
+{
+      "login": "malleshi-9025",
+      "name": "Malleshi ",
+      "avatar_url": "https://github.com/malleshi-9025?tab=repositories",
+      "profile": "https://github.com/malleshi-9025",
+      "contributions": [
+        "doc"
+      ]
 }
