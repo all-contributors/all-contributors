@@ -56,7 +56,7 @@ Here are the steps that may help you in achieving that. For the sake of this tut
 4. Copy the code from the Contributors section in the `README.md` file, starting at the `ALL-CONTRIBUTORS-LIST:START` line, and ending at the `ALL-CONTRIBUTORS-LIST:END` line.
 
     Example:
-    ```
+    ```html
     <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
     <!-- prettier-ignore-start -->
     <!-- markdownlint-disable -->
@@ -65,16 +65,12 @@ Here are the steps that may help you in achieving that. For the sake of this tut
         <td align="center">...</td>
       </tr>
     </table>
-
     <!-- markdownlint-restore -->
     <!-- prettier-ignore-end -->
-
     <!-- ALL-CONTRIBUTORS-LIST:END -->
     ```
 5. Modify the `files` key in the `.all-contributorsrc` JSON file to match your new file name.
-
-    Example:
-    ```
+    ```json
     {
       "files": [
         "CONTRIBUTORS.md"
