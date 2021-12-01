@@ -183,6 +183,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://bandism.net/"><img src="https://avatars.githubusercontent.com/u/22633385?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ikko Ashimine</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=eltociear" title="Documentation">📖</a></td>
     <td align="center"><a href="https://twitter.com/MatthewTFoley"><img src="https://avatars.githubusercontent.com/u/3792749?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Matthew</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=mtfoley" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/corneliusroemer"><img src="https://avatars.githubusercontent.com/u/25161793?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Cornelius Roemer</b></sub></a><br /><a href="#design-corneliusroemer" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/DaiqianHu"><img src="https://avatars.githubusercontent.com/u/12026215?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Daiqian Hu</b></sub></a><br /><a href="#design-corneliusroemer" title="Code">💻</a></td>
   </tr>
 </table>
 
