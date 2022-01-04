@@ -19,8 +19,8 @@ All the source code is available at [github.com/all-contributors/all-contributor
 We offer new contributor onboarding, if you're interested in taking part in this please comment in the slack channel. 
 
 ## Committing to an all-contributors repo
-We use the [angular commit convention](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#-commit-message-guidelines) for commits which is used for an automated changelog generation, so it would be advisable to respect that.
-If you're not used to it or are afraid to mis-type a commit, you can run `npm run commit` or `git cz` (if you have installed `commitizen`) which would take you through a few questions and write the commit for you.
+We use the [angular commit convention](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#-commit-message-guidelines) for commits that are used for an automated changelog generation, so it would be advisable to respect that.
+If you're not used to it or are afraid to mistype a commit, you can run `npm run commit` or `git cz` (if you have installed `commitizen`) which would take you through a few questions and write the commit for you.
 
 ## Editing Content
 
@@ -38,7 +38,7 @@ Once on a file, click the 'pencil' icon to [easily edit the file inline](https:/
 Our translations are managed through crowdin. You can help contribute by heading to [the crowdin project] and suggesting translations.
 If you like, [comment on this issue](https://github.com/all-contributors/all-contributors/issues/143) to let us know you're helping or if you have any queries!
 
-> When translating, it's important that anything that has the [XPATH](https://developer.mozilla.org/en-US/docs/Web/XPath) `@href`, `@src` etc should not be translated. Things like `code` should not be either. This will cause the project to 404. See below image for an example:
+> When translating, anything that has the [XPATH](https://developer.mozilla.org/en-US/docs/Web/XPath) `@href`, `@src` etc mustn't be translated. Things like `code` should not be either. This will cause the project to 404. See the below image for an example:
 <img src="../../assets/translating-xpath.png" alt="Contribute to translating" />
 
 > However, it's recommended to translate any content that would contribute to a better comprehension like the comments in `code` tags _as long as_ it doesn't change the actual code since it only understands English.
@@ -56,7 +56,7 @@ If you like, [comment on this issue](https://github.com/all-contributors/all-con
 5. For **proofreaders** only: You can either approve translation suggestions (whether it's done by you or someone else), which you will find in the _"[LANGUAGE] TRANSLATIONS"_ section, by clicking on the :ballot_box_with_check: or delete them by clicking on the :wastebasket: icon.
 
 ### Change deployments
-After you translate strings in any given languages, you won't see those changes appearing live until the `master` branch was updated followed by a successful deployment.
+After you translate strings in any given language, you won't see those changes appearing live until the `master` branch was updated followed by a successful deployment.
 
 ## Search
 Search is by algolia, the configuration is at https://github.com/algolia/docsearch-configs/blob/master/configs/all-contributors.json

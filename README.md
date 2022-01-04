@@ -41,7 +41,7 @@
 
 
 
-This is a specification for recognizing contributors to an open source project in a way that rewards each and every contribution, not just code.
+This is a specification for recognizing contributors to an open-source project in a way that rewards every contribution, not just code.
 
 The basic idea is this:
 
@@ -70,7 +70,7 @@ See the [contributing docs](https://allcontributors.org/docs/en/project/contribu
 
 ## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks go to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->

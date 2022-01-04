@@ -12,7 +12,7 @@ sidebar_label: Overview
 
 <a class="github-button" href="https://github.com/all-contributors/all-contributors" data-icon="octicon-star" data-count-href="/all-contributors/all-contributors/stargazers" data-show-count="true" data-count-aria-label="# stargazers on GitHub" aria-label="Star this project on GitHub" >Star</a>
 
-This is a specification for recognizing contributors to an open source project in a way that rewards each and every contribution, not just code.
+This is a specification for recognizing contributors to an open-source project in a way that rewards every contribution, not just code.
 
 The basic idea is this:
 
