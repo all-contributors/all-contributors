@@ -184,6 +184,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://twitter.com/MatthewTFoley"><img src="https://avatars.githubusercontent.com/u/3792749?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Matthew</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=mtfoley" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/corneliusroemer"><img src="https://avatars.githubusercontent.com/u/25161793?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Cornelius Roemer</b></sub></a><br /><a href="#design-corneliusroemer" title="Design">🎨</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://turnipguy30.github.io"><img src="https://avatars.githubusercontent.com/u/50542928?v=4?s=100" width="100px;" alt=""/><br /><sub><b>JohnnySD</b></sub></a><br /><a href="#content-TurnipGuy30" title="Content">🖋</a> <a href="https://github.com/all-contributors/all-contributors/commits?author=TurnipGuy30" title="Documentation">📖</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-restore -->
