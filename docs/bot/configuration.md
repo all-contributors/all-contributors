@@ -55,27 +55,27 @@ Here are the steps that may help you in achieving that. For the sake of this tut
 3. Create the `CONTRIBUTORS.md` file.
 4. Copy the code from the Contributors section in the `README.md` file, starting at the `ALL-CONTRIBUTORS-LIST:START` line, and ending at the `ALL-CONTRIBUTORS-LIST:END` line.
 
-    Example:
-    ```html
-    <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-    <!-- prettier-ignore-start -->
-    <!-- markdownlint-disable -->
-    <table>
-      <tr>
-        <td align="center">...</td>
-      </tr>
-    </table>
-    <!-- markdownlint-restore -->
-    <!-- prettier-ignore-end -->
-    <!-- ALL-CONTRIBUTORS-LIST:END -->
-    ```
+   Example:
+	```html
+	<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+	<!-- prettier-ignore-start -->
+	<!-- markdownlint-disable -->
+	<table>
+	<tr>
+		<td align="center">...</td>
+	</tr>
+	</table>
+	<!-- markdownlint-restore -->
+	<!-- prettier-ignore-end -->
+	<!-- ALL-CONTRIBUTORS-LIST:END -->
+	```
 5. Modify the `files` key in the `.all-contributorsrc` JSON file to match your new file name.
-    ```json
-    {
-      "files": [
-        "CONTRIBUTORS.md"
-      ],
-      ...
-    }
-    ```
+   ```json
+	{
+	"files": [
+		"CONTRIBUTORS.md"
+	],
+	...
+	}
+	```
 6. Now you should be good to go. New contributors will be added to this new file instead of the `README.md` file.
