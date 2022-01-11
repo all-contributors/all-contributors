@@ -22,7 +22,7 @@ yarn add --dev all-contributors-cli # or npm i -D all-contributors-cli
 
 Alternatively, Arch Linux users can install the [`all-contributors-cli`](https://aur.archlinux.org/packages/all-contributors-cli) package from the AUR.
 
-> The CLI is node based, if you don't wish to add a node dependency use the [@all-contributors bot 🤖](../bot/overview)
+> The CLI is node-based, if you don't wish to add a node dependency use the [@all-contributors bot 🤖](../bot/overview)
 
 
 ## 2. Init the Project

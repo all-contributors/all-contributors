@@ -18,7 +18,7 @@ sidebar_label: Installation
 
 
 ## 3. Create a `README.md`
-Ensure you have a `README.md` file in the root of the project (it can be empty).
+Ensure you have a `README.md` file at the root of the project (it can be empty).
 
 If you prefer your contributors table in a place other than the `README.md`; After merging your first bot PR, you can move your contributors table,
 see `files` in the [bot configuration](configuration)
