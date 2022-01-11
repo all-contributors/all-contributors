@@ -799,6 +799,16 @@
       "contributions": [
         "design"
       ]
+    },
+    {
+      "login": "TurnipGuy30",
+      "name": "JohnnySD",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50542928?v=4",
+      "profile": "https://turnipguy30.github.io",
+      "contributions": [
+        "content",
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
