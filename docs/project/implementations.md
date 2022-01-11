@@ -7,15 +7,12 @@ sidebar_label: Who's using it?
 This is an alphabetical list of projects which have implemented the `all-contributors` specification. To add your project to this
 list, please [edit this page](contribute)!
 
-- [GitPoint](https://github.com/gitpoint/git-point)
-- [OperationCode/front-end](https://github.com/OperationCode/front-end)
-- [Pokemon-PythonRed](https://github.com/Pokemon-PythonRed/Pokemon-PythonRed)
-- [React Medellin Meetup](https://github.com/react-medellin/meetup)
 - [all-contributors/all-contributors-cli](https://github.com/all-contributors/all-contributors-cli)
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
 - [cesar-richard/heimdal](https://github.com/cesar-richard/heimdal)
 - [gatewayapps/kamino](https://github.com/gatewayapps/kamino)
 - [gitcoinco/code_fund_ads](https://github.com/gitcoinco/code_fund_ads)
+- [GitPoint](https://github.com/gitpoint/git-point)
 - [ioof-holdings/redux-subspace](https://github.com/ioof-holdings/redux-subspace)
 - [ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga)
 - [jakewies/hugo-theme-codex](https://github.com/jakewies/hugo-theme-codex)
@@ -27,8 +24,11 @@ list, please [edit this page](contribute)!
 - [kentcdodds/split-guide](https://github.com/kentcdodds/split-guide)
 - [kentcdodds/webpack-config-utils](https://github.com/kentcdodds/webpack-config-utils)
 - [olavoparno/jest-badges-readme](https://github.com/olavoparno/jest-badges-readme)
+- [OperationCode/front-end](https://github.com/OperationCode/front-end)
 - [persian-tools/persian-tools](https://github.com/persian-tools/persian-tools)
 - [platinumazure/eslint-plugin-qunit](https://github.com/platinumazure/eslint-plugin-qunit)
+- [Pokemon-PythonRed](https://github.com/Pokemon-PythonRed/Pokemon-PythonRed)
+- [React Medellin Meetup](https://github.com/react-medellin/meetup)
 - [render_async](https://github.com/renderedtext/render_async)
 - [sarbbottam/eslint-find-rules](https://github.com/sarbbottam/eslint-find-rules)
 - [sxwjs/sxwjs](https://github.com/sxwjs/sxwjs)
