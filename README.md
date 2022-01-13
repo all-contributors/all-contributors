@@ -58,7 +58,7 @@ Below is an example of how using the all-contributors spec table can recognize a
 > You can use [the @all-contributors bot 🤖](https://allcontributors.org/docs/en/bot/overview) to automate acknowledging contributors to your open source projects
 
 ## Specification
-The [specification](https://allcontributors.org) is detailed on [allcontributors.org](https://allcontributors.org)
+The [specification](https://allcontributors.org/docs/en/specification) is detailed on [allcontributors.org](https://allcontributors.org)
 
 ## Emoji key
 The [Emoji Key](https://allcontributors.org/docs/en/emoji-key) ✨ (and Contribution Types) can be found on [allcontributors.org](https://allcontributors.org)
