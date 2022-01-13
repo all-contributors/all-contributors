@@ -809,6 +809,15 @@
         "content",
         "doc"
       ]
+    },
+    {
+      "login": "mwaitzman",
+      "name": "mwaitzman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51432220?v=4",
+      "profile": "https://github.com/mwaitzman",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
