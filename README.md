@@ -188,6 +188,7 @@ Thanks go to these wonderful people ([emoji key](https://allcontributors.org/doc
     <td align="center"><a href="https://github.com/corneliusroemer"><img src="https://avatars.githubusercontent.com/u/25161793?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Cornelius Roemer</b></sub></a><br /><a href="#design-corneliusroemer" title="Design">🎨</a></td>
     <td align="center"><a href="https://turnipguy30.github.io"><img src="https://avatars.githubusercontent.com/u/50542928?v=4?s=100" width="100px;" alt=""/><br /><sub><b>JohnnySD</b></sub></a><br /><a href="#content-TurnipGuy30" title="Content">🖋</a> <a href="https://github.com/all-contributors/all-contributors/commits?author=TurnipGuy30" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/mwaitzman"><img src="https://avatars.githubusercontent.com/u/51432220?v=4?s=100" width="100px;" alt=""/><br /><sub><b>mwaitzman</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=mwaitzman" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://e-coders.me"><img src="https://avatars.githubusercontent.com/u/83082760?v=4?s=100" width="100px;" alt=""/><br /><sub><b>E - Coders (Aasheesh Agarwal)</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=e-coders" title="Documentation">📖</a></td>
   </tr>
 </table>
 
