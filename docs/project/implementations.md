@@ -26,6 +26,7 @@ list, please [edit this page](contribute)!
 - [olavoparno/jest-badges-readme](https://github.com/olavoparno/jest-badges-readme)
 - [OperationCode/front-end](https://github.com/OperationCode/front-end)
 - [persian-tools/persian-tools](https://github.com/persian-tools/persian-tools)
+- [sasjs/core](https://github.com/sasjs/core)
 - [platinumazure/eslint-plugin-qunit](https://github.com/platinumazure/eslint-plugin-qunit)
 - [Pokemon-PythonRed](https://github.com/Pokemon-PythonRed/Pokemon-PythonRed)
 - [React Medellin Meetup](https://github.com/react-medellin/meetup)
