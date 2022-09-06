@@ -37,10 +37,8 @@ list, please [edit this page](contribute)!
 - [sytespace/Native](https://github.com/sytespace/Native)
 - [ta2edchimp/opt-cli](https://github.com/ta2edchimp/opt-cli)
 - [tstrohmeier/docker-spark-development](https://github.com/tstrohmeier/docker-spark-development)
-- [jakewies/hugo-theme-codex](https://github.com/jakewies/hugo-theme-codex)
-- [persian-tools/persian-tools](https://github.com/persian-tools/persian-tools)
-- [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi)
 - [vedantmgoyal2009/vedantmgoyal2009](https://github.com/vedantmgoyal2009/vedantmgoyal2009)
+- [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi)
 
 
 **Note**: There are many projects not listed here. You'll probably be able to find more with this
