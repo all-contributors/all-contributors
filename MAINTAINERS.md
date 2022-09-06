@@ -7,7 +7,7 @@ Current maintainers:
 - [Tyler Benning](https://github.com/tbenning) 
 - [Jeff Wen](https://github.com/sinchang)
 
-See [the github All Contributors Core Team group](https://github.com/orgs/all-contributors/teams/core/members)
+See [the GitHub All Contributors Core Team group](https://github.com/orgs/all-contributors/teams/core/members)
 
 ## Roadmap/Goals
 ### Unite all contributor efforts ✅
@@ -22,11 +22,11 @@ See [the github All Contributors Core Team group](https://github.com/orgs/all-co
 - [ ] To keep engaged: sending regular (weekly) updates about the recent events related to the project 
 - [ ] Develop more open and inclusive decision-making processes
 
-### Building an All Contributors presence and visibilty
+### Building an All Contributors presence and visibility
 - [x] Switch to .org from .js.org and promote to communities outside JavaScript
 - [ ] Create a video
 - [ ] Improve SEO (see goals)
-- [ ] Add all contributors bot to github marketplace (see goals 250 app installs)
+- [ ] Add all contributors bot to GitHub marketplace (see goals 250 app installs)
 
 
 ## Metrics OKR Period - Open Leaders (Mid Feb 2019 until April 2019)
@@ -81,7 +81,7 @@ Wed Feb 13th | - | - | 24 | - | 23 | -
 - [AWS Dashboard](https://console.aws.amazon.com/cloudwatch/home?region=us-east-1#dashboards:name=All-Contributors-Bot)
 
 ### Website
-- [Google Analyitics](https://analytics.google.com/analytics/web/#/dashboard/OZG_ZAFyR2-GjE4In1DVBg/a131821931w191468068p187370803/)
+- [Google Analytics](https://analytics.google.com/analytics/web/#/dashboard/OZG_ZAFyR2-GjE4In1DVBg/a131821931w191468068p187370803/)
 - [Search Console](https://search.google.com/search-console?resource_id=https%3A%2F%2Fallcontributors.org%2F)
 
 

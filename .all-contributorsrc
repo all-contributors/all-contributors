@@ -45,12 +45,13 @@
     },
     {
       "login": "tbenning",
-      "name": "tbenning",
+      "name": "Tyler Benning",
       "avatar_url": "https://avatars2.githubusercontent.com/u/7265547?v=4",
       "profile": "https://github.com/tbenning",
       "contributions": [
-        "design",
-        "maintenance"
+        "maintenance",
+        "code",
+        "design"
       ]
     },
     {
@@ -506,7 +507,6 @@
       "name": "Cem",
       "avatar_url": "https://avatars0.githubusercontent.com/u/21110691?v=4",
       "profile": "https://github.com/BayCem",
-
       "contributions": [
         "translation"
       ]
@@ -744,6 +744,106 @@
       "profile": "https://dev.to/mbiesiad",
       "contributions": [
         "translation"
+      ]
+    },
+    {
+      "login": "ali-master",
+      "name": "Ali Torki",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/9049092?v=4",
+      "profile": "https://www.linkedin.com/in/alitorki/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "jsoref",
+      "name": "Josh Soref",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/2119212?v=4",
+      "profile": "https://github.com/jsoref",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Taiizor",
+      "name": "Taiizor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41683699?v=4",
+      "profile": "https://www.taiizor.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "eltociear",
+      "name": "Ikko Ashimine",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22633385?v=4",
+      "profile": "https://bandism.net/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "mtfoley",
+      "name": "Matthew",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3792749?v=4",
+      "profile": "https://twitter.com/MatthewTFoley",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "corneliusroemer",
+      "name": "Cornelius Roemer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25161793?v=4",
+      "profile": "https://github.com/corneliusroemer",
+      "contributions": [
+        "design"
+      ]
+    },
+    {
+      "login": "TurnipGuy30",
+      "name": "JohnnySD",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50542928?v=4",
+      "profile": "https://turnipguy30.github.io",
+      "contributions": [
+        "content",
+        "doc"
+      ]
+    },
+    {
+      "login": "mwaitzman",
+      "name": "mwaitzman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51432220?v=4",
+      "profile": "https://github.com/mwaitzman",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "kachick",
+      "name": "Kenichi Kamiya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1180335?v=4",
+      "profile": "https://kachick.github.io/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "tenshiAMD",
+      "name": "Angel Aviel Domaoan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13580338?v=4",
+      "profile": "https://tenshiamd.com",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "allanbowe",
+      "name": "Allan Bowe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4420615?v=4",
+      "profile": "https://4gl.io",
+      "contributions": [
+        "doc"
       ]
     }
   ],
