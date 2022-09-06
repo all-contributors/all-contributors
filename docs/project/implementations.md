@@ -26,6 +26,7 @@ list, please [edit this page](contribute)!
 - [olavoparno/jest-badges-readme](https://github.com/olavoparno/jest-badges-readme)
 - [OperationCode/front-end](https://github.com/OperationCode/front-end)
 - [persian-tools/persian-tools](https://github.com/persian-tools/persian-tools)
+- [sasjs/core](https://github.com/sasjs/core)
 - [platinumazure/eslint-plugin-qunit](https://github.com/platinumazure/eslint-plugin-qunit)
 - [Pokemon-PythonRed](https://github.com/Pokemon-PythonRed/Pokemon-PythonRed)
 - [React Medellin Meetup](https://github.com/react-medellin/meetup)
@@ -37,6 +38,8 @@ list, please [edit this page](contribute)!
 - [ta2edchimp/opt-cli](https://github.com/ta2edchimp/opt-cli)
 - [tstrohmeier/docker-spark-development](https://github.com/tstrohmeier/docker-spark-development)
 - [vedantmgoyal2009/vedantmgoyal2009](https://github.com/vedantmgoyal2009/vedantmgoyal2009)
+- [King-BR/Discord.js-Bot-Template](https://github.com/King-BR/Discord.js-Bot-Template) 
+- [RespoUI](https://github.com/educatyeducate/respoui)
 
 **Note**: There are many projects not listed here. You'll probably be able to find more with this
 [github search for .all-contributorsrc](https://github.com/search?utf8=%E2%9C%93&q=.all-contributorsrc+in%3Apath&type=Code&ref=searchresults)

@@ -34,7 +34,6 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-54-orange.svg?style=flat-square)](#contributors-)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e30784c5-9efd-4f20-8a47-13f3fb899613/deploy-status)](https://app.netlify.com/sites/allcontributors-org/deploys)
 [![Star on GitHub](https://img.shields.io/github/stars/all-contributors/all-contributors.svg?style=social)](https://github.com/all-contributors/all-contributors/stargazers)
-[![Pull Reminders](https://pullreminders.com/badge.svg)](https://pullreminders.com?ref=badge)
 
 
 
@@ -188,6 +187,9 @@ Thanks go to these wonderful people ([emoji key](https://allcontributors.org/doc
     <td align="center"><a href="https://github.com/corneliusroemer"><img src="https://avatars.githubusercontent.com/u/25161793?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Cornelius Roemer</b></sub></a><br /><a href="#design-corneliusroemer" title="Design">🎨</a></td>
     <td align="center"><a href="https://turnipguy30.github.io"><img src="https://avatars.githubusercontent.com/u/50542928?v=4?s=100" width="100px;" alt=""/><br /><sub><b>JohnnySD</b></sub></a><br /><a href="#content-TurnipGuy30" title="Content">🖋</a> <a href="https://github.com/all-contributors/all-contributors/commits?author=TurnipGuy30" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/mwaitzman"><img src="https://avatars.githubusercontent.com/u/51432220?v=4?s=100" width="100px;" alt=""/><br /><sub><b>mwaitzman</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=mwaitzman" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://kachick.github.io/"><img src="https://avatars.githubusercontent.com/u/1180335?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kenichi Kamiya</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=kachick" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://tenshiamd.com"><img src="https://avatars.githubusercontent.com/u/13580338?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Angel Aviel Domaoan</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=tenshiAMD" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://4gl.io"><img src="https://avatars.githubusercontent.com/u/4420615?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Allan Bowe</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=allanbowe" title="Documentation">📖</a></td>
     <td align="center"><a href="http://e-coders.me"><img src="https://avatars.githubusercontent.com/u/83082760?v=4?s=100" width="100px;" alt=""/><br /><sub><b>E - Coders (Aasheesh Agarwal)</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=e-coders" title="Documentation">📖</a></td>
   </tr>
 </table>
