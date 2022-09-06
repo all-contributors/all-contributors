@@ -189,6 +189,7 @@ Thanks go to these wonderful people ([emoji key](https://allcontributors.org/doc
     <td align="center"><a href="https://github.com/mwaitzman"><img src="https://avatars.githubusercontent.com/u/51432220?v=4?s=100" width="100px;" alt=""/><br /><sub><b>mwaitzman</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=mwaitzman" title="Documentation">📖</a></td>
     <td align="center"><a href="https://kachick.github.io/"><img src="https://avatars.githubusercontent.com/u/1180335?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kenichi Kamiya</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=kachick" title="Documentation">📖</a></td>
     <td align="center"><a href="https://tenshiamd.com"><img src="https://avatars.githubusercontent.com/u/13580338?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Angel Aviel Domaoan</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=tenshiAMD" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://4gl.io"><img src="https://avatars.githubusercontent.com/u/4420615?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Allan Bowe</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=allanbowe" title="Documentation">📖</a></td>
   </tr>
 </table>
 
