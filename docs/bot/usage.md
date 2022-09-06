@@ -25,7 +25,8 @@ The bot will then create a Pull Request to add the contributor, then reply with 
 > Your request to the bot doesn't need to be perfect. The bot will use [basic Natural Language Parsing](https://github.com/all-contributors/app/blob/master/lib/parse-comment.js) to determine your intent.
 > For example, this will work too:
 >
-> `Jane you are crushing it in documentation and your infrastructure work has been great too. Let's add @jane.doe23 for her contributions. cc @all-contributors`
-
+> `Jane you are crushing it in the documentation and your infrastructure work has been great too. Let's add @jane.doe23 for her contributions. cc @all-contributors`
+> 
+> The bot will work best in parsing your comment correctly if you precede the contributor's username with @ as shown above. Otherwise, the bot may not correctly identify the user.
 ## What's next
 - [Configuring the Bot](configuration)
