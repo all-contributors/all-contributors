@@ -38,6 +38,8 @@ list, please [edit this page](contribute)!
 - [ta2edchimp/opt-cli](https://github.com/ta2edchimp/opt-cli)
 - [tstrohmeier/docker-spark-development](https://github.com/tstrohmeier/docker-spark-development)
 - [vedantmgoyal2009/vedantmgoyal2009](https://github.com/vedantmgoyal2009/vedantmgoyal2009)
+- [King-BR/Discord.js-Bot-Template](https://github.com/King-BR/Discord.js-Bot-Template) 
+- [RespoUI](https://github.com/educatyeducate/respoui)
 - [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi)
 
 
