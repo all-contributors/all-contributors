@@ -192,6 +192,9 @@ Thanks go to these wonderful people ([emoji key](https://allcontributors.org/doc
     <td align="center"><a href="https://4gl.io"><img src="https://avatars.githubusercontent.com/u/4420615?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Allan Bowe</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=allanbowe" title="Documentation">📖</a></td>
     <td align="center"><a href="http://e-coders.me"><img src="https://avatars.githubusercontent.com/u/83082760?v=4?s=100" width="100px;" alt=""/><br /><sub><b>E - Coders (Aasheesh Agarwal)</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=e-coders" title="Documentation">📖</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="http://King-BR.github.io"><img src="https://avatars.githubusercontent.com/u/51011050?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Fernando</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=King-BR" title="Documentation">📖</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-restore -->
