@@ -7,7 +7,7 @@ Current maintainers:
 - [Tyler Benning](https://github.com/tbenning) 
 - [Jeff Wen](https://github.com/sinchang)
 
-See [the github All Contributors Core Team group](https://github.com/orgs/all-contributors/teams/core/members)
+See [the GitHub All Contributors Core Team group](https://github.com/orgs/all-contributors/teams/core/members)
 
 ## Roadmap/Goals
 ### Unite all contributor efforts ✅
@@ -26,7 +26,7 @@ See [the github All Contributors Core Team group](https://github.com/orgs/all-co
 - [x] Switch to .org from .js.org and promote to communities outside JavaScript
 - [ ] Create a video
 - [ ] Improve SEO (see goals)
-- [ ] Add all contributors bot to github marketplace (see goals 250 app installs)
+- [ ] Add all contributors bot to GitHub marketplace (see goals 250 app installs)
 
 
 ## Metrics OKR Period - Open Leaders (Mid Feb 2019 until April 2019)
