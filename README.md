@@ -195,6 +195,9 @@ Thanks go to these wonderful people ([emoji key](https://allcontributors.org/doc
   <tr>
     <td align="center"><a href="http://King-BR.github.io"><img src="https://avatars.githubusercontent.com/u/51011050?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Fernando</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=King-BR" title="Documentation">📖</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://bittu.eu.org"><img src="https://avatars.githubusercontent.com/u/83997633?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vedant Mohan Goyal</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=vedantmgoyal2009" title="Documentation">📖</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-restore -->
