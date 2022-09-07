@@ -36,7 +36,7 @@ for a list of valid `contribution` types.
 
 ### `all-contributors check`
 Use `check` to compare contributors from GitHub with the ones credited in your
-`.all-contributorsrc` file, in order to make sure that credit is given where
+`.all-contributorsrc` file, to make sure that credit is given where
 it's due.
 
 > Due to GitHub API restrictions, this command only works for projects with less
@@ -47,12 +47,12 @@ it's due.
 Use `generate` to read the `contributors` list from your `.all-contributorsrc` file
 and update the contributor tables specified by the `files` key.
 
-Please note the command must be able to find the following tags in those files, in order to update the table:
+Please note the command must be able to find the following tags in those files, to update the table:
 ```
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 ```
-Also note that it needs to find the following tags in order to update the badge:
+Also, note that it needs to find the following tags to update the badge:
 ```
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -60,13 +60,13 @@ Also note that it needs to find the following tags in order to update the badge:
 
 
 ## GitHub Users
-In some cases you may see the error message `GitHub API rate limit exceeded for xxx`. You may need to set an environment variable named `PRIVATE_TOKEN` in order to circumvent this [GitHub rate limit](https://developer.github.com/v3/rate_limit/).
+In some cases you may see the error message `GitHub API rate limit exceeded for xxx`. You may need to set an environment variable named `PRIVATE_TOKEN` to circumvent this [GitHub rate limit](https://developer.github.com/v3/rate_limit/).
 
-> Private token is your personal access token to authenticate with the GitHub API.
+> Private token is your Personal Access Token (PAT) to authenticate with the GitHub API.
 
 
 ## GitLab Users
-Please note that if you are using a self-hosted gitlab instance,
+Please note that if you are using a self-hosted GitLab instance,
 some commands will need you to set an environment variable named `PRIVATE_TOKEN` first.
 
 > Private token is the personal access token to authenticate with the GitLab API.

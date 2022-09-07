@@ -765,6 +765,15 @@
       ]
     },
     {
+      "login": "Taiizor",
+      "name": "Taiizor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41683699?v=4",
+      "profile": "https://www.taiizor.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
       "login": "eltociear",
       "name": "Ikko Ashimine",
       "avatar_url": "https://avatars.githubusercontent.com/u/22633385?v=4",
@@ -789,6 +798,70 @@
       "profile": "https://github.com/corneliusroemer",
       "contributions": [
         "design"
+      ]
+    },
+    {
+      "login": "TurnipGuy30",
+      "name": "JohnnySD",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50542928?v=4",
+      "profile": "https://turnipguy30.github.io",
+      "contributions": [
+        "content",
+        "doc"
+      ]
+    },
+    {
+      "login": "mwaitzman",
+      "name": "mwaitzman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51432220?v=4",
+      "profile": "https://github.com/mwaitzman",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "kachick",
+      "name": "Kenichi Kamiya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1180335?v=4",
+      "profile": "https://kachick.github.io/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "tenshiAMD",
+      "name": "Angel Aviel Domaoan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13580338?v=4",
+      "profile": "https://tenshiamd.com",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "allanbowe",
+      "name": "Allan Bowe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4420615?v=4",
+      "profile": "https://4gl.io",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "e-coders",
+      "name": "E - Coders (Aasheesh Agarwal)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83082760?v=4",
+      "profile": "http://e-coders.me",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "King-BR",
+      "name": "Fernando",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51011050?v=4",
+      "profile": "http://King-BR.github.io",
+      "contributions": [
+        "doc"
       ]
     },
     {

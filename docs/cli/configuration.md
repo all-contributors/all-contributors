@@ -5,7 +5,7 @@ sidebar_label: Configuration
 ---
 
 You can configure all-contributors by updating the `.all-contributorsrc` JSON file.
-The data used to generate the contributors list will be stored in there, and you
+The data used to generate the contributors list will be stored there, and you
 can configure how you want `all-contributors-cli` to generate the list.
 
 > You are viewing the CLI Configuration, are you looking for the [Bot Configuration](../bot/configuration)?
