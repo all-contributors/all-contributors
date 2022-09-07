@@ -5,7 +5,7 @@ sidebar_label: Configuration
 ---
 
 You can configure the all-contributors bot behaviour by updating the `.all-contributorsrc` JSON file.
-The data used to generate the contributors list will be stored in there, and you
+The data used to generate the contributors list will be stored there, and you
 can configure how you want `@all-contributors` to generate the list.
 
 > You are viewing the 🤖Bot Configuration, which is similar to the [CLI Configuration](../cli/configuration)
