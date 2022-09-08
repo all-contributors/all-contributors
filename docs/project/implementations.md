@@ -41,6 +41,8 @@ list, please [edit this page](contribute)!
 - [King-BR/Discord.js-Bot-Template](https://github.com/King-BR/Discord.js-Bot-Template) 
 - [RespoUI](https://github.com/educatyeducate/respoui)
 - [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi)
+- [Taiizor/ReaLTaiizor](https://github.com/Taiizor/ReaLTaiizor)
+- [Soferity/Witcher](https://github.com/Soferity/Witcher)
 
 
 **Note**: There are many projects not listed here. You'll probably be able to find more with this
