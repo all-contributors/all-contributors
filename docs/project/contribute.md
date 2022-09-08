@@ -6,17 +6,12 @@ sidebar_label: Help us Improve
 
 > Call for translators! [We're looking for translators](https://github.com/all-contributors/all-contributors/issues/143) to help translate this spec for everyone!
 
-We work out of a slack workspace, feel free to [come join us](https://join.slack.com/t/all-contributors/shared_invite/zt-6lvzv86q-x_EZQUMOyEqe7MrybzoKwg)! [![Chat on slack](https://img.shields.io/badge/slack-join-ff69b4.svg)](https://join.slack.com/t/all-contributors/shared_invite/zt-6lvzv86q-x_EZQUMOyEqe7MrybzoKwg)
-
 ## Help improve the all-contributors documentation!
 
 Thanks for your interest in the project!
 Pull Requests welcome for any level of improvement, from a small typo to a new section, help us make the project better
 
 All the source code is available at [github.com/all-contributors/all-contributors](https://github.com/all-contributors/all-contributors/tree/master/docs)
-
-## New Contributor Onboarding
-We offer new contributor onboarding, if you're interested in taking part in this please comment in the slack channel. 
 
 ## Committing to an all-contributors repo
 We use the [angular commit convention](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#-commit-message-guidelines) for commits that are used for an automated changelog generation, so it would be advisable to respect that.

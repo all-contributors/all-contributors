@@ -834,7 +834,11 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/13580338?v=4",
       "profile": "https://tenshiamd.com",
       "contributions": [
-        "doc"
+        "doc",
+        "code",
+        "maintenance",
+        "bug",
+        "review"
       ]
     },
     {
@@ -869,6 +873,15 @@
       "name": "Vedant Mohan Goyal",
       "avatar_url": "https://avatars.githubusercontent.com/u/83997633?v=4",
       "profile": "https://bittu.eu.org",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "hanisirfan",
+      "name": "Muhammad Hanis Irfan Mohd Zaid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66242389?v=4",
+      "profile": "https://www.hanisirfan.xyz",
       "contributions": [
         "doc"
       ]
