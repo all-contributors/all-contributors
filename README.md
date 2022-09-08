@@ -198,7 +198,7 @@ Thanks go to these wonderful people ([emoji key](https://allcontributors.org/doc
       <td align="center"><a href="https://bittu.eu.org"><img src="https://avatars.githubusercontent.com/u/83997633?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vedant Mohan Goyal</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=vedantmgoyal2009" title="Documentation">📖</a></td>
       <td align="center"><a href="https://www.hanisirfan.xyz"><img src="https://avatars.githubusercontent.com/u/66242389?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Muhammad Hanis Irfan Mohd Zaid</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=hanisirfan" title="Documentation">📖</a></td>
     </tr>
-  </tobdy>
+  </tbody>
 </table>
 
 <!-- markdownlint-restore -->
