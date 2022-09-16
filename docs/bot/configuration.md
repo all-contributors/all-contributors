@@ -53,7 +53,7 @@ Here are the steps that may help you in achieving that. For the sake of this tut
 1. Install the bot. See the [Installation](installation) page for instructions.
 2. Add your first contributor. See the [Bot Usage](usage) page for instructions.
 3. Create the `CONTRIBUTORS.md` file.
-4. Copy the code which can be found in [this guide](allcontributors.org/docs/en/bot/installation#3-create-a-readmemd).
+4. Copy the code which can be found in [this guide](bot/installation#3-create-a-readmemd).
 5. Modify the `files` key in the `.all-contributorsrc` JSON file to match your new file name.
    ```json
    {
