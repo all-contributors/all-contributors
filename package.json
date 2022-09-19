@@ -16,13 +16,17 @@
     "crowdin-upload": "yarn crowdin --config crowdin.yaml upload sources --auto-update -b $(git rev-parse --abbrev-ref HEAD)",
     "crowdin-download": "yarn crowdin --config crowdin.yaml download -b $(git rev-parse --abbrev-ref HEAD)",
     "build-with-translations": "yarn write-translations && yarn crowdin-upload && yarn crowdin-download && yarn build",
-    "commit": "git-cz"
+    "commit": "git-cz",
+    "prepare": "husky install"
   },
   "devDependencies": {
     "broken-link-checker": "^0.7.8",
     "cz-conventional-changelog": "^2.1.0",
     "docusaurus": "^1.7.3",
     "git-cz": "^4.1.0",
+    "husky": "^8.0.1",
+    "lint-staged": "^13.0.3",
+    "markdownlint-cli": "^0.32.2",
     "react": "^16.6.3",
     "semantic-release": "^17.4.2"
   },
@@ -34,5 +38,8 @@
     "commitizen": {
       "path": "cz-conventional-changelog"
     }
+  },
+  "lint-staged": {
+    "*.md": "markdownlint --fix"
   }
 }
