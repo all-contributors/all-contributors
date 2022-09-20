@@ -1,45 +1,39 @@
 {
-  "name": "all-contributors",
-  "description": "✨ Recognize all contributors, not just the ones who push code ✨",
-  "version": "0.0.0-semantically-released",
-  "bin": "index.js",
-  "main": "index.js",
-  "repository": "git@github.com:all-contributors/all-contributors.git",
-  "author": "All Contributors (https://allcontributors.org)",
-  "license": "MIT",
+  "name": "all-contributors-bot",
+  "version": "0.0.0-development",
+  "private": true,
+  "description": "A bot for automatically adding all your contributors",
+  "author": "Jake Bolam <jake.bolam@gmail.com> (https://jakebolam.com)",
+  "repository": "https://github.com/all-contributors/all-contributors-bot",
+  "keywords": [
+    "all-contributors",
+    "probot",
+    "github-app",
+    "probot-app"
+  ],
   "scripts": {
-    "semantic-release": "semantic-release",
-    "start": "cd website && ../node_modules/.bin/docusaurus-start",
-    "build": "cd website && ../node_modules/.bin/docusaurus-build && cp _redirects build/all-contributors",
-    "write-translations": "cd website && ../node_modules/.bin/docusaurus-write-translations",
-    "crowdin": "java -jar website/crowdin/crowdin-cli.jar",
-    "crowdin-upload": "yarn crowdin --config crowdin.yaml upload sources --auto-update -b $(git rev-parse --abbrev-ref HEAD)",
-    "crowdin-download": "yarn crowdin --config crowdin.yaml download -b $(git rev-parse --abbrev-ref HEAD)",
-    "build-with-translations": "yarn write-translations && yarn crowdin-upload && yarn crowdin-download && yarn build",
-    "commit": "git-cz",
-    "prepare": "husky install"
+    "start": "probot run ./app.js",
+    "lint": "prettier --check '{src,test}/**/*.{js,json}' '*.{md,json,js}' 'contributing/*.md' '.github/**/*.{yml,md}'",
+    "lint:fix": "prettier --write '{src,test}/**/*.{js,json}' '*.{md,json,js}' 'contributing/*.md' '.github/**/*.{yml,md}'",
+    "test": "jest --coverage"
+  },
+  "dependencies": {
+    "all-contributors-cli": "^6.20.4",
+    "commit-conv": "^1.0.3",
+    "compromise": "^11.14.3",
+    "probot": "^12.1.1"
   },
   "devDependencies": {
-    "broken-link-checker": "^0.7.8",
-    "cz-conventional-changelog": "^2.1.0",
-    "docusaurus": "^1.7.3",
-    "git-cz": "^4.1.0",
-    "husky": "^8.0.1",
-    "lint-staged": "^13.0.3",
-    "markdownlint-cli": "^0.32.2",
-    "react": "^16.6.3",
-    "semantic-release": "^17.4.2"
+    "@types/jest": "^27.0.2",
+    "codecov": "^3.8.3",
+    "jest": "^27.3.1",
+    "nock": "^13.1.4",
+    "pino": "^6.11.2",
+    "prettier": "^2.4.1",
+    "smee-client": "^1.2.3",
+    "vercel": "^23.1.2"
   },
-  "engines": {
-    "node": ">=12",
-    "npm": ">=6"
-  },
-  "config": {
-    "commitizen": {
-      "path": "cz-conventional-changelog"
-    }
-  },
-  "lint-staged": {
-    "*.md": "markdownlint --fix"
+  "jest": {
+    "testEnvironment": "node"
   }
 }
