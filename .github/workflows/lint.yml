@@ -1,0 +1,20 @@
+name: Lint
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    types:
+      - opened
+      - synchronize
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: xt0rted/markdownlint-problem-matcher@78410d0625df50bd14b8e178749fdb66e07c31e0
+      - uses: actions/setup-node@v3
+      - run: npm install
+      - run: ./node_modules/.bin/markdownlint **/*.md --ignore node_modules
