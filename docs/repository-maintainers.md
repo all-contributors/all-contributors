@@ -25,4 +25,5 @@ In the end, there are no hard and fast rules for when a contribution has to be a
 just do your best to be fair and to ensure all contributors are recognised.
 
 ## What's next
+
 - [Automating the process using tools](tooling)

@@ -10,6 +10,7 @@ An example of how using the all-contributors spec table can recognize all contri
 </div>
 
 ## Mandatory
+
 Open source projects should include the following mandatory items to support the All Contributors specification:
 
 1. A "Contributors" section in a prominent site of the project repository documentation that includes a list of all project contributors
@@ -27,13 +28,14 @@ Open source projects should include the following mandatory items to support the
 > **Pro tip:** You can use [the @all-contributors bot 🤖](bot/overview) to automate acknowledging contributors to your open source projects ✨
 
 ## Optional
+
 Projects should consider the following optional items as part of their commitment to the All Contributors specification:
 
 1. The user's avatar can be included and is recommended.
-3. An optional link from the Contribution Category indicator to the category-specific contribution(s) can be included to provide additional information about the project contribution(s) as detailed in the section below.
+2. An optional link from the Contribution Category indicator to the category-specific contribution(s) can be included to provide additional information about the project contribution(s) as detailed in the section below.
 
 ## What's next
+
 - [Emoji Key (Contribution Types Reference)](emoji-key)
 - [Notes for repository maintainers](repository-maintainers)
 - [Automating the process using tools](tooling)
-
