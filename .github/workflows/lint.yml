@@ -15,5 +15,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
-      - run: npm install
-      - run: ./node_modules/.bin/markdownlint **/*.md --ignore node_modules
+      - run: npx markdownlint **/*.md --ignore node_modules
