@@ -21,6 +21,7 @@ The basic idea is this:
 People are giving themselves and their free time to contribute to open source projects in so many ways, so we believe everyone should be praised for their contributions (code or not).
 
 ## The All Contributors Table
+
 Below is an example of how using the all-contributors spec table can recognize all contributors
 <div align="center">
     <img src="../assets/contributors-table-small.png" alt="All Contributors Table Screenshot" width="800px" />
@@ -29,8 +30,8 @@ Below is an example of how using the all-contributors spec table can recognize a
 > You can use [the @all-contributors bot 🤖](bot/overview) to automate acknowledging contributors to your open source projects
 
 ## What's next
+
 - [The all contributors specification](specification)
 - [Emoji Key (Contribution Types Reference)](emoji-key)
 - [Notes for repository maintainers](repository-maintainers)
 - [Automating the process using tools](tooling)
-

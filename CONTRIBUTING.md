@@ -1,4 +1,5 @@
 Read the contributing docs in:
+
 - <a href="https://allcontributors.org/docs/en/project/contribute">English</a>
 - <a href="https://allcontributors.org/docs/pt-BR/project/contribute">Português</a>
 - <a href="https://allcontributors.org/docs/es-ES/project/contribute">Español</a>
