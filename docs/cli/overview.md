@@ -9,7 +9,6 @@ sidebar_label: Overview
 </a>
 <a class="github-button" href="https://github.com/all-contributors/all-contributors-cli" data-icon="octicon-star" data-count-href="/all-contributors/all-contributors-cli/stargazers" data-show-count="true" data-count-aria-label="# stargazers on GitHub" aria-label="Star this project on GitHub" >Star</a>
 
-
 ## The problem
 
 You want to implement the [All Contributors](../specification) spec, but don't

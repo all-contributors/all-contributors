@@ -28,6 +28,7 @@ These are the keys you can specify:
 | `contributorTemplate`            | Define your own lodash template to generate the contributor.                                        | |
 | `types`                          | Specify custom symbols or link templates for contribution types. Can override the documented types. | |
 | `contributors`                   | List of contributors for this project, this is updated by [all-contributors add](usage#all-contributors-add) | |
+
 ```json
 {
   "projectName": "all-contributors-cli",

@@ -12,6 +12,7 @@ sidebar_label: Overview
 🤖 A GitHub bot to automate acknowledging contributors to your open source projects.
 
 ## Motivation
+
 Implementing the [All Contributors spec](../specification) by hand is a laborious process.
 
 Enter the `@all-contributors bot`! The bot will automatically pull a user's profile, grab the contribution type emoji, update the project README and then open a Pull Request against the project
@@ -23,7 +24,3 @@ Enter the `@all-contributors bot`! The bot will automatically pull a user's prof
 - [Using the Bot](usage)
 - [Configuring the Bot](configuration)
 - [Frequently Asked Questions](faq)
-
-
-
-
