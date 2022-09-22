@@ -14,8 +14,14 @@ These are the keys you can specify:
 
 | Option                           | Description                                                                                         | Example/Default                                                                                             |
 | -------------------------------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| `projectName`                    | Mandatory, name of the project.                                                                     | Example: `all-contributors-cli`                                                                             |
+| `projectOwner`                   | Mandatory, name of the user the project is hosted by.                                               | Example: `tenshiAMD`                                                                                        |
+| `repoType`                       | Type of repository. Must be either `github` or `gitlab`.                                            | Default: `github`                                                                                           |
+| `repoHost`                       | Points to the repository hostname. Change it if you use a self-hosted repository.                   | Default: `https://github.com` if `repoType` is `github`, and `https://gitlab.com` if `repoType` is `gitlab` |
 | `files`                          | Array of files to update.                                                                           | Default: `['README.md']`                                                                                    |
 | `imageSize`                      | Size (in px) of the user's avatar.                                                                  | Default: `100`                                                                                              |
+| `commit`                         | Auto-commit badge when adding contributors.                                                         | Default: `false`                                                                                           |
+| `commitConvention`               | Commit convention ([`angular`](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#-commit-message-guidelines), [`atom`](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#git-commit-messages), [`ember`](https://guides.emberjs.com/v1.10.0/contributing/#toc_commits), [`eslint`](https://eslint.org/docs/1.0.0/developer-guide/contributing#step-2-make-your-changes), [`jshint`](https://jshint.com/contribute/) or [`gitmoji`](https://gitmoji.carloscuesta.me/)).                                                         | Default: `angular`                                                                                           |
 | `contributorsPerLine`            | Maximum number of columns for the contributors table.                                               | Default: `7`                                                                                                |
 | `contributorsSortAlphabetically` | `true`: Sort alphabetically. `false`: Display in order of addition.                       | Default: `false`                                                                                            |
 | `badgeTemplate`                  | Define your own lodash template to generate the badge.                                              | |
@@ -26,8 +32,13 @@ These are the keys you can specify:
 
 ```json
 {
+  "projectName": "all-contributors",
+  "projectOwner": "all-contributors",
+  "repoType": "github",
+  "repoHost": "https://github.com",
   "files": ["README.md"],
   "imageSize": 100,
+  "commit": false,
   "contributorsPerLine": 7,
   "contributorsSortAlphabetically": false,
   "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
