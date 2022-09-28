@@ -27,6 +27,7 @@ These are the keys you can specify:
 | `badgeTemplate`                  | Define your own lodash template to generate the badge.                                              | |
 | `contributorTemplate`            | Define your own lodash template to generate the contributor.                                        | |
 | `types`                          | Specify custom symbols or link templates for contribution types. Can override the documented types. | |
+| `linkToUsage`                    | Adds a footer with link to usage (either `true` or `false`)                                         | Default: `true` |
 | `skipCi`                         | Makes the CI ignore the commit. (either `true` or `false`)                                          | Default: `true` |
 | `contributors`                   | List of contributors for this project, this is updated by [@all-contributors add](usage#all-contributors-add) | |
 
@@ -50,7 +51,8 @@ These are the keys you can specify:
       "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
     }
   },
-  "skipCi": "true",
+  "linkToUsage": true,
+  "skipCi": true,
   "contributors": []
 }
 ```
