@@ -31,6 +31,7 @@ Emoji/Type | Represents | Comments
 📦 <br /> `platform` | Packaging | Porting to support a new platform |
 🔌 <br /> `plugin` | Plugin/utility libraries | Links to the repo home
 📆 <br/> `projectManagement` | Project Management | |
+📣 <br/> `promotion` | Promotion | |
 💬 <br /> `question` | Answering Questions | Answering Questions in Issues, Stack Overflow, Gitter, Slack, etc.
 🔬 <br /> `research` | Research | Literature review.
 👀 <br /> `review` | Reviewed Pull Requests | |
