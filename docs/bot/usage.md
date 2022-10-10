@@ -12,10 +12,25 @@ sidebar_label: Usage
 
 ### `@all-contributors add`
 
- Comment on Issue or Pull Request, asking @all-contributors to add a contributor:
+Comment on Issue or Pull Request, asking @all-contributors to add a contributor:
 
 ```plaintext
 @all-contributors please add @<username> for <contributions>
+```
+
+Also, you can now add multiple contributors at the same time:
+
+##### Using single line
+
+```plaintext
+@all-contributors please add @<username> for <contributions>. please add @<username> for <contributions>.
+```
+##### Using multiple lines
+
+```plaintext
+@all-contributors
+please add @<username> for <contributions>. 
+please add @<username> for <contributions>.
 ```
 
 **\<contribution>**: See the [Emoji Key (Contribution Types Reference)](../emoji-key) for a list of valid `contribution` types.
