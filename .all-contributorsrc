@@ -904,6 +904,15 @@
         "doc",
         "code"
       ]
+    },
+    {
+      "login": "sglavoie",
+      "name": "Sébastien Lavoie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32682903?v=4",
+      "profile": "https://www.sglavoie.com/",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "repoType": "github",
