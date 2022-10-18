@@ -1,3 +1,5 @@
+
+
 name: Lint
 
 on:
@@ -10,7 +12,7 @@ on:
       - synchronize
 
 jobs:
-  build:
+  build:[![Lint](https://github.com/all-contributors/all-contributors/actions/workflows/lint.yml/badge.svg?branch=master)](https://github.com/all-contributors/all-contributors/actions/workflows/lint.yml)
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
