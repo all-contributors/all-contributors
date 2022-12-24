@@ -26,6 +26,7 @@ These are the keys you can specify:
 | `contributorsSortAlphabetically` | `true`: Sort alphabetically. `false`: Display in order of addition.                       | Default: `false`                                                                                            |
 | `badgeTemplate`                  | Define your own lodash template to generate the badge.                                              | |
 | `contributorTemplate`            | Define your own lodash template to generate the contributor.                                        | |
+| `wrapperTemplate`                | Define your own lodash template to wrap the list of contributors                                    | |
 | `types`                          | Specify custom symbols or link templates for contribution types. Can override the documented types. | |
 | `linkToUsage`                    | Adds a footer with link to usage (either `true` or `false`)                                         | Default: `true` |
 | `skipCi`                         | Makes the CI ignore the commit. (either `true` or `false`)                                          | Default: `true` |
@@ -44,6 +45,7 @@ These are the keys you can specify:
   "contributorsSortAlphabetically": false,
   "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
   "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
+  "wrapperTemplate": "\n<table>\n  <tbody><%= bodyContent %>  </tbody>\n<%= tableFooterContent %></table>\n\n",
   "types": {
     "custom": {
       "symbol": "🔭",
