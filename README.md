@@ -199,6 +199,9 @@ Thanks go to these wonderful people ([emoji key](https://allcontributors.org/doc
       <td align="center"><a href="https://www.sglavoie.com/"><img src="https://avatars.githubusercontent.com/u/32682903?v=4?s=100" width="100px;" alt="Sébastien Lavoie"/><br /><sub><b>Sébastien Lavoie</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/issues?q=author%3Asglavoie" title="Bug reports">🐛</a></td>
       <td align="center"><a href="https://github.com/NicolasGirondi"><img src="https://avatars.githubusercontent.com/u/78153799?v=4?s=100" width="100px;" alt="Nicolas Girondi"/><br /><sub><b>Nicolas Girondi</b></sub></a><br /><a href="#translation-NicolasGirondi" title="Translation">🌍</a></td>
     </tr>
+    <tr>
+      <td align="center"><a href="http://olets.dev"><img src="https://avatars.githubusercontent.com/u/3282350?v=4?s=100" width="100px;" alt="Henry Bley-Vroman"/><br /><sub><b>Henry Bley-Vroman</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=olets" title="Documentation">📖</a></td>
+    </tr>
   </tbody>
 </table>
 
