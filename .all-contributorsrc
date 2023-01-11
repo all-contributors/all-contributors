@@ -922,6 +922,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "omarkohl",
+      "name": "Omar Kohl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1420656?v=4",
+      "profile": "https://github.com/omarkohl",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
