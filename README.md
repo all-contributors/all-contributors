@@ -29,7 +29,7 @@
 
 [![Build Status](https://img.shields.io/circleci/project/all-contributors/all-contributors/master.svg)](https://circleci.com/gh/all-contributors/workflows/all-contributors/tree/master)
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/all-contributors/localized.svg)](https://crowdin.com/project/all-contributors)
-[![All Contributors](https://img.shields.io/badge/all_contributors-54-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/github/all-contributors/all-contributors/all-contributors?color=ee8449&style=flat-square)](#contributors-)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e30784c5-9efd-4f20-8a47-13f3fb899613/deploy-status)](https://app.netlify.com/sites/allcontributors-org/deploys)
 [![Star on GitHub](https://img.shields.io/github/stars/all-contributors/all-contributors.svg?style=social)](https://github.com/all-contributors/all-contributors/stargazers)
 
@@ -197,6 +197,7 @@ Thanks go to these wonderful people ([emoji key](https://allcontributors.org/doc
       <td align="center"><a href="habet.dev"><img src="https://avatars.githubusercontent.com/u/82916197?v=4?s=100" width="100px;" alt="Abe Hanoka"/><br /><sub><b>Abe Hanoka</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=abe-101" title="Documentation">📖</a></td>
       <td align="center"><a href="roshanjossey.github.io"><img src="https://avatars.githubusercontent.com/u/8488446?v=4?s=100" width="100px;" alt="Roshan Jossy"/><br /><sub><b>Roshan Jossy</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=Roshanjossey" title="Documentation">📖</a> <a href="https://github.com/all-contributors/all-contributors/commits?author=Roshanjossey" title="Code">💻</a></td>
       <td align="center"><a href="https://www.sglavoie.com/"><img src="https://avatars.githubusercontent.com/u/32682903?v=4?s=100" width="100px;" alt="Sébastien Lavoie"/><br /><sub><b>Sébastien Lavoie</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/issues?q=author%3Asglavoie" title="Bug reports">🐛</a></td>
+      <td align="center"><a href="https://github.com/NicolasGirondi"><img src="https://avatars.githubusercontent.com/u/78153799?v=4?s=100" width="100px;" alt="Nicolas Girondi"/><br /><sub><b>Nicolas Girondi</b></sub></a><br /><a href="#translation-NicolasGirondi" title="Translation">🌍</a></td>
     </tr>
   </tbody>
 </table>

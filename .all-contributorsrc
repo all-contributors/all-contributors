@@ -913,6 +913,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "NicolasGirondi",
+      "name": "Nicolas Girondi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78153799?v=4",
+      "profile": "https://github.com/NicolasGirondi",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "repoType": "github",
