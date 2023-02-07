@@ -922,6 +922,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "msmygit",
+      "name": "Madhavan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19366623?v=4",
+      "profile": "https://github.com/msmygit",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "repoType": "github",
