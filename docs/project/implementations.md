@@ -10,6 +10,7 @@ list, please [edit this page](contribute)!
 - [all-contributors/all-contributors-cli](https://github.com/all-contributors/all-contributors-cli)
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
 - [cesar-richard/heimdal](https://github.com/cesar-richard/heimdal)
+- [cleodora-forecasting/cleodora](https://github.com/cleodora-forecasting/cleodora)
 - [gatewayapps/kamino](https://github.com/gatewayapps/kamino)
 - [gitcoinco/code_fund_ads](https://github.com/gitcoinco/code_fund_ads)
 - [GitPoint](https://github.com/gitpoint/git-point)
