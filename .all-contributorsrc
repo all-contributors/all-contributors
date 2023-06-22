@@ -940,11 +940,21 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "LBF38",
+      "name": "LBF38",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96347823?v=4",
+      "profile": "https://github.com/LBF38",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
   "contributorsPerLine": 7,
   "repoHost": "https://github.com",
   "commitConvention": "angular",
-  "skipCi": true
+  "skipCi": true,
+  "commitType": "docs"
 }
