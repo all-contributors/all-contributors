@@ -940,11 +940,21 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "hsyoonhs",
+      "name": "Yoon Hyeseong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80237040?v=4",
+      "profile": "http://cwhs.kr",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "repoType": "github",
   "contributorsPerLine": 7,
   "repoHost": "https://github.com",
   "commitConvention": "angular",
-  "skipCi": true
+  "skipCi": true,
+  "commitType": "docs"
 }
