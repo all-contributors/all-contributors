@@ -949,6 +949,18 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "JulioSilva123",
+      "name": "Julio Silva ∴",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86787811?v=4",
+      "profile": "https://curriculo.azurewebsites.net/",
+      "contributions": [
+        "translation",
+        "infra",
+        "test",
+        "code"
+      ]
     }
   ],
   "repoType": "github",
