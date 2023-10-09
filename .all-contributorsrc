@@ -958,6 +958,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "VitorCodes",
+      "name": "Vitor Silva",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15626985?v=4",
+      "profile": "https://github.com/VitorCodes",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "repoType": "github",
