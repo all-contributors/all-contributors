@@ -958,6 +958,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "hkayrad",
+      "name": "Hakan Kayra Doğan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54438485?v=4",
+      "profile": "http://hkayrad.me",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "repoType": "github",
