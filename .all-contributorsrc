@@ -958,6 +958,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "danieltott",
+      "name": "Dan Ott",
+      "avatar_url": "https://avatars.githubusercontent.com/u/360261?v=4",
+      "profile": "https://danott.dev",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
