@@ -1,50 +1,88 @@
 ---
 id: implementations
-title: Who's using it?
-sidebar_label: Who's using it?
+title: 🌟 Who's using it?
+sidebar_label: 🌟 Who's using it?
 ---
 
-This is an alphabetical list of projects which have implemented the `all-contributors` specification. To add your project to this
-list, please [edit this page](contribute)!
+This is an alphabetical list of projects which have implemented the `all-contributors` specification. To add your project to this list, please [edit this page](contribute)!
 
-- [all-contributors/all-contributors-cli](https://github.com/all-contributors/all-contributors-cli)
-- [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
-- [cesar-richard/heimdal](https://github.com/cesar-richard/heimdal)
-- [cleodora-forecasting/cleodora](https://github.com/cleodora-forecasting/cleodora)
-- [gatewayapps/kamino](https://github.com/gatewayapps/kamino)
-- [gitcoinco/code_fund_ads](https://github.com/gitcoinco/code_fund_ads)
-- [GitPoint](https://github.com/gitpoint/git-point)
-- [ioof-holdings/redux-subspace](https://github.com/ioof-holdings/redux-subspace)
-- [ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga)
-- [jakewies/hugo-theme-codex](https://github.com/jakewies/hugo-theme-codex)
-- [jccguimaraes/atom-project-viewer](https://github.com/jccguimaraes/atom-project-viewer)
-- [jmeas/redux-resource](https://github.com/jmeas/redux-resource)
-- [kentcdodds/p-s](https://github.com/kentcdodds/p-s)
-- [kentcdodds/react-workshop](https://github.com/kentcdodds/react-workshop)
-- [kentcdodds/rtl-css-js](https://github.com/kentcdodds/rtl-css-js)
-- [kentcdodds/split-guide](https://github.com/kentcdodds/split-guide)
-- [kentcdodds/webpack-config-utils](https://github.com/kentcdodds/webpack-config-utils)
-- [olavoparno/jest-badges-readme](https://github.com/olavoparno/jest-badges-readme)
-- [OperationCode/front-end](https://github.com/OperationCode/front-end)
-- [persian-tools/persian-tools](https://github.com/persian-tools/persian-tools)
-- [sasjs/core](https://github.com/sasjs/core)
-- [platinumazure/eslint-plugin-qunit](https://github.com/platinumazure/eslint-plugin-qunit)
-- [Pokemon-PythonRed](https://github.com/Pokemon-PythonRed/Pokemon-PythonRed)
-- [React Medellin Meetup](https://github.com/react-medellin/meetup)
-- [render_async](https://github.com/renderedtext/render_async)
-- [sarbbottam/eslint-find-rules](https://github.com/sarbbottam/eslint-find-rules)
-- [sxwjs/sxwjs](https://github.com/sxwjs/sxwjs)
-- [syt123450/giojs](https://github.com/syt123450/giojs)
-- [sytespace/Native](https://github.com/sytespace/Native)
-- [ta2edchimp/opt-cli](https://github.com/ta2edchimp/opt-cli)
-- [tstrohmeier/docker-spark-development](https://github.com/tstrohmeier/docker-spark-development)
-- [vedantmgoyal2009/vedantmgoyal2009](https://github.com/vedantmgoyal2009/vedantmgoyal2009)
-- [King-BR/Discord.js-Bot-Template](https://github.com/King-BR/Discord.js-Bot-Template)
-- [RespoUI](https://github.com/educatyeducate/respoui)
-- [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi)
-- [Taiizor/ReaLTaiizor](https://github.com/Taiizor/ReaLTaiizor)
-- [Soferity/Witcher](https://github.com/Soferity/Witcher)
-- [Schrodinger-Hat/youtube-to-anchorfm](https://github.com/Schrodinger-Hat/youtube-to-anchorfm)
+- [all-contributors/all-contributors-cli](https://github.com/all-contributors/all-contributors-cli) 🛠️
+  - CLI tool for managing contributors in your GitHub projects.
+- [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) 🤝
+  - GitHub bot to automate recognizing contributors in your projects.
+- [ItziSpyder/ClickCrystals](https://github.com/itzispyder/clickcrystals) 💎
+  - Your Minecraft Crystal PvP Companion - ClickCrystals at your service!
+- [cesar-richard/heimdal](https://github.com/cesar-richard/heimdal) 🛡️
+  - An authentication service inspired by Norse mythology.
+- [cleodora-forecasting/cleodora](https://github.com/cleodora-forecasting/cleodora) 🌦️
+  - Forecasting tool for weather enthusiasts.
+- [gatewayapps/kamino](https://github.com/gatewayapps/kamino) 🚀
+  - Platform for managing spacecraft operations.
+- [gitcoinco/code_fund_ads](https://github.com/gitcoinco/code_fund_ads) 💰
+  - Platform for funding open source software through advertising.
+- [GitPoint](https://github.com/gitpoint/git-point) 📱
+  - GitHub client for iOS.
+- [ioof-holdings/redux-subspace](https://github.com/ioof-holdings/redux-subspace) 🌐
+  - Library for managing state with Redux.
+- [ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) 📚
+  - Sample application demonstrating clean architecture principles.
+- [jakewies/hugo-theme-codex](https://github.com/jakewies/hugo-theme-codex) 📝
+  - Theme for Hugo static site generator.
+- [jccguimaraes/atom-project-viewer](https://github.com/jccguimaraes/atom-project-viewer) 💻
+  - Atom plugin for viewing project files.
+- [jmeas/redux-resource](https://github.com/jmeas/redux-resource) 🗃️
+  - Library for managing RESTful resources in Redux.
+- [kentcdodds/p-s](https://github.com/kentcdodds/p-s) 📦
+  - Package script runner.
+- [kentcdodds/react-workshop](https://github.com/kentcdodds/react-workshop) 👨‍🏫
+  - Workshop materials for learning React.
+- [kentcdodds/rtl-css-js](https://github.com/kentcdodds/rtl-css-js) 🔄
+  - Library for handling right-to-left languages in CSS and JavaScript.
+- [kentcdodds/split-guide](https://github.com/kentcdodds/split-guide) 📏
+  - Guide for using the Split library.
+- [kentcdodds/webpack-config-utils](https://github.com/kentcdodds/webpack-config-utils) ⚙️
+  - Utilities for working with webpack configurations.
+- [olavoparno/jest-badges-readme](https://github.com/olavoparno/jest-badges-readme) 🛡️
+  - Plugin for adding Jest coverage badges to README files.
+- [OperationCode/front-end](https://github.com/OperationCode/front-end) 🖥️
+  - Front-end codebase for Operation Code's website.
+- [persian-tools/persian-tools](https://github.com/persian-tools/persian-tools) 🇮🇷
+  - Tools for working with Persian language and culture.
+- [sasjs/core](https://github.com/sasjs/core) 📊
+  - Core library for working with SAS software.
+- [platinumazure/eslint-plugin-qunit](https://github.com/platinumazure/eslint-plugin-qunit) ✅
+  - ESLint plugin for QUnit testing framework.
+- [Pokemon-PythonRed](https://github.com/Pokemon-PythonRed/Pokemon-PythonRed) 🎮
+  - Pokémon game built in Python.
+- [React Medellin Meetup](https://github.com/react-medellin/meetup) 🤝
+  - Repository for the React Medellin meetup group.
+- [render_async](https://github.com/renderedtext/render_async) ⏳
+  - Library for async rendering of JavaScript.
+- [sarbbottam/eslint-find-rules](https://github.com/sarbbottam/eslint-find-rules) 🔍
+  - Tool for finding ESLint rules.
+- [sxwjs/sxwjs](https://github.com/sxwjs/sxwjs) 🎶
+  - Library for working with sound and music in JavaScript.
+- [syt123450/giojs](https://github.com/syt123450/giojs) 🌐
+  - Library for visualizing data in 3D globes.
+- [sytespace/Native](https://github.com/sytespace/Native) 📱
+  - Native mobile app development framework.
+- [ta2edchimp/opt-cli](https://github.com/ta2edchimp/opt-cli) 🛠️
+  - Command-line interface for managing options.
+- [tstrohmeier/docker-spark-development](https://github.com/tstrohmeier/docker-spark-development) 🐳
+  - Docker setup for Apache Spark development.
+- [vedantmgoyal2009/vedantmgoyal2009](https://github.com/vedantmgoyal2009/vedantmgoyal2009) 🚀
+  - Personal portfolio website.
+- [King-BR/Discord.js-Bot-Template](https://github.com/King-BR/Discord.js-Bot-Template) 🤖
+  - Template for building Discord bots with Discord.js.
+- [RespoUI](https://github.com/educatyeducate/respoui) 🎨
+  - User interface components for web development.
+- [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) 🔍
+  - Search engine for Elasticsearch.
+- [Taiizor/ReaLTaiizor](https://github.com/Taiizor/ReaLTaiizor) 🎮
+  - Game development framework.
+- [Soferity/Witcher](https://github.com/Soferity/Witcher) 🧙‍♂️
+  - Repository for The Witcher themed project.
+- [Schrodinger-Hat/youtube-to-anchorfm](https://github.com/Schrodinger-Hat/youtube-to-anchorfm) 🎙️
+  - Tool for converting YouTube videos to Anchor.fm podcasts.
 
-**Note**: There are many projects not listed here. You'll probably be able to find more with this
-[github search for .all-contributorsrc](https://github.com/search?utf8=%E2%9C%93&q=.all-contributorsrc+in%3Apath&type=Code&ref=searchresults)
+**Note**: There are many projects not listed here. You'll probably be able to find more with this [GitHub search for .all-contributorsrc](https://github.com/search?utf8=%E2%9C%93&q=.all-contributorsrc+in%3Apath&type=Code&ref=searchresults)
