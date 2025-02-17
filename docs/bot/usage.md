@@ -33,7 +33,22 @@ please add @<username> for <contributions>.
 please add @<username> for <contributions>.
 ```
 
-**\<contribution>**: See the [Emoji Key (Contribution Types Reference)](../emoji-key) for a list of valid `contribution` types.
+**\<contribution>**: See the [Emoji Key (Contribution Types Reference)](../emoji-key) for a list of valid `contribution` types. You can also use custom contribution types defined in your `.all-contributorsrc` file's `customContributions` field.
+
+For example, if you have defined custom contributions in your `.all-contributorsrc`:
+```json
+{
+  "customContributions": {
+    "mentoring": "👨‍🏫",
+    "funding": "💵"
+  }
+}
+```
+
+You can use them like this:
+```plaintext
+@all-contributors please add @username for mentoring,funding
+```
 
 The bot will then create a Pull Request to add the contributor, then reply with the pull request details.
 

@@ -5,6 +5,11 @@
     "README.md"
   ],
   "imageSize": 100,
+  "customContributions": {
+    "mentoring": "👨‍🏫",
+    "funding": "💵",
+    "translation": "🌍"
+  },
   "contributors": [
     {
       "login": "kentcdodds",
@@ -957,6 +962,15 @@
       "profile": "https://hsyoonhs.github.io",
       "contributions": [
         "bug"
+      ]
+    },
+    {
+      "login": "test-user",
+      "name": "test-user",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2154595?v=4",
+      "profile": "https://github.com/test-user",
+      "contributions": [
+        "mentoring"
       ]
     }
   ],
