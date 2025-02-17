@@ -8,6 +8,8 @@ sidebar_label: Emoji Key ✨
 
 > To have a contribution added when using the [Bot](bot/overview) or [CLI](cli/overview) use the keyword in the `Type` column. The bot will also use [basic Natural Language Parsing](https://github.com/all-contributors/app/blob/master/lib/parse-comment.js) to determine your contribution intent.
 
+> **Note:** In addition to these standard contribution types, you can define custom contribution types in your project's `.all-contributorsrc` file using the `customContributions` field. See the [Bot Configuration](bot/configuration#custom-contribution-types) for more details.
+
 Emoji/Type | Represents | Comments
 :---: | :---: | :---:
 🔊 <br /> `audio` | Audio | Podcasts, background music or sound effects

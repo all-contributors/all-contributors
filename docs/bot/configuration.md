@@ -24,6 +24,7 @@ These are the keys you can specify:
 | `commitConvention`               | Commit convention ([`angular`](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#-commit-message-guidelines), [`atom`](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#git-commit-messages), [`ember`](https://guides.emberjs.com/v1.10.0/contributing/#toc_commits), [`eslint`](https://eslint.org/docs/1.0.0/developer-guide/contributing#step-2-make-your-changes), [`jshint`](https://jshint.com/contribute/), [`gitmoji`](https://gitmoji.carloscuesta.me/), or `none`).                                                         | Default: `angular`                                                                                           |
 | `contributorsPerLine`            | Maximum number of columns for the contributors table.                                               | Default: `7`                                                                                                |
 | `contributorsSortAlphabetically` | `true`: Sort alphabetically. `false`: Display in order of addition.                       | Default: `false`                                                                                            |
+| `customContributions`            | Define custom contribution types with their associated emojis.                                      | Example: `{"mentoring": "👨‍🏫", "funding": "💵"}`                                                            |
 | `badgeTemplate`                  | Define your own lodash template to generate the badge.                                              | |
 | `contributorTemplate`            | Define your own lodash template to generate the contributor.                                        | |
 | `wrapperTemplate`                | Define your own lodash template to wrap the list of contributors                                    | |
@@ -43,6 +44,11 @@ These are the keys you can specify:
   "commit": false,
   "contributorsPerLine": 7,
   "contributorsSortAlphabetically": false,
+  "customContributions": {
+    "mentoring": "👨‍🏫",
+    "funding": "💵",
+    "translation": "🌍"
+  },
   "badgeTemplate": "[![All Contributors](https://img.shields.io/github/all-contributors/<%= projectOwner %>/<%= projectName %>?color=ee8449&style=flat-square)](#contributors)",
   "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
   "wrapperTemplate": "\n<table>\n  <tbody><%= bodyContent %>  </tbody>\n<%= tableFooterContent %></table>\n\n",
@@ -58,26 +64,3 @@ These are the keys you can specify:
   "contributors": []
 }
 ```
-
-#### Moving the All Contributors table into a different file
-
-As you know, the default file for the contributors table is `README.md`. But if your project has tons of contributors, it doesn't make sense to include the All Contributors table in the `README.md` file. Instead, you can use a different file to do so.
-
-Here are the steps that may help you in achieving that. For the sake of this tutorial, the different file that we'll use is going to be named `CONTRIBUTORS.md`.
-
-1. Install the bot. See the [Installation](installation) page for instructions.
-2. Add your first contributor. See the [Bot Usage](usage) page for instructions.
-3. Create the `CONTRIBUTORS.md` file.
-4. Copy the code which can be found in [this guide](installation#3-create-a-readmemd).
-5. Modify the `files` key in the `.all-contributorsrc` JSON file to match your new file name.
-
-   ```json
-   {
-   "files": [
-      "CONTRIBUTORS.md"
-   ],
-   ...
-   }
-   ```
-
-6. Now you should be good to go. New contributors will be added to this new file instead of the `README.md` file.

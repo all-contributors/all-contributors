@@ -34,6 +34,8 @@ Where `username` is the user's GitHub or Gitlab username, and `contribution` is 
 `,`-separated list of contributions. See the [Emoji Key (Contribution Types Reference)](../emoji-key)
 for a list of valid `contribution` types.
 
+> **Note:** While the CLI supports custom contribution types defined in your `.all-contributorsrc` file, there is currently a limitation where you can only add one custom contribution type at a time. For multiple custom contributions, you'll need to add them one at a time or use the bot instead.
+
 > **GitLab Users**: See the [additional requirements for GitLab users](#gitlab-users)
 
 ### `all-contributors check`
