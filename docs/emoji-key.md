@@ -43,6 +43,15 @@ Emoji/Type | Represents | Comments
 📢 <br /> `talk` | Talks | Links to the slides/recording/repo/etc
 📓 <br /> `userTesting` | User Testing | Links to user test notes
 📹 <br /> `video` | Videos | Links to the video
+| 🔊 <br /> `audio` | Audio | | Podcasts, background music or sound effects |
+| 📝 <br /> `blog` | Blogposts | Links to the blogpost |
+| 📖 <br /> `doc` | Documentation | Wiki, README, API Docs |
+| 🎨 <br /> `design` | Design | Logo, branding, UI improvements |
+| 🤝 <br /> `community` | Community Support | Community | Helping users, moderating discussions |
+| 💰 <br /> `sponsor` | Sponsorship | Funding, grants, donations |
+| 📱 <br /> `social` | Social Media | Sharing on social media, marketing efforts |
+| ⚙️ <br /> `ci` | CI/CD | Contributions to automated workflows, GitHub Actions |
+| ⚖️ <br /> `legal` | Legal | Licensing, GDPR, security policies |
 
 ## What's next
 
