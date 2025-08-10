@@ -30,7 +30,7 @@ Emoji/Type | Represents | Comments
 🧑‍🏫 <br /> `mentoring` | Mentoring | People who mentor new contributors, links to the repo home
 📦 <br /> `platform` | Packaging | Porting to support a new platform |
 🔌 <br /> `plugin` | Plugin/utility libraries | Links to the repo home
-📆 <br /> `projectManagement` | Project Management | Team meetings, take minutes, timelines, etc. |
+📆 <br /> `projectManagement` | Project Management | Organize team meetings, take minutes, set timelines, etc. |
 📣 <br /> `promotion` | Promotion | Social media |
 💬 <br /> `question` | Answering Questions | Answering Questions in Issues, Stack Overflow, Gitter, Slack, etc.
 🔬 <br /> `research` | Research | Literature review.
