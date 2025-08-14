@@ -958,6 +958,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "lwasser",
+      "name": "Leah Wasser",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7649194?v=4",
+      "profile": "http://www.leahwasser.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
