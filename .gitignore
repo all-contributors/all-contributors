@@ -11,8 +11,9 @@ desktop.ini
 # Optional eslint cache
 .eslintcache
 
-# npm
-package-lock.json
+# yarn
+#package-lock.json
+yarn.lock
 
 # Optional npm cache directory
 .npm

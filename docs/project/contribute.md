@@ -62,15 +62,41 @@ After you translate strings in any given language, you won't see those changes a
 
 Search is by algolia, the configuration is at <https://github.com/algolia/docsearch-configs/blob/master/configs/all-contributors.json>
 
-## Running the site locally:
+## Run the website locally:
 
-All Contributors uses Docusaurus to maintain our documentation website. For more info visit the [Docusaurus Website](https://docusaurus.io)
+All Contributors currently uses [Docusaurus 1.x](https://docusaurus.io) for our documentation website.
 
-To get started locally:
+To build the docs locally:
 
-- `yarn install`
-- `yarn start`
-- go to `http://localhost:3000` (Refresh the page for your changes to be reflected)
+* https://tutorial.docusaurus.io/docs/intro
+
+1. Make sure `npm` is installed on your machine. Use the [nodejs documentation](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) if you aren't sure how to install `npm`.
+
+To check that npm is installed run the following in your favorite shell:
+
+`npm -v`
+
+Next, make sure you have atleast node version 0.22 or higher. To check the version,
+use:
+
+`node -v`
+
+If you don't have atleast version `.22` or higher, please install node or upgrade your current version.
+
+Install the newest (deprecated) version of Docusaurus:
+
+`npm install docusaurus@1.14.7 --save-dev`
+
+Then install the dependencies (`npm i` is shorthand for `npm install`):
+
+`npm i`
+
+Once you have completed the above, you can launch a server locally that will build and run the docs locally. In your favorite shell run:
+
+`npm run start`
+
+- Then, go to `http://localhost:3000` and you will see the all contributors website there!
+- Refresh the page as you make changes to the markdown pages in site locally 
 
 ## Add yourself as a contributor
 
