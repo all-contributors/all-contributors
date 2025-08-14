@@ -68,22 +68,20 @@ All Contributors currently uses [Docusaurus 1.x](https://docusaurus.io) for our 
 
 To build the docs locally:
 
-* <https://tutorial.docusaurus.io/docs/intro>
 
-1. Make sure `npm` is installed on your machine. Use the [nodejs documentation](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) if you aren't sure how to install `npm`.
-
+Make sure `npm` is installed on your machine. Use the [nodejs documentation](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) if you aren't sure how to install `npm`.
 To check that npm is installed run the following in your favorite shell:
 
 `npm -v`
 
-Next, make sure you have atleast node version 0.18 or higher. To check the version,
+Next, make sure you have at least node version 0.22 (LTS) or higher. To check the version,
 use:
 
 `node -v`
 
-If you don't have atleast version `.18` or higher, please install node or upgrade your current version.
+If you don't have at least version `0.22` or higher, please install Node or upgrade your current version.
 
-Install the newest (deprecated) version of Docusaurus:
+Install docusaurus v1 (1.14.7). *Note: This project does not yet support docusaurus v2 or v3; though, we hope to do so in the future.*
 
 `npm install docusaurus@1.14.7 --save-dev`
 
@@ -96,7 +94,7 @@ Once you have completed the above, you can launch a server locally that will bui
 `npm run start`
 
 * Then, go to `http://localhost:3000` and you will see the all contributors website there!
-* Refresh the page as you make changes to the markdown pages in site locally
+* Refresh the browser page as needed when editing markdown pages.
 
 ### Make changes - linting your contribution
 
