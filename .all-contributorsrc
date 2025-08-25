@@ -967,6 +967,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "willingc",
+      "name": "Carol Willing",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2680980?v=4",
+      "profile": "https://willingconsulting.com",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "repoType": "github",
