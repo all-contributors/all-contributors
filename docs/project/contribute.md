@@ -68,7 +68,6 @@ All Contributors currently uses [Docusaurus 1.x](https://docusaurus.io) for our 
 
 To build the docs locally:
 
-
 Make sure `npm` is installed on your machine. Use the [nodejs documentation](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) if you aren't sure how to install `npm`.
 To check that npm is installed run the following in your favorite shell:
 
@@ -81,11 +80,7 @@ use:
 
 If you don't have at least version `0.22` or higher, please install Node or upgrade your current version.
 
-Install docusaurus v1 (1.14.7). *Note: This project does not yet support docusaurus v2 or v3; though, we hope to do so in the future.*
-
-`npm install docusaurus@1.14.7 --save-dev`
-
-Then install the dependencies:
+Install docusaurus v1 (1.14.7) and all of the project dependencies using `npm install`. *Note: This project does not yet support docusaurus v2 or v3; though, we hope to do so in the future.*
 
 `npm install`
 
