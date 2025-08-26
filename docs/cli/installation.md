@@ -4,7 +4,6 @@ title: CLI Installation
 sidebar_label: Installation
 ---
 
-
 ## 1. Install the CLI tool
 
 <a href="https://www.npmjs.com/package/all-contributors-cli">
@@ -18,7 +17,8 @@ This module is distributed via [npm](https://www.npmjs.com/) which is bundled wi
 should be installed as one of your project's `devDependencies`:
 
 ```console
-yarn add --dev all-contributors-cli # or npm i -D all-contributors-cli
+npm i -D all-contributors-cli
+# If you are a yarn user: yarn add --dev all-contributors-cli
 ```
 
 Alternatively, Arch Linux users can install the [`all-contributors-cli`](https://aur.archlinux.org/packages/all-contributors-cli) package from the AUR.
@@ -30,7 +30,8 @@ Alternatively, Arch Linux users can install the [`all-contributors-cli`](https:/
 Init the project using `init` and answer a few questions
 
 ```console
-yarn all-contributors init # or npx all-contributors init 
+npx all-contributors init 
+# Or with yarn: yarn all-contributors init
 
 # Or directly execute the bin
 ./node_modules/.bin/all-contributors init
@@ -39,8 +40,8 @@ yarn all-contributors init # or npx all-contributors init
 ## 3. Add some contributors
 
 ```console
-yarn all-contributors add jfmengels doc
-yarn all-contributors generate
+npx all-contributors add jfmengels doc
+npx all-contributors generate
 ```
 
 For more on the commands see [CLI usage](usage)
@@ -64,10 +65,10 @@ For example:
 }
 ```
 
-To allow shortcuts such as
+To allow shortcuts such as:
 
 ```console
-yarn contributors:add jfmengels doc
+npx contributors:add jfmengels doc
 ```
 
 ## What's next
