@@ -64,13 +64,49 @@ Search is by algolia, the configuration is at <https://github.com/algolia/docsea
 
 ## Running the site locally:
 
-All Contributors uses Docusaurus to maintain our documentation website. For more info visit the [Docusaurus Website](https://docusaurus.io)
+All Contributors currently uses [Docusaurus 1.x](https://docusaurus.io) for our documentation website.
 
-To get started locally:
+To build the docs locally:
 
-- `yarn install`
-- `yarn start`
-- go to `http://localhost:3000` (Refresh the page for your changes to be reflected)
+Make sure `npm` is installed on your machine. Use the [nodejs documentation](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) if you aren't sure how to install `npm`.
+To check that npm is installed run the following in your favorite shell:
+
+`npm -v`
+
+Next, make sure you have at least node version 0.22 (LTS) or higher. To check the version,
+use:
+
+`node -v`
+
+If you don't have at least version `0.22` or higher, please install Node or upgrade your current version.
+
+Install docusaurus v1 (1.14.7) and all of the project dependencies using `npm install`. *Note: This project does not yet support docusaurus v2 or v3; though, we hope to do so in the future.*
+
+`npm install`
+
+Once you have completed the above, you can launch a server locally that will build and run the docs locally. In your favorite shell run:
+
+`npm run start`
+
+* Then, go to `http://localhost:3000` and you will see the all contributors website there!
+* Refresh the browser page as needed when editing markdown pages.
+
+### Make changes - linting your contribution
+
+If you make changes to a markdown file in the site, then our linting action will
+check those changes. To run the linter yourself on a file locally:
+
+First install markdownlint-cli:
+
+`npm install -g markdownlint-cli`
+
+Then run markdownlint on the file (or files) that you wish to check:
+
+`markdownlint --fix "docs/project/contribute.md"`
+
+Or you can run it on all files in the docs directory, like this:
+
+`markdownlint --fix "docs/**.md"`
 
 ## Add yourself as a contributor
 

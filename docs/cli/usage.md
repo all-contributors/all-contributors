@@ -6,7 +6,7 @@ sidebar_label: Usage
 
 > This usage documentation assumes you have already followed the [cli installation steps](installation).
 
-A quick note: Below we'll just show `all-contributors` to keep things simple, but if you're having any difficulties, then give the `yarn all-contributors` route a try 😺
+A quick note: Below we'll just show `all-contributors` to keep things simple, but if you're having any difficulties, then give the `npx all-contributors-cli init` route a try 😺.
 
 ## Commands
 
