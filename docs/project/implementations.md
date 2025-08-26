@@ -48,4 +48,4 @@ list, please [edit this page](contribute)!
 - [Schrodinger-Hat/youtube-to-anchorfm](https://github.com/Schrodinger-Hat/youtube-to-anchorfm)
 
 **Note**: There are many projects not listed here. You'll probably be able to find more with this
-[github search for .all-contributorsrc](https://github.com/search?utf8=%E2%9C%93&q=.all-contributorsrc+in%3Apath&type=Code&ref=searchresults)
+[github search for .all-contributorsrc](https://github.com/search?utf8=%E2%9C%93&q=path%3A.all-contributorsrc&type=code&ref=searchresults)
