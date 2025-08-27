@@ -1022,6 +1022,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "PiyushPamnani",
+      "name": "Piyush Pamnani",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87657297?v=4",
+      "profile": "https://piyushpamnani.github.io/Piyush-Portfolio/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
