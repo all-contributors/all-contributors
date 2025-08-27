@@ -1013,6 +1013,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "flpm",
+      "name": "Felipe Moreno",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17676929?v=4",
+      "profile": "http://flpm.dev",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "repoType": "github",
