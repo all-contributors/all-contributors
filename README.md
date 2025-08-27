@@ -210,6 +210,7 @@ Thanks go to these wonderful people ([emoji key](https://allcontributors.org/doc
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://markwiemer.com"><img src="https://avatars.githubusercontent.com/u/7833360?v=4?s=100" width="100px;" alt="Mark Wiemer"/><br /><sub><b>Mark Wiemer</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=mark-wiemer" title="Documentation">📖</a> <a href="https://github.com/all-contributors/all-contributors/issues?q=author%3Amark-wiemer" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://danott.dev"><img src="https://avatars.githubusercontent.com/u/360261?v=4?s=100" width="100px;" alt="Dan Ott"/><br /><sub><b>Dan Ott</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=danieltott" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
