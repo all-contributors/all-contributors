@@ -214,6 +214,7 @@ Thanks go to these wonderful people ([emoji key](https://allcontributors.org/doc
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/VitorCodes"><img src="https://avatars.githubusercontent.com/u/15626985?v=4?s=100" width="100px;" alt="Vitor Silva"/><br /><sub><b>Vitor Silva</b></sub></a><br /><a href="#translation-VitorCodes" title="Translation">🌍</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://flpm.dev"><img src="https://avatars.githubusercontent.com/u/17676929?v=4?s=100" width="100px;" alt="Felipe Moreno"/><br /><sub><b>Felipe Moreno</b></sub></a><br /><a href="#translation-flpm" title="Translation">🌍</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://piyushpamnani.github.io/Piyush-Portfolio/"><img src="https://avatars.githubusercontent.com/u/87657297?v=4?s=100" width="100px;" alt="Piyush Pamnani"/><br /><sub><b>Piyush Pamnani</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=PiyushPamnani" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://www.leahwasser.com"><img src="https://avatars.githubusercontent.com/u/7649194?v=4?s=100" width="100px;" alt="Leah Wasser"/><br /><sub><b>Leah Wasser</b></sub></a><br /><a href="#security-lwasser" title="Security">🛡️</a></td>
     </tr>
   </tbody>
 </table>
