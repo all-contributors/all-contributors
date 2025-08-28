@@ -49,6 +49,17 @@ For the badge use the following, replacing `projectOwner` with the relevant GitH
 [![All Contributors](https://img.shields.io/github/all-contributors/projectOwner/projectName?color=ee8449&style=flat-square)](#contributors)
 ```
 
+> Please create the `.all-contributorsrc` file for the first configuration. It can only have the mandatory information in it to begin. The bot will update it automatically with default config in the first PR.
+> Here is the minimal `.all-contributorsrc` file to add in your repo :
+>
+> ```json
+> {
+>   "projectName": "<insert the repo's name>",
+>   "projectOwner": "<insert the repo's owner/orgs>"
+> }
+> ```
+>
+
 ## 4. Update your Contributing documentation
 
 Consider updating your `CONTRIBUTING.md` or similar with steps on how contributors can add themselves. You can even link to the [bot usage documentation](usage).

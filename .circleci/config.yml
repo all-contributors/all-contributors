@@ -12,13 +12,13 @@ commands:
           path: ~/repo
       - restore_cache:
           name: Restore node_modules cache
-          key: all-contributors-{{ checksum "yarn.lock" }}-{{ .Branch }}
+          key: all-contributors-{{ checksum "package-lock.json" }}-{{ .Branch }}
   save_env_cache:
     description: Saves environment cache
     steps:
       - save_cache:
           name: Save node_modules cache
-          key: all-contributors-{{ checksum "yarn.lock" }}-{{ .Branch }}
+          key: all-contributors-{{ checksum "package-lock.json" }}-{{ .Branch }}
           paths:
             - node_modules/
 
@@ -28,7 +28,7 @@ jobs:
     working_directory: ~/repo
     steps:
       - prep_env
-      - run: yarn install --frozen-lockfile
+      - run: npm ci
       - save_env_cache
   publish_release:
     <<: *docker_defaults
@@ -40,7 +40,7 @@ jobs:
           command: cat package.json | jq '.scripts.postinstall = "node index.js"' > package.json.tmp && mv package.json.tmp package.json
       - run:
           name: Semantic release to NPM and GitHub releases
-          command: yarn run semantic-release
+          command: npm run semantic-release
 
   check_404s:
     <<: *docker_defaults
@@ -52,7 +52,7 @@ jobs:
           command: sleep 500
       - run:
           name: Check 404s production
-          command: yarn blc https://allcontributors.org -ro || true
+          command: npx blc https://allcontributors.org -ro || true
 
 workflows:
   version: 2
