@@ -22,10 +22,9 @@ People are giving themselves and their free time to contribute to open source pr
 
 ## The All Contributors Table
 
-Below is an example of how using the all-contributors spec table can recognize all contributors
-<div align="center">
-    <img src="../assets/contributors-table-small.png" alt="All Contributors Table Screenshot" width="800px" />
-</div>
+Below is an example of how using the all-contributors spec table can recognize all contributors.
+
+![All Contributors Table Screenshot](../assets/contributors-table-small.png)
 
 > You can use [the @all-contributors bot 🤖](bot/overview) to automate acknowledging contributors to your open source projects
 

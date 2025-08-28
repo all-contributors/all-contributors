@@ -11,7 +11,7 @@ class Footer extends React.Component {
     render() {
         return (
             <footer className="docs-footer">
-                <div class="docs-footer__wrapper wrapper">
+                <div className="docs-footer__wrapper wrapper">
                     <a href="/">
                         <img
                             className="docs-footer__logo"
