@@ -15,6 +15,7 @@ list, please [edit this page](contribute)!
 - [gatewayapps/kamino](https://github.com/gatewayapps/kamino)
 - [gitcoinco/code_fund_ads](https://github.com/gitcoinco/code_fund_ads)
 - [GitPoint](https://github.com/gitpoint/git-point)
+- [Highlight](https://github.com/highlight/highlight)
 - [ioof-holdings/redux-subspace](https://github.com/ioof-holdings/redux-subspace)
 - [ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga)
 - [jakewies/hugo-theme-codex](https://github.com/jakewies/hugo-theme-codex)
