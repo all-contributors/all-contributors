@@ -62,13 +62,17 @@ After you translate strings in any given language, you won't see those changes a
 
 Search is by algolia, the configuration is at <https://github.com/algolia/docsearch-configs/blob/master/configs/all-contributors.json>
 
-## Running the site locally:
+## Run the website locally:
 
 All Contributors currently uses [Docusaurus 1.x](https://docusaurus.io) for our documentation website.
 
 To build the docs locally:
 
-Make sure `npm` is installed on your machine. Use the [nodejs documentation](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) if you aren't sure how to install `npm`.
+
+* https://tutorial.docusaurus.io/docs/intro
+
+1. Make sure `npm` is installed on your machine. Use the [nodejs documentation](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) if you aren't sure how to install `npm`.
+
 To check that npm is installed run the following in your favorite shell:
 
 `npm -v`
@@ -78,11 +82,11 @@ use:
 
 `node -v`
 
-If you don't have at least version `0.22` or higher, please install Node or upgrade your current version.
-
+If you don't have atleast version `.22` or higher, please install node or upgrade your current version.
 Install docusaurus v1 (1.14.7) and all of the project dependencies using `npm install`. *Note: This project does not yet support docusaurus v2 or v3; though, we hope to do so in the future.*
+**`npm i` is shorthand for `npm install`)**:
 
-`npm install`
+`npm i`
 
 Once you have completed the above, you can launch a server locally that will build and run the docs locally. In your favorite shell run:
 
@@ -98,7 +102,7 @@ check those changes. To run the linter yourself on a file locally:
 
 First install markdownlint-cli:
 
-`npm install -g markdownlint-cli`
+`npm i -g markdownlint-cli`
 
 Then run markdownlint on the file (or files) that you wish to check:
 
