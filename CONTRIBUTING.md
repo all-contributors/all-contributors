@@ -1,3 +1,14 @@
+# Contribute to the All Contributors bot
+
+We welcome contributions of all kinds to AllContributors.
+
+## 13 August 2025 Update:
+
+Currently, we are doing some work to revive the project. The documentation 
+website is not online but we are working to get it online soon. 
+
+************* THE LINKS BELOW DON'T CURRENTLY WORK ******
+
 Read the contributing docs in:
 
 - <a href="https://allcontributors.org/docs/en/project/contribute">English</a>
