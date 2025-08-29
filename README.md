@@ -217,6 +217,9 @@ Thanks go to these wonderful people ([emoji key](https://allcontributors.org/doc
       <td align="center" valign="top" width="14.28%"><a href="http://www.leahwasser.com"><img src="https://avatars.githubusercontent.com/u/7649194?v=4?s=100" width="100px;" alt="Leah Wasser"/><br /><sub><b>Leah Wasser</b></sub></a><br /><a href="#security-lwasser" title="Security">🛡️</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://mysiteintro.netlify.app/"><img src="https://avatars.githubusercontent.com/u/153130183?v=4?s=100" width="100px;" alt="Khushi"/><br /><sub><b>Khushi</b></sub></a><br /><a href="#translation-KhushiPandey8" title="Translation">🌍</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="http://elmthomas.com"><img src="https://avatars.githubusercontent.com/u/58678?v=4?s=100" width="100px;" alt="Eric Thomas"/><br /><sub><b>Eric Thomas</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=et" title="Documentation">📖</a></td>
+    </tr>
   </tbody>
 </table>
 
