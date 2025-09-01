@@ -16,6 +16,7 @@ export default defineConfig({
 				logo: {
 					src: './src/assets/logo-full.svg',
 				},
+        favicon: '/icons/favicon-16x16.png',
         social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/all-contributors/all-contributors' }],
         sidebar: [
             {
