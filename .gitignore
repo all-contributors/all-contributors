@@ -29,10 +29,10 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
-# build output
+# Astro build output
 dist
 
-# generated types
+# Astro generated types
 .astro/
 
 # environment variables
