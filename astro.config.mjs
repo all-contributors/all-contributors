@@ -9,7 +9,7 @@ export default defineConfig({
 		base: '/',
 		output: 'static',
 		redirects: {
-			// '/': '/overview',
+			// Later we can put redirects here if needed
 		},
     integrations: [starlight({
         title: '',
@@ -22,7 +22,6 @@ export default defineConfig({
             {
                 label: 'Specification',
                 items: [
-                    // Each item here is one entry in the navigation menu.
                     { label: 'overview', slug: 'overview' },
                     { label: 'specification', slug: 'specification' },
                     { label: 'emoji-key', slug: 'emoji-key' },
