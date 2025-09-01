@@ -8,31 +8,16 @@
   "author": "All Contributors (https://allcontributors.org)",
   "license": "MIT",
   "scripts": {
-    "semantic-release": "semantic-release",
-    "start": "cd website && ../node_modules/.bin/docusaurus-start",
-    "build": "cd website && ../node_modules/.bin/docusaurus-build && cp _redirects build/all-contributors",
-    "write-translations": "cd website && ../node_modules/.bin/docusaurus-write-translations",
-    "crowdin": "java -jar website/crowdin/crowdin-cli.jar",
-    "crowdin-upload": "npm run crowdin -- --config crowdin.yaml upload sources --auto-update -b $(git rev-parse --abbrev-ref HEAD)",
-    "crowdin-download": "npm run crowdin -- --config crowdin.yaml download -b $(git rev-parse --abbrev-ref HEAD)",
-    "build-with-translations": "npm run write-translations && npm run crowdin-upload && npm run crowdin-download && npm run build",
-    "commit": "git-cz"
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
   },
-  "devDependencies": {
-    "broken-link-checker": "^0.7.8",
-    "cz-conventional-changelog": "^2.1.0",
-    "docusaurus": "^1.7.4",
-    "git-cz": "^4.1.0",
-    "react": "^16.6.3",
-    "semantic-release": "^19.0.3"
-  },
-  "engines": {
-    "node": ">=12",
-    "npm": ">=6"
-  },
-  "config": {
-    "commitizen": {
-      "path": "cz-conventional-changelog"
-    }
+  "dependencies": {
+    "@astrojs/sitemap": "^3.5.1",
+    "@astrojs/starlight": "^0.35.2",
+    "astro": "^5.6.1",
+    "sharp": "^0.34.2"
   }
 }
