@@ -6,7 +6,7 @@ on:
       - master
 jobs:
   build:
-    name: Build Docusaurus
+    name: Build Astro site
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -14,7 +14,7 @@ jobs:
           fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
-          node-version: 22
+          node-version: 23
           cache: npm
 
       - name: Install dependencies
@@ -22,12 +22,12 @@ jobs:
       - name: Build website
         run: |
           npm run build
-          ls website/build
+          ls dist/
 
       - name: Upload Build Artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: website/build/all-contributors
+          path: dist/
   deploy:
     name: Deploy to GitHub Pages
     needs: build
