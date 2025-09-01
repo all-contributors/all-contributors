@@ -13,6 +13,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v4
       - run: npx --package markdownlint-cli markdownlint **/*.md --ignore node_modules
