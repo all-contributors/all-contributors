@@ -1,31 +1,24 @@
+# Welcome to the All Contributors website repository
+
+[![✨ All Contributors ✨](src/assets/logo-full.svg)](https://allcontributors.org)
+
 > Call for translators! [We're looking for translators](https://github.com/all-contributors/all-contributors/issues/143) to help translate this spec for everyone!
 
-<div align="center">
-    <a href="https://allcontributors.org">
-        <img src="docs/assets/logo-full.svg" alt="✨ All Contributors ✨" width="800px" />
-    </a>
-</div>
+**Read our documentation in the following languages:**
 
-<table>
-    <caption>Read this documentation in the following languages</caption>
-    <tbody>
-        <tr>
-            <td><a href="https://allcontributors.org/docs/ko/overview">한국어</a></td>
-            <td><a href="https://allcontributors.org/docs/zh-CN/overview">中文</a></td>
-            <td><a href="https://allcontributors.org/docs/id/overview">Bahasa Indonesia</a></td>
-            <td><a href="https://allcontributors.org/docs/de/overview">Deutsch</a></td>
-            <td><a href="https://allcontributors.org/docs/pl/overview">Polski</a></td>
-        </tr>
-        <tr>
-            <td><a href="https://allcontributors.org/docs/en/overview">English</a></td>
-            <td><a href="https://allcontributors.org/docs/pt-BR/overview">Português do Brasil</a></td>
-            <td><a href="https://allcontributors.org/docs/es-ES/overview">Español</a></td>
-            <td><a href="https://allcontributors.org/docs/fr/overview">Français</a></td>
-            <td><a href="https://allcontributors.org/docs/ru/overview">Русский</a></td>
-            <td><a href="https://allcontributors.org/docs/ja/overview">日本語</a></td>
-        </tr>
-    </tbody>
-</table>
+| Language                | Link                                                                 |
+|-------------------------|---------------------------------------------------------------------|
+| 한국어                  | [한국어](https://allcontributors.org/docs/ko/overview)              |
+| 中文                    | [中文](https://allcontributors.org/docs/zh-CN/overview)             |
+| Bahasa Indonesia        | [Bahasa Indonesia](https://allcontributors.org/docs/id/overview)    |
+| Deutsch                 | [Deutsch](https://allcontributors.org/docs/de/overview)             |
+| Polski                  | [Polski](https://allcontributors.org/docs/pl/overview)              |
+| English                 | [English](https://allcontributors.org/docs/en/overview)             |
+| Português do Brasil     | [Português do Brasil](https://allcontributors.org/docs/pt-BR/overview) |
+| Español                 | [Español](https://allcontributors.org/docs/es-ES/overview)          |
+| Français                | [Français](https://allcontributors.org/docs/fr/overview)            |
+| Русский                 | [Русский](https://allcontributors.org/docs/ru/overview)             |
+| 日本語                  | [日本語](https://allcontributors.org/docs/ja/overview)              |
 
 [![Build Status](https://img.shields.io/circleci/project/all-contributors/all-contributors/main.svg)](https://circleci.com/gh/all-contributors/workflows/all-contributors/tree/main)
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/all-contributors/localized.svg)](https://crowdin.com/project/all-contributors)
@@ -43,10 +36,9 @@ People are giving themselves and their free time to contribute to open source pr
 
 ## The All Contributors Table
 
-Below is an example of how using the all-contributors spec table can recognize all contributors
-<div align="center">
-    <img src="docs/assets/contributors-table-small.png" alt="All Contributors Table Screenshot" width="800px" />
-</div>
+Below is an example of how using the all-contributors spec table can recognize all contributors.
+
+![All Contributors Table Screenshot](src/assets/contributors-table-small.png)
 
 > You can use [the @all-contributors bot 🤖](https://allcontributors.org/docs/en/bot/overview) to automate acknowledging contributors to your open source projects
 

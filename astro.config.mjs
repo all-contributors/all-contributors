@@ -5,7 +5,7 @@ import starlight from '@astrojs/starlight';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-		site: 'https://all-contributors.org',
+		site: 'https://allcontributors.org',
 		base: '/',
 		output: 'static',
 		redirects: {
