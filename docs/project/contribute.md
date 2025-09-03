@@ -11,11 +11,11 @@ sidebar_label: Help us Improve
 Thanks for your interest in the project!
 Pull Requests welcome for any level of improvement, from a small typo to a new section, help us make the project better
 
-All the source code is available at [github.com/all-contributors/all-contributors](https://github.com/all-contributors/all-contributors/tree/master/docs)
+All the source code is available at [github.com/all-contributors/all-contributors](https://github.com/all-contributors/all-contributors/tree/main/docs)
 
 ## Committing to an all-contributors repo
 
-We use the [angular commit convention](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#-commit-message-guidelines) for commits that are used for an automated changelog generation, so it would be advisable to respect that.
+We use the [angular commit convention](https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-guidelines) for commits that are used for an automated changelog generation, so it would be advisable to respect that.
 If you're not used to it or are afraid to mistype a commit, you can run `npm run commit` or `git cz` (if you have installed `commitizen`) which would take you through a few questions and write the commit for you.
 
 ## Editing Content
@@ -60,7 +60,7 @@ After you translate strings in any given language, you won't see those changes a
 
 ## Search
 
-Search is by algolia, the configuration is at <https://github.com/algolia/docsearch-configs/blob/master/configs/all-contributors.json>
+Search is by algolia, the configuration is at <https://github.com/algolia/docsearch-configs/blob/main/configs/all-contributors.json>
 
 ## Run the website locally:
 

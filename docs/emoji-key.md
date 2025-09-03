@@ -6,7 +6,7 @@ sidebar_label: Emoji Key ✨
 
 ## Table
 
-> To have a contribution added when using the [Bot](bot/overview) or [CLI](cli/overview) use the keyword in the `Type` column. The bot will also use [basic Natural Language Parsing](https://github.com/all-contributors/app/blob/master/lib/parse-comment.js) to determine your contribution intent.
+> To have a contribution added when using the [Bot](bot/overview) or [CLI](cli/overview) use the keyword in the `Type` column. The bot will also use [basic Natural Language Parsing](https://github.com/all-contributors/app/blob/main/lib/parse-comment.js) to determine your contribution intent.
 
 Emoji/Type | Represents | Comments |
 :---: | :---: | :---: |
