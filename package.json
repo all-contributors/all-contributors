@@ -13,7 +13,8 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "link-check-md": "lychee src/content/docs/**/*.md"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.5.1",
