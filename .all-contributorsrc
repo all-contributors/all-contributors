@@ -1060,6 +1060,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "JimMadge",
+      "name": "Jim Madge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23616154?v=4",
+      "profile": "https://blog.jmadge.com",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "repoType": "github",
