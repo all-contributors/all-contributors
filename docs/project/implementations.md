@@ -11,9 +11,11 @@ list, please [edit this page](contribute)!
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
 - [cesar-richard/heimdal](https://github.com/cesar-richard/heimdal)
 - [cleodora-forecasting/cleodora](https://github.com/cleodora-forecasting/cleodora)
+- [data-umbrella/event-transcripts](https://github.com/data-umbrella/event-transcripts)
 - [gatewayapps/kamino](https://github.com/gatewayapps/kamino)
 - [gitcoinco/code_fund_ads](https://github.com/gitcoinco/code_fund_ads)
 - [GitPoint](https://github.com/gitpoint/git-point)
+- [Highlight](https://github.com/highlight/highlight)
 - [ioof-holdings/redux-subspace](https://github.com/ioof-holdings/redux-subspace)
 - [ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga)
 - [jakewies/hugo-theme-codex](https://github.com/jakewies/hugo-theme-codex)
@@ -47,4 +49,4 @@ list, please [edit this page](contribute)!
 - [Schrodinger-Hat/youtube-to-anchorfm](https://github.com/Schrodinger-Hat/youtube-to-anchorfm)
 
 **Note**: There are many projects not listed here. You'll probably be able to find more with this
-[github search for .all-contributorsrc](https://github.com/search?utf8=%E2%9C%93&q=.all-contributorsrc+in%3Apath&type=Code&ref=searchresults)
+[github search for .all-contributorsrc](https://github.com/search?utf8=%E2%9C%93&q=path%3A.all-contributorsrc&type=code&ref=searchresults)

@@ -11,8 +11,9 @@ desktop.ini
 # Optional eslint cache
 .eslintcache
 
-# npm
-package-lock.json
+# yarn
+#package-lock.json
+yarn.lock
 
 # Optional npm cache directory
 .npm
@@ -24,8 +25,6 @@ node_modules
 logs
 *.log
 npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
 
 # Website
 website/build

@@ -22,6 +22,7 @@ files:
         'nl': 'nl'
         'ro': 'ro'
         'in': 'in'
+        'hi': 'hi' 
 
   -
     source: '/website/i18n/en.json'
