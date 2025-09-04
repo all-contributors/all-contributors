@@ -41,7 +41,6 @@ list, please [edit this page](contribute)!
 - [tstrohmeier/docker-spark-development](https://github.com/tstrohmeier/docker-spark-development)
 - [vedantmgoyal2009/vedantmgoyal2009](https://github.com/vedantmgoyal2009/vedantmgoyal2009)
 - [King-BR/Discord.js-Bot-Template](https://github.com/King-BR/Discord.js-Bot-Template)
-- [RespoUI](https://github.com/educatyeducate/respoui)
 - [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi)
 - [Taiizor/ReaLTaiizor](https://github.com/Taiizor/ReaLTaiizor)
 - [Soferity/Witcher](https://github.com/Soferity/Witcher)
