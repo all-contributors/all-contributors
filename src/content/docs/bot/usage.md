@@ -37,7 +37,7 @@ please add @<username> for <contributions>.
 
 The bot will then create a Pull Request to add the contributor, then reply with the pull request details.
 
-<img alt="Example usage screenshot" src="../../assets/bot-usage.png" width="500px">
+<img alt="Example usage screenshot" src="/images/bot-usage.png" width="500px">
 
 > Your request to the bot doesn't need to be perfect. The bot will use [basic Natural Language Parsing](https://github.com/all-contributors/app/blob/master/lib/parse-comment.js) to determine your intent.
 > For example, this will work too:
