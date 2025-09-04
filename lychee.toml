@@ -45,4 +45,8 @@ fallback_extensions = ["md", "mdx", "html"]
 # Exclude URLs and mail addresses from checking. The values are treated as regular expressions
 exclude = []
 
+# Check fragments - internal links in pages
+include_fragments = true
+
+# Check email addresses
 include_mail = true
