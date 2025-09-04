@@ -7,7 +7,7 @@ const siteConfig = {
     projectName: 'all-contributors',
     organizationName: 'all-contributors',
     // End deploy options
-    editUrl: 'https://github.com/all-contributors/all-contributors/tree/master/docs/',
+    editUrl: 'https://github.com/all-contributors/all-contributors/tree/main/docs/',
     headerLinks: [
         { doc: 'overview', label: 'Docs' },
         { href: "https://github.com/all-contributors/all-contributors", label: "GitHub" },

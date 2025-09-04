@@ -11,7 +11,7 @@ sidebar_label: Help us Improve
 Thanks for your interest in the project!
 Pull Requests are welcome for any type of improvement, from a small typo to a new section in the docs. Help us make the project better!
 
-The source for our documentation is available at [github.com/all-contributors/all-contributors](https://github.com/all-contributors/all-contributors/tree/master/docs)
+The source for our documentation is available at [github.com/all-contributors/all-contributors](https://github.com/all-contributors/all-contributors/tree/main/docs)
 
 ## Committing to an all-contributors repo
 
@@ -69,7 +69,7 @@ After you translate strings in any given language, you won't see those changes a
 
 ## Search
 
-Search is by algolia, the configuration is at <https://github.com/algolia/docsearch-configs/blob/master/configs/all-contributors.json>
+Search is by algolia, the configuration is at <https://github.com/algolia/docsearch-configs/blob/main/configs/all-contributors.json>
 
 ## Run the website locally:
 
