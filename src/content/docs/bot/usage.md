@@ -20,12 +20,13 @@ Comment on Issue or Pull Request, asking @all-contributors to add a contributor:
 
 Also, you can now add multiple contributors at the same time:
 
-##### Using single line
+#### Using single line
 
 ```plaintext
 @all-contributors please add @<username> for <contributions>. please add @<username> for <contributions>.
 ```
-##### Using multiple lines
+
+#### Using multiple lines
 
 ```plaintext
 @all-contributors
