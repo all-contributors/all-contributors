@@ -11,15 +11,13 @@ overlooked when the list gets updated at a later date. This can be difficult for
 >
 > `@all-contributors please add @tbenning for design` ✨
 
-Being the owner or a maintainer of the repository does not mean you are solely responsible for keeping the list of
-contributors up to date. You should encourage contributors to add themselves to the list as much as possible.
-This can be in the form of a comment on the issue, blog or answer, or through more direct forms of communication where appropriate.
+As the captain of the ship or the ringleader of the repository, it's important to remember that keeping the list of contributors shipshape and Bristol fashion shouldn't fall solely on your shoulders. Instead, it's crucial to actively rally and empower others to keep the list current and polished.
 
-Many contributors may not realise that their efforts are sufficient for recognition in the contributors list.
-This might be because they have not read or understood the definition of a contributor as set out in this specification,
-or because they do not feel like it is significant enough. In these cases, you should still encourage them to add themselves,
-but it may be necessary for you to add the contributor yourself (though it's a good idea to do so in the form of a pull
-request to make sure they're ok with being added).
+This can be achieved through a variety of means such as dropping a comment on the issue thread, adding a section in a blog post or response, or through more direct forms of communication such as sending an email or DM. By fostering a collaborative and inclusive atmosphere, the repository will be able to reap the rewards of contributions from a diverse and talented crew.
+
+It's important to note that some contributors may not realize that their efforts warrant recognition on the contributors list. This could be due to a lack of understanding of the criteria for inclusion or a belief that their contributions aren't significant enough. As the captain of the ship or the ringleader of the repository, it's important to actively encourage these individuals to add themselves to the list.
+
+But, in cases where the contributor may be hesitant, it may be necessary for you to take the helm and add them to the list yourself. However, it's important to ensure that they are comfortable with this decision and that it's done through a transparent process, such as a pull request. The goal is to maintain an inclusive and collaborative environment where all contributions are valued and recognized.
 
 In the end, there are no hard and fast rules for when a contribution has to be added to the list,
 just do your best to be fair and to ensure all contributors are recognised.
