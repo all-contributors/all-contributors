@@ -38,7 +38,7 @@ require_https = true
 
 # Fallback extensions to apply when a URL does not specify one.
 # This is common in documentation tools that cross-reference files without extensions.
-fallback_extensions = ["md", "html"]
+fallback_extensions = ["md", "mdx", "html"]
 
 #############################  Exclusions  ##########################
 
