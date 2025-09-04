@@ -14,7 +14,7 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "link-check-md": "lychee src/content/docs/**/*.md"
+    "link-check-md": "lychee src/content/docs/**/*.md --root-dir $(pwd)/public"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.5.1",
