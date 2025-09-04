@@ -62,24 +62,24 @@ workflows:
           filters:
             branches:
               only:
-                - master
+                - main
       - publish_release:
           requires:
             - node_modules
           filters:
             branches:
               only:
-                - master
+                - main
       - check_404s:
           requires:
             - publish_release
           filters:
             branches:
               only:
-                - master
+                - main
 
 experimental:
   notify:
     branches:
       only:
-        - master
+        - main
