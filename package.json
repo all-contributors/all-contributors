@@ -12,7 +12,7 @@
     "start": "cd website && ../node_modules/.bin/docusaurus-start",
     "build": "cd website && ../node_modules/.bin/docusaurus-build && cp _redirects build/all-contributors",
     "write-translations": "cd website && ../node_modules/.bin/docusaurus-write-translations",
-    "crowdin": "java -jar website/crowdin/crowdin-cli.jar",
+    "crowdin": "npx crowdin-cli",
     "crowdin-upload": "npm run crowdin -- --config crowdin.yaml upload sources --auto-update -b $(git rev-parse --abbrev-ref HEAD)",
     "crowdin-download": "npm run crowdin -- --config crowdin.yaml download -b $(git rev-parse --abbrev-ref HEAD)",
     "build-with-translations": "npm run write-translations && npm run crowdin-upload && npm run crowdin-download && npm run build",
