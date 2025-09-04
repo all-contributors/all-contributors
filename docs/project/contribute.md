@@ -9,14 +9,23 @@ sidebar_label: Help us Improve
 ## Help improve the all-contributors documentation!
 
 Thanks for your interest in the project!
-Pull Requests welcome for any level of improvement, from a small typo to a new section, help us make the project better
+Pull Requests are welcome for any type of improvement, from a small typo to a new section in the docs. Help us make the project better!
 
-All the source code is available at [github.com/all-contributors/all-contributors](https://github.com/all-contributors/all-contributors/tree/main/docs)
+The source for our documentation is available at [github.com/all-contributors/all-contributors](https://github.com/all-contributors/all-contributors/tree/main/docs)
 
 ## Committing to an all-contributors repo
 
-We use the [angular commit convention](https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-guidelines) for commits that are used for an automated changelog generation, so it would be advisable to respect that.
-If you're not used to it or are afraid to mistype a commit, you can run `npm run commit` or `git cz` (if you have installed `commitizen`) which would take you through a few questions and write the commit for you.
+We use the [angular commit convention](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#-commit-message-guidelines) for commits that are used for an automated changelog generation, so it would be advisable to respect that.
+
+### Help writing angular commits - commitzen
+
+If you're not used to writing angular commits, you can use 
+
+* `npm run commit`  
+* `git cz` if you have `commitzen` installed to help you. 
+
+These tools will walk you through some questions and write the commit 
+message for you following angular conventions.  
 
 ## Editing Content
 
@@ -67,7 +76,6 @@ Search is by algolia, the configuration is at <https://github.com/algolia/docsea
 All Contributors currently uses [Docusaurus 1.x](https://docusaurus.io) for our documentation website.
 
 To build the docs locally:
-
 
 * https://tutorial.docusaurus.io/docs/intro
 
