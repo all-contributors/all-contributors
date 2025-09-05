@@ -1060,6 +1060,24 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "JimMadge",
+      "name": "Jim Madge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23616154?v=4",
+      "profile": "https://blog.jmadge.com",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "JHWelch",
+      "name": "Jordan Welch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4480375?v=4",
+      "profile": "http://jordanwelch.com/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",

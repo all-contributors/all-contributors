@@ -27,7 +27,7 @@
     </tbody>
 </table>
 
-[![Build Status](https://img.shields.io/circleci/project/all-contributors/all-contributors/master.svg)](https://circleci.com/gh/all-contributors/workflows/all-contributors/tree/master)
+[![Build Status](https://img.shields.io/circleci/project/all-contributors/all-contributors/main.svg)](https://circleci.com/gh/all-contributors/workflows/all-contributors/tree/main)
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/all-contributors/localized.svg)](https://crowdin.com/project/all-contributors)
 [![All Contributors](https://img.shields.io/github/all-contributors/all-contributors/all-contributors?color=ee8449&style=flat-square)](#contributors-)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e30784c5-9efd-4f20-8a47-13f3fb899613/deploy-status)](https://app.netlify.com/sites/allcontributors-org/deploys)
@@ -219,6 +219,8 @@ Thanks go to these wonderful people ([emoji key](https://allcontributors.org/doc
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://elmthomas.com"><img src="https://avatars.githubusercontent.com/u/58678?v=4?s=100" width="100px;" alt="Eric Thomas"/><br /><sub><b>Eric Thomas</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=et" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://blog.jmadge.com"><img src="https://avatars.githubusercontent.com/u/23616154?v=4?s=100" width="100px;" alt="Jim Madge"/><br /><sub><b>Jim Madge</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3AJimMadge" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://jordanwelch.com/"><img src="https://avatars.githubusercontent.com/u/4480375?v=4?s=100" width="100px;" alt="Jordan Welch"/><br /><sub><b>Jordan Welch</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=JHWelch" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
