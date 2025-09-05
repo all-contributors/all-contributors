@@ -8,16 +8,30 @@
   "author": "All Contributors (https://allcontributors.org)",
   "license": "MIT",
   "scripts": {
+    "commit": "git-cz",
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "link-check-md": "lychee src/content/docs/**/*.md --root-dir $(pwd)/public",
+    "link-check-md-offline": "lychee src/content/docs/**/*.md --root-dir $(pwd)/public --offline",
+    "lint": "markdownlint **/*.md --ignore node_modules"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.5.1",
     "@astrojs/starlight": "^0.35.2",
     "astro": "^5.6.1",
     "sharp": "^0.34.2"
+  },
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0",
+    "git-cz": "^4.9.0",
+    "markdownlint-cli": "^0.45.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
   }
 }
