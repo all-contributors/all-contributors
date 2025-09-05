@@ -15,6 +15,7 @@
     "preview": "astro preview",
     "astro": "astro",
     "link-check-md": "lychee src/content/docs/**/*.md --root-dir $(pwd)/public",
+    "link-check-md-offline": "lychee src/content/docs/**/*.md --root-dir $(pwd)/public --offline",
     "lint": "markdownlint **/*.md --ignore node_modules"
   },
   "dependencies": {
