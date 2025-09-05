@@ -219,7 +219,7 @@ Thanks go to these wonderful people ([emoji key](https://allcontributors.org/doc
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://elmthomas.com"><img src="https://avatars.githubusercontent.com/u/58678?v=4?s=100" width="100px;" alt="Eric Thomas"/><br /><sub><b>Eric Thomas</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=et" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://blog.jmadge.com"><img src="https://avatars.githubusercontent.com/u/23616154?v=4?s=100" width="100px;" alt="Jim Madge"/><br /><sub><b>Jim Madge</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3AJimMadge" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://blog.jmadge.com"><img src="https://avatars.githubusercontent.com/u/23616154?v=4?s=100" width="100px;" alt="Jim Madge"/><br /><sub><b>Jim Madge</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3AJimMadge" title="Reviewed Pull Requests">👀</a> <a href="#infra-JimMadge" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://jordanwelch.com/"><img src="https://avatars.githubusercontent.com/u/4480375?v=4?s=100" width="100px;" alt="Jordan Welch"/><br /><sub><b>Jordan Welch</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=JHWelch" title="Documentation">📖</a></td>
     </tr>
   </tbody>
