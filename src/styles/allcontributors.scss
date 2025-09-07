@@ -7,9 +7,10 @@ body {
   width: 100vw;
   margin-left: 50%;
   transform: translateX(-50%);
-  background: #f2f2fb;
-  padding: 2rem 0;
+  padding: 0 0;
   text-align: center;
+  margin-bottom: 0;
+
 
   p {
     font-size: 20px;
@@ -18,4 +19,11 @@ body {
     line-height: 1.5;
     margin: 0 auto 32px;
   }
+}
+
+.add-contribs.purple {
+  background: #f2f2fb;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 8rem 0;
 }
