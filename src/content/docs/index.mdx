@@ -1,13 +1,17 @@
 ---
 title: Recognize All Contributors, Including those that don't push code
 template: splash
-description: The All contributors bot helps you recognize contributions of all kinds to your open source project hosted on GitHub. Install the bot today.
+description:
+  The All contributors bot helps you recognize contributions of all kinds to
+  your open source project hosted on GitHub. Install the bot today.
 hero:
   title: Recognize All Contributors
   tagline: Including those that don't push code.
   image:
-    alt: An screenshot showing 6 contributor types in a grid with flat artwork representing different people.
-    file: ../../assets/hero@2x.png
+    alt:
+      An screenshot showing 6 contributor types in a grid with flat artwork
+      representing different people.
+    file: ../../assets/hero-2x.png
   actions:
     - text: Install the bot
       icon: right-arrow
@@ -18,29 +22,73 @@ hero:
       link: https://github.com/all-contributors/all-contributors
 ---
 
-import { LinkCard, CardGrid } from '@astrojs/starlight/components';
+Setting up tailwind still more to go but it's coming along well.
+https://starlight.astro.build/guides/css-and-tailwind/
 
-<CardGrid>
-	<LinkCard 
-    title="Read our Documentation" 
-    href="./overview" 
-    description="Learn more about using and contributing to the bot."
-  />
-	<LinkCard 
-    title="Check out our Emoji Key" 
-    href="/emoji-key" 
-    description="Learn more about the emojis associated with contribution types."
-    />
-  	<LinkCard 
-      title="Learn how to use the bot" 
-      href="./bot/usage" 
-      description="Once it's setup, using the bot is a breeze." />
-	<LinkCard 
-    title="Open an Issue on GitHub" 
-    href="https://github.com/all-contributors/app/issues"
-    description="Did you find a bug? Or are you interested in a new feature? Open an issue on GitHub and let's chat." />
-</CardGrid>
+import "../../styles/allcontributors.scss";
+import { LinkCard, CardGrid } from "@astrojs/starlight/components";
+import { Picture } from "astro:assets";
+import addContributors from "../../assets/add-contributors.png";
+import heroImg from '../../assets/hero-2x.png';
+import swoosh from '../../assets/bg-swoop.svg';
+
+
+<div
+  class="relative w-full min-h-[400px] flex flex-col md:flex-row items-center justify-between bg-white overflow-hidden"
+  style={{
+    backgroundImage: `url(${swoosh})`,
+    backgroundRepeat: 'no-repeat',
+    backgroundPosition: 'bottom right',
+    backgroundSize: 'cover',
+  }}
+>
+  {/* Left side: Text and button */}
+  <div class="flex-1 px-6 py-12 md:py-24 md:pl-16 z-10">
+    <h1>
+      Recognize All Contributors
+    </h1>
+    <p class="text-xl md:text-2xl text-[#5c5589] mb-8">Including those that don't push code</p>
+<a href="/bot/installation/" class="inline-block bg-[#2d2298] text-white font-semibold rounded-xl px-8 py-4 shadow-lg hover:bg-[#1a155c] transition" style={{ minWidth: "180px", textAlign: "center" }}>Install the Bot</a>
+  </div>
+
+  {/* Right side: Hero image */}
+  <div class="flex-1 flex items-center justify-center px-6 md:pr-16 z-10">
+    <Picture src={heroImg} formats={['avif', 'webp']} alt="A screenshot of github showing a comment that says please add @user for docs." />
+  </div>
+</div>
+
+<div class="add-contribs">
 
 ## Add New Contributors in Seconds
 
-We’ve built a bot to automate the tedious work of  adding project contributors, so you can focus on your project instead of managing your ReadMe.
+We’ve built a bot to automate the tedious work of adding project contributors,
+so you can focus on your project instead of managing your ReadMe.
+
+<div style={{ width: "50%", margin: "0 auto" }}>
+  <Picture src={addContributors} formats={['avif', 'webp']} alt="A screenshot of github showing a comment that says please add @user for docs." />
+</div>
+
+</div>
+
+<CardGrid>
+  <LinkCard
+    title="Read our Documentation"
+    href="./overview"
+    description="Learn more about using and contributing to the bot."
+  />
+  <LinkCard
+    title="Check out our Emoji Key"
+    href="/emoji-key"
+    description="Learn more about the emojis associated with contribution types."
+  />
+  <LinkCard
+    title="Learn how to use the bot"
+    href="./bot/usage"
+    description="Once it's setup, using the bot is a breeze."
+  />
+  <LinkCard
+    title="Open an Issue on GitHub"
+    href="https://github.com/all-contributors/app/issues"
+    description="Did you find a bug? Or are you interested in a new feature? Open an issue on GitHub and let's chat."
+  />
+</CardGrid>
