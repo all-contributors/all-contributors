@@ -2,7 +2,6 @@ body {
   font-family: 'Poppins', sans-serif;
 }
 
-
 .add-contribs {
   width: 100vw;
   margin-left: 50%;
@@ -26,4 +25,10 @@ body {
   margin-top: 0;
   margin-bottom: 0;
   padding: 8rem 0;
+}
+
+
+// buttons
+.ac-btn-primary {
+  @apply no-underline inline-block bg-[#2d2298] text-white font-sans font-semibold rounded-xl px-8 py-4 shadow-lg transition-all duration-200 hover:bg-[#1a155c] hover:scale-105 text-center min-w-[180px];
 }
