@@ -18,6 +18,7 @@ export default defineConfig({
   integrations: [
       starlight({
           customCss: [
+              './src/styles/global.css',
               './src/fonts/font-face.css'],
           title: '',
                   logo: {
