@@ -4,6 +4,12 @@ template: splash
 description:
   The All contributors bot helps you recognize contributions of all kinds to
   your open source project hosted on GitHub. Install the bot today.
+hero:
+  title: 'All Contributors Bot: Recognize All Contributors'
+  tagline: Including those that don't push code.
+  image:
+    alt: A glittering, brightly colored logo
+    file: "../../assets/hero.png"
 ---
 
 import "../../styles/allcontributors.scss";
@@ -11,13 +17,15 @@ import { LinkCard, CardGrid } from "@astrojs/starlight/components";
 import { Picture } from "astro:assets";
 import { LinkButton } from '@astrojs/starlight/components';
 import addContributors from "../../assets/add-contributors.png";
-import heroImg from '../../assets/hero-2x.png';
+import heroImg from '../../assets/hero.png';
 import swoosh from '../../assets/bg-swoop.svg';
 import howItWorks from '../../assets/how-it-works.png';
 import p5jsLogo from '../../assets/p5js.png';
 import snipeitLogo from '../../assets/snipeit.png';
 import golearningLogo from '../../assets/golearning.png';
 import formikLogo from '../../assets/formik.png';
+
+
 
 <div class="w-screen ml-[50%] -translate-x-1/2 flex flex-col md:flex-row items-center justify-between bg-white overflow-hidden p-0 m-0">
 <div
