@@ -1090,6 +1090,15 @@
         "bug",
         "doc"
       ]
+    },
+    {
+      "login": "parthamk",
+      "name": "Partha Mallick",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110169184?v=4",
+      "profile": "http://parthamallick.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
