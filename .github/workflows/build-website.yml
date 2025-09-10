@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main
+      - docs-upgrade
 jobs:
   build:
     name: Build Astro site
