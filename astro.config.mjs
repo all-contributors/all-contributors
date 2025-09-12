@@ -60,6 +60,7 @@ export default defineConfig({
                   label: 'Project',
                   items: [
                       { label: 'contribute', slug: 'project/contribute' },
+                      { label: 'development', slug: 'project/development' },
                       { label: 'code-of-conduct', slug: 'project/code-of-conduct' },
                       { label: 'implementations', slug: 'project/implementations' }
                   ],
@@ -69,5 +70,10 @@ export default defineConfig({
 
   vite: {
     plugins: [tailwindcss()],
+    resolve: {
+      alias: {
+        '@assets': '/src/assets',
+      },
+    },
   },
 });
