@@ -37,18 +37,18 @@ Emoji/Type | Represents | Comments |
 🎨 <br /> `design` | Design | Links to the logo/iconography/visual design/etc. |
 💡 <br /> `example` | Examples | Links to the examples |
 📋 <br /> `eventOrganizing` | Event Organizers | Links to event page |
-💵 <br /> `financial` | Financial Support | People or orgs who provide financial support, links to relevant page |
-🔍 <br /> `fundingFinding` | Funding/Grant Finders | People who help find financial support |
-🤔 <br /> `ideas` | Ideas & Planning | |
-🚇 <br /> `infra` | Infrastructure | Hosting, Build-Tools, etc. Links to source file (like `travis.yml`) in repo, if applicable |
-🚧 <br /> `maintenance` | Maintenance | People who help in maintaining the repo, links to commits by the user on this project |
-🧑‍🏫 <br /> `mentoring` | Mentoring | People who mentor new contributors, links to the repo home |
+💵 <br /> `financial` | Financial Support | People or orgs who provide financial support, links to relevant page
+🔍 <br /> `fundingFinding` | Funding/Grant Finders | People who help find financial support
+🤔 <br /> `ideas` | Ideas & Planning | Open up issues |
+🚇 <br /> `infra` | Infrastructure | Hosting, Build-Tools, etc. Links to source file (like `travis.yml`) in repo, if applicable
+🚧 <br /> `maintenance` | Maintenance | People who help in maintaining the repo, links to commits by the user on this project
+🧑‍🏫 <br /> `mentoring` | Mentoring | People who mentor new contributors, links to the repo home
 📦 <br /> `platform` | Packaging | Porting to support a new platform |
-🔌 <br /> `plugin` | Plugin/utility libraries | Links to the repo home |
-📆 <br /> `projectManagement` | Project Management | |
-📣 <br /> `promotion` | Promotion | |
-💬 <br /> `question` | Answering Questions | Answering Questions in Issues, Stack Overflow, Gitter, Slack, etc. |
-🔬 <br /> `research` | Research | Literature review. |
+🔌 <br /> `plugin` | Plugin/utility libraries | Links to the repo home
+📆 <br /> `projectManagement` | Project Management | Organize team meetings, take minutes, set timelines, etc. |
+📣 <br /> `promotion` | Promotion | Social media |
+💬 <br /> `question` | Answering Questions | Answering Questions in Issues, Stack Overflow, Gitter, Slack, etc.
+🔬 <br /> `research` | Research | Literature review.
 👀 <br /> `review` | Reviewed Pull Requests | |
 🛡️ <br /> `security` | Security | Identify and/or reduce security threats, GDPR, Privacy, etc |
 🔧 <br /> `tool` | Tools | Links to the repo home |
