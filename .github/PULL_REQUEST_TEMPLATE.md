@@ -4,7 +4,7 @@ Thanks for your interest in the project. Bugs filed and PRs submitted are apprec
 Please make sure that you are familiar with and follow the [Code of Conduct](https://allcontributors.org/docs/en/project/code-of-conduct) for this project.
 
 Also, please make sure you're familiar with and follow the instructions in the
-[contributing guidelines](https://github.com/all-contributors/all-contributors/blob/master/CONTRIBUTING.md) (found in the CONTRIBUTING.md file).
+[contributing guidelines](https://github.com/all-contributors/all-contributors/blob/main/CONTRIBUTING.md) (found in the CONTRIBUTING.md file).
 
 If you're new to contributing to open source projects, you might find this free
 video course helpful: http://kcd.im/pull-request

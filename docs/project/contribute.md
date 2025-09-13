@@ -9,14 +9,23 @@ sidebar_label: Help us Improve
 ## Help improve the all-contributors documentation!
 
 Thanks for your interest in the project!
-Pull Requests welcome for any level of improvement, from a small typo to a new section, help us make the project better
+Pull Requests are welcome for any type of improvement, from a small typo to a new section in the docs. Help us make the project better!
 
-All the source code is available at [github.com/all-contributors/all-contributors](https://github.com/all-contributors/all-contributors/tree/master/docs)
+The source for our documentation is available at [github.com/all-contributors/all-contributors](https://github.com/all-contributors/all-contributors/tree/main/docs)
 
 ## Committing to an all-contributors repo
 
 We use the [angular commit convention](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#-commit-message-guidelines) for commits that are used for an automated changelog generation, so it would be advisable to respect that.
-If you're not used to it or are afraid to mistype a commit, you can run `npm run commit` or `git cz` (if you have installed `commitizen`) which would take you through a few questions and write the commit for you.
+
+### Help writing angular commits - commitzen
+
+If you're not used to writing angular commits, you can use 
+
+* `npm run commit`  
+* `git cz` if you have `commitzen` installed to help you. 
+
+These tools will walk you through some questions and write the commit 
+message for you following angular conventions.  
 
 ## Editing Content
 
@@ -60,17 +69,56 @@ After you translate strings in any given language, you won't see those changes a
 
 ## Search
 
-Search is by algolia, the configuration is at <https://github.com/algolia/docsearch-configs/blob/master/configs/all-contributors.json>
+Search is by algolia, the configuration is at <https://github.com/algolia/docsearch-configs/blob/main/configs/all-contributors.json>
 
-## Running the site locally:
+## Run the website locally:
 
-All Contributors uses Docusaurus to maintain our documentation website. For more info visit the [Docusaurus Website](https://docusaurus.io)
+All Contributors currently uses [Docusaurus 1.x](https://docusaurus.io) for our documentation website.
 
-To get started locally:
+To build the docs locally:
 
-- `yarn install`
-- `yarn start`
-- go to `http://localhost:3000` (Refresh the page for your changes to be reflected)
+* https://tutorial.docusaurus.io/docs/intro
+
+1. Make sure `npm` is installed on your machine. Use the [nodejs documentation](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) if you aren't sure how to install `npm`.
+
+To check that npm is installed run the following in your favorite shell:
+
+`npm -v`
+
+Next, make sure you have at least node version 0.22 (LTS) or higher. To check the version,
+use:
+
+`node -v`
+
+If you don't have atleast version `.22` or higher, please install node or upgrade your current version.
+Install docusaurus v1 (1.14.7) and all of the project dependencies using `npm install`. *Note: This project does not yet support docusaurus v2 or v3; though, we hope to do so in the future.*
+**`npm i` is shorthand for `npm install`)**:
+
+`npm i`
+
+Once you have completed the above, you can launch a server locally that will build and run the docs locally. In your favorite shell run:
+
+`npm run start`
+
+* Then, go to `http://localhost:3000` and you will see the all contributors website there!
+* Refresh the browser page as needed when editing markdown pages.
+
+### Make changes - linting your contribution
+
+If you make changes to a markdown file in the site, then our linting action will
+check those changes. To run the linter yourself on a file locally:
+
+First install markdownlint-cli:
+
+`npm i -g markdownlint-cli`
+
+Then run markdownlint on the file (or files) that you wish to check:
+
+`markdownlint --fix "docs/project/contribute.md"`
+
+Or you can run it on all files in the docs directory, like this:
+
+`markdownlint --fix "docs/**.md"`
 
 ## Add yourself as a contributor
 

@@ -958,6 +958,156 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "hkayrad",
+      "name": "Hakan Kayra Doğan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54438485?v=4",
+      "profile": "http://hkayrad.me",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "willingc",
+      "name": "Carol Willing",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2680980?v=4",
+      "profile": "https://willingconsulting.com",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "reshamas",
+      "name": "Reshama Shaikh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2507232?v=4",
+      "profile": "https://reshamas.github.io",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "mark-wiemer",
+      "name": "Mark Wiemer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7833360?v=4",
+      "profile": "http://markwiemer.com",
+      "contributions": [
+        "doc",
+        "bug"
+      ]
+    },
+    {
+      "login": "danieltott",
+      "name": "Dan Ott",
+      "avatar_url": "https://avatars.githubusercontent.com/u/360261?v=4",
+      "profile": "https://danott.dev",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "VitorCodes",
+      "name": "Vitor Silva",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15626985?v=4",
+      "profile": "https://github.com/VitorCodes",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "flpm",
+      "name": "Felipe Moreno",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17676929?v=4",
+      "profile": "http://flpm.dev",
+      "contributions": [
+        "translation",
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "PiyushPamnani",
+      "name": "Piyush Pamnani",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87657297?v=4",
+      "profile": "https://piyushpamnani.github.io/Piyush-Portfolio/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "lwasser",
+      "name": "Leah Wasser",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7649194?v=4",
+      "profile": "http://www.leahwasser.com",
+      "contributions": [
+        "security",
+        "review"
+      ]
+    },
+    {
+      "login": "KhushiPandey8",
+      "name": "Khushi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153130183?v=4",
+      "profile": "https://mysiteintro.netlify.app/",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "et",
+      "name": "Eric Thomas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58678?v=4",
+      "profile": "http://elmthomas.com",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "JimMadge",
+      "name": "Jim Madge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23616154?v=4",
+      "profile": "https://blog.jmadge.com",
+      "contributions": [
+        "review",
+        "infra"
+      ]
+    },
+    {
+      "login": "JHWelch",
+      "name": "Jordan Welch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4480375?v=4",
+      "profile": "http://jordanwelch.com/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "RichLewis007",
+      "name": "Rich Lewis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1149213?v=4",
+      "profile": "https://github.com/RichLewis007",
+      "contributions": [
+        "bug",
+        "doc"
+      ]
+    },
+    {
+      "login": "parthamk",
+      "name": "Partha Mallick",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110169184?v=4",
+      "profile": "http://parthamallick.com",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "rebeccaringuette",
+      "name": "Rebecca Ringuette",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49281118?v=4",
+      "profile": "https://github.com/rebeccaringuette",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "repoType": "github",
