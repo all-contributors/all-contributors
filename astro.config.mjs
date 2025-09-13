@@ -33,7 +33,6 @@ export default defineConfig({
                       { label: 'overview', slug: 'overview' },
                       { label: 'specification', slug: 'specification' },
                       { label: 'emoji-key', slug: 'emoji-key' },
-                      { label: 'repository-maintainers', slug: 'repository-maintainers' },
                       { label: 'tooling', slug: 'tooling' }
                   ],
               },
@@ -62,7 +61,8 @@ export default defineConfig({
                       { label: 'contribute', slug: 'project/contribute' },
                       { label: 'development', slug: 'project/development' },
                       { label: 'code-of-conduct', slug: 'project/code-of-conduct' },
-                      { label: 'implementations', slug: 'project/implementations' }
+                      { label: 'implementations', slug: 'project/implementations' },
+                      { label: 'repository-maintainers', slug: 'project/repository-maintainers' },
                   ],
               },
           ],

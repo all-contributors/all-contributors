@@ -4,9 +4,24 @@ title: Emoji Key ✨ (and Contribution Types)
 sidebar_label: Emoji Key ✨
 ---
 
-## Table
+## About the Emoji Table
 
-> To have a contribution added when using the [Bot](bot/overview) or [CLI](cli/overview) use the keyword in the `Type` column. The bot will also use [basic Natural Language Parsing](https://github.com/all-contributors/app/blob/main/lib/parse-comment.js) to determine your contribution intent.
+To have a contribution added when using the [Bot](bot/overview) or [CLI](cli/overview) use the keyword in the `Type` column. 
+
+For example if you add a comment in an issue or Pull Request on GitHub like this:
+
+`@all-contributors add @usernamehere for a11y`
+
+Then the bot will add the user (usernamehere) as a contributor with the `Accessibility` contribution type to your project's README file.
+You can also use multiple contribution types like this:
+
+`@all-contributors add @usernamehere for a11y, docs, infra`
+
+And the bot will add those contribution types to the user's existing contribution types. If the user is not already a contributor, the bot will add them as a new contributor with those contribution types.
+
+### Natural Language Processing
+
+The bot will use [basic Natural Language Parsing](https://github.com/all-contributors/app/blob/main/lib/parse-comment.js) to determine your contribution intent.
 
 Emoji/Type | Represents | Comments |
 :---: | :---: | :---: |
@@ -43,8 +58,3 @@ Emoji/Type | Represents | Comments |
 📢 <br /> `talk` | Talks | Links to the slides/recording/repo/etc |
 📓 <br /> `userTesting` | User Testing | Links to user test notes |
 📹 <br /> `video` | Videos | Links to the video |
-
-## What's next
-
-- [Notes for repository maintainers](repository-maintainers)
-- [Automating the process using tools](tooling)
