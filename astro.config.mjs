@@ -30,17 +30,17 @@ export default defineConfig({
               {
                   label: 'Specification',
                   items: [
-                      { label: 'overview', slug: 'overview' },
+                      { label: 'spec overview', slug: 'overview' },
                       { label: 'specification', slug: 'specification' },
                       { label: 'emoji-key', slug: 'emoji-key' },
-                      { label: 'repository-maintainers', slug: 'repository-maintainers' },
+                      { label: 'usage tips', slug: 'usage-tips' },
                       { label: 'tooling', slug: 'tooling' }
                   ],
               },
               {
                   label: '@all-contributors Bot 🤖',
                   items: [
-                      { label: 'overview', slug: 'bot/overview' },
+                      { label: 'bot overview', slug: 'bot/overview' },
                       { label: 'installation', slug: 'bot/installation' },
                       { label: 'usage', slug: 'bot/usage' },
                       { label: 'configuration', slug: 'bot/configuration' },
@@ -50,7 +50,7 @@ export default defineConfig({
               {
                   label: 'CLI',
                   items: [
-                      { label: 'overview', slug: 'cli/overview' },
+                      { label: 'CLI overview', slug: 'cli/overview' },
                       { label: 'installation', slug: 'cli/installation' },
                       { label: 'usage', slug: 'cli/usage' },
                       { label: 'configuration', slug: 'cli/configuration' }
@@ -60,8 +60,9 @@ export default defineConfig({
                   label: 'Project',
                   items: [
                       { label: 'contribute', slug: 'project/contribute' },
+                      { label: 'development', slug: 'project/development' },
                       { label: 'code-of-conduct', slug: 'project/code-of-conduct' },
-                      { label: 'implementations', slug: 'project/implementations' }
+                      { label: 'implementations', slug: 'project/implementations' },
                   ],
               },
           ],
@@ -69,5 +70,10 @@ export default defineConfig({
 
   vite: {
     plugins: [tailwindcss()],
+    resolve: {
+      alias: {
+        '@assets': '/src/assets',
+      },
+    },
   },
 });

@@ -1,0 +1,78 @@
+---
+id: development
+title: Development Guide
+sidebar_label: development
+---
+import { Aside } from '@astrojs/starlight/components';
+
+Welcome to the development guide for the All Contributors documentation site!
+
+## How to Work On Our Documentation
+
+Our docs are built using [Astro](https://astro.build/) and the Starlight theme. Astro is a javascript based static site generator. It is is designed for building fast, modern websites with a focus on performance and flexibility. It allows us to write components in multiple frameworks. Astro ships only the minimal JavaScript needed.
+
+We use the [Starlight theme with Astro](https://starlight.astro.build/). Starlight provides a beautiful, accessible, and feature-rich documentation platform out of the box. It handles navigation, search, dark mode, and supports Tailwind CSS.
+
+### MDX Files
+
+Our documentation pages are largely written using the  **MDX** (`.mdx`) format. This format supports Markdown with the additional ability to include components and custom elements directly in the content. This allows us to embed images, asides, and other interactive elements easily.
+
+<Aside title="Helpful Links"> 
+* [Starlight Documentation](https://starlight.astro.build/guides/introduction/)
+* [MDX Documentation](https://mdxjs.com/docs/what-is-mdx/)
+* [Astro Documentation](https://docs.astro.build/)
+</Aside>
+
+### Adding Images to the Docs
+
+We use the `<Picture>` utility to add images to our documentation. This utility supports a web compression feature that will automatically convert images to formats like webp and avif upon rendering.
+
+To use the Picture utility:
+
+1. First import the utility at the top of the `.mdx` file like thi:
+
+`import { Picture } from "astro:assets";`
+
+2. OPTIONAL: Define a path to the image that you want to render (optionally at the top of the MDX file) and assign it an alias name. You can also call it directly using a path. 
+
+The image below has an alias of contributorsTableSmall and it's located in the assets directory of the site:
+
+`import contributorsTableSmall from '@assets/contributors-table-small.png';`
+
+Then add the Picture utility to your MDX page like this:
+
+` <Picture src={contributorsTableSmall} formats={['avif', 'webp']} alt="A screenshot of github showing a comment that says please add @user for docs." />`
+
+Notice that above we specify both avif and webp as formats. This will allow the browser to choose the best format it supports.
+
+## Custom paths for images
+
+All images live in the assets directory for this site. We defined an alias to the assets folder in the site configuration file (`astro.config.mjs`) to the assets directory to make creating paths easier.  
+
+To see how this is defined, go to `astro.config.mjs`. The alias for assets (@assets) is defined there: 
+
+```js
+vite: {
+    plugins: [tailwindcss()],
+    resolve: {
+      alias: {
+        '@assets': '/src/assets',
+      },
+    },
+```
+
+## Styling Pages
+
+Astro and Starlight support Tailwind CSS for styling. You can add custom styles to individual pages using the `class` attribute on HTML elements.
+
+In the config file code snippet above, you can see that Tailwind CSS is included as a Vite plugin. This allows us to use Tailwind's utility classes throughout our MDX files.
+
+Tailwind is also a required dependency for Starlight, so it is already set up and ready to use.
+
+## Fonts and Custom Branding
+
+The all contributors documentation site uses the Google Font **Poppins** as a base font. For convenience and web page loading speed, we have vendored the font have vendored the font in the assets/fonts directory for quicker loading and rendering times.
+
+<Aside type="note" title="Need Help?">
+If you have questions or want to contribute to the documentation, check out our [GitHub repository](https://github.com/all-contributors/all-contributors).
+</Aside>
