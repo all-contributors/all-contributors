@@ -5,8 +5,8 @@ import sitemap from '@astrojs/sitemap';
 import tailwindcss from '@tailwindcss/vite';
 
 export default defineConfig({
-  site: 'https://allcontributors.org',
-  base: '/all-contributors/',
+  site: 'https://all-contributors.github.io',
+  base: '/all-contributors',
   output: 'static',
 
   redirects: {
