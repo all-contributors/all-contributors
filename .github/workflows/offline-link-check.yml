@@ -14,6 +14,6 @@ jobs:
       - uses: lycheeverse/lychee-action@v2
         with:
           # Only check local files, no network requests
-          args: --offline --no-progress 'src/content/docs/**/*.md'
+          args: --config './lychee.toml' --no-progress --offline --root-dir "$GITHUB_WORKSPACE/public/" 'src/content/docs/**/*.md'
           # Fail job when lychee returns a non-zero exit code
           fail: true
