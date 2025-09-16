@@ -9,47 +9,33 @@ hero:
   tagline: Including those that don't push code.
   image:
     alt: A glittering, brightly colored logo
-    file: "../../assets/hero.png"
+    file: "@assets/hero.png"
+  actions:
+    - text: Install the bot
+      link: /bot/installation
+      icon: right-arrow
+    - text: View on GitHub
+      link: https://github.com/all-contributors/all-contributors
+      icon: external
+      variant: minimal
+      attrs:
+        rel: me
 ---
 
 import "../../styles/allcontributors.scss";
 import { LinkCard, CardGrid } from "@astrojs/starlight/components";
 import { Picture } from "astro:assets";
 import { LinkButton } from '@astrojs/starlight/components';
-import addContributors from "../../assets/add-contributors.png";
-import heroImg from '../../assets/hero.png';
-import swoosh from '../../assets/bg-swoop.svg';
-import howItWorks from '../../assets/how-it-works.png';
-import p5jsLogo from '../../assets/p5js.png';
-import snipeitLogo from '../../assets/snipeit.png';
-import golearningLogo from '../../assets/golearning.png';
-import formikLogo from '../../assets/formik.png';
+import addContributors from '@assets/add-contributors.png';
+import heroImg from '@assets/hero.png';
+import swoosh from '@assets/bg-swoop.svg';
+import howItWorks from '@assets/how-it-works.png';
+import p5jsLogo from '@assets/p5js.png';
+import snipeitLogo from '@assets/snipeit.png';
+import golearningLogo from '@assets/golearning.png';
+import formikLogo from '@assets/formik.png';
 
-
-
-<div class="w-screen ml-[50%] -translate-x-1/2 flex flex-col md:flex-row items-center justify-between bg-white overflow-hidden p-0 m-0">
-<div
-  class="px-36 relative w-full min-h-[400px] flex flex-col md:flex-row items-center justify-between bg-white overflow-hidden"
-  style="background-image: url('/images/bg-swoop.svg'); background-repeat: no-repeat; background-position: bottom right; background-size: 100% auto;"
->
-  {/* Left side: Text and button */}
-  <div class="flex-1 px-6 py-12 md:py-24 md:pl-16 z-10">
-    <h1>
-      Recognize All Contributors
-    </h1>
-    <p class="text-xl md:text-2xl text-[#5c5589] mb-8">Including those that don't push code</p>
-    <LinkButton href="/bot/installation/"  icon="right-arrow"
-  iconPlacement="start">Install the Bot</LinkButton>
-  </div>
-
-  {/* Right side: Hero image */}
-  <div class="flex-1 flex items-center justify-center px-6 md:pr-16 z-10">
-    <Picture src={heroImg} formats={['avif', 'webp']} alt="A screenshot of github showing a comment that says please add @user for docs." />
-  </div>
-</div>
-</div>
-
-<div class="add-contribs purple">
+<div class="w-screen ml-[50%] -translate-x-1/2 py-16 text-center bg-[#f2f2fb] dark:bg-[#33205c] flex flex-col items-center">
 
 ## Add New Contributors in Seconds
 
@@ -59,7 +45,6 @@ so you can focus on your project instead of managing your ReadMe.
 <div style={{ width: "50%", margin: "0 auto" }}>
   <Picture src={addContributors} formats={['avif', 'webp']} alt="A screenshot of github showing a comment that says please add @user for docs." />
 </div>
-
 </div>
 
 <div class="my-32">
@@ -89,7 +74,7 @@ so you can focus on your project instead of managing your ReadMe.
 
 <div class="w-full flex flex-col md:flex-row items-center justify-between gap-8 my-16">
   {/* Left: Image */}
-  <div class="flex-1 flex items-center justify-center">
+  <div class="bg-white flex-1 flex items-center justify-center">
     <Picture
       src={howItWorks}
       formats={['avif', 'webp']}
@@ -120,7 +105,7 @@ so you can focus on your project instead of managing your ReadMe.
     src={p5jsLogo}
     formats={['avif', 'webp']}
     alt="p5js logo"
-    class="h-32 w-auto object-contain"
+    class="bg-white h-32 w-auto object-contain"
   />
 </a>
 <a href="https://github.com/snipe/snipe-it" target="_blank" rel="noopener">
@@ -128,7 +113,7 @@ so you can focus on your project instead of managing your ReadMe.
     src={snipeitLogo}
     formats={['avif', 'webp']}
     alt="snipe it logo"
-    class="h-32 w-auto object-contain"
+    class="bg-white h-32 w-auto object-contain"
   />
 </a>
 <a href="https://github.com/developer-learning/night-reading-go" target="_blank" rel="noopener">
@@ -136,7 +121,7 @@ so you can focus on your project instead of managing your ReadMe.
     src={golearningLogo}
     formats={['avif', 'webp']}
     alt="night reading go logo"
-    class="h-32 w-auto object-contain"
+    class="bg-white h-32 w-auto object-contain"
   />
 </a>
 <a href="https://github.com/jaredpalmer/formik" target="_blank" rel="noopener">
@@ -144,14 +129,14 @@ so you can focus on your project instead of managing your ReadMe.
     src={formikLogo}
     formats={['avif', 'webp']}
     alt="formik logo"
-    class="h-32 w-auto object-contain"
+    class="bg-white h-32 w-auto object-contain"
   />
 </a>
 </div>
 </div>
 
-<div class="add-contribs purple flex flex-col items-center justify-center py-16">
-  <h3 class="text-2xl md:text-3xl font-bold mb-6 text-[#18123b] text-center">Start adding contributors to your project today</h3>
+<div class="flex flex-col items-center justify-center py-16">
+  <h3 class="text-2xl md:text-3xl font-bold mb-6 text-center">Start adding contributors to your project today</h3>
   <div>
   <LinkButton href="/bot/installation/" icon="information" iconPlacement="start">Install the Bot</LinkButton>
   <LinkButton href="/overview/" variant="secondary" icon="open-book" iconPlacement="start"> Read the Docs</LinkButton>
