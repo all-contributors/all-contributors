@@ -1,14 +1,12 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
-
 import sitemap from '@astrojs/sitemap';
-
 import tailwindcss from '@tailwindcss/vite';
 
 export default defineConfig({
-  site: 'https://allcontributors.org',
-  base: '/',
+  site: 'https://all-contributors.github.io',
+  base: '',
   output: 'static',
 
   redirects: {
