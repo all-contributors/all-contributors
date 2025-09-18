@@ -6,7 +6,7 @@ import tailwindcss from '@tailwindcss/vite';
 
 export default defineConfig({
   site: 'https://all-contributors.github.io',
-  base: '/all-contributors',
+  base: '',
   output: 'static',
 
   redirects: {
