@@ -1040,7 +1040,9 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/7649194?v=4",
       "profile": "http://www.leahwasser.com",
       "contributions": [
-        "security"
+        "security",
+        "review",
+        "doc"
       ]
     },
     {
@@ -1049,7 +1051,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/153130183?v=4",
       "profile": "https://mysiteintro.netlify.app/",
       "contributions": [
-        "translation"
+        "translation",
+        "doc"
       ]
     },
     {
@@ -1067,7 +1070,9 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/23616154?v=4",
       "profile": "https://blog.jmadge.com",
       "contributions": [
-        "review"
+        "review",
+        "infra",
+        "doc"
       ]
     },
     {
@@ -1077,6 +1082,34 @@
       "profile": "http://jordanwelch.com/",
       "contributions": [
         "doc"
+      ]
+    },
+    {
+      "login": "RichLewis007",
+      "name": "Rich Lewis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1149213?v=4",
+      "profile": "https://github.com/RichLewis007",
+      "contributions": [
+        "bug",
+        "doc"
+      ]
+    },
+    {
+      "login": "parthamk",
+      "name": "Partha Mallick",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110169184?v=4",
+      "profile": "http://parthamallick.com",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "rebeccaringuette",
+      "name": "Rebecca Ringuette",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49281118?v=4",
+      "profile": "https://github.com/rebeccaringuette",
+      "contributions": [
+        "ideas"
       ]
     }
   ],
