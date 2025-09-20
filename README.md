@@ -10,8 +10,9 @@
     <caption>Read this documentation in the following languages</caption>
     <tbody>
         <tr>
+            <td><a href="https://allcontributors.org/docs/zh-CN/overview">简体中文</a></td>
+            <td><a href="https://allcontributors.org/docs/zh-CN/overview">繁体中文</a></td>
             <td><a href="https://allcontributors.org/docs/ko/overview">한국어</a></td>
-            <td><a href="https://allcontributors.org/docs/zh-CN/overview">中文</a></td>
             <td><a href="https://allcontributors.org/docs/id/overview">Bahasa Indonesia</a></td>
             <td><a href="https://allcontributors.org/docs/de/overview">Deutsch</a></td>
             <td><a href="https://allcontributors.org/docs/pl/overview">Polski</a></td>
