@@ -3,8 +3,14 @@ id: contribute
 title: Contribute, and help us improve
 sidebar_label: Help us Improve
 ---
+import { Aside } from '@astrojs/starlight/components';
+import { Picture } from "astro:assets";
+import editPage from '@assets/edit-this-page.png';
+import translating from '@assets/translating-xpath.png';
 
-> Call for translators! [We're looking for translators](https://github.com/all-contributors/all-contributors/issues/143) to help translate this spec for everyone!
+[![GitHub stars](https://img.shields.io/github/stars/all-contributors/all-contributors?style=social)](https://github.com/all-contributors/all-contributors)
+
+<Aside type="tip">Call for translators! [We're looking for translators](https://github.com/all-contributors/all-contributors/issues/143) to help translate this spec for everyone!</Aside>
 
 ## Help improve the all-contributors documentation!
 
@@ -20,12 +26,14 @@ If you're not used to it or are afraid to mistype a commit, you can run `npm run
 
 ## Editing Content
 
-> **Pro Tip**: Every page has an _Edit_ button up the top, clicking this will take you straight to the GitHub source code for that page
+<Aside type="tip">Every page has an _Edit_ button up the top, clicking this will take you straight to the GitHub source code for that page</Aside>
 
 Once on a file, click the 'pencil' icon to [easily edit the file inline](https://help.github.com/articles/editing-files-in-your-repository/)
-<div align="center">
-    <img src="/images/edit-this-page.png" alt="Example on how to edit a page" width="800px" />
-</div>
+After making your changes, scroll to the bottom of the page to create a commit with your changes. You will want to create and commit these changes on a new branch in your fork of the repository.
+
+After committing your changes, you can create a pull request to propose your changes to be merged into the main branch.
+
+<Picture src={editPage} formats={['avif', 'webp']} alt="A screenshot that shows the GitHub interface with a file open focused on the pencil icon that allows you to edit the page." />
 
 ## Translations
 
@@ -35,7 +43,8 @@ Our translations are managed through crowdin. You can help contribute by heading
 If you like, [comment on this issue](https://github.com/all-contributors/all-contributors/issues/143) to let us know you're helping or if you have any queries!
 
 > When translating, anything that has the [XPATH](https://developer.mozilla.org/en-US/docs/Web/XPath) `@href`, `@src` etc mustn't be translated. Things like `code` should not be either. This will cause the project to 404. See the below image for an example:
-<img src="/images/translating-xpath.png" alt="Contribute to translating" />
+
+<Picture src={translating} formats={['avif', 'webp']} alt="A screenshot that shows the GitHub interface with a file open focused on the pencil icon that allows you to edit the page." />
 
 > However, it's recommended to translate any content that would contribute to a better comprehension like the comments in `code` tags _as long as_ it doesn't change the actual code since it only understands English.
 
@@ -56,11 +65,7 @@ If you like, [comment on this issue](https://github.com/all-contributors/all-con
 
 ### Change deployments
 
-After you translate strings in any given language, you won't see those changes appearing live until the `master` branch was updated followed by a successful deployment.
-
-## Search
-
-Search is by algolia, the configuration is at <https://github.com/algolia/docsearch-configs/blob/main/configs/all-contributors.json>
+After you translate strings in any given language, you won't see those changes appearing live until the `main` branch was updated followed by a successful deployment.
 
 ## Run the website locally:
 
@@ -95,22 +100,16 @@ Once you have completed the above, you can launch a server locally that will bui
 ### Make changes - linting your contribution
 
 If you make changes to a markdown file in the site, then our linting action will
-check those changes. To run the linter yourself on a file locally:
+check those changes. To run the linter yourself locally on the documentation before submitting a PR use:
 
-First install markdownlint-cli:
+`npm run lint`
 
-`npm i -g markdownlint-cli`
-
-Then run markdownlint on the file (or files) that you wish to check:
+You can also run it manually on specific files like this: 
 
 `markdownlint --fix "src/content/docs/contribute.md"`
 
-Or you can run it on all files in the docs directory, like this:
-
-`markdownlint --fix "src/content/docs/**.md"`
-
 ## Add yourself as a contributor
 
-To add yourself to the table of contributors, follow the [bot usage instructions](../bot/usage) ;).
+To add yourself to the table of contributors, follow the [bot usage instructions](../../bot/usage).
 
 [the crowdin project]: https://crowdin.com/project/all-contributors

@@ -59,7 +59,12 @@ further defined and clarified by project maintainers.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at <kent+coc@doddsfamily.us>. All
+reported by contacting the project team.
+
+We are currently working on a new COC team here at All Contributors so please bare with us as we rework our documentation and governance structures. 
+
+
+All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project team is
 obligated to maintain confidentiality concerning the reporter of an incident.
