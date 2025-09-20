@@ -9,7 +9,7 @@ sidebar_label: Help us Improve
 ## Help improve the all-contributors documentation!
 
 Thanks for your interest in the project!
-Pull Requests welcome for any level of improvement, from a small typo to a new section, help us make the project better
+Pull Requests are welcome for any type of improvement, from a small typo to a new section in the docs. Help us make the project better!
 
 All the source code is available at [github.com/all-contributors/all-contributors](https://github.com/all-contributors/all-contributors/tree/main/docs)
 
