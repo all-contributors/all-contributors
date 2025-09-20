@@ -47,12 +47,11 @@ vite: {
     },
 ```
 
-
 ## Adding Images to the Docs
 
 We use the `<Picture>` utility to add images to our documentation. This utility supports a web compression feature that will automatically convert images to formats like webp and avif upon rendering.
 
-To use the Picture utility,
+To use the `Picture` utility:
 
 1. First import the utility at the top of the `.mdx` file like this
   ```markdown
@@ -81,9 +80,27 @@ In the config file code snippet above, you can see that Tailwind CSS is included
 
 Tailwind is also a required dependency for Starlight, so it is already set up and ready to use.
 
+We have also vendored a Google Font which is then applied in the global stylesheet.
+The global stylesheet is located at `src/styles/global.css`. The configuration to add 
+these styles globally is found in the `astro.config.mjs` file.
+
+```js
+ integrations: [
+      starlight({
+          customCss: [
+              './src/styles/global.css',
+              './src/fonts/font-face.css',
+              ],
+```
+
 ## Fonts
 
-The all contributors documentation site uses the Google Font **Poppins** as a base font. For convenience and web page loading speed, we have vendored the font have vendored the font in the assets/fonts directory for quicker loading and rendering times.
+The all contributors documentation site uses the Google Font **Poppins** as a 
+base font. For convenience and web page loading speed, we have vendored the font 
+have vendored the font in the `assets/fonts` directory for quicker loading and 
+rendering times. The font is applied globally to headers in the `global.css` file.
+
+If we want to customize other font properties, we can do so in the `global.css` file.
 
 <Aside type="note" title="Need Help?">
 If you have questions or want to contribute to the documentation, check out our [GitHub repository](https://github.com/all-contributors/all-contributors).

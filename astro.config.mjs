@@ -17,7 +17,8 @@ export default defineConfig({
       starlight({
           customCss: [
               './src/styles/global.css',
-              './src/fonts/font-face.css'],
+              './src/fonts/font-face.css',
+              ],
           title: '',
                   logo: {
                       src: './src/assets/logo-full.svg',
